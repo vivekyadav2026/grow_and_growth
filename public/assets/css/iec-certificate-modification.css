@@ -1,0 +1,614 @@
+#register #contact {box-shadow: rgba(42, 67, 113, 0.15) 8px 8px 30px 0px;}
+#contact {box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 20px 0px, rgba(0, 0, 0, 0.24) 0px 5px 5px 0px;
+background: rgb(249, 249, 249);padding: 25px;}
+#contact {margin-top: 27px;border-radius: 10px;}
+#contact h3 {display: block;font-size: 20px;font-weight: bold;margin-bottom: 16px;}
+#register #first_step fieldset {min-width: auto;}
+fieldset {min-width: 100%;width: 100%;margin: 0px 0px 10px;padding: 0px;outline: none;border-width: medium !important;border-style: none !important;border-color: initial !important;border-image: initial !important;}
+/* #register label {display: none;} */
+#register #contact {box-shadow: rgba(42, 67, 113, 0.15) 0px 0px 30px 11px;display: inline-table;}
+#contact {box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 20px 0px, rgba(0, 0, 0, 0.24) 0px 5px 5px 0px;background: rgb(249, 249, 249);padding: 25px;}
+
+#register #first_step fieldset:nth-child(6) {width: 32%;float: left;margin-right: 0px;}
+#register #first_step fieldset:nth-child(4), 
+#register #first_step fieldset:nth-child(5), 
+#register #first_step fieldset:nth-child(6) {width: 32%;float: left;margin-right: 9px;}
+#register #first_step fieldset:nth-child(6) {margin-right: 0px;}
+
+
+#register #first_step textarea {height: 56px;float: left}
+#register #first_step fieldset {min-width: auto;}
+#btnrefresh {width: 6%;}
+.mobile_version{display: none}
+.desktop_version{display: block}
+.banner{background: #fff;height:auto;}
+.banner_image_text{width: 100%; padding: 0}
+.banner_image_text ul {width: 100%;list-style: none;margin: 0px;padding: 0px;margin-bottom: 19px;margin-top: 20px;float: none;}
+.banner_image_text li {float: none;width: 100%;text-align: left;line-height: 27px;color: #303744;font-size: 17px;margin-bottom:5px;}
+.banner_image_text li i {width: 30px;margin-bottom: 8px;float: left;margin-right: 20px;}
+.banner_image_text li i svg {width: 41px;fill: rgb(184, 234, 255);height: 40px;}
+.emudra {width: 50px;right: 0px;position: absolute;top: 40px;}
+.emudra i svg {fill: rgb(255, 255, 255);}
+.banner_image_text h4 {
+    font-size: 23px;
+    margin-top: 43px;
+    width: 100%;
+    float: left;
+    color: #253f58;
+    font-weight: 600;
+    margin-bottom: 40px;
+    border: 1px solid #c6c6c6;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    line-height: 33px;
+}
+.banner_image_text h4 span {
+    font-size: 43px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    display: inline-table;
+    float: left;
+    width: 100%;
+    margin-bottom: 17px;
+    background: #ff6c00;
+    color: #fff;
+    padding: 19px 35px;
+    text-align: center;
+}
+.block_heading { width: 100%;display: inline-table;}
+.block_heading h2:after{content: '';display: block;width: 75px;height: 6px;background: #5cb85c;border-radius: 3px;margin: 22px 0 0;margin-left: auto;margin-right: auto;position: relative;
+    left: 0;
+    bottom: 0;}
+.block_padding{padding: 40px 0;width: 100%;float: left;}
+.docRequ_inner{text-align: center;margin-bottom:60px;height: 148px;}
+#docRequ{background: linear-gradient(39deg, rgb(92, 165, 9) 0%, rgb(18, 99, 10) 100%);background: #fff;}
+#docRequ h3{color: #000;font-size: 21px;min-height: 46px;}
+#docRequ i{width: 113px;height: 110px;display: inline-block;position: relative;z-index: 0;}
+#docRequ i svg{fill:#fff;}
+#docRequ i svg rect {stroke: #fff;}
+#docRequ .block_heading h2 {color: #000;}
+#docRequ a{
+    color: #103ee4;
+    font-size: 16px;
+    padding: 2px 10px;
+    text-decoration: underline;
+    font-weight: 600;
+}
+.advantge_box {width: 100%;float: left;margin-bottom: 36px;text-align: center;/*padding: 0 5px;*/}
+.advantge_box i {width: 80px;height: 80px;margin-right:0px;border-radius: 150px;padding: 15px;display: inline-table;}
+.advantge_box h4 {color: #485d51;font-family: 'Roboto', sans-serif;font-weight: 500;margin-top: 26px;
+float: left;width: 100%;text-align: center;}
+.advantge_box p {font-size: 16px;font-family: 'Roboto', sans-serif;width: calc(100% - 87px);
+color: #67756d;font-weight: normal;width: 100%;float: left;text-align: center;}
+#ques_ans .panel-group {margin-bottom: 20px;display: inline-table;width: 100%;}
+.faq_box{text-align: center;}
+.nav-item-inner{margin-bottom: 20px;background: #fff;box-shadow: 8px 8px 25px 0px rgba(42, 67, 113, 0.15);
+-webkit-box-shadow: 8px 8px 25px 0px rgba(42, 67, 113, 0.15);-moz-box-shadow: 8px 8px 25px 0px rgba(42, 67, 113, 0.15);
+border-radius: 28px;-webkit-border-radius: 28px;-moz-border-radius: 28px; }
+.description {text-align: center;}
+.nav-wrapper {width: 100%;margin: auto;display: inline-table;}
+/* jQuery Accordion Navigation Menu */
+.nav-item {border-top: 1px solid rgba(255, 255, 255, 0.25);}
+.nav-item:first-child {border-top: none;}
+.nav-item-inner > a {display: block;cursor: pointer;display: block;overflow: hidden;font-weight: 500;color: #1a1b1e;padding: 13px 10px 13px 25px;border-radius: 28px;-webkit-border-radius: 28px;-moz-border-radius: 28px;
+font-size: 16px;line-height: 1.875;font-weight: 400;text-align: left;-webkit-transition: all 0.3s linear;-moz-transition: all 0.3s linear;-o-transition: all 0.3s linear;
+-ms-transition: all 0.3s linear;transition: all 0.3s linear;text-decoration: none;}
+.nav-item-inner > a:hover {color: #5cb85c;}
+.nav-item-inner-heading {position: relative;padding: .75rem;padding-right: 2.5rem;font-weight: 700;}
+.nav-item-inner-heading:focus {opacity: 1;}
+.nav-item-inner-heading.minus:after, .nav-item-inner-heading.plus:after {
+    position: absolute;
+    top: 50%;
+    right: .75rem;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 30px;
+    text-align: center;
+    font-family: FontAwesome;
+    font-style: normal;
+    color: #fff;
+    background: #5cb85c;
+    height: 30px;
+    border-radius: 20px;
+    line-height: 29px;
+    font-size: 24px;
+}
+.benifts-heading::after {
+    width: 50px;
+    height: 5px;
+    position: absolute !important;
+    display: block;
+    content: "";
+    bottom: 0px !important;
+    left: 50% !important;
+    top: 18px;
+    transform: translateX(-50%);
+    background-color: #18ba60;
+    border-radius: 2px;
+    margin-top: 18px;
+}
+
+.nav-item-inner-heading.minus{
+    color: #5cb85c;
+}
+.nav-item-inner-heading.minus:after {
+  content: url(../../images/minus.svg);
+}
+.nav-item-inner-heading.plus:after {
+  content: url(../../images/plus.svg);
+}
+.nav-sub-list {
+    color: #606060;
+    font-size: 16px;
+    line-height: 1.875;
+    font-weight: 400;
+    display: none;
+}
+.nav-sub-list-inner {
+      padding: 0 .75rem 2.75rem;
+}
+.nav-sub-item {
+    padding: 0 25px 0 18px;
+    text-align: left;
+    line-height: 27px;
+}
+.nav-sub-item:first-child {
+  margin-top: 0;
+}
+
+.happy_clients {
+    padding: 11px;
+    box-shadow: 0 6px 9px #b5b5b5;
+    text-align: center;
+    height: 96px;
+    border-radius: 8px;
+    background-image: linear-gradient(
+45deg
+, #28629a, #385067);
+    color: #fff;
+}
+
+.happy_clients_bold {
+    font-size: 22px;
+    font-weight: 600;
+    color: #fff;
+}
+#howWework{background: #efefef;}
+/*
+.process_section {
+    background: #24730a;
+    width: 100%;
+    border-radius: 14px;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    min-height: 190px;
+    margin: 0 auto 40px;
+    font-size: 15px;position: relative;
+}
+.process_section i{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    background: #ef6906;
+    top: -20px;
+    left: 0;
+    border-radius: 20px;
+    font-size: 25px;
+    font-style: normal;
+    padding: 5px 0 0 0;
+}
+*/
+
+
+#register .btn-success{width: 290px;margin: 0 auto;float: none !important;
+height: 48px;font-size: 20px;border-radius: 8px;}
+/*.button_box{text-align: center;}*/
+
+
+.banner_image_text p {
+    width: 100%;
+    float: none;
+    color: #000;
+    line-height: 24px;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+}
+.banner_image_text h1{
+    margin-top: 38px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    font-size: 28px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.banner_image_text h1:after{
+    width: 75px;
+    height: 5px;
+    position: relative;
+    display:block;
+    content: "";
+    bottom: -14px;
+    background-color: #18ba60;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    margin: 0 auto;
+}
+.banner_image_text h5 {
+    width: 100%;
+    float: none;
+    color: #000;
+    line-height: 24px;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 10px 0;
+    background: #fdca0f;
+    padding: 5px 10px;
+}
+
+.iec_list_imp{
+    list-style: none !important;
+    padding-left: 24px !important;
+    margin:0 !important;
+}
+.iec_list_imp li{
+    font-size: 15px;
+}
+.iec_list_imp li:before{
+    content: url(../images/svg/checkmark.svg);
+    margin-bottom: 6px;
+    font-size: 15px;
+    position: relative;
+    top: 4px;
+    margin-right: 7px;
+}
+.easy_emi:after{
+    content: "\a";
+    white-space:pre;
+}
+
+/*
+.process_section {
+    background: #24730a;
+    width: 100%;
+    border-radius: 14px;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    min-height: 190px;
+    margin: 0 auto 40px;
+    font-size: 15px;
+    position: relative;
+    height: 100px;
+}
+.process_section i {
+    width: 65px;
+    height: 65px;
+    background: #ef6906;
+    border-radius: 60px;
+    font-size: 33px;
+    font-style: normal;
+    padding: 5px 0 0 0;
+    margin: 0 auto;
+    display: table;
+    margin-top: -60px;
+    border: 6px solid #efefef;
+    text-align: center;
+    position: unset;
+}
+.process_section p {
+    font-size: 15px;
+    margin:10px 0;
+    min-height:62px;
+}
+*/
+
+table th{
+    background: #ff0404;
+    color: #fff;
+}
+table{
+        background: #fff0f0;
+}
+.top_clients_mob{
+    display: none;
+}
+#contact {
+    background: #F9F9F9;
+    padding: 25px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+#contact input[type="email"],#register #contact input[type="number"]{
+    background: #FFF !important;
+}
+#register #contact select {
+    width: 100%;
+    border: 1px solid #ccc;
+    background: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+}
+#contact #txtCaptcha {
+    background-image: url(https://www.onlinelegalindia.com/images/1.jpg) !important;
+    background-color: #CDCDCD;
+    text-align: center;
+    border: none;
+    font-weight: bold;
+    font-size: 22px;
+    width: 40%;
+    font-family: "Roboto";
+    color: #000;
+}
+#register #contact button[name="submit"] {
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  background: #4CAF50;
+  color: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
+  font-size: 15px;
+}
+
+#register #contact button[name="submit"]:hover {
+  background: #43A047;
+  -webkit-transition: background 0.3s ease-in-out;
+  -moz-transition: background 0.3s ease-in-out;
+  transition: background-color 0.3s ease-in-out;
+}
+
+#register #contact button[name="submit"]:active {
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+#doc_req{
+    margin-top: 30px;
+}
+#doc_req .card-header {
+    background-color: #18ba60;
+    margin-bottom: 0;
+    border: none;
+    padding: 0;
+}
+#doc_req .card-header h2 a {
+    color: #fff;
+    text-align: left;
+    text-decoration: none;
+    font-size: 17px;
+}
+#doc_req .card-header h2 a span {
+    float: right;
+}
+.card-header a {
+    width: 97%;
+    float: none;
+    color: #565656;
+    text-decoration: none;
+}
+#doc_req .card-body {
+    padding: 14px;
+    box-shadow: 0 0 5px #ccc;
+}
+
+#ques_ans .block_heading h2::after{top: 61px;}
+.adventages .block_heading h2::after{top: 61px;}
+#fees .benifits-ul, #trademark .benifits-ul {
+    float: left;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 30px 0px 0px;
+    padding: 0px;
+}
+#fees .copy_box {
+    height: 561px !important;
+}
+#fees .register-benifits-text, #trademark .register-benifits-text {
+    margin-left: 25px;
+    margin-bottom: 15px;
+    float: left;
+    width: 31%;
+    text-align: center;
+    min-height: 248px;
+    position: relative;
+    box-shadow: rgb(15, 33, 18) 0px 5px 12px;
+    list-style: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-image: initial;
+    padding: 15px;
+    border-radius: 15px;
+    background: rgb(253, 250, 246);
+}
+.register-benifits-text {
+    color: rgb(102, 102, 102);
+    margin-left: 25px;
+    margin-bottom: 15px;
+}
+.copyright_fees .copy_box h4 {
+    font-weight: bold;
+    line-height: 17px;
+    width: 100%;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 42px !important;
+    color: rgb(21, 158, 80) !important;
+}
+.register-benifits-text h4 {
+    color: #fff;
+}
+.copyright_fees .copy_box h4 span:nth-child(1) {
+    color: rgb(41, 41, 41);
+    font-weight: normal;
+    display: inline-block;
+    width: 100%;
+    line-height: 23px;
+    font-size: 27px !important;
+    margin-bottom: 13px !important;
+}
+.copyright_fees .copy_box h4 span:nth-child(2) {
+    font-size: 14px;
+    font-weight: normal;
+    display: block;
+    color: rgb(99, 99, 99) !important;
+    margin-bottom: 28px !important;
+}
+.copyright_fees .copy_box h4 span:nth-child(2)::after {
+    content: "\a ";
+    white-space: pre;
+}
+.copy_lists {
+    margin-top: 20px;
+    transform: translate(23%, 11%);
+    width: 79%;
+    list-style: square;
+}
+.copy_lists li {
+    text-align: left;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 25px;
+}
+#fees .copy_box p {
+    font-size: 13px;
+    color: rgb(128, 128, 128);
+    font-weight: normal;
+    position: relative;
+    line-height: 20px;
+    padding: 0px 32px;
+}
+#exclude_fees1 {
+   text-align: center;
+}
+
+#fees .register-benifits-text a, #trademark .register-benifits-text a {
+    font-size: 20px;
+    color: rgb(240, 255, 245);
+    position: absolute;
+    bottom: 0px;
+    font-weight: bold;
+    transform: translate(-50%, 0px);
+    left: 50%;
+    width: 100%;
+    border-radius: 0px 0px 15px 15px;
+    background: linear-gradient(27deg, rgb(10, 177, 82) 0%, rgb(43, 236, 66) 87%);
+    padding: 14px 0px;
+    border-top: 1px solid rgb(23, 204, 95);
+}
+#fees{
+    margin: 0;
+}
+.rep_fees_footer{
+    display: none;
+}
+@media screen and (max-width: 768px) { 
+.banner {height: auto;padding: 0 0 40px 0;}    
+.banner_image_text {padding: 0px 5px;}
+.banner_image_text h4 {font-size: 20px;line-height: 33px;margin-top: 29px;}   
+.banner_image_text h4 span {font-size: 40px;}  
+.banner_image_text p {font-size: 16px;} 
+#whyUs img {width: 100%;}
+.nav-item-inner > a {font-size: 14px;line-height: 18px;padding: 13px 41px 13px 25px;}
+.nav-list {padding-left: 0;margin: 0}
+#register #contact {display: inline-block;width: 100%; margin-top: 10px;}
+#register .btn-success {width: 100%;}
+.banner_image_text li {
+    float: none;
+    width: 100%;
+    text-align: center;
+    line-height: 27px;
+    margin-bottom: 12px;
+    text-align: left;
+} 
+#docRequ h3{
+      font-size: 13px;
+      min-height: 17px;
+  }  
+  .docRequ_inner{
+      margin-bottom:12px;
+  }
+
+  .banner_image_text h1 {
+    margin-top: 33px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+}
+#doc_req .card-header h2 a{
+        padding-right: 0;
+        font-size: 15px;
+    }
+
+#doc_req .card-header h2 a span{
+        position: relative;
+        top: -20px;
+        font-size: 18px;
+    }
+
+#howWework{
+    margin-top:0;
+}
+
+.resp_clients_margin_top{
+    margin:25px 0;
+}
+.happy_clients_bold{
+        font-size: 18px;
+}
+.banner{
+    margin-bottom:0;
+}
+.process_section p{
+    min-height:auto;
+    font-size: 14px;
+}
+
+.top_clients_desk{
+        display: none;
+    }
+.top_clients_mob{
+    display: block;
+    }
+    .docRequ_inner img{
+        width: 55px;
+    }
+   
+    #fees .register-benifits-text {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 35px;
+    min-height: 228px;
+}
+    #fees .copy_box {
+        margin-top: 20px;
+        height: 526px !important;
+        margin-bottom: 16px;
+}
+    #fees .benifits-ul, #trademark .benifits-ul{
+        display: block;
+    }
+    #doc_req .btn{
+        white-space: normal;
+    }
+    .background_image{
+        width: auto;
+    }
+    .resp_last_grid{
+        margin-left: 25%;
+    }
+    
+    .rep_fees_footer{
+        display: block;
+    }
+    .desk_fees_footer{
+        display: none;
+    }
+}
+
+

@@ -1,0 +1,710 @@
+/* @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic); */
+.container.form {
+  width: 100%;
+  margin-bottom: 0px;
+}
+#contact input[type="text"],
+#contact input[type="email"],
+#contact input[type="tel"],
+#contact input[type="url"],
+#contact textarea,
+#contact button[type="submit"] {
+  font:
+    400 12px/16px "Roboto",
+    Helvetica,
+    Arial,
+    sans-serif;
+}
+
+fieldset {
+  border: medium none !important;
+  margin: 0 0 10px;
+  min-width: 100%;
+  padding: 0;
+  width: 100%;
+}
+
+#contact textarea {
+  height: 100px;
+  max-width: 100%;
+  resize: none;
+}
+#contact select {
+  width: 100%;
+  border: 1px solid #ccc;
+  background: #fff;
+  margin: 0 0 5px;
+  padding: 10px;
+}
+
+#contact button[name="submit"] {
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  background: #4caf50;
+  color: #fff;
+  margin: 0 0 5px;
+  padding: 10px;
+  font-size: 15px;
+}
+#contact button[name="submit"]:hover {
+  background: #43a047;
+  -webkit-transition: background 0.3s ease-in-out;
+  -moz-transition: background 0.3s ease-in-out;
+  transition: background-color 0.3s ease-in-out;
+}
+
+#contact button[name="submit"]:active {
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+.copyright {
+  text-align: center;
+}
+
+#contact input:focus,
+#contact textarea:focus {
+  outline: 0;
+  border: 1px solid #aaa;
+}
+
+::-webkit-input-placeholder {
+  color: #888;
+}
+
+:-moz-placeholder {
+  color: #888;
+}
+
+::-moz-placeholder {
+  color: #888;
+}
+
+:-ms-input-placeholder {
+  color: #888;
+}
+/*here is the form css coding*/
+
+/*here is the coding css of the benifits of udyog aadhar*/
+
+.benifts-heading1 {
+  color: white;
+  margin-top: 30px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+.benifts-heading1 p {
+  color: #000 !important;
+  font-weight: normal;
+  text-align: center;
+  font-size: 16px;
+  margin-top: 35px;
+  margin-bottom: 50px;
+}
+.benifts-heading1 p b {
+  color: #000 !important;
+}
+
+.benifts-heading1::after {
+  display: none;
+}
+.benifts-heading::after {
+  width: 50px;
+  height: 5px;
+  position: absolute;
+  content: "";
+  bottom: -20px;
+  left: 18px;
+  background-color: #18ba60;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  margin: 10px auto;
+}
+.fsttl {
+  margin-bottom: 3%;
+}
+.titlcnt {
+}
+.benifits-ul {
+  margin: 30px 0px 0px 0px;
+  padding: 0;
+  list-style: none;
+}
+.register-benifits-text {
+  color: #666;
+  margin-left: 25px;
+  margin-bottom: 15px;
+}
+
+hr {
+  color: #66625c;
+}
+.package_btn {
+  display: flex;
+}
+.package_btn label {
+  display: block;
+}
+/* The container */
+.package_container {
+  display: inline-block !important;
+  position: relative;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 14px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  padding: 5px 15px;
+  margin: 5px;
+  line-height: 15px;
+  text-align: center;
+}
+.package_container i {
+  position: relative;
+  z-index: 1;
+  font-size: 12px;
+  font-style: initial;
+  float: left;
+}
+/* Hide the browser's default radio button */
+.package_container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Create a custom radio button */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: auto;
+  width: 100%;
+  background-color: #eee;
+  border-radius: 5px;
+  color: #fff;
+  min-height: 47px;
+}
+.package_container input ~ .checkmark {
+  box-shadow: 1px 1px 3px;
+  background-color: #eee;
+  color: #000;
+}
+/* On mouse-over, add a grey background color */
+.package_container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+.package_container input:checked ~ .checkmark {
+  background-color: #385067;
+
+  box-shadow: 1px 1px 2px #acacad;
+  background-image: linear-gradient(45deg, #28629a, #385067);
+}
+
+.package_container input:checked ~ .checkmark ~ i {
+  color: #fff;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.package_container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.package_container .checkmark:after {
+  top: 9px;
+  left: 9px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.legal_list_imp li {
+  background: url(../images/svg/checkmark.svg) no-repeat left 3px;
+  margin-bottom: 10px;
+  background-size: 16px;
+  padding-left: 26px;
+}
+/*Package Start*/
+.documents_req {
+  background: linear-gradient(to bottom, #129805, #51a704ed);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 220px;
+  border-bottom: 8px solid #f06906;
+  border-bottom-left-radius: 54px;
+}
+#documents .legal_list_imp {
+  margin-top: 26px;
+  font-size: 17px;
+}
+
+#fees {
+  margin: 0;
+}
+#fees .benifits-ul,
+#trademark .benifits-ul {
+  float: left;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 30px 0px 0px;
+  padding: 0px;
+}
+#fees .register-benifits-text,
+#trademark .register-benifits-text {
+  margin-left: 25px;
+  margin-bottom: 15px;
+  float: left;
+  width: 31%;
+  text-align: center;
+  min-height: 248px;
+  position: relative;
+  list-style: none;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  border-image: initial;
+  padding: 15px;
+  border-radius: 15px;
+  background: #ffffff;
+  border: 1px solid #dbecf6;
+}
+#fees .copy_box {
+  height: 467px !important;
+}
+.register-benifits-text {
+  color: rgb(102, 102, 102);
+  margin-left: 25px;
+  margin-bottom: 15px;
+}
+.copyright_fees .copy_box h4 {
+  font-weight: bold;
+  line-height: 17px;
+  width: 100%;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  font-size: 42px !important;
+  color: rgb(21, 158, 80) !important;
+}
+.copyright_fees .copy_box h4 span:nth-child(1) {
+  color: rgb(41, 41, 41);
+  font-weight: normal;
+  display: inline-block;
+  width: 100%;
+  line-height: 32px;
+  font-size: 22px !important;
+  margin-bottom: 13px !important;
+}
+.copyright_fees .copy_box h4 span:nth-child(2) {
+  font-size: 14px;
+  font-weight: normal;
+  display: block;
+  color: rgb(99, 99, 99) !important;
+  margin-bottom: 28px !important;
+}
+.copy_lists {
+  margin-top: 20px;
+  transform: translate(23%, 11%);
+  width: 79%;
+  list-style: square;
+}
+.copy_lists li {
+  text-align: left;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 25px;
+}
+#fees .register-benifits-text a,
+#trademark .register-benifits-text a {
+  font-size: 20px;
+  color: rgb(240, 255, 245);
+  position: absolute;
+  bottom: 0px;
+  font-weight: bold;
+  transform: translate(-50%, 0px);
+  left: 50%;
+  width: 100%;
+  border-radius: 0px 0px 15px 15px;
+  background: linear-gradient(27deg, rgb(10, 177, 82) 0%, rgb(43, 236, 66) 87%);
+  padding: 14px 0px;
+  border-top: 1px solid rgb(23, 204, 95);
+}
+.faq_box {
+  text-align: center;
+}
+.nav-item-inner {
+  margin-bottom: 20px;
+  background: #fff;
+  box-shadow: 8px 8px 25px 0px rgba(42, 67, 113, 0.15);
+  -webkit-box-shadow: 8px 8px 25px 0px rgba(42, 67, 113, 0.15);
+  -moz-box-shadow: 8px 8px 25px 0px rgba(42, 67, 113, 0.15);
+  border-radius: 28px;
+  -webkit-border-radius: 28px;
+  -moz-border-radius: 28px;
+}
+
+/*.description {text-align: center;}*/
+.nav-wrapper {
+  width: 100%;
+  margin: auto;
+  display: inline-table;
+}
+/* jQuery Accordion Navigation Menu */
+.nav-item {
+  border-top: 1px solid rgba(255, 255, 255, 0.25);
+}
+.nav-item:first-child {
+  border-top: none;
+}
+.nav-item-inner > a {
+  display: block;
+  cursor: pointer;
+  display: block;
+  overflow: hidden;
+  font-weight: 500;
+  color: #1a1b1e;
+  padding: 13px 10px 13px 25px;
+  border-radius: 28px;
+  -webkit-border-radius: 28px;
+  -moz-border-radius: 28px;
+  font-size: 16px;
+  line-height: 1.875;
+  font-weight: 400;
+  text-align: left;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  -o-transition: all 0.3s linear;
+  -ms-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+  text-decoration: none;
+}
+.nav-item-inner > a:hover {
+  color: #5cb85c;
+}
+.nav-item-inner-heading {
+  position: relative;
+  padding: 0.75rem;
+  padding-right: 2.5rem;
+  font-weight: 700;
+}
+.nav-item-inner-heading:focus {
+  opacity: 1;
+}
+.nav-item-inner-heading.minus:after,
+.nav-item-inner-heading.plus:after {
+  position: absolute;
+  top: 50%;
+  right: 0.75rem;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 30px;
+  text-align: center;
+  font-family: FontAwesome;
+  font-style: normal;
+  color: #fff;
+  background: #5cb85c;
+  height: 30px;
+  border-radius: 20px;
+  line-height: 29px;
+  font-size: 24px;
+}
+.nav-item-inner-heading.minus {
+  color: #5cb85c;
+}
+.nav-item-inner-heading.minus:after {
+  content: url(../../images/minus.svg);
+}
+.nav-item-inner-heading.plus:after {
+  content: url(../../images/plus.svg);
+}
+.nav-sub-list {
+  color: #606060;
+  font-size: 16px;
+  line-height: 1.875;
+  font-weight: 400;
+  display: none;
+}
+.nav-sub-list-inner {
+  padding: 0 0.75rem 2.75rem;
+}
+.nav-sub-item {
+  padding: 0 25px 0 18px;
+  text-align: left;
+  line-height: 27px;
+}
+.nav-sub-item:first-child {
+  margin-top: 0;
+}
+.fssai_acc a {
+  text-decoration: none;
+}
+.fssai_acc .panel-heading {
+  background: #4caf50;
+  color: #fff;
+}
+.who_can_apply p {
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  font-size: 17px;
+  margin-bottom: 27px;
+}
+.list_margin {
+  margin: 5px 0 !important;
+}
+.list_margin li {
+  margin-bottom: 0 !important;
+}
+.pf_list {
+  list-style: none !important;
+  padding-left: 12px !important;
+  margin: 20px 0;
+}
+
+.pf_list li {
+  background: url(../images/svg/bullet-arrow.svg) no-repeat left 3px;
+  padding-left: 26px !important;
+  margin-bottom: 10px;
+  background-size: 17px;
+  margin-bottom: 20px !important;
+  font-size: 16px;
+}
+.mob_view {
+  display: none;
+}
+.package_container {
+  display: inline-block !important;
+  position: relative;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 14px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  padding: 5px 15px;
+  margin: 5px;
+  line-height: 15px;
+  text-align: center;
+}
+.package_container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+.package_container input:checked ~ .checkmark {
+  background-color: #385067;
+  box-shadow: 1px 1px 2px #acacad;
+  background-image: linear-gradient(45deg, #28629a, #385067);
+}
+@media screen and (max-width: 768px) {
+  .form_package input[type="radio"]:checked ~ .check {
+    border: 4px solid #81d481;
+  }
+  .form_package .check {
+    display: block;
+    position: absolute;
+    border: 4px solid #aaaaaa;
+    border-radius: 100%;
+    height: 20px;
+    width: 20px;
+    top: 3px;
+    left: 5px;
+    z-index: 5;
+    transition: border 0.25s linear;
+    -webkit-transition: border 0.25s linear;
+  }
+  .form_package input[type="radio"]:checked ~ .check::before {
+    display: block;
+    position: absolute;
+    content: "";
+    border-radius: 100%;
+    height: 8px;
+    width: 8px;
+    top: 2px;
+    left: 2px;
+    margin: auto;
+    transition: background 0.25s linear;
+    -webkit-transition: background 0.25s linear;
+  }
+  .form_package input[type="radio"]:checked ~ .check::before {
+    background: #049244;
+  }
+  .package_container input:checked ~ .checkmark ~ i {
+    color: #fff;
+  }
+
+  .package_btn {
+    display: block;
+  }
+
+  .right-side-icons-div-2 {
+    height: 150px !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .form_package {
+    display: block !important;
+    margin-left: 0px;
+    border: 3px solid #eaeaea;
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 0;
+    margin-bottom: 15px;
+    border-radius: 9px;
+    position: relative;
+    background: #eaeaea;
+  }
+  .form_package ul li:nth-child(1) {
+    font-weight: 600;
+    font-size: 16px;
+  }
+  .form_package ul {
+    list-style: none;
+    width: 100%;
+    text-align: left;
+    margin-left: 25px;
+    display: inline-grid;
+    margin-bottom: 0;
+  }
+  .form_package label {
+    width: 100%;
+    font-weight: 500;
+  }
+  .form_package p {
+    position: absolute;
+    top: 7px;
+    right: 13px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #205622;
+    margin-bottom: 0;
+  }
+  .title {
+    font-size: 19px;
+  }
+  #contact h3 {
+    font-size: 15px;
+  }
+  .benifts-heading1 p {
+    font-size: 16px;
+    margin-top: 21px;
+    margin-bottom: 38px;
+    display: inline-block;
+    width: 100%;
+  }
+  .panel-title {
+    font-size: 15px;
+    color: inherit;
+    line-height: 19px;
+  }
+  #fees .benifits-ul,
+  #trademark .benifits-ul {
+    padding: 10px;
+  }
+  .block_heading h2 {
+    font-size: 22px;
+  }
+
+  .nav-link a {
+    color: white !important;
+    font-weight: 600;
+  }
+  .container-fluid > .navbar-collapse,
+  .container-fluid > .navbar-header,
+  .container > .navbar-collapse,
+  .container > .navbar-header {
+    margin-right: -15px;
+    margin-left: 0px;
+  }
+
+  .background_image {
+    height: auto;
+  }
+
+  .nav .open > a,
+  .nav .open > a:focus,
+  .nav .open > a:hover {
+    background-color: #4d4343;
+  }
+  .nav > li > a:focus,
+  .nav > li > a:hover {
+    background-color: #4d4343;
+  }
+
+  .benifts-heading1 {
+    color: white;
+    margin-top: 30px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+  }
+  .benifts-heading1::after {
+    width: 50px;
+    height: 5px;
+    position: absolute;
+    content: "";
+    bottom: 3px;
+    left: 44%;
+    background-color: #18ba60;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+  }
+
+  #fees .benifits-ul,
+  #trademark .benifits-ul {
+    display: block;
+  }
+  #fees .copy_box {
+    margin: 20px 0;
+    width: 100%;
+    min-height: auto;
+  }
+  .benifts-heading1 h1::after {
+    bottom: -17px;
+  }
+  .nav-item-inner > a {
+    padding: 13px 30px 13px 22px;
+    line-height: 23px;
+  }
+
+  .process_section {
+    height: 113px;
+    min-height: auto;
+  }
+  .package_container i {
+    font-size: 11px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .package_container i {
+    font-size: 9px;
+  }
+  .checkmark {
+    min-height: 68px;
+  }
+  .process_section p {
+    min-height: 0;
+  }
+  .imp_pts {
+    height: auto;
+  }
+  .associated_imgs .col-xs-6 {
+    margin-bottom: 10px;
+  }
+}

@@ -1,0 +1,488 @@
+
+
+.top-mobile{
+	color: white;
+	line-height: 40px;
+	font-weight: 600;
+}
+.nav-link a{
+	color: black;
+	font-weight: 600;
+}
+.custom-pull-left{
+
+}
+.title{
+	font-family: "Poppins",sans-serif;
+	text-align: center;
+	font-size: 32px;
+	color:
+	#2e363a;
+	font-weight: 600;
+}
+.title-content{
+	margin-top: 10px;
+	text-align: center;
+	font-size: 16px;
+	line-height: 27px;
+}
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+    color: 
+#f1ecec;
+text-decoration: none;
+background-color:
+    #385067;
+}
+
+.block_heading h2::after{margin-top: 20px;}
+
+/*here is the form css coding*/
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+
+.container.form {
+    width: 100%;
+    margin-top: 226px;
+    margin-bottom: 70px;
+}
+#contact input[type="text"],
+#contact input[type="email"],
+#contact input[type="tel"],
+#contact input[type="url"],
+#contact textarea,
+#contact button[type="submit"] {
+  font: 400 12px/16px "Roboto", Helvetica, Arial, sans-serif;
+}
+
+#contact {
+  background: #F9F9F9;
+  padding: 25px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+#contact h3 {
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#contact h4 {
+  margin: 5px 0 15px;
+  display: block;
+  font-size: 13px;
+  font-weight: 400;
+}
+.copyright {
+  text-align: center;
+}
+
+.advantge_box {
+    width: 100%;
+    float: left;
+    margin-bottom: 30px;
+    text-align: center;
+    padding: 0 5px;
+    height: 240px;
+}
+
+.advantge_box i {
+    width: 60px;
+    height: 60px;
+    margin-right: 0px;
+    background: #f3f3f3;
+    border-radius: 150px;
+    box-shadow: 0 6px 5px rgb(0 0 0 / 10%);
+    padding: 15px;
+    display: inline-table;
+}
+
+.advantge_box h4 {
+    color: #485d51;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin-top: 26px;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.advantge_box p {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    width: calc(100% - 87px);
+    color: #67756d;
+    font-weight: normal;
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+/*here is the form css coding*/
+
+/*here is the coding css of the benifits of udyog aadhar*/
+
+
+
+.background_image{
+	/*background-image: url("https://www.onlinelegalindia.com/services/udyog-aadhaar/image/bg.JPEG 2000");*/
+  background-image: linear-gradient(to right top, #174355, #1d4154, #223f53, #263d51, #2a3b4f, #2d3f53, #314458, #34485c, #385468, #3d6074, #416d7f, #477a89);
+	left: -74.5px;
+	box-sizing: border-box;
+	width: 100%;
+}
+.benifts-heading{
+    color: white;
+    margin-top: 30px;
+    font-weight: 600;
+    font-family: "Poppins",sans-serif;
+}
+.benifts-heading::after{
+    width: 50px;
+height: 5px;
+position: absolute;
+content: "";
+bottom: -20px;
+left: 18px;
+background-color: #18ba60;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+border-radius: 2px;
+}
+
+.card {
+    -moz-box-direction: normal;
+    -moz-box-orient: vertical;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-bottom:1px;
+    border:none;
+}
+.card-header:first-child {
+    border-radius: 0;
+}
+.card-header {
+    background-color: #18ba60;
+    margin-bottom: 0;
+    padding: 13px 1.25rem;
+    border:none;
+    
+}
+.card-header a i{
+    float:left;
+    font-size:25px;
+    padding:5px 0;
+    margin:0 25px 0 0px;
+    color:#195C9D;
+}
+.card-header i{
+    float:right;        
+    font-size:30px;
+    width:1%;
+    margin-top:8px;
+    margin-right:10px;
+}
+.card-header a{
+    width:97%;
+    float:left;
+    color:#565656;
+    text-decoration:none;
+}
+.card-header p{
+    margin:0;
+}
+
+.card-header h3{
+    margin:0 0 0px;
+    font-size:15px;
+    font-family: "Poppins",sans-serif;
+    font-weight:bold;
+    color:#fff;
+}
+.card-block {
+    -moz-box-flex: 1;
+    flex: 1 1 auto;
+    padding: 20px;
+    color:#666;
+    box-shadow:inset 0px 4px 5px rgba(0,0,0,0.1);
+    border-top:1px soild #000;
+    border-radius:0;
+    font-family: "Poppins",sans-serif;
+    font-weight: 501;
+    background: #f1f1f1;
+}
+
+table{
+	width: 100%;
+margin-bottom: 20px;
+background-color: transparent;
+border-spacing: 0;
+border-collapse: collapse;
+}
+td{
+	border: 1px solid
+#dbdbdb;
+padding: 7px;
+text-align: center;
+}
+
+/*here is the style of how we work section*/
+
+/*here is the style of how we work section*/
+
+/*here is the style of requirements of documents*/
+ .required-documents{
+  padding: 10px 0px 0px 0px;
+ }
+/*here is the style of requirements of documents*/
+
+
+/*here is the class for price calcultor*/
+
+/*here is the syle of why us*/
+.why-us-img-div{
+  margin-top: 50px;
+}
+.why-us-img{
+width: 33%;
+}
+/*here is the syle of why us*/
+
+/*here is the style of footer accordation*/
+.accordaion-main-div{
+  height: 50px;
+width: 100%;
+background-color:#3a526a;
+margin: 25px 0px 0px 0px;
+color: white;
+cursor: pointer;
+}
+.accordion-cus-head{
+  font-weight: 600;
+line-height: 47px;
+margin-left: 40px;
+}
+.child-ans-div-1{
+  width: 100%;
+  color: #66667a;
+  border: 1px solid #66667a;
+}
+.child-ans-text{
+  margin-left: 37px;
+  margin-top: 10px;
+}
+/*here is the style of footer accordation*/
+
+/*here is the style of packages of gst registration*/
+
+.package-price_2{
+    height:100px;
+    background-color:#0ba360;
+    color:#fff;
+    text-align:center;
+}
+
+.our-associates{
+  width: 20%;
+  float: left;
+}
+
+
+.foter-contact{
+  width: 33%;
+  float: left;
+  color: white;
+}
+
+.gst_rdiobtn ul li:nth-child(2){
+    font-weight: 500;
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #000;
+    margin-top: 20px;
+}
+.gst_rdiobtn ul li b{
+    margin-left: 0;
+}
+.price_active{
+    background: #e4ffe4;
+    border: 3px solid #78e478;
+}
+
+.mob_view{
+    display: none;
+}
+/*Custom Radio for Form Package start*/
+.gst_rdiobtn:nth-child(3) {
+    background: #eaeaea;
+    border: none;
+}
+.gst_rdiobtn input[type=radio]:checked ~ .check{
+    border: 4px solid #81d481;
+}
+.gst_rdiobtn input{
+    visibility: hidden;
+}
+.gst_rdiobtn{
+    display: flex;
+    margin-left: 0px;
+    border: 3px solid #eaeaea;
+}
+.gst_rdiobtn ul{
+    margin-left: 20px;
+}
+.gst_rdiobtn .check{
+    display: block;
+    position: absolute;
+    border: 4px solid #AAAAAA;
+    border-radius: 100%;
+    height: 25px;
+    width: 25px;
+    top: 12px;
+    left: 5px;
+    z-index: 5;
+    transition: border .25s linear;
+    -webkit-transition: border .25s linear;
+}
+.gst_rdiobtn input[type=radio]:checked ~ .check::before {
+    background: #049244;
+}
+.gst_rdiobtn input[type=radio]:checked ~  .check::before {
+    display: block;
+    position: absolute;
+    content: '';
+    border-radius: 100%;
+    height: 11px;
+    width: 11px;
+    top: 3px;
+    left: 3px;
+    margin: auto;
+    transition: background 0.25s linear;
+    -webkit-transition: background 0.25s linear;
+}
+.price_active{
+    background: #e4ffe4 !important;
+    border: 3px solid #78e478 !important;
+}
+.gst_rdiobtn label{
+    width: 100%;
+    font-weight: 500;
+}
+/*Custom Radio for Form Package end*/
+
+#documents .modules {
+    padding-left: 90px;
+    text-align: left;
+    position: relative;
+    margin: 33px 0 22px 0;
+}
+ #documents .modules .icon {
+    position: absolute;
+    left: 24px;
+    top: 0px;
+    width: auto;
+    height: auto;
+    background: none;
+    display: inline-block;
+}
+.gst_rdiobtn .gst_percent{
+    position: absolute;
+    top: 31px;
+}
+.editprice ul li:nth-child(1) {
+    margin-bottom: 0;
+    font-size: 16px;
+}
+.gst_rdiobtn p{top: 13px;}
+.gst_rdiobtn{padding: 12px 12px 5px;}
+#documents .modules .icon img {
+    width: 14%;
+}
+#documents .modules .content {
+    position: relative;
+}
+#documents .modules .content p {
+    font-size: 17px;
+    margin: 5px 0;
+    font-weight: 400;
+}
+@media screen and (max-width: 600px) {
+    .gst_rdiobtn{padding: 10px 12px 5px;}
+  .top-mobile{
+  	font-size: 10px;
+  }
+
+.title, .block_heading h2 {
+    font-size: 19px !important;
+}  
+
+.nav-link a{
+	color: white !important;
+	font-weight: 600;
+}
+
+.benifits-small-div {
+    width: 100%;
+}
+.benifits-li::before {
+    left: 8px;
+}
+
+.why-us-img {
+    width: 100%;
+}
+.accordaion-main-div {
+    height: auto;
+}
+.accordion-cus-head {
+    line-height: 24px;
+    font-size: 14px;
+    margin-left: 16px;
+    padding: 10px;
+}
+    .process_section{
+        height: auto;
+    }
+.child-ans-text {
+    margin-left: 17px;
+}
+.child-ans-div-1 {
+    margin-top: -11px;
+}
+
+.copyright-li{
+margin: 0px 4px 0px 4px;
+}
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover {
+    background-color: #4d4343;
+}
+.nav > li > a:focus, .nav > li > a:hover {
+    background-color: #4d4343;
+}
+
+.for-top-margin{
+  margin-top: 20px;
+}
+
+
+.our-associates {
+    width: 50%;
+}
+
+.title{
+        font-size: 22px;
+    }
+    .desk_view{
+        display: none;
+    }
+    .mob_view{
+        display: block;
+    }
+}
+#howWework{
+    float:left !important;
+    width:100%;
+}

@@ -1,0 +1,249 @@
+/*here is the form css coding*/
+
+/* @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic); */
+
+.background_image {
+  /*background-image: url("https://www.onlinelegalindia.com/services/udyog-aadhaar/image/bg.JPEG 2000");*/
+  background-image: linear-gradient(
+    to right top,
+    #174355,
+    #1d4154,
+    #223f53,
+    #263d51,
+    #2a3b4f,
+    #2d3f53,
+    #314458,
+    #34485c,
+    #385468,
+    #3d6074,
+    #416d7f,
+    #477a89
+  );
+  left: -74.5px;
+  box-sizing: border-box;
+  width: 100%;
+}
+.title {
+  font-size: 29px;
+}
+#allpacakage .fees_box .register-benifits-text {
+  min-height: 806px;
+}
+.gst_rdiobtn input {
+  visibility: visible;
+}
+#allpacakage .register-benifits-text span:nth-child(2) {
+  font-size: 12px;
+  margin-bottom: 0 !important;
+  margin-top: -14px;
+  font-weight: 600;
+  padding: 0;
+}
+
+/*here is the coding css of the benifits of udyog aadhar*/
+
+.card {
+  -moz-box-direction: normal;
+  -moz-box-orient: vertical;
+  background-color: #fff;
+  border-radius: 0.25rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-bottom: 1px;
+  border: none;
+}
+.card-header:first-child {
+  border-radius: 0;
+}
+.card-header {
+  background-color: #18ba60;
+  margin-bottom: 0;
+  padding: 13px 1.25rem;
+  border: none;
+}
+.card-header a i {
+  float: left;
+  font-size: 25px;
+  padding: 5px 0;
+  margin: 0 25px 0 0px;
+  color: #195c9d;
+}
+.card-header i {
+  float: right;
+  font-size: 30px;
+  width: 1%;
+  margin-top: 8px;
+  margin-right: 10px;
+}
+.card-header a {
+  width: 97%;
+  float: left;
+  color: #565656;
+  text-decoration: none;
+}
+.card-header p {
+  margin: 0;
+}
+
+.card-header h3 {
+  margin: 0 0 0px;
+  font-size: 15px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  color: #fff;
+}
+.card-block {
+  -moz-box-flex: 1;
+  flex: 1 1 auto;
+  padding: 20px;
+  color: #666;
+  box-shadow: inset 0px 4px 5px rgba(0, 0, 0, 0.1);
+  border-top: 1px soild #000;
+  border-radius: 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 501;
+  background: #f1f1f1;
+}
+
+.right-side-img-desc {
+  font-size: 12px;
+}
+.req-docs-main-div {
+  height: 150px;
+  width: 29%;
+  text-align: center;
+  float: left;
+  margin: 0% 2% 4% 2%;
+}
+
+.advantge_box {
+  width: 100%;
+  float: left;
+  margin-bottom: 30px;
+  text-align: center;
+  padding: 0 5px;
+  height: 220px;
+}
+
+.advantge_box i {
+  width: 60px;
+  height: 60px;
+  margin-right: 0px;
+  background: #f3f3f3;
+  border-radius: 150px;
+  box-shadow: 0 6px 5px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  display: inline-table;
+}
+.advantge_box h4 {
+  color: #485d51;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  margin-top: 26px;
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+.advantge_box p {
+  font-size: 13px;
+  font-family: "Roboto", sans-serif;
+  width: calc(100% - 87px);
+  color: #67756d;
+  font-weight: normal;
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+.process_section {
+  height: 200px;
+}
+.mob_view {
+  display: none;
+}
+.avail_consult {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.background_image {
+  padding: 0px !important;
+}
+
+@media screen and (max-width: 768px) {
+  #allpacakage .fees_box .register-benifits-text {
+    min-height: auto;
+  }
+  .gift_voucher_main {
+    position: relative;
+    display: inline-block;
+    bottom: 68px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #topheader {
+    height: 82px;
+  }
+
+  /*.nav-link a{
+	color: white !important;
+	font-weight: 600;
+}
+.container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header {
+    margin-right: -15px;
+    margin-left: 0px;
+}*/
+
+  .block_heading h2 {
+    font-size: 20px;
+  }
+
+  .block_heading h2::after {
+    top: 85%;
+  }
+
+  .title-content {
+    font-size: 15px;
+  }
+  .accordaion-main-div {
+    height: auto;
+  }
+  .accordion-cus-head {
+    line-height: 24px;
+    font-size: 14px;
+    margin-left: 16px;
+    padding: 10px;
+  }
+  .process_section {
+    height: auto;
+  }
+  .child-ans-text {
+    margin-left: 17px;
+  }
+  .child-ans-div-1 {
+    margin-top: -11px;
+  }
+
+  .desk_view {
+    display: none !important;
+  }
+
+  /*.nav .open > a, .nav .open > a:focus, .nav .open > a:hover {
+    background-color: #4d4343;
+}
+.nav > li > a:focus, .nav > li > a:hover {
+    background-color: #4d4343;
+}
+*/
+  .for-top-margin {
+    margin-top: 20px;
+  }
+
+  .title {
+    font-size: 20px;
+  }
+}
+#howWework {
+  float: left !important;
+}

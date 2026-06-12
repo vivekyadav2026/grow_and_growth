@@ -1,0 +1,138 @@
+
+.top-mobile {color: white;line-height: 40px;font-weight: 600;}
+.nav-link a {color: black;font-weight: 600;}
+.title {font-size: 25px;}
+.title-content {margin-bottom: 0;}
+#contact input[type='text'],
+#contact input[type='email'],
+#contact input[type='tel'],
+#contact input[type='url'],
+#contact textarea,
+#contact button[type='submit'] {font: 400 12px/16px 'Roboto', Helvetica, Arial, sans-serif;}
+.benifts-heading {color: white;margin-top: 30px;font-weight: 600;font-family: 'Poppins', sans-serif;}
+.benifts-heading::after {width: 50px;height: 5px;position: absolute;content: '';bottom: -20px;left: 18px;background-color: #18ba60;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;}
+.benifits-ul {list-style: none;margin: 30px 0px 0px 0px;padding: 0;}
+.card {-moz-box-direction: normal;-moz-box-orient: vertical;background-color: #fff;border-radius: 0.25rem;display: flex;flex-direction: column;position: relative;margin-bottom: 1px;border: none;}
+.card-body {background-color: rgba(82, 30, 0, 0.08);}
+.accordion-cus-head {font-weight: 600;}
+.child-ans-text {margin-left: 37px;margin-top: 10px;}
+.our-associates {width: 20%;float: left;}
+.right-side-img-title {font-size: 13px;font-weight: bold;}
+.right-side-img-desc {font-size: 12px;}
+.price_active {background: #e4ffe4;border: 3px solid #78e478;}
+.process_section {height: 200px;}
+.gst_rdiobtn:nth-child(3) {background: #eaeaea;border: none;}
+.gst_rdiobtn input[type='radio']:checked~.check {border: 4px solid #81d481;}
+.gst_rdiobtn input {visibility: hidden;}
+.gst_rdiobtn {display: flex;margin-left: 0px;border: 3px solid #eaeaea;}
+.gst_rdiobtn ul {margin-left: 20px;}
+.gst_rdiobtn .check {display: block;position: absolute;border: 4px solid #aaaaaa;border-radius: 100%;height: 25px;width: 25px;top: 12px;left: 5px;z-index: 5;transition: border 0.25s linear;-webkit-transition: border 0.25s linear;}
+.gst_rdiobtn input[type='radio']:checked~.check::before {background: #049244;}
+.gst_rdiobtn input[type='radio']:checked~.check::before {display: block;position: absolute;content: '';border-radius: 100%;height: 11px;width: 11px;top: 3px;left: 3px;margin: auto;transition: background 0.25s linear;-webkit-transition: background 0.25s linear;}
+.price_active {background: #e4ffe4 !important;border: 3px solid #78e478 !important;}
+.gst_rdiobtn label {width: 100%;font-weight: 500;}
+
+@media screen and (max-width: 600px) {
+    #topheader { height: 82px; }
+.top-mobile {font-size: 10px;}
+.custom-pull-left {float: left !important;width: 100%;background-color: #385067;}  
+.background_image {height: auto;}
+.accordaion-main-div {height: auto;}
+.accordion-cus-head {line-height: 24px;font-size: 14px;margin-left: 16px;padding: 10px;}
+.process_section {height: auto;}
+.child-ans-text {margin-left: 17px;}
+.child-ans-div-1 {margin-top: -11px;} 
+.our-associates {width: 50%;}
+.title {font-size: 22px;}
+.block_heading h2{margin-bottom: 53px !important;}
+}
+
+.block_padding_two .wrap {display: flex;background: white;padding: 1rem 1rem 1rem 1rem;border-radius: 0.5rem;box-shadow: 7px 7px 30px -5px rgba(0, 0, 0, 0.1);margin-bottom: 2rem;min-height: 151px;}
+.block_padding_two .ico-wrap {margin: auto;}
+.block_padding_two .mbr-iconfont {font-size: 4.5rem !important;color: #313131;margin: 1rem;padding-right: 1rem;}
+.block_padding_two .vcenter {margin: auto;}
+.block_padding_two .mbr-section-title3 {text-align: left;}
+.block_padding_two .display-5 {font-family: 'Source Sans Pro', sans-serif;font-size: 1.4rem;}
+.mbr-bold {font-weight: 700;}
+.block_padding_two p {padding-top: 0.5rem;padding-bottom: 0.5rem;line-height: 25px;}
+.block_padding_two .display-6 {font-family: 'Source Sans Pro', sans-serif;font-size: 1re;}
+.mbr-justify-content-center {margin-top: 100px;}
+.public_company .wrap img {width: 60%;}
+.wrap .display-5 {font-family: 'Source Sans Pro', sans-serif;font-size: 18px;}
+#allpacakage .fees_box .register-benifits-text {min-height: 600px !important;}
+#allpacakage .fees_box .register-benifits-text {min-height: 806px;}
+
+@media screen and (max-width: 768px) {
+    #allpacakage .fees_box .register-benifits-text {min-height: auto;}
+}
+.panel-heading {background: rgb(76, 175, 80) !important;}
+.panel-body {background: #eee;padding: 15px;}
+.panel-title {list-style: none !important;text-decoration: none !important;}
+.panel-group .panel-heading {border-bottom: 0;}
+.panel-title {margin-top: 0;margin-bottom: 0;font-size: 16px;color: inherit;}
+.custom_accordion .panel .panel-heading {position: relative;}
+.custom_accordion .panel .panel-heading .collapsed .panel-title:after {content: '+';position: absolute;top: 3px;right: 20px;font-size: 25px;}
+.custom_accordion .panel .panel-heading a .panel-title:after {content: '-';position: absolute;top: 3px;right: 20px;font-size: 25px;}
+.privet_limited_anchr a {color: #ffffff !important;list-style: none;text-decoration: none;}
+.pf_list_imp li {background: url(https://www.onlinelegalindia.com/images/svg/checkmark.svg) no-repeat left 4px;padding-left: 30px !important;margin-bottom: 10px;list-style: none;}
+
+
+@media (min-width: 320px) and (max-width: 776px) {
+    .title {font-family: 'Poppins', sans-serif;text-align: center;font-size: 19px;color: #2e363a;font-weight: 600;line-height: 24px;}
+    .privet_limited_anchr h6 {color: #ffffff !important;width: 90%;line-height: 20px;font-size: 14px;}
+    .block_heading h2 {width: 100%;float: left;text-align: center;font-size: 22px;color: #000;font-weight: 600;margin-bottom: 0px;position: relative;line-height: 27px; }
+    .public_company .wrap {height: 235px; }
+    .custom_accordion .panel .panel-heading .collapsed .panel-title:after {content: '+';position: absolute;top: 18px !important;right: 20px;font-size: 25px;}
+    .mbr-justify-content-center {margin-top: 40px;}
+    .block_heading {width: 100%;display: inline-table;margin-bottom: 26px;}
+    #contact input[name='submit'],
+    #contact input[type='submit'],
+    #contact input[type='button'],
+    button[type='submit'],
+    #contact button[type='button'],
+    input[name='next'] {cursor: pointer !important;width: 100% !important;border: none !important;background: #4caf50 !important;color: #fff !important;margin: 0 0 5px !important;padding: 12px 10px !important;font-size: 18px !important;border-radius: 6px !important;line-height: inherit !important;}
+    .process_section {background: #24730a;width: 100%;border-radius: 14px;padding: 20px;text-align: center;color: #fff;min-height: 190px;margin: 0 auto 60px;font-size: 15px;position: relative;}
+    .block_heading_cmpny_chng_name {width: 100%;display: inline-table;margin-bottom: 30px !important;}
+    .block_padding_two_change {padding: 0px 0 !important;width: 100%;float: left;}
+    .block_padding_faq {padding: 0px !important;}
+    #allpacakage .fees_box .register-benifits-text span:nth-child(1) {font-size: 22px;}
+    .block_heading h2::after{top: 90%;}
+    #howWework{margin-bottom: 50px;}
+    .gift_voucher_main {position: absolute;bottom: 73px;z-index: 1;left: 0;box-shadow: none;margin: 0 10px;cursor: pointer;}
+    #allpacakage .fees_box .register-benifits-text {min-height: 550px !important;}
+    .pf_list_fund {list-style: none;}
+    .process_section {background: #24730a;width: 100%;border-radius: 14px;padding: 20px;text-align: center;color: #fff;min-height: 150px;margin: 0 auto 60px;font-size: 15px;position: relative;}
+    .heading_office_reg {margin-bottom: 0px !important;}
+    .public_company .wrap {height: 135px;}
+}
+.mbr-iconfont-3 {background: url(../images/roc_id.svg);width: 68%;height: 73px;background-size: cover;background-repeat: no-repeat;background-position: cover;display: block;margin-right: 50px !important;padding-right: 50px !important;}
+.mbr-iconfont-4 {background: url(../images/roc_doc.svg);width: 68%;height: 73px;background-size: cover;background-repeat: no-repeat;background-position: cover;display: block;margin-right: 50px !important;padding-right: 50px !important;}
+
+.mbr-iconfont-2 {background: url(../images/roc_orga.svg);width: 68%;height: 73px;background-size: cover;background-repeat: no-repeat;background-position: cover;display: block;margin-right: 50px !important;padding-right: 50px !important;}
+.office_document h3 {margin-top: 0px;margin-bottom: 10px;font-size: 17px;font-weight: bold;}
+.change_area {margin-bottom: 30px;}
+.pf_list li {list-style-image: url(https://www.onlinelegalindia.com/images/svg/bullet-arrow.svg);margin-bottom: 10px;}
+.pf_list_2 li {list-style-image: none !important;margin-bottom: 10px;}
+.services_box_bg img {display: block;margin: auto;}
+.services_box_bg .right-side-img-startupind {padding-top: 0px;padding-bottom: 20px;height: 90px;object-fit: contain;}
+.services_box_bg .right-side-img-title {text-align: center;font-weight: bold;display: block;font-size: 13px;text-transform: uppercase;}
+.services_box_bg .right-side-img-desc {text-align: center;display: block;font-size: 12px;}
+.right-side-icons-div-2 {padding: 10px 0;}
+.right-side-icons-div-2 {height: 250px;margin-top: 10px;margin-bottom: 10px;}
+
+@media screen and (max-width: 768px) {
+.right-side-icons-div-2 {height: auto;}
+
+.mbr-iconfont-4 {background: url(../images/roc_doc.svg);width: 51px;height: 51px;background-size: cover;background-repeat: no-repeat;display: block;margin-right: 20px !important;padding-right: 0 !important;}
+.mbr-iconfont-3 {background: url(../images/roc_id.svg);width: 51px;height: 51px;background-size: cover;background-repeat: no-repeat;display: block;margin-right: 15px !important;padding-right: 0 !important;}
+.mbr-iconfont-2 {background: url(../images/roc_orga.svg);width: 51px;height: 51px;background-size: cover;background-repeat: no-repeat;display: block;margin-right: 20px !important;padding-right: 0 !important;}
+
+}
+.plan_hdng_two {font-size: 12px;font-size: 20px;margin-bottom: 15px;margin-top: 5px;}
+
+.new_md_section{
+    margin-bottom:30px;
+  }
+  #howWework{
+    float:left !important;
+  }

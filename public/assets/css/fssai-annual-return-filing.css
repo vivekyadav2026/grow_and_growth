@@ -1,0 +1,570 @@
+.top-header{background-color: #385067;height: auto;}
+.top-mobile{color: white;line-height: 40px;font-weight: 600;}
+.nav-link a{color: black;font-weight: 600;}
+.custom-pull-left{}
+.title{font-family: "Poppins",sans-serif;text-align: center;font-size: 26px;color:#2e363a;font-weight: 600;line-height: 30px;}
+.sub-title{font-family: "Poppins",sans-serif;text-align: center;font-size: 26px;color:#2e363a;font-weight: bold;}
+.title-content{margin-top: 50px;text-align: center;font-size: 16px;line-height: 27px;float: left;width: 100%;margin: 7px 0 37px;}
+.logo-img-class{height: 50px;width: 280px;}
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+color: #f1ecec;text-decoration: none;background-color:#385067;}
+/*here is the form css coding*/
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+
+.container.form {width: 100%;margin-top: 226px;margin-bottom: 70px;}
+
+#contact {background: #F9F9F9;padding: 25px;box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);}
+#contact h3 {display: block;font-size: 20px;font-weight: bold;margin-bottom: 10px;}
+#contact h4 {margin: 5px 0 15px;display: block;font-size: 13px;font-weight: 400;}
+
+
+/*  bblink animation  Start */
+.test_title {
+  animation: blink-animation 1s steps(5, start) infinite;
+  -webkit-animation: blink-animation 1s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+
+/*  bblink animation  End */
+
+
+
+.copyright {
+  text-align: center;
+}
+
+
+/*here is the form css coding*/
+
+/*here is the coding css of the benifits of udyog aadhar*/
+
+.background_image_fssai{
+	background-image:  url("https://www.onlinelegalindia.com/services/udyog-aadhaar/image/bg.JPEG 2000");
+	left: -74.5px;
+	box-sizing: border-box;
+	width: 100%;
+
+}
+.background_image{
+	background-image:  url("https://www.onlinelegalindia.com/services/udyog-aadhaar/image/bg.JPEG 2000");
+	left: -74.5px;
+	box-sizing: border-box;
+	width: 100%;
+}
+.benifts-heading{
+    color: white;
+    margin-top: 30px;
+    font-weight: 600;
+    font-family: "Poppins",sans-serif;
+}
+.benifts-heading::after{
+    width: 50px;
+height: 5px;
+position: absolute;
+content: "";
+bottom: -20px;
+left: 18px;
+background-color: #18ba60;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+border-radius: 2px;
+}
+.benifits-small-div{
+  width: 50%;
+  margin-top: 45px;
+}
+.benifits-ul{
+
+margin: 30px 0px 0px 0px;
+padding: 0;
+}
+
+
+.benifits-li::before{
+  content: "\f00c";
+font-family: "FontAwesome";
+color: #18ba60;
+font-size: 12px;
+position: absolute;
+left: 0;
+display: block;
+padding-top: 20px;
+line-height: normal;
+-webkit-transform: translate3d(0,-50%,0);
+-moz-transform: translate3d(0,-50%,0);
+transform: translate3d(0,-50%,0);
+}
+/*here is the coding css of the benifits of udyog aadhar*/
+
+.card {
+    -moz-box-direction: normal;
+    -moz-box-orient: vertical;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-bottom:1px;
+    border:none;
+}
+.card-header:first-child {
+    border-radius: 0;
+    
+}
+.card-header {
+    background-color: #18ba60;
+    margin-bottom: 0;
+    padding: 10px 1.25rem;
+    border:none;
+    border-radius: 0 !important;
+}
+.card-header h3{
+    font-size: 15px;
+    position: relative;
+}
+.card-block ul{
+    padding-left: 25px;
+    font-weight: normal;
+}
+.card-block p{font-weight: normal;}
+.card-header a i{
+    float:left;
+    font-size:25px;
+    padding:5px 0;
+    margin:0 25px 0 0px;
+    color:#195C9D;
+}
+.card-header i{
+    float:right;        
+    font-size:30px;
+    width:1%;
+    margin-top:8px;
+    margin-right:10px;
+}
+.card-header a{
+    width:97%;
+    float:left;
+    color:#565656;
+    text-decoration:none;
+}
+.card-header p{
+    margin:0;
+}
+.card-header h3{
+    margin:0 0 0px;
+    font-size:16px;
+    font-family: "Poppins",sans-serif;
+    font-weight:bold;
+    color:#fff;
+}
+.card-block {
+    -moz-box-flex: 1;
+    flex: 1 1 auto;
+    padding: 20px;
+    color:#666;
+    box-shadow:inset 0px 4px 5px rgba(0,0,0,0.1);
+    border-top:1px soild #000;
+    border-radius:0;
+    font-family: "Poppins",sans-serif;
+    font-weight: 501;
+}
+
+.register-benifits-text{
+  color:#666;
+  margin-left: 25px;
+  margin-bottom: 15px;
+}
+
+table{
+	width: 100%;
+margin-bottom: 20px;
+background-color: transparent;
+border-spacing: 0;
+border-collapse: collapse;
+}
+td{
+	border: 1px solid
+#dbdbdb;
+padding: 7px;
+text-align: center;
+}
+
+#allpacakage {
+    background: url(../images/fees_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    left: 0;
+}
+#allpacakage::before {
+    content: "";
+    background: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+    top: 0;
+}
+.block_heading {
+    width: 100%;
+    display: inline-table;
+}
+#allpacakage .block_heading h2 {
+    color: #fff;
+}
+.block_heading h2 {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 26px;
+    color: #000;
+    font-weight: 600;
+    margin-bottom: 53px;
+    position: relative;
+}
+.block_heading h2:after {
+    content: '';
+    display: block;
+    width: 75px;
+    height: 6px;
+    background: #5cb85c;
+    border-radius: 3px;
+    margin: 14px 0 0;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    left: 50px;
+    bottom: 0;
+    
+}
+
+#allpacakage .benifits-ul {
+    margin: 0 0px 30px 0px;
+    padding: 0;
+    float: left;
+    width: 90%;
+    margin-left: 215px;
+}
+
+.partners {
+    position: relative;
+}
+.partners h5 {
+    text-align: center;
+    font-weight: 600;
+    color: #4a4a4a;
+    margin-top: 25px;
+    margin-bottom: 31px;
+    font-size: 18px;
+    text-transform: uppercase;
+    position: relative;
+}
+.partners h5:after {
+    width: 50px;
+    height: 5px;
+    position: absolute;
+    content: "";
+    bottom: -12px;
+    left: 43%;
+    background-color: #18ba60;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+.clients_counts {
+    display: flex;
+}
+.partners .img {
+    display: flex;
+    justify-content: center;
+}
+.partners .img img {
+    width: 40%;
+    height: 68px;
+    object-fit: contain;
+}
+.happy_clients {
+    padding: 10px;
+    box-shadow: 0 6px 9px #b5b5b5;
+    text-align: center;
+    height: 70px;
+    border-radius: 8px;
+    background-image: linear-gradient(45deg, #0f9353, #02d060);
+    color: #fff;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 128px;
+    margin: 0 auto;
+    margin-right: 10px;
+    font-size: 12px;
+}
+.happy_clients_bold {
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+}
+
+
+/*here is the syle of why us*/
+.why-us-img-div{
+  margin-top: 50px;
+}
+.why-us-img{
+width: 33%;
+}
+/*here is the syle of why us*/
+
+/*here is the style of footer accordation*/
+.accordaion-main-div{
+  height: 50px;
+width: 100%;
+background-color:#3a526a;
+margin: 25px 0px 0px 0px;
+color: white;
+cursor: pointer;
+}
+.accordion-cus-head{
+  font-weight: 600;
+line-height: 47px;
+margin-left: 40px;
+}
+.child-ans-div-1{
+  width: 100%;
+  color: #66667a;
+  border: 1px solid #66667a;
+}
+.child-ans-text{
+  margin-left: 37px;
+  margin-top: 10px;
+}
+/*here is the style of footer accordation*/
+
+/*here is the custom what we offer and requirement*/
+.custom-ul-style{
+  margin-top: 18%;
+}
+/*here is the custom what we offer and requirement*/
+
+
+.link-text{
+  color: white;
+}
+
+
+.custom_tab{width: 50%;margin: 0 auto;}
+.custom_tab .nav-tabs{
+    background: #f1f1f1;
+    width: 74%;
+    margin: 0 auto;
+    font-size: 17px;
+    font-weight: 600;
+}
+.custom_tab .nav-tabs li a{color: #000}
+.custom_tab .nav-tabs li{width: 209px;text-align: center;}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
+    background-color: #4caf50;
+    color: #fff;
+}
+.custom_tab .tab-content ul li{
+    background: url(/images/tick_li.svg)left 3px;
+    background-size: 15px;
+    background-repeat: no-repeat;
+    padding-left: 25px;
+}
+.custom_tab .tab-content {
+    padding: 28px 32px 33px 32px;
+    border: 1px solid #c7f5c7;
+    background: #f0fff0;
+   
+}
+.custom_tab .tab-content ul{
+    list-style: none;
+}
+.custom_tab .tab-content ul li{margin-bottom: 5px;font-size: 17px;}
+.free_consult{
+    text-align: center;
+    padding: 40px 0 40px 0;
+    font-size: 20px;
+    display: table;
+    margin: 0 auto;
+}
+.mobile_view{
+    display: none;
+}
+.free_consult a{
+    color: #000;
+    background: #ffc801;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    box-shadow: 2px 3px 5px #cac9c9;
+    display: inline-table;
+    animation: blinkingBackground 1s infinite;
+}
+
+@keyframes blinkingBackground{
+		0%		{ background-color: #bd8300;}
+        50%     {background-color: #efa706;}
+		100%	{ background-color: #ffd401;}
+}
+
+.packages{padding: 50px 0;float: left;width: 100%;}
+.register-benifits-text{width: 30%;margin-right: -1px !important;min-height: 377px !important;}
+.register-benifits-text ul{padding: 14px 0;list-style: none;}
+.register-benifits-text ul li{padding: 5px 0;}
+.register-benifits-text span{font-size: 18px !important;}
+.wrimagecard {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    text-align: left;
+    position: relative;
+    background: #effeed;
+    box-shadow: 12px 15px 20px 0px rgba(46, 61, 73, 0.15);
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    border: 2px solid #9adb93;
+    margin-bottom: 35px;
+    min-height: 165px;
+}
+.gst_rdiobtn label{width: 100%}
+.gst_rdiobtn{border: 1px solid #d6d6d6;}
+.wrimagecard .fa {
+    position: relative;
+    font-size: 70px;
+}
+
+.wrimagecard-topimage_header {
+    padding: 8px;
+    text-align: center;
+}
+.wrimagecard-topimage_header img{margin-bottom: 20px;}
+a.wrimagecard:hover,
+.wrimagecard-topimage:hover {
+    box-shadow: 2px 4px 8px 0px rgba(46, 61, 73, 0.2);
+}
+
+.wrimagecard-topimage a {
+    width: 100%;
+    height: 100%;
+    display: block;
+    cursor: auto;
+}
+
+.wrimagecard-topimage_title {
+    padding: 20px 24px;
+    height: 80px;
+    padding-bottom: 0.75rem;
+    position: relative;
+}
+
+.wrimagecard-topimage a {
+    border-bottom: none;
+    text-decoration: none;
+    color: #525c65;
+    transition: color 0.3s ease;
+}
+
+.wrimagecard-topimage_header h4 {
+    padding-top: 10px;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+.advantages .block_heading h2 {
+    margin-bottom: -2px;
+}
+@media screen and (max-width:768px){
+    
+    .title{font-family: "Poppins",sans-serif;text-align: center;font-size: 18px;color:#2e363a;font-weight: 600;line-height: 25px;}
+    #advantage .block_heading h2::after{top: 55px;}
+    .title-content{font-size: 14px;margin: 0px 0 37px;line-height: 27px;}
+    .card-header h3{font-size: 14px;}
+    td {padding: 0px;font-size: 13px;}
+    .register-benifits-text{margin-left: 0;}
+    .block_heading h2{font-size: 22px;}
+    .wrimagecard{min-height: 217px;}
+    .wrimagecard img{width: 35%;}
+    .block_padding{padding-bottom: 0;}
+    .custom_tab{width: 100%;}
+    .custom_tab .nav-tabs{width: 100%;}
+    .custom_tab .tab-content ul li{font-size: 15px;}
+    .custom_tab .nav-tabs li{width: 159px;font-size: 14px;}
+    .custom_tab .tab-content{padding: 21px 20px 29px 17px;}
+    #allpacakage .benifits-ul{margin-left: 15px;}
+}
+
+@media screen and (max-width: 600px) {
+    #howWework .fssai_registration .col-md-3 {
+    width: 100%;
+}
+    .process_section p {
+    font-size: 15px;
+    min-height: 32px;
+}
+  .top-mobile{
+  	font-size: 8px;
+  	font-weight: bold;
+    line-height: 48px;
+  }
+  .custom-pull-left{
+float: left !important;
+width: 100%;
+background-color: #385067;
+}
+.nav-link a{
+	color: white !important;
+	font-weight: 600;
+}
+.container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header {
+    margin-right: -15px;
+    margin-left: 0px;
+}
+
+.accordaion-main-div {
+    height: auto;
+}
+.accordion-cus-head {
+    line-height: 24px;
+    font-size: 14px;
+    margin-left: 16px;
+    padding: 10px;
+}
+.child-ans-text {
+    margin-left: 17px;
+}
+.child-ans-div-1 {
+    margin-top: -11px;
+}
+
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover {
+    background-color: #4d4343;
+}
+.nav > li > a:focus, .nav > li > a:hover {
+    background-color: #4d4343;
+}
+
+.custom-ul-style{
+  margin-top: 0%;
+}
+.logo-img-class{
+    height: 100%;
+    width: 80%;
+}
+
+}
+
+#howWework{
+    margin-bottom:45px;
+  }

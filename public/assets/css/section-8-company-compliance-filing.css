@@ -1,0 +1,279 @@
+
+.common_fb{
+    float:left;
+    width:100%;
+}
+.ngo_one{
+    background-color:#CCFDC8;
+    padding: 40px 0;
+}
+.new_control {
+    height: 40px;
+    font-size: 14px;
+    width: 100%;
+    border: 1px solid #ccc;
+    color: #919191;
+}
+.ngo_one_left_inner{
+    margin-top:70px;
+}
+.ngo_one_right{
+    box-shadow: 2px 1px 17px 0px rgba(0, 0, 0, 0.2);
+    padding: 25px 15px;
+    border-radius: 12px;
+    background-color: #fff;
+}
+.ngo_form{
+    margin-top:25px;
+}
+.ngo_one_right h5{
+    text-align: center;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 600;
+}
+.tsfb_started {
+    background-color: #129805;
+    height: 40px;
+    border-radius: 24px;
+    color: #fff !important;
+    font-size: 16px;
+    font-weight: 700;
+    width: 100%;
+    margin-top: 20px;
+}
+.ngo_one_left h1{
+    color:#000;
+    font-size:31px;
+    font-weight: 700;
+}
+.ngo_one_left p{
+    margin-top:20px;
+    font-size:15px;
+    color:#000;
+}
+.form_block_left_inner_holder {
+    margin-top: 35px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+.form_block_left_inner_left_holder {
+    display: grid;
+    grid-template-columns: 130px 1fr;
+    align-items: center;
+    grid-gap: 15px;
+}
+.form_block_left_inner_left_holder_border {
+    border-right: 2px solid #000;
+}
+.fblil_right p {
+    color: #000;
+    font-size: 15px;
+    margin-top: 0;
+    font-weight: 600;
+}
+.fblil_right p span {
+    display: block;
+}
+.ngo_one_ul_li ul{
+    margin-top:30px;
+    column-count: 2;
+}
+.ngo_one_ul_li ul li{
+    font-size: 15px;
+    color: #000;
+    margin-bottom: 20px;
+    padding-left: 45px;
+    position: relative;
+    list-style: none;
+}
+.ngo_one_ul_li ul li::after{
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #F06906;
+    content: url(https://www.onlinelegalindia.com/images/ngo-compliance/check.webp);
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    overflow: auto;
+}
+.ngo_two{
+    padding: 40px 0 10px 0;
+}
+.ngo_two_heading h3{
+    text-align: center;
+    font-size:28px;
+    color:#000;
+    font-weight: 600;
+    position: relative;
+}
+.ngo_two_heading h3::after{
+    height: 3px;
+    position: absolute;
+    content: "";
+    bottom: -6px;
+    background-color: #129805;
+    width: 200px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.ngo_two_text p, .ngo_sub_heading p{
+    margin-top:20px;
+    color:#000;
+    font-size:14px;
+    line-height: 24px;
+}
+.new_text_block_two p, .heading_text_block p{
+    color:#000;
+    font-size:14px;
+    line-height: 24px; 
+}
+.common_p_block p{
+    color:#000;
+    font-size:14px;
+    line-height: 24px;
+    margin-bottom:20px;   
+}
+.ngo_three_text p{
+    color:#000;
+    font-size:14px;
+    line-height: 24px;
+}
+.common_p_block p:last-child{
+    margin-bottom:0;
+}
+.ngo_sub_heading h6{
+    font-size: 22px;
+    color: #212121;
+}
+.ngo_sub_heading{
+    margin-top:35px;
+}
+.new_block_section{
+    margin-top:50px;
+}
+.common_sub_heading h6{
+    font-size: 22px;
+    color: #212121;
+}
+.img_block{
+    margin-top:15px;
+}
+.common_right{
+    margin-top:65px;
+}
+.c_ul_li{
+    margin-top:20px;
+}
+.c_ul_li h4{
+    color:#000;
+    font-size:18px;
+    font-weight: 600;
+}
+.c_ul_li ul{
+    margin-top:15px;
+}
+.c_ul_li ul li{
+    list-style: none;
+    color:#000;
+    font-size:14px;
+    margin-bottom:15px;
+}
+.ngo_three{
+    padding-bottom:40px;
+}
+.last_button{
+    margin-top:15px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.last_button_holder{
+    width:180px;
+}
+.span_color{
+    color:#129805;
+}
+.new_text_block_one h4, .new_text_block_two h4{
+    font-size:22px;
+    color:#000;
+    font-weight:bold;
+}
+.new_text_block_one, .new_text_block_two{
+    margin-top:25px;
+}
+.heading_text_block{
+    margin-top:18px;
+}
+.heading_text_block h5{
+    color:#000;
+    font-size:18px;
+    margin-bottom:7px;
+}
+.col7_padding{
+    padding-left:0;
+}
+@media screen and (max-width: 767px){
+    .new_text_block_one h4, .new_text_block_two h4{
+        font-size:18px;
+    }
+.custom_row{
+    display:grid;
+}
+.div_one{
+    order:2;
+    padding: 0;
+}
+.div_two{
+    order:1;
+    padding: 0;
+}
+.ngo_one_ul_li ul{
+    column-count: 1;
+}
+.form_block_left_inner_holder{
+    grid-template-columns: 1fr;
+    margin-top:15px;
+}
+.ngo_one_left h1{
+    font-size: 25px;
+}
+.ngo_one_ul_li ul li{
+    font-size:14px;
+}
+.ngo_one_left_inner {
+    margin-top: 20px;
+}
+.form_block_left_inner p {
+    margin-top: 10px;
+}
+.fblil_right p {
+    font-size: 14px;
+}
+.form_block_left_inner_left_holder_border{
+    border-right:none;
+}
+.custom_container{
+    padding: 0 12px;
+}
+.ngo_two_heading h3, .ngo_sub_heading h6{
+    font-size:19px;
+}
+.common_sub_heading h6{
+    font-size:19px;
+}
+.common_right{
+    margin-top:20px;
+}
+.new_block_section {
+    margin-top: 20px;
+}
+}
+
+
+
+
+

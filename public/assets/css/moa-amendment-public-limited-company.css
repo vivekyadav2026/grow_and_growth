@@ -1,0 +1,206 @@
+.title{font-size: 25px;}
+
+.top-mobile {color: white;line-height: 40px;font-weight: 600;}
+
+.nav-link a {color: black;font-weight: 600;}
+.title-content {margin-bottom: 0;}
+
+#contact input[type='text'],
+#contact input[type='email'],
+#contact input[type='tel'],
+#contact input[type='url'],
+#contact textarea,
+#contact button[type='submit'] {
+    font: 400 12px/16px 'Roboto', Helvetica, Arial, sans-serif;
+}
+
+.benifts-heading {color: white;margin-top: 30px;font-weight: 600;font-family: 'Poppins', sans-serif;}
+
+.benifts-heading::after {width: 50px;height: 5px;position: absolute;content: '';bottom: -20px;left: 18px;background-color: #18ba60;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;}
+
+.card {-moz-box-direction: normal;-moz-box-orient: vertical;background-color: #fff;border-radius: 0.25rem;display: flex;flex-direction: column;position: relative;margin-bottom: 1px;border: none;}
+/*here is the style of footer accordation*/
+
+.accordion-cus-head {font-weight: 600;line-height: 47px;margin-left: 40px;}
+.child-ans-text {margin-left: 37px;margin-top: 10px;}
+
+/*here is the style of footer accordation*/
+
+.our-associates {width: 20%;float: left;}
+.right-side-img-title {font-size: 13px;font-weight: bold;}
+.right-side-img-desc {font-size: 12px;}
+.gst_rdiobtn ul li b {margin-left: 0;}
+.price_active {background: #e4ffe4;border: 3px solid #78e478;}
+.process_section {height: 200px;}
+.gst_rdiobtn input[type='radio']:checked~.check {border: 4px solid #81d481;}
+.gst_rdiobtn input {visibility: hidden;}
+.gst_rdiobtn {display: flex;margin-left: 0px;border: 3px solid #eaeaea;}
+.gst_rdiobtn ul {margin-left: 20px;}
+.gst_rdiobtn .check {
+    display: block;
+    position: absolute;
+    border: 4px solid #aaaaaa;
+    border-radius: 100%;
+    height: 25px;
+    width: 25px;
+    top: 12px;
+    left: 5px;
+    z-index: 5;
+    transition: border 0.25s linear;
+    -webkit-transition: border 0.25s linear;
+}
+
+.gst_rdiobtn input[type='radio']:checked~.check::before {
+    background: #049244;
+}
+
+.gst_rdiobtn input[type='radio']:checked~.check::before {
+    display: block;
+    position: absolute;
+    content: '';
+    border-radius: 100%;
+    height: 11px;
+    width: 11px;
+    top: 3px;
+    left: 3px;
+    margin: auto;
+    transition: background 0.25s linear;
+    -webkit-transition: background 0.25s linear;
+}
+
+.price_active {
+    background: #e4ffe4 !important;
+    border: 3px solid #78e478 !important;
+}
+
+.gst_rdiobtn label {
+    width: 100%;
+    font-weight: 500;
+}
+
+/*Custom Radio for Form Package end*/
+
+@media screen and (max-width: 600px) {
+    #topheader { height: 82px; }
+    .top-mobile {
+        font-size: 10px;
+    }
+    .custom-pull-left {
+        float: left !important;
+        width: 100%;
+        background-color: #385067;
+    }
+    .accordaion-main-div {
+        height: auto;
+    }
+    .block_heading h2::after{top: 90%;}
+    .block_heading h2{margin-bottom: 53px !important;}
+    .accordion-cus-head {
+        line-height: 24px;
+        font-size: 14px;
+        margin-left: 16px;
+        padding: 10px;
+    }
+    .process_section {
+        height: auto;
+    }
+    .child-ans-text {
+        margin-left: 17px;
+    }
+    .child-ans-div-1 {
+        margin-top: -11px;
+    }
+    
+    .our-associates {
+        width: 50%;
+    }
+    
+    .title {
+        font-size: 22px;
+    }
+}
+
+
+
+.block_padding_two .wrap {
+    display: flex;
+    background: white;
+    padding: 1rem 1rem 1rem 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 7px 7px 30px -5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+}
+
+.block_padding_two .wrap:hover {
+    background: linear-gradient(135deg, #6394ff 0%, #385067 100%);
+    color: white;
+}
+
+.block_padding_two .ico-wrap {
+    margin: auto;
+}
+
+.block_padding_two .mbr-iconfont {
+    font-size: 4.5rem !important;
+    color: #313131;
+    margin: 1rem;
+    padding-right: 1rem;
+}
+
+.block_padding_two .vcenter {
+    margin: auto;
+}
+
+.block_padding_two .mbr-section-title3 {
+    text-align: left;
+}
+
+.block_padding_two h2 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.block_padding_two .display-5 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.4rem;
+}
+
+.mbr-bold {
+    font-weight: 700;
+}
+
+.block_padding_two p {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    line-height: 25px;
+}
+
+.block_padding_two .display-6 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1re;
+}
+
+.mbr-justify-content-center {
+    margin-top: 100px;
+}
+
+.public_company .wrap {
+    height: 235px;
+}
+
+.public_company .wrap img {
+    width: 55%;
+}
+
+.wrap .display-5 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+}
+
+
+.new_md_section{
+    margin-bottom:30px;
+  }
+  #howWework{
+    float:left !important;
+  }

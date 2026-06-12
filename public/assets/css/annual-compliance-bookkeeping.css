@@ -1,0 +1,895 @@
+.common_class {
+  float: left;
+  width: 100%;
+}
+.one {
+  background-image: url(https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/banner-background-image.webp);
+  /* clip-path: polygon(60% 0%, 80% 0, 100% 0, 100% 70%, 71% 90%, 50% 100%, 20% 84%, 0% 70%, 0 0, 15% 0%); */
+  padding: 40px 0 174px 0;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.custom_row{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap:30px;
+}
+.col_two{
+    display: flex;
+    justify-content: flex-end;
+}
+.one_left h1{
+    font-size:43px;
+    color:#000;
+    line-height: 51px;
+    font-weight: bold;
+}
+.one_left p{
+    margin-top:15px;
+    color:#000;
+    font-size:22px;
+    line-height: 30px;
+}
+.one_left_button{
+    margin-top:30px;
+}
+.get_started_button{
+    background-color:#F06906;
+    color:#fff;
+    font-size:18px;
+    font-weight: bold;
+    width:212px;
+    height:42px;
+}
+.get_started_button:hover{
+    color:#2A2A2A;
+    font-weight: unset;
+    background-color: transparent;
+    border:2px solid #F06906;
+      font-weight: bold;
+}
+.learn_more_button{
+     color:#2A2A2A;
+    font-weight: unset;
+    background-color: transparent;
+    border:2px solid #F06906;
+       font-size:18px;
+    width:212px; 
+    font-weight: bold;
+    height:42px;
+    margin-left:20px;
+}
+.learn_more_button:hover{
+ background-color:#F06906;
+    color:#fff;
+    font-size:18px;
+    font-weight: bold;
+}
+.one_bottom{
+    margin-top:60px;
+}
+.one_bottom_block{
+    text-align: center;
+}
+.one_bottom_block p{
+    margin-top:10px;
+    color:#000000;
+    font-size:22px;
+    font-weight: bold;
+    line-height: 30px;
+}
+.one_bottom_block p span{
+    display: block;
+}
+.two{
+    padding: 60px 0;;
+}
+.two_left_wrapper {
+    position: relative;
+    display: inline-block; 
+}
+.two_left {
+  position: relative;
+  background-color: #fff;
+  padding: 32px;
+  border: 1px solid #919191;
+  border-radius: 8px;
+  z-index: 1;
+}
+.one_right h5{
+    color:#323232;
+    font-size:28px;
+    text-align: center;
+    font-weight: bold;
+}
+.form_one_right {
+    margin-top: 25px;
+}
+.new_control {
+    height: 40px !important;
+    font-size: 14px;
+    width: 100%;
+    border: 1px solid #ccc;
+    color: #919191;
+}
+.tsfb_started{
+    background-color: #F06906;
+    height: 40px;
+    color: #fff !important;
+    font-size: 16px;
+    font-weight: 700;
+    width: 100%;
+    margin-top: 20px;
+}
+.two_left_wrapper::before {
+  content: "";
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  width: 100%;
+  height: 100%;
+  background-color: #1e6fed;
+  z-index: 0;
+  border-radius: 8px;
+}
+.two_right{
+  padding-left:80px;
+}
+.two_right{
+  margin-top:80px;
+}
+.two_right h2{
+  color:#111213;
+  font-size:40px;
+  font-weight: bold;
+  line-height: 48px;
+}
+.two_right h2 span{
+  color:#F06906;
+}
+.two_right p{
+  color:#494949;
+  font-size:16px;
+  line-height: 24px;
+  margin-top:26px;
+}
+.three_common_sub_heading, .five_inner{
+  text-align: center;
+}
+.three_common_sub_heading h2{
+  font-size:40px;
+  color: #111213;
+  font-weight: bold;
+  line-height: 48px;
+}
+.five_inner h2{
+    font-size:40px;
+  color: #fff;
+  font-weight: bold;
+  line-height: 48px;
+}
+.three_common_sub_heading h2 .span_choose, .five_inner h2 span{
+  color:#F06906;
+}
+.three_common_sub_heading h2 .span_choose_color, .five_inner h2 span{
+  display:block;
+}
+.three_common_sub_heading p{
+  color:#494949;
+  font-size:16px;
+  line-height: 24px;
+  margin-top:26px;
+}
+.three_common_sub_heading p span{
+  display:block;
+}
+.three_inner_block{
+  margin-top:40px;
+}
+.trust_reviewstrat h3{
+  color:#494949;
+  font-size:20px;
+  margin:14px 0;
+}
+.trust_reviewstrat p{
+  color:#494949;
+  font-size:16px;
+  line-height: 24px;
+}
+#reviews .item{
+padding: 0 15px;
+}
+#reviews .owl-nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:20px;
+}
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev{
+width:30px;
+height:30px;
+border-radius: 100%;
+background-color:#F06906;
+display:flex;
+align-items: center;
+justify-content: center;
+
+}
+.owl-carousel .owl-nav button.owl-next span, .owl-carousel .owl-nav button.owl-prev span{
+font-size:36px;
+color:#fff;
+    position: relative;
+    top: -2px;
+}
+.owl-carousel .owl-nav button.owl-next{
+  margin-left:10px;
+}
+.four{
+  padding: 60px 0;
+}
+.four_inner{
+  width:80%;
+  margin:0 auto;
+  padding: 20px;
+  border:1px solid #CACACA;
+  border-radius: 25px;
+}
+.four_inner_right{
+      display: flex;
+    justify-content: flex-end;
+}
+.four_inner_left p{
+color:#111213;
+font-size:20px;
+line-height: 28px;
+}
+.get_started_button2{
+  width:270px;
+}
+.four_inner_left_button{
+  margin-top:40px;
+}
+.five{
+  background-color:#082832;
+  padding: 60px 0;
+}
+.five_inner p{
+  color: #FFFFFF;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 26px;
+}
+.five_inner_block1{
+  padding-top:40px;
+  width:80%;
+  margin:0 auto;
+}
+.five_inner_block12{
+  padding-top:40px;
+}
+.five_inner_block1_left h5{
+color:#fff;
+text-align: center;
+font-size:28px;
+padding: 14px 0;
+background-color: #1A73E8;
+}
+.five_inner_block1_left{
+  background-color:#fff;
+  border:1px solid #AFAFAF;
+}
+.five_inner_block1_left_inner{
+  padding: 30px 20px;
+  height: 300px;
+}
+.five_inner_block1_left_inner ul li, .six_inner_right ul li{
+  color:#000000;
+  font-size:18px;
+  line-height: 26px;
+  position: relative;
+  list-style: none;
+  padding-left:30px;
+  margin-bottom:14px;
+}
+.five_inner_block1_left_inner ul li::after, .six_inner_right ul li::after{
+    font-family: "Font Awesome 5 Free";
+    content: "\f058";
+    font-weight: 900;
+    position: absolute;
+    left: 0;
+    top: 3px;
+    color: #249E18;
+    font-size: 18px;
+    line-height: 1;
+}
+.price_section{
+  text-align: center;
+  margin-top:30px;
+}
+.price_section h4{
+  color:#fff;
+  font-size:28px;
+}
+.price_section p{
+  font-size:14px;
+  color:#fff;
+  margin-top:10px;
+}
+.four_inner_left_button99{
+  margin-top:20px;
+}
+.get_started_button3:hover{
+  color:#fff
+}
+.six{
+  padding: 60px 0;
+}
+.six_inner_right{
+  padding: 40px 30px;
+  border:1px solid #6E6E6E;
+  border-radius: 17px;
+}
+.six_inner_right h5{
+  color:#000000;
+  font-size: 24px;
+  line-height: 32px;
+  margin-bottom:18px;
+}
+.six_inner_left{
+  padding-right:80px;
+}
+.six_inner_left h4 {
+  color:#111213;
+  font-size:40px;
+  line-height:48px;
+}
+.six_inner_left h4 span{
+color:#F06906;
+}
+.six_inner_left p{
+  margin-top:16px;
+  color:#494949;
+  font-size:16px;
+  line-height: 24px;
+}
+.seven_inner_sub_heading{
+  text-align: center;
+}
+.seven_inner_sub_heading h2{
+color:#111213;
+font-size:40px;
+line-height: 48px;
+}
+.seven_inner_sub_heading h2 span{
+  color:#F06906;
+  display: block;
+}
+.seven_inner_sub_heading p{
+  color:#494949;
+  font-size: 16px;
+  line-height:24px;
+  margin-top: 26px;
+}
+.seven_row_block{
+  margin-top:45px;
+  text-align: center;
+}
+.seven_row_block h6{
+  color:#494949;
+  font-size:20px;
+  line-height: 28px;
+  margin:12px 0;
+}
+.seven_row_block p{
+  color:#494949;
+  font-size:16px;
+  line-height: 24px;
+}
+.eight{
+  padding: 40px 0;
+  background-image: linear-gradient(#EBF1FF, #FFFFFF, #F2F5FF, #F2F5FF);
+  margin:60px 0;
+}
+.eight_inner{
+  width:80%;
+  margin:0 auto;
+  text-align: center;
+}
+.eight_inner p{
+  font-size:24px;
+  color:#111213;
+  line-height: 32px;
+  font-weight: bold;
+}
+.nine_inner_section{
+  width:95%;
+  margin:0 auto;
+}
+.nine_inner_section_right h5{
+  color:#2C2C2C;
+  font-size:40px;
+  font-weight: bold;
+  line-height: 48px;
+}
+.nine_inner_section_right ul{
+  margin-top:20px;
+}
+.nine_inner_section_right ul li{
+position: relative;
+    padding-left: 30px;
+    margin-bottom: 12px;
+    font-size: 16px;
+    line-height: 27px;
+    color: #000000;
+    font-weight: 400;
+    list-style: none;
+}
+.nine_inner_section_right ul li::before{
+  font-family: "Font Awesome 5 Free";
+    content: "\f00c";
+    font-weight: 900;
+    position: absolute;
+    left: 0;
+    top: 3px;
+    color: #FFAC6E;
+    font-size: 18px;
+    line-height: 1;
+}
+.ten{
+  padding: 60px 0;
+}
+.ten_section_inner h5{
+  color:#020202;
+  font-size:40px;
+  font-weight: bold;
+  line-height: 48px;
+  text-align: center;
+}
+.accordion_toggle_ten {
+  display:block;
+}
+.ten_section_inner_accordion{
+  margin-top:40px;
+}
+.panel_default_ten{
+  margin-bottom:20px !important;
+}
+.panel_default_ten > .panel_heading_ten{
+    background-color: #D8EDFF;
+    border-color:unset;
+}
+.panel_default_ten{
+      border-color:unset;
+      border:none;
+}
+.panel_default_ten > .panel_heading_ten + .panel_collapse_ten > .panel_body_ten{
+border-top-color: #A9A9A9;
+border-top:1px solid #A9A9A9;
+}
+.panel_body_ten{
+  border:1px solid #A9A9A9;
+}
+.panel_collapse_ten {
+  margin-top:20px;
+}
+.panel_body_ten p{
+  font-size:16px;
+  color:#000000;
+  line-height: 24px;
+}
+.panel-heading .accordion-toggle.collapsed:after {
+    color:#000;
+    content: '\f107'; 
+    font-family: "Font Awesome 5 Free"; 
+    font-style: normal;
+    font-weight:800;
+    font-size:20px;
+  }
+.panel-heading .accordion-toggle:after {
+    font-family: "Font Awesome 5 Free"; 
+    content: "\f106"; 
+    float: right; 
+    color:#000;
+    font-weight:800;
+  }
+   .one_left ul{
+    margin-top:20px;
+   }
+  .one_left ul li{
+    position: relative;
+    padding-left: 50px;
+    margin-bottom: 26px;
+    font-size: 19px;
+    line-height: 37px;
+    color: #000000;
+    font-weight: 400;
+    list-style: none;
+  }
+   .one_left ul li::after{
+     content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 6px;
+   }
+   .one_left ul .streamline_one::after{
+      background-image: url('https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/end-to-end-compliance.webp');
+   }
+   .one_left ul .streamline_two::after{
+      background-image: url('https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/expert-bookkeeping-support.webp');
+   }
+  .one_left ul .streamline_three::after{
+      background-image: url('https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/timely-roc-filing.webp');
+   }
+  .one_left ul .streamline_four::after{
+      background-image: url('https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/no-penalty-assurance.webp');
+   }
+
+
+
+
+
+
+
+#allpacakage .register-benifits-text {
+  min-height: 898px;
+}
+#allpacakage .register-benifits-text span:nth-child(2) {
+  font-size: 12px;
+  margin-bottom: 0 !important;
+  margin-top: -14px;
+  font-weight: 600;
+}
+#allpacakage .register-benifits-text {
+  margin-right: 0;
+}
+#allpacakage .register-benifits-text {
+  min-height: 1004px;
+}
+#allpacakage .col-md-3 {
+  padding-right: 0;
+}
+#contact h4 {
+  font-size: 16px;
+}
+.nav_tabs_afc_bkk{
+  border-bottom: unset;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nav_tabs_afc_bkk li{
+  width:330px;
+  height:52px;
+}
+.nav_tabs_afc_bkk > li {
+  cursor: pointer;
+}
+.nav_tabs_afc_bkk > li > a{
+  border:1px solid #fff;
+  border-radius: 0 !important;
+  text-align: center;
+  font-size:20px;
+  font-weight: bold;
+  color:#fff;
+  cursor: pointer !important;
+}
+.nav_tabs_afc_bkk > li > a:hover{
+    color: #555;
+}
+.header_td{
+  color:#fff;
+  font-size:16px;
+}
+.tab_content_afc_bkk{
+  margin-top:40px;
+}
+.tab_pane_afc_bkk_inner table tr td{
+  color:#fff;
+}
+#contact{
+  background:unset;
+  padding: unset;
+  box-shadow: unset;
+}
+.new_fieldset{
+  display:grid;
+  grid-template-columns: 1fr 30px 1fr;
+}
+#contact #captcha_code{
+  width:100% !important;
+}
+#captcha_holder{
+    width: 100%;
+    height: 42px;
+    object-fit: cover;
+}
+#contact #btnrefresh{
+  margin-top: 6px;
+  margin-left:0;
+}
+#contact button[type="button"]{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size:18px !important;
+  background-color:#F06906 !important;
+}
+.line_through{
+  position: relative;
+}
+.line_through::after{
+    position: absolute;
+    content: "";
+    height: 1.5px;
+    background-color: #fff;
+    left: -6px;
+    top: 7px;
+    width: 53px;
+}
+.three_common_sub_heading_new h2{
+  color:#fff;
+}
+.five_inner_package h2{
+  color:#383838;
+}
+.five_inner_package h2 span{
+  display:block;
+}
+.five_inner_package p{
+  color:#383838;
+}
+.twenty {
+  margin-top:60px;
+}
+.twenty_inner{
+  margin-top:40px;
+}
+.nine{
+  margin-bottom:60px;
+}
+@media (min-width: 768px) {
+       .col_one{
+        margin-left:17px;
+    }
+}
+@media (min-width: 992px) {
+       .col_one{
+        margin-left:27px;
+    }
+}
+@media (min-width: 1200px) {
+    .col_one{
+        margin-left:128px;
+    }
+}
+
+
+
+
+@media screen and (max-width: 767px) {
+  .nine{
+  margin-bottom:30px;
+}
+  .why_choose_us_button{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .twenty {
+    margin-top: 40px;
+}
+  #contact #captcha_code[type="text"]{
+    width:100% !important;
+  }
+  .second_tab{
+    margin-top:16px !important;
+  }
+  .nav_tabs_afc_bkk{
+    flex-direction: column;
+    padding: 0 15px;
+  }
+  .nav_tabs_afc_bkk li{
+    width: 100%;
+  }
+  .nav_tabs_afc_bkk > li > a{
+    font-size:16px;
+    padding: 10px 5px;
+  }
+    .custom_row{
+        padding: 0 15px;
+    }
+  #allpacakage .register-benifits-text {
+    min-height: auto;
+  }
+  .gift_voucher_main {
+    position: relative;
+    display: inline-block;
+    bottom: 68px;
+  }
+  .block_padding {
+    padding: 40px 15px;
+  }
+  .gst_rdiobtn ul {
+    margin: 0;
+}
+  .custom_row{
+    grid-template-columns: 1fr;
+  }
+  .one_left h1{
+    font-size:40px;
+    line-height: 48px;
+  }
+  .one_left p{
+        font-size: 18px;
+    line-height: 26px;
+  }
+  .one{
+    background-color:#F4EDE4;
+    background-image:unset;
+    padding: 20px 0 40px 0;
+  }
+  .get_started_button, .learn_more_button{
+    font-size:16px;
+    width:140px;
+  }
+  .one_left_button{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .two{
+    padding: 40px 0;
+  }
+  .two_left_wrapper::before{
+    display: none;
+  }
+  .two_left{
+    padding: 20px 15px;
+  }
+  .two_right{
+    margin-top:30px;
+    padding-left:0;
+  }
+  .two_right h2, .three_common_sub_heading h2, .five_inner h2, .six_inner_left h4, .seven_inner_sub_heading h2, .nine_inner_section_right h5, .ten_section_inner h5{
+      font-size: 28px;
+      line-height: 36px;
+  }
+  .two_right p{
+    margin-top:20px;
+  }
+  .three_common_sub_heading, .five_inner{
+    padding: 0 15px;
+  }
+  .three_common_sub_heading h2 .span_choose_color{
+    display: unset;
+    margin-left:6px;
+  }
+  #reviews .item{
+    padding:0 20px;
+  }
+  .four_inner{
+    width:100%;
+    padding: 20px 10px;
+  }
+  .four{
+    padding: 40px 15px;
+  }
+  .four_inner_left p{
+    font-size:18px;
+    line-height:26px;
+  }
+  .get_started_button2 {
+    width:220px !important;
+  }
+  .four_inner_left_button {
+    margin: 20px 0;
+}
+.five, .six{
+padding: 40px 0;
+}
+.five_inner_block1{
+  width:100%;
+  padding-top:20px;
+}
+.five_inner_block1_right{
+  margin-top:30px;
+}
+.five_inner_block1_left_inner, .seven_inner_sub_heading h2 span{
+  height:unset;
+}
+.five_inner_block1_left h5{
+      font-size: 20px;
+    padding: 14px 0;
+}
+.price_section{
+  padding: 0 15px;
+}
+.six_inner_left{
+  padding-right:0;
+}
+.six_inner_right{
+      padding: 20px 15px;
+}
+.eight_inner{
+  width:100%;
+  padding: 0 15px;
+}
+.eight_inner p{
+    font-size: 18px;
+    line-height: 26px;
+}
+.eight{
+  margin: 40px 0;
+}
+.ten{
+  padding: 40px 0;
+}
+.ten_section_inner_accordion{
+  padding: 0 15px;
+}
+.panel_title_ten{
+  font-size:14px;
+}
+.panel_body_ten p{
+  font-size:14px;
+  line-height: 22px;
+}
+.four_inner_right{
+justify-content:center;
+}
+.three_common_sub_heading p span{
+  display: unset;
+}
+}
+@media screen and (max-width: 354px) {
+#contact #captcha_code[type="text"]{
+  padding-left:2px;
+}
+}
+@media screen and (max-width: 420px) and (min-width: 394px){
+.get_started_button, .learn_more_button{
+  width:175px;
+}
+}
+@media screen and (max-width: 393px) and (min-width: 363px){
+.get_started_button, .learn_more_button{
+  width:160px;
+}
+}
+@media screen and (max-width: 354px) and (min-width: 350px){
+.get_started_button, .learn_more_button{
+  width:150px;
+}
+}
+@media screen and (max-width: 338px) {
+    .two_left {
+        padding: 20px 8px;
+    }
+    #contact #captcha_code[type="text"]{
+      font-size:13.8px;
+    }
+}
+@media screen and (max-width: 333px) {
+  .panel_heading_ten{
+        padding: 18px 10px;
+  }
+}
+@media screen and (max-width: 332px) {
+.get_started_button, .learn_more_button{
+    width:130px;
+  }
+  .get_started_button2 {
+        width: 220px !important;
+    }
+}
+@media screen and (max-width: 321px) {
+  .one_left ul li{
+    font-size:18px;
+  }
+}

@@ -1,0 +1,337 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* body{
+   font-family: 'Montserrat', sans-serif;
+} */
+.trademark_assignment_one img{
+   height:597px;
+   width:100%;
+}
+.trademark_assignment_one{
+   position: relative;
+    float: left;
+    width: 100%;
+}
+.trademark_assignment_one_inner{
+   position:absolute;
+   top:0;
+   left:0;
+   width:100%;
+   height:597px;
+}
+.trademark_assignment_one_left{
+   height:597px;
+   margin:30px 0;
+}
+.trademark_assignment_one_left_inner{
+   background-color:#ffffff;
+   padding:30px 40px;
+}
+.taoli_text_block{
+   text-align:center;
+}
+.taoli_text_block p{
+   color:#2A2A2A;
+   font-size:14px;
+   font-family: 'Montserrat', sans-serif;
+}
+.taoli_text_block h1{
+   color:#2A2A2A;
+   font-size:23px;
+   font-weight:bolder;
+   font-family: 'Montserrat', sans-serif;
+   margin-top:5px;
+}
+.taoli_form_block{
+   margin-top:50px;
+}
+.custom_new_control{
+   width: 100%;
+    height: 38px !important;
+    border-radius: 19px !important;
+    border: none;
+    box-shadow: 2px 3px 17px 3px rgba(0,0,0,0.1);
+    padding-left: 20px;
+    color:#6d6d6d;
+}
+.custom_new_control:focus{
+   box-shadow: 2px 3px 17px 3px rgba(0,0,0,0.1);
+}
+.custom_new_control:focus-visible{
+   outline: none;
+}
+.name{
+   margin-bottom:19px;
+}
+.name:last-child{
+   margin-bottom:0;
+}
+/* ::placeholder {
+  color: #6d6d6d;
+  opacity: 1; 
+}
+
+:-ms-input-placeholder { 
+   color: #6d6d6d;
+}
+
+::-ms-input-placeholder {
+   color:#6d6d6d;
+} */
+
+button[type="submit"]{
+   width:186px !important;
+   height:38px;
+   border-radius: 19px !important;
+   background-color:#4CAF50 !important;
+   color:#fff !important;
+   font-size:24px !important;
+   font-weight:bolder;
+   display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.name_button{
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:10px;
+}
+.trademark_assignment_two{
+   background-color:#F6F6F6;
+   padding:90px 0;
+   float: left;
+    width: 100%;
+}
+.trademark_assignment_two_inner{
+   text-align:center;
+}
+.trademark_assignment_two_inner h2{
+   font-size:25px;
+   color:#2A2A2A;
+   font-family: 'Montserrat', sans-serif;
+   font-weight:600;
+}
+.trademark_assignment_two_inner p{
+   font-size:16px;
+   color:#2A2A2A;
+   font-family: 'Montserrat', sans-serif;
+   margin-top:35px;
+   line-height:30px;
+}
+.trademark_assignment_three{
+   background-color:#ffffff;
+   padding-top:90px;
+   float: left;
+    width: 100%;
+}
+.tat_heading h2{
+   font-size:25px;
+   color:#2A2A2A;
+   font-family: 'Montserrat', sans-serif;
+   font-weight:600;
+   text-align: center;
+}
+.margin-top_block{
+   margin-top:65px;
+}
+.margin_top_block_text{
+   margin-top:35px;
+   height: 220px;
+}
+.margin_top_block1{
+   height:180px;
+}
+.margin_top_block_text h5{
+   font-family: 'Montserrat', sans-serif;
+   color:#373737;
+   font-size:22px;
+   font-weight:600;
+}
+.margin_top_block_text p{
+   font-family: 'Montserrat', sans-serif;
+   color:#373737;
+   font-size:16px;
+   line-height:30px;
+   margin-top:28px;
+}
+.trademark_assignment_banner_mobile{
+   display:none;
+}
+/* input:invalid {
+  background: #fff;
+}
+
+input:focus {
+  background:#fff;
+}
+
+input:valid {
+  background:#fff;
+} */
+ .trademark_assignment_four{
+    padding: 90px 0;
+    float: left;
+    width: 100%;
+    background-color:#2B2B2B;
+ }
+ .trademark_assignment_four_inner{
+   width:40%;
+   margin:0 auto;
+   border-radius: 11px;
+   border: 1px solid #dddddd;
+   overflow: hidden;
+   background-color:#fff;
+ }
+ .trademark_assignment_four_inner table tr th{
+   text-align: center;
+   background-color: #129805;
+ }
+ .trademark_assignment_four_inner table tr th p{
+   color:#fff;
+   font-size:16px;
+   font-weight: 600;
+ }
+ td, th {
+   padding: 12px;
+ }
+ td{
+   border:none;
+   border-bottom: 1px solid #dddddd;
+ }
+ .td_left{
+   border-right: 1px solid #dddddd; 
+ }
+.last_td{
+   border-bottom:none;
+ }
+ /* .trademark_assignment_four_inner table tr:last-child td{
+
+ }
+ .trademark_assignment_four_inner table tr:last-child td{
+   border: 1px solid #dddddd;
+} */
+
+ td{
+   text-align: left;
+ }
+ table {
+   border-collapse: collapse;
+   width: 100%;
+margin-bottom:0;
+
+ }
+ .ta_four_block{
+   padding: 15px 0;
+ }
+ .ta_four_block p{
+   text-align: center;
+   color:#000;
+   font-size:12px;
+ }
+ .ta_four_block_button{
+   margin-top:15px;
+   display:flex;
+   align-items: center;
+   justify-content: center;
+ }
+ .common_button_block{
+   background-color: #129805;
+   border: none;
+   height: 40px;
+   border-radius: 30px;
+   width: 150px;
+   color: #fff !important;
+   font-size: 16px;
+ }
+ .trademark_assignment_four_heading h5{
+   font-size: 25px;
+   color: #fff;
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 600;
+   text-align: center;
+   margin-bottom:20px;
+ }
+@media screen and (max-width: 767px){
+   .trademark_assignment_four_heading h5{
+      font-size:19px;
+   }
+   .trademark_assignment_banner_destop{
+      display:none;
+   }
+   .trademark_assignment_banner_mobile{
+   display:block;
+   }
+   .trademark_assignment_one img{
+      height:unset;
+   }
+   .trademark_assignment_one_inner{
+      position:unset;
+      height:unset;
+   }
+   .trademark_assignment_one_left {
+    height:unset;
+    margin: 30px 0;
+   }
+   .trademark_assignment_one_left_inner {
+    background-color: #ffffff;
+    padding: 15px;
+    box-shadow: 2px 1px 17px 0px rgba(0,0,0,0.1);
+    border: 1px solid #EBEBEB;
+   }
+   .taoli_text_block h1{
+      font-size: 16px;
+   }
+   .taoli_form_block {
+      margin-top:15px;
+   }
+   .name_button{
+      margin-top:10px;
+   }
+   button[type="submit"]{
+      width: 135px !important;
+      font-size: 16px !important;
+   }
+   .trademark_assignment_two{
+      padding: 30px 0;
+   }
+   .trademark_assignment_two_inner h2, .tat_heading h2{
+      font-size: 19px;
+   }
+   .trademark_assignment_two_inner p {
+      font-size: 13px;
+      margin-top: 17px;
+      line-height: 26px;
+      text-align:left;
+   }
+   .trademark_assignment_three{
+      padding-top: 30px;
+   }
+   .margin_top_block_text{
+      height:unset;
+      margin-top:5px;
+   }
+   .margin-top_block {
+      margin-top: 20px;
+   }
+   .margin_top_block_text h5{
+      font-size:17px;
+   }
+   .margin_top_block_text p{
+      font-size: 13px;
+      line-height: 25px;
+      margin-top: 5px;
+   }
+   .custom_container_new{
+      padding:0 15px;
+   }
+   .trademark_assignment_four_inner{
+      width:100%;
+    }
+    .trademark_container{
+      padding: 0 15px;
+    }
+    .trademark_assignment_four{
+      padding: 30px 0;
+      margin-top:30px;
+    }
+}

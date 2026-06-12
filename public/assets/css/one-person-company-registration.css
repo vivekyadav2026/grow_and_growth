@@ -1,0 +1,215 @@
+
+/*here is the form css coding*/
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+.block_heading h2{font-size: 22px;}
+.block_heading h2::after{top: 91%;}
+.container.form {
+    width: 100%;
+    margin-top: 226px;
+    margin-bottom: 70px;
+}
+
+.background_image {
+    background-image: linear-gradient( to right top, #174355, #1d4154, #223f53, #263d51, #2a3b4f, #2d3f53, #314458, #34485c, #385468, #3d6074, #416d7f, #477a89);
+    left: -74.5px;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0;
+}
+
+.benifts-heading {
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.benifts-heading::after {
+    width: 50px;
+    height: 5px;
+    position: absolute;
+    content: '';
+    bottom: -20px;
+    left: 18px;
+    background-color: #18ba60;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.benifits-ul {
+    list-style: none;
+    margin: 30px 0px 0px 0px;
+    padding: 0;
+}
+
+
+    #allpacakage .register-benifits-text span:nth-child(2){
+        font-size: 12px;
+        margin-bottom: 0 !important;
+        margin-top: -14px;
+        font-weight: 600;
+    }
+    #allpacakage .register-benifits-text{
+        margin-right: 0;
+        min-height: unset;
+    }
+
+    #allpacakage .col-md-3{
+        padding-right: 0;
+    }
+#allpacakage .copy_lists{
+    padding: 30px 10px 10px 50px;
+}
+.moretext {
+  display: none;
+  padding-top: 0 !important;
+}
+#allpacakage .copy_lists{
+    margin-bottom:0;
+}
+#allpacakage .copy_lists99{
+    padding-bottom: 0;
+}
+.moreless-button{
+    font-weight: bold;
+    text-align: center;
+    color:#0E5913;
+    font-size:16px;
+    margin-top:10px !important;
+    float: left;
+    width: 100%;
+    cursor: pointer;
+    margin-bottom: 76px;
+}
+#allpacakage .copy_lists0091{
+    height: 360px;
+}
+/*here is the coding css of the benifits of udyog aadhar*/
+
+.req-docs-main-div {
+    height: 150px;
+    width: 21%;
+    text-align: center;
+    float: left;
+    margin: 0% 2% 4% 2%;
+}
+
+.right-side-img-title {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+
+.avail_consult h3 span {
+    font-size: 18px;
+    display: block;
+    font-weight: 100;
+    text-align: center;
+}
+
+.avail_consult h3 a {
+    text-decoration: none;
+}
+
+.avail_consult {
+    margin-top: -29px;
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.avail_consult h3 a span {
+    font-size: 19px !important;
+    font-weight: 600 !important;
+    margin-top: 13px;
+    display: block !important;
+    color: #fff;
+    background: #f06906;
+    padding: 11px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    cursor: default;
+    margin-bottom: 16px;
+}
+
+.mob_view {
+    display: none;
+}
+#allpacakage .register-benifits-text h4 img{
+    top:2px;
+}
+@media screen and (max-width: 600px) {
+    #topheader { height: 82px; }
+    .mob_view {
+        display: block;
+    }
+    .desk_view {
+        display: none;
+    }
+    .row {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    .title {
+        font-size: 23px;
+    }
+    .top-mobile {
+        font-size: 10px;
+    }
+    .custom-pull-left {
+        float: left !important;
+        width: 100%;
+        background-color: #385067;
+    }
+    
+    .background_image {
+        height: auto;
+    }
+  .accordaion-main-div {
+        height: auto;
+    }
+    .accordion-cus-head {
+        line-height: 24px;
+        font-size: 14px;
+        margin-left: 16px;
+        padding: 10px;
+    }
+    .child-ans-text {
+        margin-left: 17px;
+    }
+    .child-ans-div-1 {
+        margin-top: -11px;
+    }
+   
+   .for-top-margin {
+        margin-top: 20px;
+    }
+    
+    .table-overflow {
+        overflow: scroll;
+    }
+
+    .req-docs-main-div {
+        width: 100%;
+    }
+  
+  #allpacakage .register-benifits-text{
+        min-height: auto;
+    }
+ }
+ .block_padding{
+    background-color:#fff;
+ }
+ @media screen and (max-width: 420px) {
+#allpacakage .benifits-ul{
+    padding: 0;
+       
+}
+#allpacakage .copy_lists{
+ padding: 30px 10px 10px 30px;
+}
+ }

@@ -1,0 +1,906 @@
+.common_class {
+    float: left;
+    width: 100%;
+}
+
+.common_gap {
+    padding: 70px 0;
+}
+
+.tor_search_one_section {
+    background-image: url(https://www.onlinelegalindia.com/images/bis-certificate/bis-hero-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px 0;
+}
+
+.tor_search_two_right {
+    background-color: #fff;
+    padding: 32px;
+    border-radius: 12px;
+}
+
+.first_div h3 {
+    color: #111920;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.new_control,
+.select_control {
+    height: 40px;
+    border-radius: 4px !important;
+}
+
+.new_control {
+    width: 100% !important;
+    border: 1px solid #ccc;
+    padding: 6px 12px;
+    color: #7a7a7a;
+}
+
+.tsfb_started {
+    height: 40px;
+    background-color: #129805;
+    border-radius: 24px;
+    color: #fff !important;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 40px;
+}
+
+.row_grid_two_left h1 {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #F06906;
+    color: #fff;
+    font-size: 22px;
+}
+
+.row_grid_two_left h2 {
+    color: #fff;
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 15px;
+    line-height: 44px;
+}
+
+.rgtl_block {
+    margin-top: 45px;
+    border: 2px solid #fff;
+    padding: 20px;
+    background-color: transparent;
+    /* ✅ Transparent background */
+}
+
+.rgtl_heading {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.rgtl_heading .left-line {
+    width: 30px;
+    height: 2px;
+    background-color: #fff;
+    margin-right: 10px;
+}
+
+.rgtl_heading h3 {
+    margin: 0;
+    font-size: 20px;
+    color: #fff;
+    font-weight: normal;
+}
+
+.rgtl_heading h3 span {
+    color: #F06906;
+    font-weight: bold;
+}
+
+.rgtl_heading .star {
+    color: #F0B83A;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.rgtl_block p {
+    color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: -30px;
+}
+
+.rgtl_heading h3 {
+    background: #3e3333;
+    color: #fff;
+    position: relative;
+    top: -40px;
+    padding: 5px 10px;
+}
+
+.unsure_about_right h2 {
+    color: #000000;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.unsure_about_right h3 {
+    margin-top: 12px;
+    display: inline-block;
+    padding: 8px 15px;
+    color: #fff;
+    font-size: 23px;
+    font-weight: bold;
+    background-color: #F06906;
+}
+
+.unsure_about_right ul li {
+    margin-top: 15px;
+    color: #000000;
+    font-size: 16px;
+    line-height: 24px;
+    position: relative;
+    padding-left: 28px;
+    list-style: none;
+}
+
+.unsure_about_right ul li::after {
+    position: absolute;
+    top: 3px;
+    left: 0;
+    content: url(https://www.onlinelegalindia.com/images/bis-certificate/about-bis-right-icon.webp);
+    overflow: auto;
+}
+
+.eligibility {
+    background-color: #FEF7F3;
+}
+
+.common_sub_heading h3 {
+    text-align: center;
+    color: #000000;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.eligibility_left {
+    border: 1px solid #000;
+    border-radius: 25px 10px 25px 10px;
+    padding: 24px;
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 62px 1fr;
+    grid-gap: 17px;
+    align-items: center;
+    height: 150px;
+}
+
+.el_right p {
+    color: #000000;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.iwc_block {
+    margin-top: 50px;
+    background-color: #fff;
+    padding: 38px 20px;
+    border-radius: 15px;
+    height: 316px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.iwc_block:hover {
+    background-color: #043E4A;
+}
+
+.iwc_block h5 {
+    color: #000000;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.iwc_block ul {
+    margin-top: 11px;
+}
+
+.iwc_block ul li {
+    font-size: 16px;
+    margin-bottom: 8px;
+    color: #000;
+    position: relative;
+    list-style: none;
+    padding-left: 28px;
+}
+
+.iwc_block:hover h5,
+.iwc_block:hover ul li {
+    color: #fff;
+}
+
+.iwc_block ul li::after {
+    position: absolute;
+    top: 3px;
+    left: 0;
+    content: url(https://www.onlinelegalindia.com/images/bis-certificate/check.png);
+    overflow: auto;
+}
+
+.iwc_block:hover ul li::after {
+    content: url(https://www.onlinelegalindia.com/images/bis-certificate/wecater-check-icon.webp);
+}
+
+.iwc_block_img {
+    margin-top: -60px;
+}
+
+.with_hover {
+    display: none;
+}
+
+.iwc_block:hover .with_hover {
+    display: block;
+}
+
+.iwc_block:hover .without_hover {
+    display: none;
+}
+
+.moretext {
+    display: none;
+}
+
+.moreless-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    color: #000000;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.moreless-button i {
+    margin-left: 10px;
+}
+
+.we_offer_card {
+    margin-top: 30px;
+    border-radius: 14px;
+    background-color: #FEF7F3;
+    padding: 25px 40px;
+    box-shadow:
+        3px 3px 6px #F06906,
+        /* bottom-right */
+        -3px 3px 6px #F06906;
+    /* bottom-left */
+    border-top: none;
+    /* ensure no border on top */
+}
+
+.we_offer_card_inner {
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    grid-gap: 20px;
+}
+
+.we_offer_card_right h6 {
+    border-radius: 10px;
+    display: inline-block;
+    color: #fff;
+    font-size: 24px;
+    line-height: 32px;
+    background-color: #F06906;
+    padding: 6px 12px;
+}
+
+.we_offer_card p {
+    color: #000;
+    font-size: 21px;
+    line-height: 30px;
+}
+
+.apply_bis_pic {
+    text-align: center;
+}
+
+.apply_bis_pic1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.thriving_block {
+    margin-top: 80px;
+    border-radius: 10px;
+    background-color: #FFF2E8;
+    padding: 56px 20px;
+    height: 290px;
+}
+
+.thriving_block_text p {
+    color: #000000;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.thriving_block_img {
+    margin-top: -100px;
+}
+
+.thriving_block_text h3 {
+    color: #F06906;
+    font-size: 22px;
+    margin-bottom: 8px;
+    line-height: 30px;
+}
+
+.regulated_sectors {
+    background-color: #043E4A;
+    margin-top: 70px;
+}
+
+.regulated_sectors_inner {
+    text-align: center;
+}
+
+.regulated_sectors_inner h5 {
+    color: #fff;
+    font-size: 32px;
+    margin-bottom: 22px;
+}
+
+.common_button_holder {
+    background-color: #F06906;
+    color: #fff !important;
+    border-radius: 6px;
+    width: 255px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+}
+
+.common_button_div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.required_for_bis_block {
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color: #FEF7F3;
+    height: 480px;
+    border: 1px solid #F06906;
+    padding: 28px;
+}
+
+.required_for_bis_block_text h4 {
+    margin: 20px 0;
+    color: #000000;
+    font-size: 22px;
+}
+
+.required_for_bis_block_text ul li {
+    color: #000000;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 15px;
+    list-style: none;
+    position: relative;
+    padding-left: 28px;
+}
+
+.required_for_bis_block_text ul li::after {
+    position: absolute;
+    top: 3px;
+    left: 0;
+    content: url(https://www.onlinelegalindia.com/images/bis-certificate/checked9.webp);
+    overflow: auto;
+}
+
+.required_for_bis_block_text ul li:last-child {
+    margin-bottom: 0;
+}
+
+.ongoing_support_inner {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.ongoing_support_left h5 {
+    color: #000000;
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 53px;
+}
+
+.common_button_div9 {
+    margin-top: 25px;
+}
+
+/* .customer_testimonials{
+    background-color:#F2F2F2;
+    margin-top:70px;
+} */
+.customer_block {
+    display: grid;
+    grid-template-columns: 75px 1fr;
+    grid-gap: 20px;
+}
+
+.customer_block_right h5 {
+    color: #000000;
+    font-size: 19px;
+}
+
+.customer_block_right h6 {
+    color: #000000;
+    font-size: 12px;
+}
+
+.customer_block_holder {
+    padding: 36px;
+    background-color: #fff;
+    border-radius: 25px;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, .1), -3px 3px 6px rgba(0, 0, 0, .1);
+    margin: 30px 15px;
+}
+
+.customer_block_holder p {
+    color: #000;
+    font-size: 12px;
+    line-height: 20px;
+    margin-top: 30px;
+    height: 65px;
+}
+
+.owl-carousel .owl-item img {
+    width: unset;
+}
+
+.bis_impact_you_block {
+    margin-top: 40px;
+    background-color: #FEF7F3;
+    border-radius: 25px;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.bis_impact_you_block h6 {
+    color: #414141;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.bis_impact_you_block p {
+    font-size: 16px;
+    color: #414141;
+    line-height: 24px;
+    margin-top: 15px;
+    height: 80px;
+}
+
+.new_section .regulated_sectors_inner h5 {
+    color: #000;
+}
+
+.new_section {
+    margin-top: 40px;
+}
+
+.panel-title>a:before {
+    color: #000;
+    content: '\f068';
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-size: 15px;
+    float: right;
+}
+
+.panel-title>a.collapsed:before {
+    float: right !important;
+    content: "\f067";
+}
+
+.panel-title>a:hover,
+.panel-title>a:active,
+.panel-title>a:focus {
+    text-decoration: none;
+}
+
+.panel-title>a {
+    width: 100%;
+    display: block;
+    font-size: 18px;
+}
+
+#accordion {
+    margin-top: 50px;
+}
+
+.panel-default {
+    margin-bottom: 30px !important;
+}
+
+.panel-default>.panel-heading {
+    background-color: #CCFDC8;
+    border: none;
+}
+
+.panel {
+    border: none;
+    box-shadow: none;
+}
+
+.panel-default>.panel-heading+.panel-collapse>.panel-body {
+    border-top-color: unset;
+    border-top: unset;
+    border: 1px solid #A9A9A9;
+    padding: 30px 23px;
+    margin-top: 18px;
+    border-radius: 5px;
+}
+
+.panel-body p {
+    color: #000;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.panel-body ul {
+    margin: 15px 0 15px 40px;
+}
+
+.new_fieldset {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: 1fr 30px 1fr;
+    grid-gap: 10px;
+}
+
+.mobile_pic {
+    display: none;
+}
+
+.owl-nav {
+    display: none;
+}
+
+.price_section {
+    background-color: #043E4A;
+}
+
+.price_section_inner {
+    text-align: center;
+}
+
+.price_section_inner h3 {
+    color: #fff;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.price_section_inner h5 {
+    margin-top: 4px;
+    font-size: 28px;
+    color: #fff;
+}
+
+.price_section_inner h2 {
+    margin-top: 4px;
+    font-size: 48px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.price_section_inner p {
+    font-size: 16px;
+    color: #fff;
+}
+
+.common_button_div91 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (min-width: 1200px) {
+    .new_fieldset {
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        grid-template-columns: 1fr 30px 1fr;
+        grid-gap: 10px;
+    }
+
+    .new_fieldset #captcha_code {
+        height: 40px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .regulated_sectors {
+        margin-top: 40px;
+    }
+
+    .customer_block_holder p {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .customer_block_right h6 {
+        font-size: 14px;
+    }
+
+    .new_fieldset {
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        grid-template-columns: 200px 30px 1fr;
+        grid-gap: 10px;
+    }
+
+    #captcha_holder {
+        width: 200px;
+        height: 40px;
+        object-fit: cover;
+    }
+
+    #captcha_code {
+        height: 40px;
+        width: 100%;
+        width: 150px;
+    }
+
+    .new_fieldset {
+        grid-template-columns: 200px 30px 1fr;
+    }
+
+    .common_gap {
+        padding: 40px 0;
+    }
+
+    .row_mobile {
+        display: grid;
+    }
+
+    .row_mobile_one {
+        order: 2;
+    }
+
+    .row_mobile_two {
+        order: 1;
+    }
+
+    .tor_search_two_right {
+        padding: 25px 15px;
+    }
+
+    .row_grid_two_left {
+        margin-top: 40px;
+    }
+
+    .row_grid_two_left h1 {
+        font-size: 16px;
+        text-align: center;
+        line-height: 24px;
+    }
+
+    .row_grid_two_left h2 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .rgtl_heading h3 {
+        font-size: 18px;
+    }
+
+    .unsure_about_right h2 {
+        font-size: 20px;
+        line-height: 28px;
+        text-align: center;
+
+    }
+
+    .unsure_about_right h3 {
+        font-size: 18px;
+        text-align: center;
+        line-height: 26px;
+    }
+
+    .common_sub_heading h3 {
+        font-size: 20px;
+    }
+
+    .eligibility_left {
+        height: unset;
+        grid-template-columns: 1fr;
+    }
+
+    .el_left {
+        text-align: center;
+    }
+
+    .el_right p {
+        text-align: center;
+    }
+
+    .iwc_block {
+        height: unset;
+    }
+
+    .new_container {
+        padding: 0 15px;
+    }
+
+    .we_offer_card_left {
+        display: none;
+    }
+
+    .we_offer_card_inner {
+        grid-template-columns: 1fr;
+    }
+
+    .we_offer_card {
+        padding: 14px;
+    }
+
+    .we_offer_card_right h6 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .we_offer_card p {
+        font-size: 16px;
+        line-height: 24px;
+        margin-top: 20px;
+    }
+
+    .destop_pic {
+        display: none;
+    }
+
+    .mobile_pic {
+        display: block;
+        margin: 0 auto;
+        padding-top: 40px;
+    }
+
+    .mobile_pic1 {
+        padding-top: 0;
+    }
+
+    .thriving_block_img,
+    .thriving_block_text {
+        text-align: center;
+    }
+
+    .thriving_block_text h3 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .thriving_block_text p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .thriving_block {
+        height: unset;
+    }
+
+    .regulated_sectors_inner h5 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .common_button_holder {
+        font-size: 18px;
+        width: 232px;
+        height: 47px;
+    }
+
+    .required_for_bis_block_text h4 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .required_for_bis_block {
+        height: unset;
+        padding: 28px 10px;
+    }
+
+    .ongoing_support_left h5 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .ongoing_support_left {
+        margin-top: 40px;
+    }
+
+    .common_button_div9 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .customer_block {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+
+    .customer_block_left {
+        text-align: center;
+    }
+
+    .customer_block_left img,
+    .customer_block_right img {
+        margin: 0 auto;
+    }
+
+    .customer_block_holder p {
+        height: 100px;
+    }
+
+    .panel-title>a {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .panel-body p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    #captcha_code {
+        width: 100%;
+    }
+
+    .price_section_inner h3 {
+        font-size: 28px;
+    }
+
+    .price_section_inner h5 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .new_fieldset {
+        grid-template-columns: 150px 30px 1fr;
+        grid-gap: 5px;
+    }
+
+    #captcha_holder {
+        width: 150px;
+        height: 40px;
+    }
+
+    #captcha_code {
+        width: 100%;
+    }
+
+}
+
+@media screen and (max-width: 400px) {
+    .new_fieldset {
+        grid-template-columns: 120px 30px 1fr;
+
+    }
+
+    #captcha_holder {
+        width: 120px;
+    }
+}

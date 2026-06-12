@@ -1,0 +1,2238 @@
+
+.benifts-heading::after{width: 50px;height: 5px;position: absolute;content: "";bottom: -20px;left: 50%;background-color: #18ba60;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;margin: auto;transform: translate(-48%, 0);bottom: -22px !important; top:100%;
+}
+
+.benifts-heading-2::after{width: 50px;height: 5px;position: absolute;content: "";left: 18px;background-color: #18ba60;
+-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;top: 72px;}
+.benifits-ul{
+margin: 30px 0px 0px 0px;
+padding: 0;
+list-style: none;
+}
+
+#mb-onscroll-button{display: none;}
+#doc_req .card-header {
+    background-color: #18ba60;
+    margin-bottom: 0;
+    border: none;
+    padding: 0;
+}
+#doc_req .card-header h2 a {
+    color: #fff;
+    text-align: left;
+    text-decoration: none;
+    font-size: 17px;
+}
+#doc_req .card-header h2 a span {
+    float: right;
+}
+#doc_req .card-body {
+    padding: 14px;
+    border-radius: 12px;
+    box-shadow: 0 0 5px #ccc;
+}
+
+.req_doc_text{text-align: center;}
+
+.req_doc_text img{width: 80px;}
+
+.gst_rdiobtn label {
+    width: 100%;
+    font-weight: 500;
+}
+.gst_rdiobtn:nth-child(3) {
+     background: #eaeaea;
+    border: 3px solid #d6d6d6;
+}
+
+.trademark-class{
+    background-color: #e91e63;
+    text-align: center;
+    height : 50px;
+    width: 250px;
+    color: white;
+    line-height : 46px;
+    margin-left: 25%;
+margin-top: 5%;
+cursor : pointer;
+}
+.how_we_work{
+    display:table;
+    width:100%;
+}
+.card {
+    -moz-box-direction: normal;
+    -moz-box-orient: vertical;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-bottom:1px;
+    border:none;
+}
+.card-header:first-child {
+    border-radius: 0;
+    border-radius: 100px !important;
+}
+.card-header {
+    background-color: #18ba60;
+    margin-bottom: 0;
+    padding: 13px 1.25rem;
+    border:none;
+    
+}
+.block_heading h2:after{position: absolute !important;left: 50% !important;}
+.card-header a i{
+    float:left;
+    font-size:25px;
+    padding:5px 0;
+    margin:0 25px 0 0px;
+    color:#195C9D;
+}
+.card-header i{
+    float:right;        
+    font-size:30px;
+    width:1%;
+    margin-top:8px;
+    margin-right:10px;
+}
+.card-header a{
+    width:97%;
+    float:left;
+    color:#565656;
+    text-decoration:none;
+}
+.card-header p{
+    margin:0;
+}
+
+.card-header h3{
+    margin:0 0 0px;
+    font-size:16px;
+    font-family: "Poppins",sans-serif;
+    font-weight:bold;
+    color:#fff;
+}
+
+.register-benifits-text{
+  color:#666;
+  margin-left: 25px;
+  margin-bottom: 15px;
+}
+.benifits-having-text{
+  color:#888;
+
+}
+
+.apply-now-cls{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/*here is the style of when gst registration required*/
+
+/*here is the style of how we work section*/
+
+/*here is the style of requirements of documents*/
+  .requirements-of-doc-img{
+  background-image: url("https://www.onlinelegalindia.com/services/udyog-aadhaar/image/bg.JPEG 2000");
+  left: -74.5px;
+  box-sizing: border-box;
+  width: 100%;
+  height: 200px;
+}
+
+#trademark .register-benifits-text {
+	margin-left: 15px;
+	margin-bottom: 15px;
+	float: left;
+	width: 23%;
+	list-style: none;
+	border: 1px solid #ffffff;
+	padding: 0px;
+	border-radius: 15px;
+	text-align: center;
+	background: #fdfaf6;
+	min-height: 767px;
+	position: relative;
+	box-shadow: 0 5px 12px rgb(15, 33, 18);
+    overflow: hidden;
+}
+.cstm_ttle_mb{
+    margin-bottom: 40px !important;
+}
+
+.review-section{
+    background:#e9e9e9;
+    padding:40px 0;
+    margin: 40px 0 50px 0;
+    float: left;
+    width: 100%;
+}
+.youtube-section{
+    float: left;
+    width: 100%;
+}
+
+.review-wrapper{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.review-item{
+    text-align:center;
+    padding: 0 50px;
+}
+
+.review-item h3{
+    font-size:32px;
+    font-weight:700;
+    margin:10px 0 5px;
+    color:#252525;
+}
+
+.review-item p{
+    font-size:14px;
+    color:#333333;
+    margin:0;
+    font-weight: 500;
+}
+.cstm_rvw_itm h3{
+    margin-top: 24px;
+}
+.cstm_rvw_itmm h3{
+    margin-top: 16px;
+}
+.cstm_rdt{
+    margin-top: 30px;
+}
+.cstm_rd_sec{
+    padding: 30px 0;
+}
+.cstm_rbtx_t{
+    margin-left: 30px !important;
+}
+.about_new_block_holder{
+    float: left;
+    width: 100%;
+}
+.cstm_new_title99{
+    color: #2e363a !important;
+}
+
+
+
+
+/* .review-icon{
+    width:35px;
+    margin-bottom:5px;
+}
+
+.rating-stars{
+    width:120px;
+    margin-bottom:5px;
+} */
+
+/* middle border */
+.border-middle{
+    border-left:1px solid #696969;
+    border-right:1px solid #696969;
+}
+/* .review-section{
+    float: left;
+    width: 100%;
+} */
+
+
+.cstm_trdmk_sec{
+    margin-top: 0 !important;
+
+}
+.cstm_ytty_sec{
+    padding: 50px 0 50px 0 !important;
+}
+
+
+#trademark .register-benifits-text h4 {
+font-size: 50px;
+    color: #fdfaf6;
+    font-weight: bold;
+    line-height: 17px;
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 26px;
+    background: #159e50;
+    display: table;
+    min-height: 100px;
+    padding: 17px 0 28px 0;
+    position: relative;
+}
+#trademark .benifts-heading{margin-bottom: 28px;}
+
+#trademark .register-benifits-text h5 {
+	font-size: 18px;
+	color: #636363;
+	font-weight: normal;
+	line-height: 29px;
+	margin-top: 19px;
+	display: inline-block;
+}
+#trademark .register-benifits-text p {
+	
+	font-size: 13px;
+	color: #808080;
+	font-weight: normal;
+	margin-top: 33px;
+	position: relative;
+	padding: 0 0;
+	line-height: 20px;
+    position: absolute;
+    bottom: 58px;
+    transform: translate(-50%,0%);
+    left: 50%;
+}
+#trademark .register-benifits-text p span {
+	color: #fff;
+}
+.cstm_nw_cdmn{
+    padding:  50px 0 0 0 !important;
+    margin-bottom: 0 !important;
+}
+/* .gt_start_btn a{
+    font-size: 20px;
+    color: #f0fff5;
+    border-radius: 9px;
+    background: linear-gradient(27deg, #0ab152 0%, #2bec42 87%);
+    padding: 14px 0;
+    bottom: 25px;
+    font-weight: bold;
+    transform: translate(-50%, 0);
+    border-top: 1px solid #17cc5f; 
+} */
+
+.tradmark_brands .cstm_text{
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.cstm_align{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#trademark .register-benifits-text a {
+    font-size: 20px;
+    color: #f0fff5;
+    border-radius: 9px;
+    background: linear-gradient(27deg, #0ab152 0%, #2bec42 87%);
+    padding: 14px 0;
+    position: absolute;
+    bottom: 25px;
+    font-weight: bold;
+    transform: translate(-50%, 0);
+    left: 50%;
+    width: 80%;
+    border-top: 1px solid #17cc5f;
+}
+
+#trademark .register-benifits-text h4 span {
+    margin-bottom: 24px;
+    font-size: 25px;
+    color: #ffffff;
+    display: inline-block;
+    width: 100%;
+    line-height: 23px;
+    font-weight: 600;
+    margin-top: 21px;
+}
+
+#trademark .register-benifits-text h4 span b{
+    margin-left: 0;
+    background: #ffc801;
+    border-radius: 30px;
+    color: #000000 !important;
+    padding: 5px 15px;
+    display: inline-table;
+    position: absolute;
+    bottom: -16px;
+    left: 50%;
+    transform: translate(-50%, 0px);
+    font-size: 17px;
+}
+
+#trademark .register-benifit-li ul {
+    padding: 0 20px 0 30px;
+}
+.youtube-section{
+    padding: 50px 0 0;
+    background-color: #ECF0F3;
+    margin-top: 30px;
+}
+.cstm_ne_w_title99{
+    margin-top: 0 !important;
+    color: #2e363a !important;
+}
+.cstm_ysce{
+    float: left;
+    width: 100%;
+    padding-bottom: 30px;
+    background-color: #ffffff !important;
+    margin-top: 0 !important;
+}
+.tedx_video{
+    width: 100%;
+    height: 315px;
+}
+.nmbg_block_text p {
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    color: #000000;
+    line-height: 30px;
+}
+.nmbg_block_text {
+    margin-top: 10px;
+}
+.video-col{
+    text-align: center;
+}
+
+#trademark .register-benifit-li ul li {
+    text-align: left;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 32px;
+}
+
+#trademark .register-benifit-li ul li i{
+    font-style: normal;
+    border: 2px solid #292929;
+    border-radius: 30px;
+    padding: 6px 4px;
+    color: #292929;
+    font-weight: 900;
+    font-size: 11px;
+}
+
+
+#trademark .register-benifit-li ul .line-height{
+    line-height: 19px;
+}
+#trademark .register-benifit-li ul .line-height span{
+    width: 100%;
+    display: inline-table;
+    font-size: 14px;
+    margin-top: 6px;
+    color: #0e984c;
+}
+#trademark .register-benifit-li ul .line-height button{
+    border: none;
+    background:transparent;
+    color: #2340ab;
+    font-size: 13px;
+    padding: 0 4px;
+    border-radius: 3px;
+}
+
+#trademark .register-benifits-text span:nth-child(2) {
+	width: 100%;
+	display: inline-block;
+}
+
+#doc_req .card-header h2 a {
+    color: #fff;
+    text-align: left;
+    text-decoration: none;
+    font-size: 17px;
+}
+#doc_req .card-header h2 a span {
+    float: right;
+}
+#doc_req .card-body {
+    padding: 14px;
+    border-radius: 12px;
+    box-shadow: 0 0 5px #ccc;
+}
+.gst_rdiobtn label {
+    width: 100%;
+    font-weight: 500;
+}
+.gst_rdiobtn:nth-child(3) {
+     background: #eaeaea;
+    border: 3px solid #d6d6d6;
+}
+
+
+.advantage1 {
+        margin-top: 40px;
+    }
+    .advantage__body {
+        text-align: center;
+        margin: 10px 10px;
+    }
+    .adv__logo {
+        margin: 10px 0;
+    }
+    img.avd__img {
+        width: 16%;
+        height: auto;
+    }
+    .adv__content {
+        text-align: center;
+    }
+    .adv__content h2 {
+        font-size: 20px;
+        color: #000;
+        font-weight: 700;
+        margin: 10px 0;
+    }
+
+.collapse__items {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .box__img {
+         margin-bottom: 5px;
+   }
+    .box {
+        width: 110px;
+        height: auto;
+        background: linear-gradient(90deg, #4d35bc, #266dd8);
+    
+        border-radius: 9px;
+        margin: 5px;
+        display: flex;
+         justify-content: center;
+         align-items: center;
+         flex-direction: column;
+    }
+    .box h2 {
+      font-size: 33px;
+        color: #fff;
+        border: 2px solid #fff;
+        border-radius: 50px;
+        width: 72px;
+        height: 72px;
+        line-height: 73px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        text-align: center;
+   }
+    .box h5 {
+        text-align: center;
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 9px;
+        margin: 6px 0;
+    }
+
+ .mn_dv{
+      padding-left: 0px;
+      padding-bottom: 10px;
+   }
+
+.obtain_treadmark{
+border: 1px solid #343434;
+text-align: center;
+width: 83px;
+height: 90px;
+}
+.obtain_treadmark img{margin-top: 5px;
+width: 60px;}
+
+.obtain_treadmark h4{
+  text-align: center;
+  margin-top: 8px;
+  font-size: 0.5vw;
+  line-height: 12px;}
+
+
+.container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header {
+    margin-right: -15px;
+    margin-left: 0px;
+}
+
+.benifits-text {
+    margin-left: 31px;
+}
+
+.accordaion-main-div {
+    height: auto;
+}
+.accordion-cus-head {
+    line-height: 24px;
+    font-size: 14px;
+    margin-left: 16px;
+    padding: 10px;
+}
+.child-ans-text {
+    margin-left: 17px;
+}
+.child-ans-div-1 {
+    margin-top: -11px;
+}
+
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover {
+    background-color: #4d4343;
+}
+.custom-ul-style{margin-top: 0%;}
+.logo-img-class{height: 50px;width: 270px;}
+
+.our-associates {width: 50%;}
+#trademark .register-benifits-text:nth-child(3){margin-bottom: 0;}
+
+
+.reviews{margin-top: 42px;}
+.owl-one .owl-nav{display: none;}
+.owl-one .owl-dots{display: block;text-align: center;margin: 12px 0;}
+
+.owl-one .owl-dots .owl-dot span {
+    width: 10px;
+    height: 10px;
+    margin: 5px 7px;
+    background: #afadad;
+    display: block;
+    -webkit-backface-visibility: visible;
+    transition: opacity .2s ease;
+    border-radius: 30px;
+}
+.owl-one .owl-dots .owl-dot.active span, .owl-one .owl-dots .owl-dot:hover span{
+    background: #5d5d5d;
+}
+
+.trust_reviewstrat{
+    padding: 20px;
+    box-shadow: 0 2px 3px #a9a9a9;
+    margin-top: 30px;
+    background: #f1f1f1;
+    min-height: 250px;
+    position: relative;
+}
+.review_title{
+    text-align: center;
+}
+#reviews{margin-top: 1px;}
+.review_title span{
+    color: #00b67a;
+    font-size: 36px;
+    font-weight: 600;
+    margin-left: -98px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.review_title span{
+    color: #00b67a;
+    font-size: 36px;
+    font-weight: 600;
+    margin-left: -98px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.review_title h3{
+  font-size: 18px;
+ font-weight: bold;
+}
+
+.review_title img{
+    width: 29%;
+}
+
+.trust_reviewstrat img{
+    width: 26% !important;
+}
+.trust_reviewstrat i{
+    float: right;
+}
+.trust_reviewstrat h3{
+    font-size: 18px;
+    font-weight: 600;
+}
+.trust_reviewstrat h4{
+    text-transform: capitalize;
+    position: absolute;
+    bottom: 7px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.trust_reviewstrat h4 span{
+    font-size: 14px;
+    font-weight: 600;
+    color: #000;
+    margin-bottom: 5px;
+    display: block;
+}
+.trust_reviewstrat h4 span:after{
+    content: "\a";
+    white-space: pre;
+}
+.client_reviews a{
+    color: #2b2b2b;
+    text-decoration: none;
+}
+
+.tradmark_brands{padding: 50px 0 0;}
+.tradmark_brands img{width: 100%;height: 100px;object-fit: contain;margin-bottom: 20px;}
+.tradmark_brands h3{font-size: 31px;line-height: 38px;margin: 0px 0 0 0;}
+.tradmark_brands .text{border-left: 4px solid #a0110a;padding: 40px 0;margin: 60px 0 0 0;padding-left: 30px;}
+.tradmark_brands .text a{background: #17a00a;padding: 10px 20px;margin: 20px 0;display: inline-block;color: #fff;font-weight: 600;font-size: 20px;text-decoration: none;cursor: pointer;border-radius: 5px;box-shadow: 0 4px 4px #cecece;}
+.req_doc_text h4{color: #3c3c3c; margin-top: 20px; font-weight: normal; font-size: 16px;text-align: center; margin-bottom: 15px;}
+.list{list-style: none !important;padding-left: 19% !important;}
+.list li {background: url(../images/svg/bullet-arrow.svg) no-repeat left 3px;padding-left: 26px !important;margin-bottom: 10px;background-size: 17px;margin-bottom: 20px !important;font-size: 16px;}
+@media screen and (max-width:768px){
+    #topheader { height: 82px; }
+    .trust_reviewstrat img {
+        width: 50% !important;
+    }
+    #mb-onscroll-button{display: block;}
+    #doc_req .card-header h2 a{font-size: 14px; padding:12px;}
+    #doc_req{margin-top:24px;}
+/*    .pull-right{width: 100%!important;}*/
+    .trust_reviewstrat{min-height: 389px;}
+    .review_title img{width: 63%;}
+    .review_title span{font-size: 27px;margin-left: -68px;}
+    .consumer_box{display: block;}
+    .contr{margin-top: 9px;}
+    .count-text{font-size: 3vw !important;margin-bottom: 10px;}
+    .obtain_treadmark h4{font-size: 1.9vw;}
+    .tradmark_brands img{height: 90px;margin-bottom: 0;}
+    .tradmark_brands .text{margin: 0px 0 30px 0;padding-left: 0;text-align: center;padding: 26px 0;border-bottom: 4px solid #a0110a;border-left: 0px solid #a0110a;}
+    .tradmark_brands h3{font-size: 26px;margin: 0px 0 0 0;line-height: 33px;}    
+    .tradmark_brands .brands{display: flex;flex-direction: column-reverse;}
+    #trademark .register-benifit-li ul li{line-height: 26px;}
+    #trademark .register-benifit-li ul{margin-bottom: 20px;}
+    #trademark .register-benifit-li ul {padding: 0 47px;margin-bottom: 65px;}
+}
+
+@media screen and (max-width: 600px) {
+.title{font-size: 19px;}
+.box {width: 19vw;height: auto;padding: 10px 4px;border-radius: 9px;text-align: center;}
+.box h2 {font-size: 4vw;color: #fff;border: 2px solid #fff;border-radius: 50px;width: 58px;height: 58px;line-height: 58px;
+margin-top: 10px;margin-bottom: 10px;text-align: center;}
+.box h5 {text-align: center;
+          color: #fff;}
+.box__img {max-width: 100%;
+height: auto;}
+
+.trademark-class {width: 100%; margin-left: 0%;}
+
+.mn_dv{padding-left: 10px;}
+.rw_wdth{width: 100%;}
+.obtain_treadmark{width: 100%;}
+
+}
+
+@media (min-width: 320px) and (max-width: 479px) {
+    
+#trademark .register-benifits-text h4{ font-size: 30px; padding: 0px 0 5px 0;}
+    
+#trademark .register-benifits-text img{width: 26px; vertical-align: middle;}
+    
+.req_doc_text img {
+    width: 45px;
+}
+    
+.list{list-style: none !important;padding-left: 1% !important;}    
+    
+.req_doc_text h4{font-weight: bold; font-size: 12px; margin-top: 10px;margin-bottom: 15px;}    
+
+.box h2 {
+         font-size: 4vw;
+         color: #fff;
+         border: 2px solid #fff;
+         border-radius: 50px;
+         width: 42px;
+        height: 42px;
+        line-height: 40px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+         text-align: center;
+      }
+      .box h5 {
+         font-size: 2vw;
+      }
+  #trademark .register-benifits-text {
+    width: 95%;
+    margin: 0;
+    margin-bottom: 35px;
+    min-height:auto;
+      margin-left: 9px;
+  }
+  #trademark .register-benifits-text h5 span {
+    font-size: 16px;
+    margin-top: 0;
+    padding: 0 12px;
+    line-height: 20px;
+  }
+  #trademark .register-benifits-text p {
+    padding: 0 16px;
+  }
+  #trademark .register-benifits-text h4 span {
+    font-size: 26px;
+    margin-bottom: 16px;
+    margin-top: 15px;
+  }
+    
+}
+
+/*Trademark Search start*/
+section.brand-modal {padding: 40px 0;text-align: center;background: #e2e2e2;}
+.tmSearch-box {width: 600px;margin: 0 auto;}
+.tmSearch-box h1 {background: #1b1b1b;width: 100px;height: 100px;color: #fff;line-height: 100px;border-radius: 50%;margin: 0 auto;font-size: 40px;font-weight: 500;}
+
+form.example2 input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+    border-radius: 6px 0 0 6px;
+}
+
+form.example2 button {
+    float: left;
+    padding: 10px;
+    background: #f06906;
+    border-radius: 0 6px 6px 0;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+    width: 20%;
+}
+
+form.example2 button:hover {
+  background: #17a00a;
+}
+
+form.example2::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.tmSeach-input {
+    margin: auto;
+    display: table;
+    width: 80%;
+}
+.tmSearch-box h2 {
+    font-size: 35px;
+    margin: 25px 0;
+    color: #000;
+    font-weight: 600;
+}
+
+form.example2 {
+    margin-bottom: 35px;
+}
+
+.tmSeach-input a {
+    background: #17a00a;
+    padding: 12px 22px;
+    color: #fff;
+    font-size: 15px;
+    border: none;
+    text-decoration: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+}
+
+
+.modal1 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal1 .modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 32%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+  from {top:-300px; opacity:0} 
+  to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.modal1 .close {
+  color: #000;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+    opacity: 1;
+}
+
+.modal1 .close:hover,
+.modal1 .close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal1 .modal-header {
+  padding: 10px 16px;
+    border-bottom: 0;
+}
+
+.modal1 .modal-body {padding: 2px 16px;}
+
+.modal1 .modal-footer {
+  padding: 2px 16px;
+}
+
+fieldset#first_div\ modal-form2 label {
+    display: block;
+    text-align: left;
+}
+fieldset#first_div\ modal-form2 input {
+    width: 100%;
+    margin-bottom: 13px;
+    padding: 5px;
+}
+fieldset#first_div\ modal-form2 select {
+    width: 100%;
+    margin-bottom: 13px;
+    padding: 5px;
+}
+
+
+@media (max-width: 425px) {
+    .tmSearch-box {width: 100%;margin: 0 auto;}
+    .modal1 .modal-content {width: 85%;}
+    .tmSearch-box h1 {width: 88px;height: 88px;line-height: 88px;font-size: 37px;}
+    .tmSearch-box h2 {font-size: 19px;}
+    .tmSeach-input a {padding: 12px 13px;font-size: 14px;}
+}
+/*Trademark Search end*/
+
+
+/* new-design-18-10-2021-start */
+.annuities_right p{
+    font-size: 12px;
+}
+.common_design_modification_new{
+    float: left;
+    width: 100%;
+    margin-bottom:30px;
+    background-color:#fff;
+    padding:50px 0;
+}
+.cdmnh_text_block{
+    text-align: center;
+}
+.cdmnh_text_block p{
+    margin-top:20px;
+}
+.cdmnh_text_block h1{
+    height: 65px;
+    width: 65px;
+    border:2px solid #db7a7a;
+    border-radius: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    font-size: 31px;
+    color:#db7a7a;
+}
+.two_block_holder h1{
+    border:2px solid #eb9f07;
+    color:#eb9f07;
+}
+.three_block_holder h1{
+    border:2px solid #1e6fcc;
+    color:#1e6fcc;
+}
+.four_block_holder h1{
+    border:2px solid #1eb5cc;
+    color:#1eb5cc;
+}
+.five_block_holder h1{
+    border:2px solid #a76ce1;
+    color:#a76ce1;
+}
+.cdmnh_one{
+    position:relative;
+}
+.cdmnh_text_block h1::before{
+    content: '';
+    display: block;
+    border: 2px solid #dcdcdc;
+    margin-bottom: 20px;
+    border-style: dashed;
+    position: absolute;
+    left: 74%;
+    width: 70%;
+    top: 31%;
+}
+.common::after{
+    content: '\f105';
+    display: block;
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    position: absolute;
+    top: 16px;
+    right: -21px;
+    z-index: 1;
+}
+.five_block_holder::after{
+    content: '\f105';
+    display: block;
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    position: absolute;
+    left: -15px;
+    transform: rotate(
+90deg);
+    z-index: 1;
+    top: 128px;
+}
+.five_block_holder h1::before{
+    content: '';
+    display: block;
+    border: 2px solid #dcdcdc;
+    margin-bottom: 0px;
+    border-style: dashed;
+    position: absolute;
+    left: 50%;
+    width: unset;
+    top: 65%;
+    height: 109px !important;
+    /* z-index:-1; */
+}
+.five_block_holder p{
+    background-color: #fff;
+    z-index: 9;
+    padding: 2px 0;
+    position: relative;
+}
+.common_design_modification_new_holder_two{
+    margin-top:70px;
+}
+.arrow_or{
+    display: block;
+    border: 2px solid #dcdcdc;
+    margin-bottom: 0px;
+    border-style: dashed; 
+    position:relative;
+}
+.arrow_or::after{
+    content: '\f105';
+    display: block;
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    position: absolute;
+    top: -18px;
+    left: 50%;;
+    z-index: 1;
+    transform: rotate( 
+        180deg);
+}
+.p_m{
+    padding:0;
+}
+.grant_hearing_or span{
+    text-align: center;
+    font-weight: 700;
+    position: relative;
+    margin-top: -17px;
+    padding: 5px 13px;
+    background-color: #ffff;
+    display:block;
+}
+
+.grant_hearing_or span::before{
+    content: '';
+    display: block;
+    border: 2px solid #dcdcdc;
+    margin-bottom: 0px;
+    border-style: dashed;
+    position: absolute;
+    left: 50%;
+    width: unset;
+    top: -50px;
+    height: 50px !important;
+    /* z-index: -1; */
+}
+.common_design_modification_new_holder_three{
+    margin-top:60px;
+}
+ .grant_hearing_or_block{
+    display: block;
+    border: 2px solid #dcdcdc;
+    margin-bottom: 0px;
+    border-style: dashed; 
+    position:relative;
+}
+.end{
+    display: block;
+    border: 2px solid #dcdcdc;
+    margin-bottom: 0px;
+    border-style: dashed; 
+    position:relative;
+    left: -86px;
+}
+.end::before{
+    content: '';
+    display: block;
+    border: 2px solid #dcdcdc;
+    margin-bottom: 0px;
+    border-style: dashed;
+    position: absolute;
+    left: 44%;
+    width: unset;
+    top: -46px;
+    height: 37px !important;
+    /* z-index: -1; */
+}
+.grant_hearing_or{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gnbh_one{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    background-color: #74ae3a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #fff;
+}
+.gnbh_one1{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    background-color: #e86464;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #fff;
+}
+.grant_new_block_holder{
+    display: flex;
+    align-items: flex-end;
+    margin-top: 30px;
+    background: #fff;
+    position: relative;
+    top: -48px;
+    padding: 0 10px;
+    /* left:33px; */
+    justify-content: flex-end;
+}
+.gnbh_two p{
+    margin-right: 10px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.gnbh_two1 p{
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.grant_new_block_holder_new, .end_block_left{
+    display:flex;
+    justify-content: flex-end;
+    left: 14px;
+}
+.annuities_paid{
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    margin-left: 57px;
+}
+.annuities_paid::before{
+    content: '';
+    display: block;
+    border: 2px solid #dcdcdc;
+    margin-bottom: 0px;
+    border-style: dashed;
+    position: absolute;
+    left: 73%;
+    width: unset;
+    top: -42px;
+    height: 40px !important;
+    /* z-index: -1; */
+}
+.annuities_left{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    background-color: #e1bf1a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #fff;
+}
+.annuities_left1{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    border:2px solid #e1bf1a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #e1bf1a;
+}
+.annuities_right3 p{
+    font-size: 16px;
+    margin-right: 8px;
+}
+.hearing_new_block_holder{
+    display:flex;
+    justify-content: flex-start;
+}
+.end_block{
+    display:flex;
+    justify-content: space-between;
+    position: relative;
+    left: -87px;
+    width: calc(100% + 84px);
+}
+.gnbh_one2 {
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    background-color: #f53535;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #fff;
+}
+.annuities_paid1{
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.annuities_left1{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    border:2px solid #e1bf1a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #e1bf1a;
+}
+.annuities_paid1::before {
+    content: '';
+    display: block;
+    border: 2px solid #dcdcdc;
+    margin-bottom: 0px;
+    border-style: dashed;
+    position: absolute;
+    left: 22px;
+    width: unset;
+    top: -40px;
+    height: 34px !important;
+    /* z-index: -1; */
+}
+.annuities_right1 p{
+    font-size: 12px;
+    margin-left: 8px;
+}
+
+.a_paid_two{
+    margin-top:50px;
+}
+.annuities_right3::after{
+    content: '\f105';
+    display: block;
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    position: absolute;
+    top: -37px;
+    z-index: 1;
+    left: 69.5%;
+    transform: rotate( 
+90deg);
+}
+.annuities_paid2{
+    display: flex;
+    position: relative;
+    text-align: center;
+  
+}
+.annuities_paid2_new{
+    margin-top: -8px;
+}
+.annuities_paid2::before{
+    content: '';
+    display: block;
+    border: 2px solid #dcdcdc;
+    margin-bottom: 0px;
+    border-style: dashed;
+    position: absolute;
+    left: 25px;
+    width: unset;
+    top: -42px;
+    height: 38px !important;
+     /* z-index: -1; */
+}
+.annuities_right4::after {
+    content: '\f105';
+    display: block;
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    position: absolute;
+    top: -39px;
+    z-index: 1;
+    left: 21px;
+    transform: rotate( 
+90deg);
+}
+.annuities_right4 p{
+    font-size: 16px;
+}
+.pm{
+    margin-left: -9px;
+}
+.pm2{
+    margin-left: -33px;
+}
+.grant_new_block_holder3{
+    align-items: baseline;
+    display: grid;
+    grid-template-columns: 30px 1fr;
+}
+.gnbh_two1 p span{
+    font-size:11px;
+    display:block;
+}
+.gnbh_two_responsive{
+display:none;
+}
+.block_heading h2{
+    display:table;
+}
+.grant_new_block_holder3{
+    left:0;
+}
+.pm3{
+    margin-right: -42px;
+}
+.gnbh_two2{
+    display:none;
+}
+@media screen and (max-width: 991px) {
+    .arrow_or{
+        display:none;
+    }
+    .grant_hearing_or{
+        display:none;
+    }
+    .cdmnh_text_block h1::before {
+        content: '';
+        display: block;
+        border: 2px solid #dcdcdc;
+        margin-bottom: 20px;
+        border-style: dashed;
+        position: absolute;
+        left: 62%;
+        width: 85%;
+        top: 22%;
+    }
+    .new_cdmnh_one{
+        margin-top:50px;
+    }
+  .three_block{
+      float:right;
+  }
+  .two_block_holder h1::before{
+    content: '';
+    display: block;
+    border: 2px solid #dcdcdc;
+    margin-bottom: 0px;
+    border-style: dashed;
+    position: absolute;
+    left: 50%;
+    width: unset;
+    top: 57%;
+    height: 101px !important;
+    /* z-index: -1; */
+  }
+  .four_block_holder h1::after{
+    content: '';
+    display: block;
+    border: 2px solid #dcdcdc;
+    margin-bottom: 0px;
+    border-style: dashed;
+    position: absolute;
+    left: 50%;
+    width: unset;
+    top: 57%;
+    height: 136px !important;
+    /* z-index: -1; */
+  }
+  .three_block_holder h1::before{
+      display:none;
+  }
+  .five_block_holder h1::after{
+    content: '';
+    display: block;
+    border: 2px solid #dcdcdc;
+    margin-bottom: 0px;
+    border-style: dashed;
+    position: absolute;
+    left: -13px;
+    width: 38%;
+    top: 22%;
+
+    /* z-index: -1; */
+  }
+  .three_block_holder::after{
+      display:none;
+  }
+  .four_block_holder::after{
+    transform: rotate( 
+        180deg);
+  }
+  .two_block_holder p{
+    background-color: #fff;
+    z-index: 9;
+    padding: 3px 0;
+    position: relative;
+  }
+  .four_block_holder p {
+    background-color: #fff;
+    z-index: 9;
+    padding: 3px 0;
+    position:relative;
+}
+  .two_block_holder::after {
+    content: '\f105';
+    display: block;
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    position: absolute;
+    left: -13px;
+    transform: rotate( 
+90deg);
+    z-index: 1;
+    top: 112px;
+}
+.four_block_holder::before {
+    transform: rotate( 
+90deg);
+    content: '\f105';
+    display: block;
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    position: absolute;
+    top: 112%;
+    left: 49%;
+    z-index: 1;
+}
+.five_block_holder h1::before{
+    content: '';
+    display: block;
+    border: 2px solid #dcdcdc;
+    margin-bottom: 0px;
+    border-style: dashed;
+    position: absolute;
+    left: 50%;
+    width: unset;
+    top: 57%;
+    height: 107px !important;
+    /* z-index: -1; */
+}
+.five_block_holder::after{
+    left: -16px;
+}
+
+
+.grant_hearing_or_block {
+    width: 37%;
+    left: 33%;
+    top: -5px;
+}
+.grant_new_block_holder_new, .end_block_left, .hearing_new_block_holder{
+    justify-content: center;
+}
+.hearing_new_block_holder9{
+    justify-content: unset;
+}
+.hearing_new_block_holder3::before{
+    content: '';
+    display: block;
+    border: 2px solid #dcdcdc;
+    margin-bottom: 20px;
+    border-style: dashed;
+    position: absolute;
+    left: 53px;
+    width: 22%;
+    top: 9%;
+}
+.end::after{
+    content: '\f105';
+    display: block;
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    position: absolute;
+    right: 53%;
+    transform: rotate( 
+90deg);
+    z-index: 1;
+    top: -43px;
+}
+}
+@media screen and (max-width:780px) and (min-width: 501px) {
+    .annuities_paid2{
+        justify-content: center;
+    }
+    .gnbh_two2{
+        display:block;
+        text-align: center;
+    }
+    .gnbh_two_responsive p{
+        margin-right: -14px;
+    }
+    .gnbh_two2 p:first-child, .gnbh_two_responsive p{
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .gnbh_two1{
+        display:none;
+    }
+    .grant_new_block_holder3{
+        grid-template-columns: 1fr;
+    }
+    .gnbh_one1{
+        margin:0 auto;
+    }
+    .cdmnh_text_block h1::before{
+        top: 31%;
+    }
+    .four_block_holder h1::after{
+        height: 123px !important;
+    }
+    /* .grant_new_block_holder3 {
+        left: 39px;
+    } */
+    .gnbh_two1 p{
+      text-align: center;
+    }
+    .gnbh_two1 p span{
+        word-break: break-all;
+    }
+    .hearing_new_block_holder3::before{
+        display:none;
+    }
+    .two_block_holder h1::before{
+        top: 57%;
+    }
+    .five_block_holder h1::before{
+        top: 57%;
+        height: 172px !important;
+    }
+    .pm, .pm2{
+        margin-left: 0;
+    }
+    
+    .gnbh_two_responsive {
+        display: block;
+    }
+    .gnbh_two {
+        display: none;
+    }
+    .grant_new_block_holder{
+        flex-direction: column;
+    }
+    .grant_new_block_holder{
+        background:unset;
+    }
+  
+}
+@media screen and (max-width: 780px) {
+    .annuities_paid2_new {
+        margin-top: 20px;
+    }
+    .annuities_paid2::before{
+        left: 178px;
+    }
+    .annuities_right4::after{
+        left: 174px;
+    }
+    .annuities_paid2_new::before{
+        top: -61px;
+        height: 56px !important;
+      
+    }
+    .grant_hearing_or_block {
+        width: 48%;
+        left: 23%;
+    }
+    .grant_new_block_holder_new9{
+        justify-content: flex-start;
+    }
+}
+@media screen and (max-width: 700px) {
+    .annuities_paid2::before {
+        left: 166px;
+    }
+    .annuities_right4::after {
+        left: 162px;
+    }
+    .grant_hearing_or_block {
+        width: 45%;
+        left: 25%;
+    }
+}
+
+@media screen and (max-width: 648px) {
+    .annuities_paid2::before {
+        left: 151px;
+    }
+    .annuities_right4::after {
+        left: 147px;
+    }
+
+}
+@media screen and (max-width: 660px) {
+    .annuities_paid2::before {
+        left: 158px;
+    }
+    .annuities_right4::after {
+        left: 154px;
+    }
+    .grant_hearing_or_block {
+        width: 44%;
+        left: 27%;
+    }
+}
+@media screen and (max-width: 628px) {
+    .annuities_paid2::before {
+        left: 150px;
+    }
+    .annuities_right4::after {
+        left: 147px;
+    }
+  
+}
+@media screen and (max-width: 600px) {
+    .annuities_paid2::before {
+        left: 143px;
+    }
+    .annuities_right4::after {
+        left: 138px;
+    }
+    .grant_hearing_or_block {
+        width: 41%;
+        left: 29%;
+    }
+  
+}
+@media screen and (max-width: 570px) {
+    .annuities_paid2::before {
+        left: 139px;
+    }
+    .annuities_right4::after {
+        left: 135px;
+    }
+    .grant_hearing_or_block {
+        width: 39%;
+        left: 31%;
+    }
+  
+}
+@media screen and (max-width: 557px) {
+    .annuities_paid2::before {
+        left: 138px;
+    }
+    .annuities_right4::after {
+        left: 133px;
+    }
+}
+@media screen and (max-width: 537px) {
+
+.new_end_block_holder{
+    margin-top:100px;
+}
+.end_block {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: -172px;
+    width: calc(100% + 121px);
+}
+.end::after {
+    content: '\f105';
+    display: block;
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    position: absolute;
+    right: 78%;
+    transform: rotate( 
+90deg);
+    z-index: 1;
+    top: -94px;
+}
+.end::before {
+ 
+    left: 19%;
+    width: unset;
+    top: -136px;
+    height: 136px !important;
+
+}
+.hearing_new_block_holder3::before {
+
+    left: -31px;
+    width: 47%;
+
+}
+.gnbh_two p, .gnbh_two1 p{
+    margin-bottom: 7px;
+    background: #fff;
+    position: relative;
+    z-index: 9;
+}
+.hearing_new_block_holder9_inner{
+    padding: 0 55px 0 10px;
+}
+}
+@media screen and (max-width: 570px) {
+    .annuities_paid2::before {
+        left: 132px;
+    }
+    .annuities_right4::after {
+        left: 128px;
+    }  
+}
+@media screen and (max-width: 540px) {
+    .annuities_right4::after {
+        left: 119px;
+    }
+    .annuities_paid2::before {
+        left: 124px;
+    }
+}
+@media screen and (max-width: 500px) {
+    .four_block_holder h1::after{
+        top: 67%;
+    height: 127px !important;
+    }
+    .two_block_holder::after{
+        left: -16px;
+    }
+    .two_block_holder h1::before{
+        top: 68%;
+        left: 50%;
+        height: 78px !important;
+    }
+    .two_block_holder::after{
+        left: -16px;
+    }
+    .five_block_holder h1::before{
+        top: 65%;
+    }
+    .annuities_paid2_new{
+        margin-top:20px;
+    }
+    .new_filling::after{
+        top: -59px;
+    }
+    .annuities_paid2_new::before{
+        top: -68px;
+        height: 60px !important;
+    }
+   
+    .grant_hearing_or_block{
+        width: 50%;
+        top: -4px;
+    }
+    .common_design_modification_new_holder_three{
+        margin-top:0;
+    }
+    .arrow_or{
+        display:none;
+    }
+    .four_block_holder::before{
+        left: 48%;
+    }
+    .five_block_holder h1::after{
+        top: 34%;
+    }
+    .pm {
+        margin-left: 0;
+    }
+    .annuities_right4 p{
+        font-size:12px;
+    }
+    .gnbh_two1{
+        text-align: center;
+    }
+    .grant_new_block_holder3{
+        grid-template-columns: 1fr;
+
+    }
+    .gnbh_one1{
+        margin:0 auto;
+    }
+    .grant_new_block_holder{
+        left:0;
+    }
+    .gnbh_two_responsive{
+        display:block;
+        }
+        .gnbh_two{
+            display:none;
+        }
+    .annuities_right3 p{
+        font-size:12px;
+    }
+    .grant_new_block_holder_new{
+        justify-content: flex-start;
+        left:0;
+    }
+    .annuities_paid{
+        flex-direction: column;
+        margin-left:0;
+    }
+    .annuities_right_responsive p{
+        font-size:12px;
+    }
+    .end{
+        left: -100px;
+    }
+    .annuities_paid_responsive{
+        flex-direction: column;
+      
+    }
+    .annuities_paid::before{
+        left: 49%;
+        top: -47px;
+        height: 40px !important;
+    }
+    .grant_new_block_holder{
+        flex-direction: column;
+        align-items: center;
+    }
+    .annuities_paid1::before{
+        top: -46px;
+    height: 40px !important;
+    left: 98px;
+    }
+    .annuities_right3_responsive p{
+        font-size:12px;
+    }
+    
+    .gnbh_two_responsive p{
+        margin-left: 10px;
+        font-size: 15px;
+        font-weight: 600;
+        margin-bottom: 7px;
+    }
+    .annuities_right1_responsive p{
+        font-size:12px;
+    }
+    .annuities_paid1{
+        flex-direction: column;
+    align-items: center;
+    margin-left: -50px;
+    }
+   
+   .one_block_holder h1::before {
+    left: 71%;
+    width: 73%;
+    top: 30%;
+   }
+   .four_block_holder  h1::before{
+    left: 72%;
+    width: 73%; 
+    top: 29%;
+   }
+   .end::before{
+    top: -156px;
+    height: 154px !important;
+    left: 30%;
+   }
+   .end::after{
+    right: 66%;
+   }
+   .hearing_new_block_holder3::before{
+    left: -27px;
+    width: 53%;
+    top: 30%;
+   }
+   .grant_hearing_or_block{
+    left: 17%;
+   }
+   .hearing_new_block_holder9_inner{
+    flex-direction: column;
+    align-items: center;
+   }
+   .grant_new_block_holder{
+       background:unset;
+   }
+   .annuities_right3::after{
+    left: 45.5%;
+   }
+   .hearing_new_block_holder3::before{
+       display:none;
+   }
+   .annuities_paid2{
+       justify-content: center;
+   }
+   .annuities_paid2::before{
+    left: 118px;
+   }
+   .annuities_right4::after{
+    left: 114px;
+   }
+   .pm2 {
+    margin-left: 9px;
+}
+.pm3 {
+    margin-right: -19px;
+}
+}
+@media screen and (max-width: 480px) {
+    .end_block{
+        left: -145px;
+    }
+    .annuities_right1 p{
+        font-size: 10px;
+    }
+    .hearing_new_block_holder3{
+        margin-left: -15px;
+    }
+    .annuities_right4::after {
+        left: 99px;
+    }
+    .annuities_paid2::before {
+        left: 103px;
+    }
+}
+@media screen and (max-width: 440px) {
+    .annuities_right4::after {
+        left: 88px;
+    }
+    .annuities_paid2::before {
+        left: 92px;
+    }
+    .five_block_holder h1::after{
+        left: -14px;
+        width: 32%;
+    }
+}
+@media screen and (max-width: 453px) {
+.trademark_reg_heading h2::after{
+    top:unset;
+}
+.grant_new_block_holder3 {
+    top: -52px;
+}
+}
+@media screen and (max-width: 420px) {
+    .hearing_new_block_holder3::before{
+        display:none;
+    }
+    .end_block {
+        left: -129px;
+    }
+    .end::before{
+        left: 100%;
+    }
+    .end::after {
+        right: -8px;
+    }
+}
+@media screen and (max-width: 400px) {
+    .annuities_right4::after {
+        left: 84px;
+    }
+    .annuities_paid2::before {
+        left: 87px;
+    }
+}
+@media screen and (max-width: 385px) {
+    .four_block_holder::after{
+        top: 16px;
+    }
+    .one_block_holder h1::before {
+        left: 78%;
+        width: 64%;
+    }
+    .four_block_holder h1::before {
+        left: 79%;
+        width: 64%;
+    }
+    .two_block_holder::after{
+        left: -16px;
+    }
+    .four_block_holder::before{
+        left: 47%;
+    }
+}
+@media screen and (max-width: 380px) {
+    .annuities_right4::after {
+        left: 76px;
+    }
+    .annuities_paid2::before {
+        left: 80px;
+    }
+    .grant_hearing_or_block {
+        left: 20%;
+        width: 46%;
+    }
+}
+@media screen and (max-width: 370px) {
+    .end_block {
+        left: -116px;
+    }
+    .end::after {
+        right: -20px;
+    }
+    .end::before {
+        left: 108%;
+    }
+}
+@media screen and (max-width: 360px) {
+    .end_block{
+        left: -114px;
+    }
+    .grant_hearing_or_block {
+        left: 24%;
+        width: 40%;
+    }
+}
+@media screen and (max-width: 358px) {
+    .annuities_right4::after {
+        left: 68px;
+    }
+    .annuities_paid2::before {
+        left: 72px;
+    }
+}
+@media screen and (max-width: 340px) {
+    .annuities_right4::after {
+        left: 65px;
+    }
+    .annuities_paid2::before {
+        left: 69px;
+    }
+}
+@media screen and (max-width: 350px) {
+    .end_block {
+        left: -108px;
+    }
+    .end::after {
+        right: -26px;
+    }
+    .end::before {
+        left: 113%;
+    }
+}
+@media screen and (max-width: 332px) {
+    .one_block_holder h1::before{
+        top: 26%;
+    }
+    .four_block_holder h1::after {
+        top: 58%;
+        height: 140px !important;
+    }
+    .four_block_holder h1::before{
+        top: 24%;
+    }
+    .one_block_holder h1::before {
+        left: 79%;
+        width: 63%;
+    }
+}
+@media screen and (max-width: 324px) {
+    .one_block_holder h1::before{
+        top: 25.5%;
+    }
+}
+@media screen and (max-width: 322px) {
+   .four_block_holder h1::before{
+    top: 25%;
+   }
+}
+@media screen and (max-width: 767px) {
+    .new_new_block_mobile a{
+        z-index: 9999999999999999999999999999;
+    }
+    .cstm_new_title99 {
+    margin-bottom: 30px !important;
+    font-size: 26px !important;
+}
+.cstm_tbnd{
+    background-color: #ffffff;
+}
+.cstm_fochng{
+    background-color: #ffffff;
+}
+.cstm_bck_img{
+    margin-top: 0 !important;
+}
+.cstm_text a{
+    margin-bottom: 30px !important;
+    margin-top: 0px !important;
+}
+.video-col{
+    margin-bottom: 30px;
+}
+.tedx_video{
+    width: 100%;
+    height: 315px;
+}
+
+.nmbg_block{
+    margin-bottom: 20px;
+}
+.cstm_new_title99 {
+    margin-bottom: 30px !important;
+}
+.cstm_ysce {
+    padding-bottom: 0;
+    margin-top: 20px !important;
+}
+.cstm_ttle_mb{
+    margin-bottom: 0px;
+}
+.cstm_rvw_itm h3{
+    margin-top: 18px;
+}
+.rating-stars{
+    margin-top: 8px;
+}
+.cstm_rvw_itmm h3{
+    margin-top: 0px;
+}
+.review-wrapper{
+    display: inline-block;
+}
+
+.border-middle{
+    border:none;
+}
+.review-item {
+    padding: 0 10px;
+}
+.cstm_rvw_itmm{
+    margin-top: 38px;
+}
+.review-section {
+    margin: 24px 0 0px 0;
+}
+.tradmark_brands {
+    padding: 30px 0 0;
+}
+.youtube-section{
+    padding: 20px 0;
+    margin: 0;
+}
+.cstm_ttl_99{
+    margin-top: 0;
+    margin-bottom: 16px !important;
+}
+.cstm_ttl_cntt{
+    margin: 20px 0 24px 0 !important;
+}
+.cstm_ne_w_title99{
+    margin-bottom: 20px !important;
+}
+.cstm_md_txt h2{
+    margin-top: 10px;
+}
+.nmbg_block_text p {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+
+}
+.cstm_hme_wrk h2{
+    margin-top: 0;
+}
+.cstm_trp_txt{
+    margin-top: 0px !important;
+}
+.cstm_rdt{
+    margin-top: 0;
+}
+.cstm_rd_sec{
+    padding: 0;
+}
+.cstm_rbtx_t{
+    margin-left: 0px;
+}
+.cstm_nw_cdmn {
+    padding: 30px 0 0 0 !important;
+    margin-bottom: 0 !important;
+}
+.cstm_ytty_sec {
+    padding: 30px 0 !important;
+}
+
+
+
+}
+/* new-design-18-10-2021-end */
+/* new-design-13-03-2026-end-Gourab */
+

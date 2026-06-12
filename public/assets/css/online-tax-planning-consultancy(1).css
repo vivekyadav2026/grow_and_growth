@@ -1,0 +1,666 @@
+/*
+.top-header{
+	background-color: #385067;
+	height: auto;
+}
+.top-mobile{
+	color: white;
+	line-height: 40px;
+	font-weight: 600;
+}
+.nav-link a{
+	color: black;
+	font-weight: 600;
+}
+.custom-pull-left{
+
+}
+*/
+
+/*
+.title-content{
+	margin-top: 10px;
+}
+*/
+/*
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+    color: 
+#f1ecec;
+text-decoration: none;
+background-color:
+    #385067;
+}
+*/
+/*here is the form css coding*/
+
+/* @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic); */
+
+.container.form {
+  width: 100%;
+  margin-top: 226px;
+  margin-bottom: 70px;
+}
+#contact input[type="text"],
+#contact input[type="email"],
+#contact input[type="tel"],
+#contact input[type="url"],
+#contact textarea,
+#contact button[type="submit"] {
+  font:
+    400 12px/16px "Roboto",
+    Helvetica,
+    Arial,
+    sans-serif;
+}
+
+.copyright {
+  text-align: center;
+}
+
+/*here is the form css coding*/
+
+/*here is the form css coding by sandipan*/
+
+/*
+
+    .bt_callback3{background: #4CAF50 !important;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 27px;
+    padding: 15px 93px 15px 92px;
+    position: absolute;
+    text-align: center;
+    margin-left: -9px;
+    border-radius: 0px 0px 10px 10px;
+    font-size: 18px;}
+*/
+
+#allpacakage .fees_box .register-benifits-text .plan_hight {
+  min-height: 400px !important;
+}
+
+h2 {
+  color: #0b56a8;
+}
+
+/*here is the coding css of the benifits of udyog aadhar*/
+
+.background_image {
+  /*background-image: url("https://www.onlinelegalindia.com/services/udyog-aadhaar/image/bg.JPEG 2000");*/
+  background-image: linear-gradient(
+    to right top,
+    #174355,
+    #1d4154,
+    #223f53,
+    #263d51,
+    #2a3b4f,
+    #2d3f53,
+    #314458,
+    #34485c,
+    #385468,
+    #3d6074,
+    #416d7f,
+    #477a89
+  );
+  left: -74.5px;
+  box-sizing: border-box;
+  width: 100%;
+}
+/*
+.block_heading h2:after {
+    content: '';
+    display: block;
+    width: 75px;
+    height: 6px;
+    background: #5cb85c;
+    border-radius: 3px;
+    margin: 14px 0 0;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+*/
+
+.benifits-ul {
+  list-style: none;
+  margin: 30px 0px 0px 0px;
+  padding: 0;
+}
+
+/*here is the coding css of the benifits of udyog aadhar*/
+
+.card {
+  -moz-box-direction: normal;
+  -moz-box-orient: vertical;
+  background-color: #fff;
+  border-radius: 0.25rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-bottom: 1px;
+  border: none;
+}
+
+/*
+td{
+	border: 1px solid
+#dbdbdb;
+padding: 7px;
+text-align: center;
+}
+*/
+
+/*here is the syle of why us*/
+.why-us-img-div {
+  margin-top: 50px;
+}
+
+/*here is the syle of why us*/
+
+/*here is the style of footer accordation*/
+
+.accordion-cus-head {
+  font-weight: 600;
+}
+.child-ans-div-1 {
+  color: #66667a;
+}
+.child-ans-text {
+  margin-left: 37px;
+  margin-top: 10px;
+}
+/*here is the style of footer accordation*/
+
+.our-associates {
+  width: 20%;
+  float: left;
+}
+
+.gst_rdiobtn ul li:nth-child(2) {
+  font-weight: 500;
+  font-size: 14px;
+  margin-bottom: 5px;
+  color: #000;
+  margin-top: 20px;
+}
+.gst_rdiobtn ul li b {
+  margin-left: 0;
+}
+
+.advantge_box {
+  width: 100%;
+  float: left;
+  margin-bottom: 30px;
+  text-align: center;
+  padding: 0 5px;
+  height: 240px;
+}
+.advantge_box img {
+  width: 20%;
+}
+.advantge_box i {
+  width: 60px;
+  height: 60px;
+  margin-right: 0px;
+  background: #f3f3f3;
+  border-radius: 150px;
+  box-shadow: 0 6px 5px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  display: inline-table;
+}
+.advantge_box h4 {
+  color: #485d51;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  margin-top: 26px;
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+.advantge_box p {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  width: calc(100% - 87px);
+  color: #67756d;
+  font-weight: normal;
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+.process_section {
+  height: 200px;
+}
+
+/*Custom Radio for Form Package start*/
+.gst_rdiobtn:nth-child(3) {
+  background: #eaeaea;
+  border: none;
+}
+.gst_rdiobtn input[type="radio"]:checked ~ .check {
+  border: 4px solid #81d481;
+}
+.gst_rdiobtn input {
+  visibility: hidden;
+}
+.gst_rdiobtn {
+  display: flex;
+  margin-left: 0px;
+  border: 3px solid #eaeaea;
+}
+
+.gst_rdiobtn ul {
+  margin-left: 20px;
+}
+.gst_rdiobtn .check {
+  display: block;
+  position: absolute;
+  border: 4px solid #aaaaaa;
+  border-radius: 100%;
+  height: 25px;
+  width: 25px;
+  top: 12px;
+  left: 5px;
+  z-index: 5;
+  transition: border 0.25s linear;
+  -webkit-transition: border 0.25s linear;
+}
+.gst_rdiobtn input[type="radio"]:checked ~ .check::before {
+  background: #049244;
+}
+.gst_rdiobtn input[type="radio"]:checked ~ .check::before {
+  display: block;
+  position: absolute;
+  content: "";
+  border-radius: 100%;
+  height: 11px;
+  width: 11px;
+  top: 3px;
+  left: 3px;
+  margin: auto;
+  transition: background 0.25s linear;
+  -webkit-transition: background 0.25s linear;
+}
+.price_active {
+  background: #e4ffe4 !important;
+  border: 3px solid #78e478 !important;
+}
+.gst_rdiobtn label {
+  width: 100%;
+  font-weight: 500;
+}
+
+#allpacakage .register-benifits-text h4 {
+  margin-bottom: 23px;
+}
+#allpacakage .fees_box .register-benifits-text span:nth-child(1) {
+  font-size: 13px !important;
+  padding: 0 44px;
+  display: block;
+  min-height: 39px;
+  font-weight: bolder;
+  word-break: break-word;
+}
+#allpacakage .register-benifits-text h4 .section-chapter {
+  color: #214223 !important;
+  margin-top: -15px;
+  font-size: 11px;
+  margin-bottom: 0px !important;
+}
+#allpacakage .register-benifits-text h4 {
+  background: transparent !important;
+}
+#allpacakage .register-benifits-text span:nth-child(1) {
+  color: #4a4a4a;
+}
+#allpacakage .register-benifits-text h4 {
+  min-height: auto !important;
+  color: #129805;
+  padding: 21px 0;
+  margin-bottom: 23px;
+  font-size: 40px !important;
+  padding-bottom: 0;
+}
+#allpacakage .copy_lists {
+  margin-bottom: 0;
+}
+/*Custom Radio for Form Package end*/
+
+@media (max-width: 768px) {
+  #topheader {
+    height: 82px;
+  }
+  input[name="submit"],
+  #contact input[type="submit"],
+  #contact input[type="button"],
+  button[type="submit"],
+  #contact button[type="button"],
+  input[name="next"] {
+    background: #4caf50 !important;
+    color: #fff !important;
+    margin: 0 0 5px !important;
+    padding: 9px 9px !important;
+    font-size: 19px !important;
+    border-radius: 6px !important;
+    line-height: inherit !important;
+  }
+  .advantge_box img {
+    width: 11%;
+  }
+  .advantage_margin {
+    margin-top: 50px;
+  }
+  .media_cover_box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .media_cover_box p {
+    font-size: 14px !important;
+    line-height: 19px;
+  }
+  #popular_services .block_heading {
+    margin-bottom: 69px;
+  }
+  #popular_services .services_list h5 {
+    font-size: 14px;
+    width: 61%;
+    top: -5px;
+    line-height: 16px;
+  }
+  #whyUs .block_heading {
+    margin-bottom: 59px;
+  }
+  .why-us-img-div {
+    margin-top: 42px !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .advantge_box {
+    height: 240px;
+    margin-bottom: 0;
+  }
+  #allpacakage .fees_box .register-benifits-text {
+    min-height: 396px !important;
+  }
+  .top-mobile {
+    font-size: 10px;
+  }
+  .custom-pull-left {
+    float: left !important;
+    width: 100%;
+    background-color: #385067;
+  }
+  .nav-link a {
+    color: white !important;
+    font-weight: 600;
+  }
+  .container-fluid > .navbar-collapse,
+  .container-fluid > .navbar-header,
+  .container > .navbar-collapse,
+  .container > .navbar-header {
+    margin-right: -15px;
+    margin-left: 0px;
+  }
+  .benifits-small-div {
+    width: 100%;
+  }
+  .benifits-li::before {
+    left: 8px;
+  }
+  .benifits-li {
+    margin-left: 23px;
+  }
+  .benifits-text {
+    margin-left: 31px;
+  }
+  .how-we-work-img {
+    width: 50%;
+    margin: 10% 25% 0% 25%;
+  }
+  .background_image {
+    height: auto;
+  }
+  .why-us-img {
+    width: 100%;
+  }
+  .accordaion-main-div {
+    height: auto;
+  }
+  .accordion-cus-head {
+    line-height: 24px;
+    font-size: 14px;
+    margin-left: 16px;
+    padding: 10px;
+  }
+  .process_section {
+    height: auto;
+  }
+  .child-ans-text {
+    margin-left: 17px;
+  }
+  .child-ans-div-1 {
+    margin-top: -11px;
+  }
+  .foter-contact {
+    width: 100%;
+  }
+  .middel-footer {
+    width: 100%;
+    text-align: center;
+    margin: 20px auto;
+  }
+  .copyreight-section {
+    width: 100%;
+    height: auto;
+  }
+  .copyright-li {
+    margin: 0px 4px 0px 4px;
+  }
+  .nav .open > a,
+  .nav .open > a:focus,
+  .nav .open > a:hover {
+    background-color: #4d4343;
+  }
+  .nav > li > a:focus,
+  .nav > li > a:hover {
+    background-color: #4d4343;
+  }
+  .copyright-ul {
+    font-size: 10px;
+    text-align: left;
+    float: left;
+  }
+  .middel-footer-ul {
+    padding-left: 0px;
+    font-size: 12px;
+  }
+  .type-of-companees {
+    margin: 0px 6px 10px 6px;
+  }
+  .for-top-margin {
+    margin-top: 20px;
+  }
+  .advantage-image {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+  }
+  .table-overflow {
+    overflow: scroll;
+  }
+  .package-main-div {
+    width: 100%;
+    margin: 30px 0px 30px 0px;
+    height: auto;
+  }
+  .package-offers {
+    height: 860px;
+  }
+  .package-offers_2 {
+    height: 860px;
+  }
+  .package-offers_3 {
+    height: 860px;
+  }
+  .popular-service {
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+  }
+  .our-associates {
+    width: 50%;
+  }
+  .right-side-icons-div {
+    height: 375px;
+  }
+  .right-side-img {
+    height: 70px;
+    width: 70px;
+  }
+  .req-docs-main-div {
+    width: 100%;
+  }
+  .req-docs-main-div {
+    width: 46%;
+    margin: 0% 2% 8% 2%;
+  }
+  .title {
+    font-size: 22px;
+  }
+  .desk_view {
+    display: none;
+  }
+  .mob_view {
+    display: block;
+  }
+}
+
+@media (max-width: 425px) {
+  .title {
+    font-size: 18px !important;
+    line-height: 25px;
+  }
+  .title-content {
+    margin: 0 0 10px 0;
+    font-size: 14px;
+    line-height: 23px;
+    padding: 0 10px;
+  }
+  #contact input[name="submit"],
+  #contact input[type="submit"],
+  #contact input[type="button"],
+  button[type="submit"],
+  #contact button[type="button"],
+  input[name="next"] {
+    padding: 9px 9px !important;
+    font-size: 19px !important;
+  }
+  .gst_rdiobtn p {
+    font-size: 14px;
+  }
+  #contact h3 {
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  #contact h4 {
+    font-size: 12px;
+  }
+  #contact {
+    padding: 15px;
+  }
+  h6.panel-title {
+    font-size: 14px !important;
+  }
+  .advantge_box img {
+    width: 16%;
+  }
+  #popular_services .services_list h5 {
+    font-size: 13px;
+    width: 67%;
+    top: -13px;
+  }
+  #whyUs {
+    padding-top: 6px;
+  }
+}
+
+@media (max-width: 375px) {
+  #popular_services .services_list h5 {
+    font-size: 10px;
+    width: 59%;
+    top: -14px;
+    line-height: 13px;
+  }
+}
+
+@media (max-width: 320px) {
+  #captcha_holder {
+    width: 82px;
+    height: 35px;
+    object-fit: fill;
+  }
+  .advantge_box {
+    height: 240px;
+    margin-bottom: 0px;
+  }
+  .advantge_box img {
+    width: 20%;
+  }
+  .advantge_box h4 {
+    font-size: 17px !important;
+    margin-bottom: 15px !important;
+  }
+  .advantge_box p {
+    font-size: 14px;
+  }
+}
+
+.destop_mobile_interchange_two,
+.destop_mobile_interchange_one_inner {
+  background-color: #fff;
+}
+
+.destop_mobile_interchange_only_mobile {
+  display: none;
+}
+@media (max-width: 767px) {
+  .destop_mobile_interchange,
+  .destop_mobile_interchange_one,
+  .destop_mobile_interchange_two {
+    float: left;
+    width: 100%;
+  }
+  .destop_mobile_interchange {
+    display: grid;
+  }
+  .destop_mobile_interchange_one {
+    order: 2;
+  }
+  .destop_mobile_interchange_two {
+    order: 1;
+  }
+  .destop_mobile_interchange_only_mobile {
+    display: block;
+  }
+  .destop_mobile_interchange_one,
+  .new_accordion_destop_mobile {
+    display: none;
+  }
+  .new_accordion_destop_mobile_only_mobile,
+  .mobile_title_content {
+    padding: 0 15px;
+  }
+  #allpacakage .fees_box .register-benifits-text h4 img {
+    top: 9px;
+  }
+}
+@media (max-width: 360px) {
+  #allpacakage .fees_box .register-benifits-text h4 img {
+    top: 7px;
+  }
+}
+@media (max-width: 330px) {
+  #allpacakage .fees_box .register-benifits-text h4 img {
+    top: 5px;
+  }
+}

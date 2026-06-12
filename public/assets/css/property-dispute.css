@@ -1,0 +1,1103 @@
+.common_class {
+    float: left;
+    width: 100%;
+}
+.form_block_left_inner_holder{
+    margin-top: 20px;
+}
+.cstm_margn_tp {
+    margin-top: 40px;
+}
+
+.form_block_left_inner_left_holder {
+    display: flex;
+    gap: 20px;
+}
+.child-ans-textt{
+    padding-left: 18px;
+    margin-top: 10px;
+    line-height: 28px;
+}
+
+.form_block_left_inner_left_holder_border {
+    border-right: 2px solid #000;
+}
+
+.fblil_right p {
+    color: #000;
+    font-size: 15px;
+    margin-top: 0;
+    font-weight: 600;
+}
+
+.fblil_right p span {
+    display: block;
+}
+
+.one_right {
+    box-shadow: 2px 1px 17px 0px rgba(0, 0, 0, 0.2);
+    padding: 25px 15px;
+    border-radius: 12px;
+    background-color: #fff;
+}
+
+.one_right h5 {
+    text-align: center;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.one_right h4 {
+    margin: 5px 0 15px;
+    display: block;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: center;
+}
+
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+
+#contact2 input[type="text"],
+#contact2 input[type="email"],
+#contact2 input[type="tel"],
+#contact2 input[type="url"],
+#contact2 textarea {
+    width: 100%;
+    border: 1px solid #a7a7a7;
+    background: #fff;
+    margin: 0 0 5px;
+    padding: 13px 10px;
+    color: #2b2b2b;
+    font-size: 14px;
+}
+
+#contact2 input[name="submit"],
+#contact2 input[type="submit"],
+#contact2 input[type="button"],
+button[type="submit"],
+#contact2 button[type="button"],
+input[name="next"] {
+    cursor: pointer !important;
+    width: 100% !important;
+    border: none !important;
+    background: #129805 !important;
+    color: #FFF !important;
+    margin: 0 0 5px !important;
+    padding: 10px 0px !important;
+    font-size: 20px !important;
+    border-radius: 24px !important;
+    line-height: inherit !important;
+}
+
+#contact2 input[type="number"] {
+    width: 100%;
+    border: 1px solid #ccc;
+    background: #FFF;
+    margin: 0 0 16px;
+    padding: 11px 10px;
+    border: 1px solid #ccc;
+    background: #FFF;
+    margin: 0 0 12px;
+
+}
+
+#contact2 select {
+    width: 100%;
+    border: 1px solid #ccc;
+    background: #fff;
+    margin: 0 0 5px;
+    padding: 10px;
+}
+
+.form_one_right {
+    margin-top: 25px;
+}
+
+.cstm_orght {
+    padding: 20px !important;
+}
+
+.cstm_orght h5 {
+    color: #111920 !important;
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+
+.subhead {
+    width: 100%;
+    display: table;
+    font-size: 13px;
+    margin-bottom: 11px;
+    color: #e82525;
+    margin-top: -2px;
+}
+
+#contact2 textarea {
+    height: 100px;
+    max-width: 100%;
+    resize: none;
+}
+
+fieldset {
+    min-width: 100%;
+    width: 100%;
+    margin: 0px 0px 10px;
+    padding: 0px;
+    outline: none;
+    border-width: medium !important;
+    border-style: none !important;
+    border-color: initial !important;
+    border-image: initial !important;
+}
+
+#contact2 #btnrefresh {
+    margin-left: 5px;
+}
+
+.cstmm_cahd {
+    width: 38% !important;
+}
+
+.odr_section {
+    padding: 40px 0;
+    background: #fff;
+}
+
+
+
+
+
+.odr_image img {
+    max-width: 100%;
+}
+
+/* Content */
+.odr_content h2 {
+    font-size: 32px;
+    font-weight: 600;
+    color: #000;
+    margin-bottom: 20px;
+    line-height: 42px;
+}
+
+.odr_content h2 span {
+    color: #0048FF;
+    font-size: 32px;
+    line-height: 42px;
+}
+
+/* List */
+.odr_list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.odr_list li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 14px;
+    font-size: 15px;
+    color: #555;
+    line-height: 36px;
+}
+
+/* Tick Icon */
+.odr_list li img {
+    margin-right: 10px;
+    margin-top: 4px;
+}
+
+/* Text Wrapper */
+.odr_list li .text {
+    display: inline;
+}
+
+/* Orange Heading (NO BREAK) */
+.odr_list li strong {
+    color: #FF511C;
+    white-space: nowrap;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+/* Description */
+.odr_list li .desc {
+    display: inline;
+    font-size: 18px;
+    line-height: 28px;
+    color: #2B2B2B;
+}
+
+
+
+
+.cstm_onnee {
+    width: 100%;
+    background-image: url(https://www.onlinelegalindia.com/images/property-dispute/banner-hero.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 0;
+}
+
+#contact2 #captcha_code {
+    width: 50% !important;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.cstm_left_one h1 {
+    color: #ffffff !important;
+    font-size: 52px !important;
+    line-height: 62px !important;
+}
+
+.cstm_left_one span {
+    color: #dfa805;
+
+}
+
+.cstm_left_one p {
+    color: #ffffff;
+    font-size: 24px !important;
+    line-height: 34px;
+    font-weight: 500;
+    margin-top: 16px;
+}
+
+.contact2 h4 {
+    margin: 5px 0 15px;
+    display: block;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.new_control {
+    height: 40px !important;
+    font-size: 14px;
+    width: 100%;
+    border: 1px solid #ccc;
+    color: #919191;
+}
+
+.new_control_select {
+    border-radius: 4px !important;
+    padding-left: 10px;
+}
+
+.tsfb_started {
+    background-color: #129805;
+    height: 40px;
+    border-radius: 24px;
+    color: #fff !important;
+    font-size: 16px;
+    font-weight: 700;
+    width: 100%;
+    margin-top: 20px
+}
+
+.common_heading h2 {
+    color: #000;
+    font-size: 32px;
+    font-weight: 700;
+    position: relative;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 0 15px;
+    line-height: 42px;
+}
+
+.disclaimer_txt p {
+    font-size: 16px;
+    line-height: 25px;
+    color: #000000;
+    margin-top: 20px;
+    /* padding: 0 15px; */
+}
+
+.new_common_heading h2 {
+    color: #000;
+    font-size: 36px;
+    font-weight: 700;
+    position: relative;
+    text-align: center;
+}
+
+.new_common_heading h2:after {
+    height: 3px;
+    position: absolute;
+    content: "";
+    bottom: -6px;
+    background-color: #F06906;
+    border-radius: 2px;
+    left: 50% !important;
+    transform: translate(-50%, 10%) !important;
+    width: 200px;
+}
+
+.two_text_block {
+    text-align: center;
+}
+
+.two_p {
+    margin-top: 25px;
+}
+
+.two_text_block p {
+    font-size: 16px;
+    color: #000;
+    line-height: 27px;
+}
+
+.common_subheading h4 {
+    font-size: 22px;
+    color: #000;
+    font-weight: bold;
+}
+
+.span_one {
+    color: #129805;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.padding_left {
+    padding-left: 0;
+}
+
+.who_can_use {
+    padding: 40px 0;
+    background: linear-gradient(90deg, #EBF3F4 10%, #C8F3FF 100%);
+}
+
+/* Heading */
+.who_can_use h2 {
+    font-size: 32px;
+    font-weight: 600;
+    color: #000;
+    margin-bottom: 5px;
+    text-align: center;
+    line-height: 42px;
+    padding: 0 15px;
+}
+
+.who_can_use h2 span {
+    color: #111a45;
+}
+
+.sub_text {
+    font-size: 18px;
+    color: #000000;
+    margin-bottom: 35px;
+    text-align: center;
+    line-height: 28px;
+    margin-top: 10px;
+}
+
+/* Row spacing */
+.who_row {
+    margin-top: 20px;
+}
+
+/* Item */
+.who_item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 30px;
+}
+
+/* Icon */
+.who_item img {
+    margin-top: 3px;
+}
+
+/* Text wrapper */
+.who_text {
+    flex: 1;
+}
+
+/* Title */
+.who_text h4 {
+    font-size: 22px;
+    font-weight: 600;
+    color: #00489A;
+    margin-bottom: 12px;
+    line-height: 32px;
+}
+
+/* Description */
+.who_text p {
+    font-size: 16px;
+    color: #2B2B2B;
+    line-height: 28px;
+    padding-right: 38px;
+}
+
+.how_it_works {
+    padding: 40px 0;
+    background: #fff;
+    text-align: center;
+}
+
+/* Heading */
+.how_it_works h2 {
+    font-size: 32px;
+    font-weight: 600;
+    color: #000;
+    margin-bottom: 40px;
+    padding: 0 15px;
+}
+
+.header {
+    background: linear-gradient(135deg, #2c2c2c 0%, #1a1a1a 100%);
+    padding: 15px 25px;
+    position: relative;
+}
+
+.header h2 {
+    color: #fdb714;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.4;
+}
+
+.header::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 70px 70px;
+    border-color: transparent transparent #1a1a1a transparent;
+}
+
+.content {
+    background: linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%);
+    padding: 30px 25px;
+    position: relative;
+}
+
+.team-list {
+    list-style: none;
+    position: relative;
+    z-index: 1;
+}
+
+.team-list li {
+    font-size: 17px;
+    color: #2c2c2c;
+    margin-bottom: 20px;
+    padding-left: 15px;
+    position: relative;
+    font-weight: 500;
+}
+
+.team-list li::before {
+    content: '•';
+    position: absolute;
+    left: 0;
+    font-size: 20px;
+    color: #2c2c2c;
+}
+
+.content::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 120px 120px;
+    border-color: transparent transparent #2c2c2c transparent;
+}
+
+.disclaimer {
+    background: #fdb714;
+    padding: 20px 25px;
+    position: relative;
+}
+
+.disclaimer-title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #2c2c2c;
+    margin-bottom: 8px;
+}
+
+.disclaimer-text {
+    font-size: 14px;
+    color: #2c2c2c;
+    line-height: 1.5;
+    margin-bottom: 5px;
+}
+
+.footer {
+
+    border-top: 1px solid;
+    background: #2e363a;
+    text-align: center;
+    margin-top: 0 !important;
+    padding: 20px 0 !important;
+}
+
+.footer h3 {
+    color: #fdb714;
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.cstm_padd {
+    padding: 40px 0;
+}
+
+.how_it_works h2 span {
+    color: #0048FF;
+}
+
+/* Item */
+.how_item {
+    text-align: center;
+    padding: 10px;
+}
+
+/* Circle Image */
+.how_item img {
+    width: 70px;
+    margin-bottom: 15px;
+}
+
+/* Title */
+.how_item h4 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #1B1B1B;
+    margin: 21px 0;
+    line-height: 26px;
+}
+
+/* Description */
+.how_item p {
+    font-size: 14px;
+    color: #4A4A4A;
+    line-height: 22px;
+    margin: 0;
+}
+
+.how_row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.how_row>div {
+    width: 25%;
+    max-width: 25%;
+    flex: 0 0 25%;
+}
+
+.why_choose {
+    padding: 40px 0;
+    background: #fff;
+}
+
+/* Image Section */
+.why_img_box {
+    position: relative;
+    text-align: center;
+}
+
+.main_img {
+    max-width: 100%;
+}
+
+
+/* Content */
+.why_content h2 {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    line-height: 42px;
+    color: #000000;
+}
+
+.why_content h2 span {
+    color: #0048FF;
+}
+
+/* List */
+.why_list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.why_list li {
+    display: flex;
+    align-items: flex-start;
+    font-size: 16px;
+    color: #2C2C2C;
+    margin-bottom: 12px;
+    line-height: 32px;
+}
+
+.why_list li img {
+    margin-right: 10px;
+    margin-top: 4px;
+}
+
+.cta_section {
+    width: 100%;
+}
+
+/* Wrapper */
+.cta_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    /* 🔥 add this */
+}
+
+/* Left Image */
+.cta_left {
+    width: 50%;
+    height: 420px;
+    overflow: hidden;
+}
+
+.cta_left img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Right Content */
+.cta_right {
+    width: 50%;
+    background: url("https://www.onlinelegalindia.com/images/property-dispute/dont-let-property-dispute-bg.webp") no-repeat center;
+    background-size: cover;
+    height: 420px;
+    /* 🔥 change from min-height */
+    display: flex;
+    align-items: center;
+}
+
+/* Content */
+.cta_content {
+    padding: 0 50px;
+    color: #fff;
+    width: 100%;
+}
+
+/* Heading */
+.cta_content h2 {
+    font-size: 32px;
+    font-weight: 600;
+    color: #FFC300;
+    line-height: 42px;
+    margin-bottom: 32px;
+}
+
+.cta_content h2 span {
+    color: #FFC300;
+}
+
+/* Sub text */
+.subb_text {
+    font-size: 22px;
+    margin-bottom: 10px;
+    color: #fff;
+    line-height: 32px;
+    text-align: start;
+}
+
+/* Description */
+.desc {
+    font-size: 22px;
+    color: #ffffff;
+    margin-bottom: 25px;
+    line-height: 32px;
+}
+
+/* Button */
+.cta_btn {
+    display: inline-block;
+    padding: 12px 90px;
+    background: #fff;
+    color: #200E4B;
+    border-radius: 24px;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+@media screen and (max-width: 767px) {
+
+
+    .custom_row {
+        display: grid;
+    }
+        .child-ans-text {
+            margin-left: 0px !important;
+        }
+
+    .col_one {
+        order: 2;
+    }
+
+    .col_two {
+        order: 1;
+    }
+
+    .one_left {
+        margin-top: 20px;
+    }
+
+    .one-lakh-img {
+        text-align: center;
+        margin-top: 0;
+    }
+
+    .cstm_left_one h1 {
+        font-size: 32px !important;
+        line-height: 42px !important;
+        text-align: center;
+    }
+
+    .cta_left {
+        height: stretch;
+    }
+
+    .cstm_left_one p {
+        font-size: 16px !important;
+        line-height: 26px !important;
+        font-weight: 600;
+        text-align: center;
+    }
+
+    .cstm_onnee {
+        background-image: url(https://www.onlinelegalindia.com/images/property-dispute/mobile-all-property-dispute.webp);
+    }
+
+    .form_block_left_inner_left_holder {
+        display: flex;
+        gap: 40px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .one_left_inner {
+        margin-top: 16px;
+    }
+
+    .form_block_left_inner_holder {
+        display: flex;
+    }
+
+    .odr_content h2 {
+        font-size: 24px;
+        font-weight: 600;
+        color: #000;
+        margin-bottom: 20px;
+        line-height: 34px;
+        margin-top: 24px;
+    }
+
+    .who_can_use {
+        padding: 40px 0 20px 0;
+    }
+
+    .how_row {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .how_it_works h2 {
+        margin-bottom: 32px;
+
+    }
+
+    .cta_left,
+    .cta_right {
+        width: 100%;
+    }
+
+    .cta_right {
+        height: auto;
+    }
+
+    .cta_content {
+        text-align: center;
+        padding: 30px 15px;
+    }
+
+    .cta_content h2 {
+        font-size: 24px;
+        font-weight: 600;
+        color: #FFC300;
+        line-height: 34px;
+        margin-bottom: 18px;
+    }
+
+    .subb_text {
+        text-align: center;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .desc {
+        text-align: center;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+
+    .how_row>div {
+        width: 100% !important;
+        max-width: 100% !important;
+        flex: 0 0 100%;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    .odr_section {
+        padding: 40px 0;
+    }
+
+    .why_choose {
+        padding: 0 0 40px 0;
+    }
+
+    .why_content h2 {
+        margin-top: 20px;
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    .why_list li {
+        font-size: 18px;
+    }
+
+    .faq {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .common_heading h2 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+
+    .odr_content h2 span {
+        color: #0048FF;
+        font-size: 24px;
+        line-height: 34px;
+    }
+
+    .who_can_use h2 {
+        font-size: 27px;
+        line-height: 37px;
+    }
+
+    .cstm_padd {
+        padding: 40px 15px !important;
+    }
+
+    .header h2 {
+        font-size: 16px;
+    }
+
+    .team-list li {
+        font-size: 17px;
+    }
+
+    .disclaimer-title {
+        font-size: 14px;
+    }
+
+    .disclaimer-text {
+        font-size: 13px;
+    }
+
+    .footer h3 {
+        font-size: 18px;
+    }
+    .disclaimer_txt p {
+        padding: 0 15px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    .custom_row {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .custom_row>[class*="col-"] {
+        width: 50% !important;
+        max-width: 50% !important;
+        flex: 0 0 50%;
+    }
+
+    .cstm_left_one h1 {
+        color: #ffffff !important;
+        font-size: 42px !important;
+        line-height: 52px !important;
+    }
+
+    .cstm_left_one p {
+        color: #ffffff;
+        font-size: 22px !important;
+        line-height: 32px;
+        font-weight: 500;
+    }
+
+    .desc {
+        font-size: 18px;
+        color: #ffffff;
+        margin-bottom: 25px;
+        line-height: 28px;
+    }
+
+    .subb_text {
+        font-size: 18px;
+        margin-bottom: 10px;
+        color: #fff;
+        line-height: 28px;
+        text-align: start;
+    }
+
+    .cta_content h2 {
+        font-size: 21px;
+        font-weight: 600;
+        color: #FFC300;
+        line-height: 42px;
+        margin-bottom: 31px;
+    }
+
+    .cta_left {
+        height: 400px;
+    }
+
+    .cta_right {
+        height: 400px;
+    }
+
+    .form_block_left_inner_holder {
+        display: flex !important;
+    }
+
+    .form_block_left_inner_left_holder {
+        display: flex !important;
+    }
+
+    .odr_section .row {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-start;
+    }
+
+    .odr_section .col-md-5,
+    .odr_section .col-md-7 {
+        width: 50% !important;
+        max-width: 50% !important;
+        flex: 0 0 50%;
+    }
+
+    .odr_content h2 {
+        font-size: 28px;
+        font-weight: 600;
+        color: #000;
+        margin-bottom: 20px;
+        line-height: 38px;
+    }
+
+    .odr_content h2 span {
+        color: #0048FF;
+        font-size: 29px;
+        line-height: 39px;
+    }
+
+    .who_row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        /* main fix */
+    }
+
+    .who_row>[class*="col-"] {
+        width: 50%;
+        max-width: 50%;
+        flex: 0 0 50%;
+        text-align: center;
+        /* text center */
+    }
+
+    .who_item {
+        justify-content: center;
+        /* icon + text center */
+        text-align: left;
+        /* text left thakbe (important) */
+        max-width: 320px;
+        margin: 0 auto 25px;
+    }
+
+    .how_item h4 {
+        font-size: 18px;
+        font-weight: 600;
+        color: #1B1B1B;
+        margin: 10px 0;
+        line-height: 26px;
+        height: 56px;
+    }
+
+    .why_choose .row {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .why_choose .col-md-5,
+    .why_choose .col-md-7 {
+        width: 50% !important;
+        max-width: 50% !important;
+        flex: 0 0 50%;
+    }
+
+    .why_list li {
+        font-size: 18px;
+    }
+
+    .faq {
+        padding: 0 15px;
+
+    }
+
+    .cta_left,
+    .cta_right {
+        width: 50%;
+    }
+
+    .cta_content {
+        padding: 40px 30px;
+    }
+    .cstm_padd{
+        padding: 40px 15px;
+        
+    }
+    .disclaimer_txt p {
+        padding: 0 15px;
+    }
+}

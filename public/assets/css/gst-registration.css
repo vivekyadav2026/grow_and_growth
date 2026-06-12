@@ -1,0 +1,1609 @@
+.top-mobile {
+  color: white;
+  line-height: 40px;
+  font-weight: 600;
+}
+.nav-link a {
+  color: black;
+  font-weight: 600;
+}
+.custom-pull-left {
+}
+.title {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  font-size: 32px;
+  color: #2e363a;
+  font-weight: 600;
+}
+.title-content {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 16px;
+  line-height: 27px;
+}
+.dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:hover {
+  color: #f1ecec;
+  text-decoration: none;
+  background-color: #385067;
+}
+/*here is the form css coding*/
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+
+.container.form {
+  width: 100%;
+  margin-top: 226px;
+  margin-bottom: 70px;
+}
+#contact input[type="text"],
+#contact input[type="email"],
+#contact input[type="tel"],
+#contact input[type="url"],
+#contact textarea,
+#contact button[type="submit"] {
+  font:
+    400 12px/16px "Roboto",
+    Helvetica,
+    Arial,
+    sans-serif;
+}
+
+#contact {
+  background: #f9f9f9;
+  padding: 25px;
+  box-shadow:
+    0 0 20px 0 rgba(0, 0, 0, 0.2),
+    0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  min-height: 460px;
+}
+
+.from_state {
+  display: inline-block;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.package {
+  display: inline-block;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.package {
+}
+
+.avail_consult h3 a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.avail_consult h3 a span {
+  font-size: 19px !important;
+  font-weight: 600 !important;
+  margin-top: 13px;
+  display: block !important;
+  color: #fff;
+  background: #f06906;
+  padding: 11px;
+  text-align: center;
+  border-radius: 10px;
+  text-decoration: none;
+  cursor: default;
+  margin-bottom: 16px;
+}
+
+#second_div h5 {
+  font-size: 18px;
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 13px;
+  margin-top: 22px;
+}
+
+.gst_rdiobtn {
+  padding: 10px;
+  margin-bottom: 15px;
+  background: #eaeaea;
+  border-radius: 9px;
+  position: relative;
+  cursor: pointer;
+}
+
+.gst_rdiobtn p {
+  position: absolute;
+  top: 11px;
+  right: 13px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #205622;
+}
+
+.gst_rdiobtn ul {
+  list-style: none;
+  display: inline-grid;
+  margin-left: 10px;
+}
+
+.gst_rdiobtn ul li {
+}
+.gst_rdiobtn ul li b {
+  margin-left: 40px;
+  display: inline-block;
+}
+.gst_rdiobtn ul li:nth-child(1) {
+  margin-bottom: 0;
+}
+/*Custom Radio for Form Package start*/
+.gst_rdiobtn:nth-child(3) {
+  background: #eaeaea;
+  border: 1px solid #eaeaea;
+}
+.gst_rdiobtn input[type="radio"]:checked ~ .check {
+  border: 4px solid #81d481;
+}
+.gst_rdiobtn input {
+  visibility: hidden;
+}
+.gst_rdiobtn {
+  display: flex;
+  margin-left: 0px;
+  border: 3px solid #eaeaea;
+}
+.gst_rdiobtn ul {
+  margin-left: 20px;
+}
+.gst_rdiobtn .check {
+  display: block;
+  position: absolute;
+  border: 4px solid #aaaaaa;
+  border-radius: 100%;
+  height: 25px;
+  width: 25px;
+  top: 12px;
+  left: 5px;
+  z-index: 5;
+  transition: border 0.25s linear;
+  -webkit-transition: border 0.25s linear;
+}
+.gst_rdiobtn input[type="radio"]:checked ~ .check::before {
+  background: #049244;
+}
+.gst_rdiobtn input[type="radio"]:checked ~ .check::before {
+  display: block;
+  position: absolute;
+  content: "";
+  border-radius: 100%;
+  height: 11px;
+  width: 11px;
+  top: 3px;
+  left: 3px;
+  margin: auto;
+  transition: background 0.25s linear;
+  -webkit-transition: background 0.25s linear;
+}
+.price_active {
+  background: #e4ffe4 !important;
+  border: 3px solid #78e478 !important;
+}
+.gst_rdiobtn label {
+  width: 100%;
+  font-weight: 500;
+}
+/*Custom Radio for Form Package end*/
+
+.captcha_box {
+  display: inline-block;
+  margin-bottom: 20px;
+  width: 100%;
+  position: relative;
+}
+
+#contact input[name="submit"],
+input[name="next"],
+#contact input[name="submit"],
+input[name="next"] {
+  cursor: pointer !important;
+  width: 100% !important;
+  border: none !important;
+  background: #4caf50 !important;
+  color: #fff !important;
+  margin: 0 0 5px !important;
+  padding: 12px 10px !important;
+  font-size: 23px !important;
+  border-radius: 6px !important;
+}
+
+#contact h3 {
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#contact h4 {
+  margin: 5px 0 15px;
+  display: block;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+fieldset {
+  border: medium none !important;
+  margin: 0 0 10px;
+  min-width: 100%;
+  padding: 0;
+  width: 100%;
+}
+
+#contact input[type="text"],
+#contact input[type="email"],
+#contact input[type="tel"],
+#contact input[type="url"],
+#contact textarea {
+  width: 100%;
+  border: 1px solid #ccc;
+  background: #fff;
+  margin: 0 0 16px;
+  padding: 14px 10px;
+}
+
+#contact input[type="text"]:hover,
+#contact input[type="email"]:hover,
+#contact input[type="tel"]:hover,
+#contact input[type="url"]:hover,
+#contact textarea:hover {
+  -webkit-transition: border-color 0.3s ease-in-out;
+  -moz-transition: border-color 0.3s ease-in-out;
+  transition: border-color 0.3s ease-in-out;
+  border: 1px solid #aaa;
+}
+
+#contact textarea {
+  height: 100px;
+  max-width: 100%;
+  resize: none;
+}
+#contact select {
+  width: 100%;
+  border: 1px solid #ccc;
+  background: #fff;
+  margin: 0 0 5px;
+  padding: 10px;
+}
+
+#contact button[name="submit"] {
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  background: #4caf50;
+  color: #fff;
+  margin: 0 0 5px;
+  padding: 10px;
+  font-size: 15px;
+}
+
+#contact button[name="submit"]:hover {
+  background: #43a047;
+  -webkit-transition: background 0.3s ease-in-out;
+  -moz-transition: background 0.3s ease-in-out;
+  transition: background-color 0.3s ease-in-out;
+}
+
+#contact button[name="submit"]:active {
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.copyright {
+  text-align: center;
+}
+
+#contact input:focus,
+#contact textarea:focus {
+  outline: 0;
+  border: 1px solid #aaa;
+}
+
+::-webkit-input-placeholder {
+  color: #888;
+}
+
+:-moz-placeholder {
+  color: #888;
+}
+
+::-moz-placeholder {
+  color: #888;
+}
+
+:-ms-input-placeholder {
+  color: #888;
+}
+/*here is the form css coding*/
+
+/*here is the coding css of the benifits of udyog aadhar*/
+
+.background_image {
+  background-image: url("https://www.onlinelegalindia.com/services/udyog-aadhaar/image/bg.JPEG 2000");
+  left: -74.5px;
+  box-sizing: border-box;
+  width: 100%;
+}
+.benifts-heading {
+  color: white;
+  margin-top: 30px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 35px !important;
+}
+.benifts-heading::after {
+  width: 50px;
+  height: 5px;
+  position: absolute !important;
+  content: "";
+  bottom: -20px;
+  left: 18px;
+  background-color: #18ba60;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  left: 50% !important;
+  transform: translate(-50%);
+  top: 100% !important;
+}
+
+.benifts-heading9 {
+  color: white;
+  margin: 30px 0;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+.benifts-heading9::after {
+  width: 50px;
+  height: 5px;
+  position: absolute;
+  content: "";
+  bottom: 0px !important;
+  left: 542px !important;
+  background-color: #18ba60;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  top: 65px;
+}
+
+.benifits-small-div {
+  width: 50%;
+  margin-top: 45px;
+}
+.benifits-ul {
+  list-style: none;
+  margin: 30px 0px 0px 0px;
+  padding: 0;
+}
+.benifits-li::before {
+  content: "\f00c";
+  font-family: "FontAwesome";
+  color: #18ba60;
+  font-size: 12px;
+  position: absolute;
+  left: 0;
+  display: block;
+  padding-top: 20px;
+  line-height: normal;
+  -webkit-transform: translate3d(0, -50%, 0);
+  -moz-transform: translate3d(0, -50%, 0);
+  transform: translate3d(0, -50%, 0);
+}
+.benifits-li {
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+.benifits-text {
+  color: #d5d5d5;
+  font-size: 13px;
+  margin-left: 15px;
+}
+
+/*here is the coding css of the benifits of udyog aadhar*/
+
+.card {
+  -moz-box-direction: normal;
+  -moz-box-orient: vertical;
+  background-color: #fff;
+  border-radius: 0.25rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-bottom: 1px;
+  border: none;
+}
+.card-header:first-child {
+  border-radius: 0;
+  border-radius: 100px !important;
+}
+.card-header {
+  background-color: #18ba60;
+  margin-bottom: 0;
+  padding: 13px 1.25rem;
+  border: none;
+}
+.card-header a i {
+  float: left;
+  font-size: 25px;
+  padding: 5px 0;
+  margin: 0 25px 0 0px;
+  color: #195c9d;
+}
+.card-header i {
+  float: right;
+  font-size: 30px;
+  width: 1%;
+  margin-top: 8px;
+  margin-right: 10px;
+}
+.card-header a {
+  width: 97%;
+  float: left;
+  color: #565656;
+  text-decoration: none;
+}
+.card-header p {
+  margin: 0;
+}
+
+.card-header h3 {
+  margin: 0 0 0px;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  color: #fff;
+}
+
+.card-header .collapsed h3:after {
+  content: "+";
+  float: right;
+}
+.card-header a h3:after {
+  content: "-";
+  float: right;
+}
+.card-block {
+  -moz-box-flex: 1;
+  flex: 1 1 auto;
+  padding: 20px;
+  color: #666;
+  box-shadow: inset 0px 4px 5px rgba(0, 0, 0, 0.1);
+  border-top: 1px soild #000;
+  border-radius: 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 501;
+}
+
+.register-benifits-text {
+  color: #666;
+  margin-left: 25px;
+  margin-bottom: 15px;
+  background: url(../images/svg/bullet-arrow.svg) no-repeat left 1px;
+  padding-left: 26px !important;
+  margin-bottom: 1px;
+  background-size: 17px;
+}
+.benifits-having-text {
+  color: #6d6d6d;
+  font-weight: 400;
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+
+table {
+  width: 100%;
+  margin-bottom: 20px;
+  background-color: transparent;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid #dbdbdb;
+  padding: 7px;
+  text-align: center;
+}
+.td_rsp_cls {
+  font-size: 13px;
+  font-weight: 400;
+}
+.our-associates {
+  width: 20%;
+  float: left;
+}
+.cntrl-wdth {
+}
+/*here is the style for how to register*/
+
+.how_register {
+  width: 30%;
+  float: left;
+  margin: 13px 8px 13px 8px;
+}
+
+/*here is the style for how to register*/
+
+/*here is the style of packages of gst registration*/
+.package-main-div {
+  height: 700px;
+  width: 31%;
+  float: left;
+  margin: 50px 10px 50px 10px;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 0 10px #999;
+}
+.package-price {
+  height: 100px;
+  background-color: #4481eb;
+  color: #fff;
+  text-align: center;
+}
+.package-price_2 {
+  height: 100px;
+  background-color: #0ba360;
+  color: #fff;
+  text-align: center;
+}
+.package-price_3 {
+  height: 100px;
+  background-color: #e43603;
+  color: #fff;
+  text-align: center;
+}
+.price-class {
+  font-size: 42px;
+  line-height: 65px;
+}
+.package-offers {
+  height: 485px;
+  background-color: #e6efff;
+}
+.package-offers_2 {
+  height: 485px;
+  background-color: #cfffea;
+}
+.package-offers_3 {
+  height: 485px;
+  background-color: #ffddd3;
+}
+.packege-ul {
+  margin: 0;
+  font-size: 16px;
+  float: left;
+  width: 86.5%;
+  padding: 20px 15px 20px 35px;
+}
+.packege-ul li {
+  border-bottom: 1px dashed #999;
+  padding: 5px 0;
+}
+.package-order {
+  height: 48px;
+  background-color: #4481eb;
+  text-align: center;
+  width: 80%;
+  margin: 30px;
+  border-radius: 25px;
+  color: white;
+  line-height: 44px;
+  font-size: 22px;
+  cursor: pointer;
+}
+.package-order_2 {
+  height: 48px;
+  background-color: #0ba360;
+  text-align: center;
+  width: 80%;
+  margin: 30px;
+  border-radius: 25px;
+  color: white;
+  line-height: 44px;
+  font-size: 22px;
+  cursor: pointer;
+}
+.package-order_3 {
+  height: 48px;
+  background-color: #e43603;
+  text-align: center;
+  width: 80%;
+  margin: 30px;
+  border-radius: 25px;
+  color: white;
+  line-height: 44px;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+/*here is the style of packages of gst registration*/
+
+/*here is the style of when gst registration required*/
+.when-main-div {
+  height: 320px;
+  width: 31%;
+  background-color: #a7e5c3;
+  float: left;
+  border-radius: 5px;
+  margin: 10px;
+  margin-bottom: 35px;
+}
+.top-margin {
+  margin-top: 35px;
+}
+.when-inner-div {
+  text-align: center;
+  margin: 22px;
+}
+.when-img-div {
+  height: 60%;
+  width: 100%;
+  text-align: center;
+}
+.when-text-div {
+  height: 40%;
+  width: 100%;
+  text-align: center;
+}
+.when-img {
+  height: 93%;
+  width: 55%;
+}
+.when-text {
+  color: black;
+  text-align: center;
+  font-size: 22px;
+}
+.when-small-text {
+  color: black;
+  text-align: center;
+  font-size: 14px;
+  line-height: 18px;
+}
+.when-main-div:hover {
+  background-color: white;
+  transition: 0.5s ease;
+  border-radius: 5px;
+  border: 1px solid #888;
+}
+/*here is the style of when gst registration required*/
+
+/*here is the style of how we work section*/
+.how-we-work-img {
+  height: 150px;
+  margin-top: 45px;
+}
+/*here is the style of how we work section*/
+
+/*here is the style of requirements of documents*/
+.requirements-of-doc-img {
+  background-image: url("https://www.onlinelegalindia.com/services/udyog-aadhaar/image/bg.JPEG 2000");
+  left: -74.5px;
+  box-sizing: border-box;
+  width: 100%;
+  /*padding-left: 74.5px;*/
+  /*padding-right: 74.5px;*/
+  height: 200px;
+}
+/*here is the style of requirements of documents*/
+
+/*here is the syle of why us*/
+.why-us-img-div {
+  margin-top: 50px;
+}
+.why-us-img {
+  width: 33%;
+}
+/*here is the syle of why us*/
+
+/*here is the style of footer accordation*/
+.accordaion-main-div {
+  height: 50px;
+  width: 100%;
+  background-color: #3a526a;
+  margin: 25px 0px 0px 0px;
+  color: white;
+  cursor: pointer;
+}
+.accordion-cus-head {
+  font-weight: 600;
+  line-height: 47px;
+  margin-left: 40px;
+}
+.child-ans-div-1 {
+  width: 100%;
+  color: #66667a;
+  border: 1px solid #66667a;
+}
+.child-ans-text {
+  margin-left: 37px;
+  margin-top: 10px;
+}
+
+#fees .register-benifits-text {
+    margin-left: 25px;
+    margin-bottom: 15px;
+    float: left;
+    width: 350px;
+    list-style: none;
+    border: 1px solid #ffffff;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+    background: #fdfaf6;
+    min-height: 340px;
+    position: relative;
+    box-shadow: 0 5px 12px rgb(15 33 18 / 40%);
+}
+.benifits-ul{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+#fees .register-benifits-text h4 {
+  font-size: 31px;
+  color: #4caf50;
+  font-weight: bold;
+}
+
+#fees .register-benifits-text p {
+  font-size: 15px;
+  color: #444444;
+  margin: 0 0 8px 0;
+}
+
+#fees .register-benifits-text p span {
+  color: #fff;
+}
+#fees .register-benifits-text a {
+  font-size: 20px;
+  color: #f0fff5;
+  background: #4caf50;
+  border-radius: 15px;
+  padding: 14px 0;
+  position: absolute;
+  bottom: 0px;
+  font-weight: bold;
+  transform: translate(-50%, 0);
+  left: 50%;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  width: 100%;
+  border-top: 1px solid #308e34;
+}
+
+.benifts-paragraph {
+  text-align: center;
+  color: #fff;
+  font-size: 16px;
+}
+
+#fees .benifits-ul {
+  margin: 20px 0px 20px 0px;
+  padding: 0;
+  float: left;
+  width: 100%;
+}
+#fees .register-benifits-text span:nth-child(1) {
+  width: 100%;
+  display: inline-block;
+  font-size: 24px;
+  color: #313131;
+  margin-top: 8px;
+  margin-bottom: 10px;
+}
+#trademark .register-benifits-text h4 span {
+  margin-bottom: 33px;
+  font-size: 25px;
+  color: #292929;
+  font-weight: normal;
+  display: inline-block;
+  width: 100%;
+  line-height: 23px;
+}
+#fees .register-benifits-text span:nth-child(2) {
+  width: 100%;
+  display: inline-block;
+}
+
+@media screen and (max-width: 768px) {
+  #fees .register-benifits-text {
+    width: 95%;
+    margin-left: 9px;
+  }
+
+  .benifts-heading9 {
+    color: white;
+    margin-top: 30px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+  }
+  .benifts-heading9::after {
+    width: 50px;
+    height: 5px;
+    position: absolute !important;
+    content: "";
+    bottom: -20px;
+    left: 18px;
+    background-color: #18ba60;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    left: 50% !important;
+    transform: translate(-50%);
+    top: 50% !important;
+  }
+
+  .benifts-paragraph {
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+}
+
+.reviews {
+  margin-top: 42px;
+}
+
+.trust_reviewstrat {
+  padding: 20px;
+  box-shadow: 0 2px 3px #a9a9a9;
+  margin-top: 30px;
+  background: #f1f1f1;
+  min-height: 272px;
+  position: relative;
+}
+.review_title {
+  text-align: center;
+}
+#reviews {
+  margin-top: 1px;
+}
+.review_title span {
+  color: #00b67a;
+  font-size: 36px;
+  font-weight: 600;
+  margin-left: -98px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.review_title img {
+  width: 29%;
+}
+
+.trust_reviewstrat img {
+  width: 26% !important;
+}
+.trust_reviewstrat i {
+  float: right;
+}
+.trust_reviewstrat h3 {
+  font-size: 18px;
+  font-weight: 600;
+}
+.trust_reviewstrat h4 {
+  text-transform: capitalize;
+  position: absolute;
+  bottom: 7px;
+}
+.trust_reviewstrat h4 span {
+  font-size: 14px;
+  font-weight: 600;
+  color: #000;
+  margin-bottom: 5px;
+  display: block;
+}
+.trust_reviewstrat h4 span:after {
+  content: "\a";
+  white-space: pre;
+}
+
+@media screen and (max-width: 600px) {
+  .title {
+    font-size: 22px;
+  }
+
+  .benifts-heading {
+    font-size: 22px;
+  }
+
+  .top-mobile {
+    font-size: 10px;
+  }
+  .custom-pull-left {
+    float: left !important;
+    width: 100%;
+    background-color: #385067;
+  }
+
+  #contact {
+    margin-bottom: 30px;
+  }
+
+  .nav-link a {
+    color: white !important;
+    font-weight: 600;
+  }
+  .container-fluid > .navbar-collapse,
+  .container-fluid > .navbar-header,
+  .container > .navbar-collapse,
+  .container > .navbar-header {
+    margin-right: -15px;
+    margin-left: 0px;
+  }
+
+  .benifits-text {
+    margin-left: 31px;
+  }
+  .how-we-work-img {
+    width: 70%;
+    height: 100%;
+    margin-left: 15%;
+    margin-top: -13px;
+  }
+  .background_image {
+    height: auto;
+  }
+  .why-us-img {
+    width: 100%;
+  }
+  .accordaion-main-div {
+    height: auto;
+  }
+  .accordion-cus-head {
+    line-height: 24px;
+    font-size: 14px;
+    margin-left: 16px;
+    padding: 10px;
+  }
+  .child-ans-text {
+    margin-left: 17px;
+  }
+  .child-ans-div-1 {
+    margin-top: -11px;
+  }
+
+  .nav .open > a,
+  .nav .open > a:focus,
+  .nav .open > a:hover {
+    background-color: #4d4343;
+  }
+  .nav > li > a:focus,
+  .nav > li > a:hover {
+    background-color: #4d4343;
+  }
+  .when-main-div {
+    width: 100%;
+    margin-bottom: 35px !important;
+    margin: 0px;
+  }
+
+  .our-associates {
+    width: 50%;
+  }
+
+  .hide-in-mobile {
+    display: none;
+  }
+  .trust_reviewstrat img {
+    width: 50% !important;
+  }
+  .trust_reviewstrat {
+    min-height: 480px;
+  }
+  .review_title img {
+    width: 63%;
+  }
+  .review_title span {
+    font-size: 27px;
+    margin-left: -68px;
+  }
+}
+
+/* Supriyo new css start 27-12-2022 */
+section.gst_benefit_secton {
+  padding: 20px 0;
+}
+.penalty_info {
+  min-height: 180px;
+  margin-top: 25px;
+  padding: 0 15px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.penalty_info h4 {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 10px 0;
+}
+.penalty_info p {
+  font-size: 15px;
+  text-align: center;
+}
+
+/* cons_sec1 start */
+section.cons_sec1 {
+  margin: 0 0 0;
+  padding: 45px 0 0 0;
+  float: left;
+  width: 100%;
+}
+.con_sec1_title {
+  margin-bottom: 50px !important;
+}
+section.types_of_gst_regis.cons_sec1 p {
+  text-align: left;
+  font-size: 16px;
+}
+.con_sec1_title:after {
+  width: 130px !important;
+}
+.infographic-items {
+  --color-main: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #ffffff;
+  height: 370px;
+}
+.infographic-items h2 {
+  text-transform: uppercase;
+}
+.infographic-items h2 {
+  background: #b1cfed78;
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+  padding-top: 0;
+  color: #000000;
+}
+.infographic-items p {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #b1cfed78;
+  display: block;
+  font-size: 14px;
+
+  height: 100%;
+  padding-top: 20px;
+  color: #000000;
+}
+.cons_sec1_clipWrapper {
+  width: 100%;
+  height: 135px;
+  position: relative;
+  background: #b1cfed78;
+  /* background: linear-gradient(
+	  180deg,
+	  var(--color-main) 0%,
+	  var(--color-main) 50%,
+	  var(--color-accent) 50%,
+	  var(--color-accent) 100%
+	); */
+}
+.cons_sec1_clipWrapper .clip-1 {
+  height: 130px;
+  width: 130px;
+  aspect-ratio: 1;
+  background: #f5f5f5;
+  z-index: 1;
+}
+.cons_sec1_clipWrapper .clip-2 {
+  --border: 30px;
+  aspect-ratio: 1;
+  /* height: calc(100% - var(--border)); */
+  background: #1d689bd1;
+  z-index: 2;
+  width: 100px;
+  height: 100px;
+}
+.cons_sec1_clipWrapper .content {
+  /* width: 110px; */
+  height: 110px;
+  z-index: 3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cons_sec1_clipWrapper .content h3 {
+  font-size: 33px;
+}
+.cons_sec1_clipWrapper .clip-1,
+.cons_sec1_clipWrapper .clip-2,
+.cons_sec1_clipWrapper .content {
+  position: absolute;
+  clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.cons_sec1_itemBox {
+  height: 100%;
+  margin-bottom: 80px;
+  margin-top: 80px;
+}
+.cons_sec1_p {
+  height: 100%;
+}
+.con_sec1_title:after {
+  width: 230px;
+  height: 5px;
+  position: absolute;
+  content: "";
+  bottom: -11px;
+  left: 50%;
+  background-color: #18ba60;
+  /* -webkit-border-radius: 2px; */
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  transform: translate(-50%, 10%);
+}
+@media (max-width: 767px) {
+  .con_sec1_title {
+    font-size: 20px !important;
+    line-height: 25px;
+    padding-top: 35px;
+  }
+  .benifits-ul {
+    display: block;
+  }
+  section.cons_sec1 {
+    padding: 0;
+  }
+  .infographic-items p {
+    padding-bottom: 30px;
+    font-size: 14px !important;
+  }
+  .infographic-items h2 {
+    font-size: 16px;
+  }
+  .con_sec1_title:after {
+    width: 130px !important;
+    left: 50% !important;
+    transform: translate(-50%, 10%) !important;
+  }
+  .infographic-items {
+    height: auto;
+  }
+  .cons_sec1_clipWrapper {
+    height: 70px;
+  }
+  .cons_sec1_clipWrapper .clip-1 {
+    height: 100px;
+    width: 100px;
+  }
+  .cons_sec1_clipWrapper .clip-2 {
+    width: 80px;
+    height: 80px;
+  }
+}
+/* cons_sec1 end */
+
+/* Required documents for GST Registration start */
+section.gst_req_doc {
+  margin: 40px 0 0 0;
+  background: #f5f5f5;
+}
+.gstReq_doc_box {
+  margin-bottom: 30px;
+  text-align: center;
+  margin-top: 20px;
+}
+.gstReq_doc_box i {
+  font-size: 40px;
+  color: #18ba60;
+  margin-bottom: 10px;
+}
+.gstReq_doc_box p {
+  font-size: 16px;
+}
+
+@media (max-width: 767px) {
+  section.gst_req_doc {
+    padding-bottom: 30px;
+  }
+}
+/* Required documents for GST Registration end */
+
+/* GST overview start */
+.gst_overview_text p:last-child {
+  margin-bottom: 0;
+}
+.gst_overview_text p {
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+.gst_overview_text {
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  .gst_overview_text {
+    padding: 0 15px;
+  }
+}
+/* GST overview end */
+
+/* GST question start */
+.gst_question {
+  background: #f9f7f7;
+  position: relative;
+  height: auto;
+}
+.gst_question_area {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 30px;
+}
+.gst_question_right {
+  background: #f9f7f7;
+  /* position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(0%);
+    padding: 40px;
+    display: grid;
+    place-items: center; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-right: 60px;
+}
+/* .gst_question_left {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40%;
+    margin: 0 auto;
+} */
+/* .gst_question_left {
+    position: absolute;
+    top: 0;
+    transform: translateY(0%);
+    width: 50%;
+    margin: 0 auto;
+    left: 0;
+    bottom: 0;
+} */
+.gst_question_left {
+  width: 100%;
+  position: relative;
+}
+.gst_question_left:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  border: 22px solid transparent;
+  border-top: 0;
+  border-bottom: 22px solid #efab01;
+  top: 50%;
+  transform: translateY(-50%) rotate(90deg);
+  right: -32px;
+}
+.gst_question_left img {
+  width: 100%;
+  height: 100%;
+}
+.gst_question_box:last-child {
+  margin-bottom: 0;
+}
+.gst_question_box {
+  margin-bottom: 27px;
+}
+.gst_question_box h3 {
+  font-size: 18px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 5px;
+}
+.gst_question_box h3 i {
+  color: #009300;
+  font-size: 26px;
+  margin-right: 10px;
+}
+/* .gst_question_right:before {
+    background-color: #fb5b21;
+    content: "";
+    display: block;
+    height: 40px;
+    position: absolute;
+    left: -24px;
+    top: 47%;
+    transform: rotate(226deg);
+    width: 40px;
+} */
+p.gst_reg_text {
+  padding: 0 15px;
+}
+@media (max-width: 767px) {
+  .gst_question {
+    height: auto;
+    margin: 0 0 30px 0;
+  }
+  .gst_question_area {
+    grid-template-columns: 1fr;
+  }
+  .gst_question_left {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .gst_question_left:after {
+    bottom: -21px;
+    transform: translate(-50%) rotate(180deg);
+    left: 50%;
+    border-bottom: 22px solid #d7a11b;
+    right: unset;
+    top: unset;
+  }
+  .gst_question_right {
+    position: unset;
+    padding: 20px 15px;
+  }
+  .gst_question_right:before {
+    display: none;
+  }
+
+  .gstReq_doc_box p {
+    font-size: 12px;
+  }
+  .gstReq_doc_box {
+    margin-top: 15px;
+    height: 100px;
+    margin-bottom: 15px;
+  }
+  .gstReq_doc_box i {
+    font-size: 30px;
+  }
+}
+/* GST question end */
+
+/* Fees and Penalty start */
+section.penalty_sec {
+  margin: 30px 0;
+  padding: 25px 0;
+  background: #def2ff75;
+}
+.requirements_head {
+  background: #005d9dbd;
+  padding: 10px;
+  color: #fff;
+  border-radius: 23px 8px 40px 7px;
+}
+.req_detail {
+  color: #292929;
+  font-weight: 500;
+  padding: 8px;
+}
+/* Fees and Penalty end */
+/* Supriyo new css end 27-12-2022 */
+
+/* start 26-03-2025 */
+.gst_registration_banner {
+  float: left;
+  width: 100%;
+}
+.from_order_change_two_mobile,
+.from_order_change_one_mobile {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .from_order_change {
+    float: left;
+    width: 100%;
+  }
+
+  .reviews,
+  .reviews_bottom {
+    float: left;
+    width: 100%;
+  }
+
+  .from_order_change {
+    display: grid;
+  }
+
+  .from_order_change_one {
+    order: 3;
+  }
+
+  .from_order_change_two {
+    order: 2;
+  }
+
+  .from_order_change_three {
+    order: 1;
+    margin-top: 30px;
+  }
+
+  .from_order_change_two_destop,
+  .from_order_change_one_destop {
+    display: none;
+  }
+
+  .from_order_change_two_mobile,
+  .from_order_change_one_mobile {
+    display: block;
+  }
+  .gst_regis_overview,
+  .gst_regis_overview,
+  .gst_req_doc,
+  .gst_question,
+  .gst_benefit_secton,
+  .penalty_sec,
+  #whyUs,
+  .reviews_buttom {
+    float: left;
+    width: 100%;
+  }
+}
+
+/* end 26-03-2025 */
+.how_we_work_tab {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 30px;
+}
+.process_section {
+  margin: 0;
+}
+.penalty_sec_grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 30px;
+}
+@media screen and (max-width: 1200px) {
+  .penalty_sec {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 1200px) {
+  .new_md_section_left {
+    text-align: center;
+  }
+  .how_we_work_tab {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+  }
+  #fees .register-benifits-text {
+    width: 45%;
+  }
+  .benifts-heading9::after {
+    top: unset !important;
+    bottom: -12px !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%);
+  }
+  .trust_reviewstrat {
+    min-height: 340px;
+  }
+  .penalty_info {
+    min-height: 250px;
+  }
+  .gst_question_area {
+    padding: 0 15px 30px 15px;
+    grid-template-columns: 1fr;
+  }
+  .gst_question_left img {
+    display: none;
+  }
+  .gst_question_right {
+    padding-right: 0;
+  }
+  .gst_question_left:after {
+    display: none;
+  }
+  .gst_overview_text {
+    padding: 0 15px;
+  }
+}
+@media (min-width: 601px) and (max-width: 767px) {
+  .trust_reviewstrat {
+    min-height: 420px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .how_we_work_tab {
+    grid-template-columns: 1fr;
+  }
+  .penalty_sec_grid {
+    grid-template-columns: 1fr;
+  }
+}
+@media screen and (max-width: 767px) {
+  .bgstr_block .col-xs-6 {
+    width: 100% !important;
+  }
+}
+/* ganguly banner modification start */
+.benefits_of_having_gst_number {
+  background-color: #d3edf6;
+  padding: 60px 0;
+}
+.custom_modification_card_header {
+  background-color: #013960 !important;
+  border-radius: 6px !important;
+}
+.new_section_from_order_banner {
+  display: none;
+}
+.gst_from_image_mobile {
+  display: none;
+}
+.new_section_display_modification {
+  display: none;
+}
+@media screen and (max-width: 767px) {
+  .new_section_from_order_banner {
+    display: block;
+  }
+  .gst_from_image_destop {
+    display: none;
+  }
+  .gst_from_image_mobile {
+    display: block;
+  }
+  .new_section_display_modification {
+    display: block;
+  }
+  .from_order_change_destop,
+  .from_order_change_destop {
+    display: none;
+  }
+  .from_order_change_one {
+    order: 3;
+  }
+  .from_order_change_destop,
+  .from_order_change_destop {
+    display: none;
+  }
+  .from_order_change_two {
+    order: 2;
+  }
+  .from_order_change_three {
+    order: 1;
+    margin-top: 30px;
+  }
+  .new_section_from_order_banner {
+    order: 2;
+  }
+  .benefits_of_having_gst_number {
+    order: 4;
+  }
+  .custom_modification_card_header {
+    background-color: #013960 !important;
+    border-radius: 6px !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .from_order_change_three_custom_container,
+  .bohgstn_custom_row {
+    display: flex;
+  }
+  .from_order_change_three_custom_container .pull-left,
+  .from_order_change_three_custom_container .pull-right,
+  .bohgstn_custom_row .bohgstn_custom_row_one,
+  .bohgstn_custom_row .bohgstn_custom_row_two {
+    width: 50%;
+  }
+}
+/* ganguly banner modification end */

@@ -1,0 +1,287 @@
+/*here is the form css coding*/
+/* @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic); */
+.container.form {
+  width: 100%;
+  margin-top: 226px;
+  margin-bottom: 70px;
+}
+.background_image_fssai {
+  background-image: url("https://www.onlinelegalindia.com/images/fees_bg.webp");
+  left: -74.5px;
+  box-sizing: border-box;
+  width: 100%;
+  padding-bottom: 20px;
+}
+.background_image {
+  background-image: url("https://www.onlinelegalindia.com/services/udyog-aadhaar/image/bg.JPEG 2000");
+  left: -74.5px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.benifits-small-div {
+  width: 50%;
+  margin-top: 0px;
+}
+.benifits-ul {
+  margin: 30px 0px 0px 0px;
+  padding: 0;
+}
+.benifits-ul h4 {
+  color: #fff;
+}
+.benifits-li::before {
+  content: "\f00c";
+  font-family: "Font Awesome 5 Free";
+  color: #18ba60;
+  font-size: 12px;
+  position: absolute;
+  left: 0;
+  display: block;
+  padding-top: 20px;
+  line-height: normal;
+  -webkit-transform: translate3d(0, -50%, 0);
+  -moz-transform: translate3d(0, -50%, 0);
+  transform: translate3d(0, -50%, 0);
+}
+.benifts-heading::after {
+  left: 44% !important;
+  transform: translate(50%, 50%);
+  margin-left: 0 !important;
+}
+
+.benifits-li {
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  margin-left: 10px;
+  list-style: none;
+}
+.benifits-text {
+  color: #d5d5d5;
+  font-size: 13px;
+  margin-left: 15px;
+}
+
+/*here is the coding css of the benifits of udyog aadhar*/
+
+.card {
+  -moz-box-direction: normal;
+  -moz-box-orient: vertical;
+  background-color: #fff;
+  border-radius: 0.25rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-bottom: 1px;
+  border: none;
+}
+.card-header:first-child {
+  border-radius: 0;
+  border-radius: 100px !important;
+}
+.card-header {
+  background-color: #18ba60;
+  margin-bottom: 0;
+  padding: 13px 1.25rem;
+  border: none;
+}
+.card-header a i {
+  float: left;
+  font-size: 25px;
+  padding: 5px 0;
+  margin: 0 25px 0 0px;
+  color: #195c9d;
+}
+.card-header i {
+  float: right;
+  font-size: 30px;
+  width: 1%;
+  margin-top: 8px;
+  margin-right: 10px;
+}
+.card-header a {
+  width: 97%;
+  float: left;
+  color: #565656;
+  text-decoration: none;
+}
+.card-header p {
+  margin: 0;
+}
+
+.card-header h3 {
+  margin: 0 0 0px;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  color: #fff;
+}
+.card-block {
+  -moz-box-flex: 1;
+  flex: 1 1 auto;
+  padding: 20px;
+  color: #666;
+  box-shadow: inset 0px 4px 5px rgba(0, 0, 0, 0.1);
+  border-top: 1px soild #000;
+  border-radius: 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 501;
+}
+
+.register-benifits-text {
+  color: #666;
+  margin-left: 25px;
+  margin-bottom: 15px;
+}
+
+/*here is the section of who need the fssai licence*/
+
+/*.who-need-images{
+  height: 165px;
+  margin: 45px 70px 20px 70px;
+}*/
+
+/*here is the section of who need the fssai licence*/
+
+/*here is the syle of why us*/
+.why-us-img-div {
+  margin-top: 50px;
+  margin-top: 20px !important;
+}
+
+/*here is the syle of why us*/
+
+/*here is the style of footer accordation*/
+.accordaion-main-div {
+  height: 50px;
+  width: 100%;
+  background-color: #3a526a;
+  margin: 25px 0px 0px 0px;
+  color: white;
+  cursor: pointer;
+}
+.accordion-cus-head {
+  font-weight: 600;
+  line-height: 47px;
+  margin-left: 40px;
+  color: #fff;
+}
+.child-ans-div-1 {
+  width: 100%;
+  color: #66667a;
+  border: 1px solid #66667a;
+}
+.child-ans-text {
+  margin-left: 37px;
+  margin-top: 10px;
+}
+/*here is the style of footer accordation*/
+
+/*here is the custom what we offer and requirement*/
+.custom-ul-style {
+  margin-top: 18%;
+}
+
+.food__cont {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+img.food__img {
+  width: 50px;
+  margin: 14px 0;
+}
+.food__cont h2 {
+  color: #383838;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 5px 0;
+}
+@media screen and (max-width: 600px) {
+  .top-mobile {
+    font-size: 8px;
+    font-weight: bold;
+    line-height: 48px;
+  }
+
+  .title {
+    font-size: 18px;
+  }
+  .benifts-heading::after {
+    left: 35% !important;
+    transform: translate(50%, 50%);
+    margin-left: 0 !important;
+  }
+  .title-content {
+    margin: 0px 0 30px 0;
+  }
+  .nav-link a {
+    color: white !important;
+    font-weight: 600;
+  }
+  .container-fluid > .navbar-collapse,
+  .container-fluid > .navbar-header,
+  .container > .navbar-collapse,
+  .container > .navbar-header {
+    margin-right: -15px;
+    margin-left: 0px;
+  }
+  .benifits-small-div {
+    width: 100%;
+  }
+  .benifits-li::before {
+    left: 8px;
+  }
+  .benifits-li {
+    margin-left: 23px;
+  }
+  .benifits-text {
+    margin-left: 31px;
+  }
+
+  .accordaion-main-div {
+    height: auto;
+  }
+  .accordion-cus-head {
+    line-height: 24px;
+    font-size: 14px;
+    margin-left: 16px;
+    padding: 10px;
+  }
+  .child-ans-text {
+    margin-left: 17px;
+  }
+  .child-ans-div-1 {
+    margin-top: -11px;
+  }
+
+  .nav .open > a,
+  .nav .open > a:focus,
+  .nav .open > a:hover {
+    background-color: #4d4343;
+  }
+  .nav > li > a:focus,
+  .nav > li > a:hover {
+    background-color: #4d4343;
+  }
+
+  .custom-ul-style {
+    margin-top: 0%;
+  }
+
+  .middel-footer-ul {
+    padding-left: 0px;
+    font-size: 12px;
+  }
+
+  td {
+    padding: 0px;
+    font-size: 10px;
+  }
+}
+#howWework {
+  margin-bottom: 45px;
+}

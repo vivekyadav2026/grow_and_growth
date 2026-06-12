@@ -1,0 +1,281 @@
+/*here is the form css coding*/
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+fieldset {
+    border: medium none !important;
+    margin: 0 0 10px;
+    min-width: 100%;
+    padding: 0;
+    width: 100%;
+}
+
+ .error {
+      color: red
+   }
+   .oli-validate-form input.error, .oli-validate-form textarea.error {
+      border: 1px solid red !important;
+   }
+   .card-block-2 ul{
+  padding:20px;
+}
+    #allpacakage .register-benifits-text span:nth-child(2){
+        font-size: 12px;
+        margin-bottom: 0 !important;
+        margin-top: -14px;
+        font-weight: 600;
+    }
+    .publi_reg_box .fees_box .register-benifits-text{
+        min-height: 546px !important;
+    }
+
+.req-docs-main-div {
+    height: 150px;
+    width: 21%;
+    text-align: center;
+    float: left;
+    margin: 0% 2% 6% 2%;
+}
+.pub_doc .req-docs-main-div {
+    height: 150px;
+    width: 29%;
+    text-align: center;
+    float: left;
+    margin: 3% 2% 6% 2% !important;
+}
+.pub_doc img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+.title{font-size: 22px;}
+.title-content-pub-lim{
+    margin-top: 15px !important;
+    text-align: center;
+    font-size: 16px;
+    line-height: 27px;
+    padding-bottom: 20px !important;
+}
+.gst_rdiobtn input{
+    visibility: visible;
+}
+
+.act-box h3 {
+    margin: 0;
+    background: #13a551;
+    color: #fff;
+    padding: 14px 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.act-content {
+    padding: 20px 18px;
+    border: 1px solid #e2e2e2;
+    background: #f7f7f7;
+}
+
+.act-content ul {
+    padding-left: 17px;
+    color: #696969;
+}
+
+.act-content ul li {
+    margin-bottom: 10px;
+    font-size: 17px;
+}
+
+.block_heading_2 h2 {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 26px;
+    color: #000;
+    font-weight: 600;
+    margin-bottom: 0px;
+    position: relative;
+}
+
+.block_padding_two .wrap {
+    display: flex;
+    background: white;
+    padding: 1rem 1rem 1rem 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 7px 7px 30px -5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+}
+
+.block_padding_two .wrap:hover {
+    background: linear-gradient(135deg, #6394ff 0%, #385067 100%);
+    color: white;
+}
+
+.block_padding_two .ico-wrap {margin: auto;float: left;width: auto;}
+
+.block_padding_two .mbr-iconfont {
+    font-size: 4.5rem !important;
+    color: #313131;
+    margin: 1rem;
+    padding-right: 1rem;
+    float: left;
+    width: auto;
+}
+
+.block_padding_two .vcenter {
+    margin: auto;
+    float: left;
+    width: 100%;
+}
+
+.block_padding_two .mbr-section-title3 {
+    text-align: left;
+}
+
+.block_padding_two h2 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.block_padding_two .display-5 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.4rem;
+}
+
+.mbr-bold {
+    font-weight: 700;
+}
+
+.block_padding_two p {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    line-height: 25px;
+}
+.block_padding_two .display-6 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1re;
+}
+.mbr-justify-content-center {
+    margin-top: 100px;
+}
+.public_company .wrap {
+    height: 194px;
+}
+.public_company .wrap img {
+    width: 100px;;
+}
+.wrap .display-5 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+}
+.block_heading_comparison h2 {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 26px;
+    color: #000;
+    font-weight: 600;
+    margin-bottom: 0px !important;
+    position: relative;
+}
+.block_padding_work .process_section {
+    background: #24730a;
+    width: 100%;
+    border-radius: 14px;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    min-height: 230px;
+    margin: 0 auto 40px;
+    font-size: 15px;
+    position: relative;
+}
+
+.avail_consult {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.public_company {
+    float: left;
+    width: 50%;
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .public_company .wrap {height: 238px;}
+}
+
+@media (max-width: 991px) {
+    .public_company {float: none;width: 100%;}
+    .public_company .wrap {height: auto;}
+    .public_company .wrap img {width: 75px;}
+}
+
+@media (min-width: 320px) and (max-width: 776px) {
+ 
+    .avail_consult {
+        margin-top: 0;
+    }
+    .block_heading h2 {
+        width: 100%;
+        float: left;
+        text-align: center;
+        font-size: 19px;
+        color: #000;
+        font-weight: 600;
+        margin-bottom: 50px;
+        position: relative;
+    }
+
+    .block_heading h2:after{top:83% !important;}
+
+    .public_company .wrap {
+        height: auto;
+    }
+
+    .req-docs-main-div span {
+    font-size: 11px;
+    line-height: 3px !important;
+}
+    .block_padding_work .process_section {
+        background: #24730a;
+        width: 100%;
+        border-radius: 14px;
+        padding: 20px;
+        text-align: center;
+        color: #fff;
+        min-height: 150px;
+        margin: 0 auto 40px;
+        font-size: 15px;
+        position: relative;
+    }
+    .mbr-justify-content-center {
+        margin-top: 0px;
+    }
+    .pub_doc .req-docs-main-div {
+        height: 210px !important;
+        width: 45% !important;
+        text-align: center;
+        float: left;
+        margin: 0% 2% 6% 2%;
+    }
+}
+@media screen and (max-width: 600px) {
+    .nav-link a {
+        color: white !important;
+        font-weight: 600;
+    }
+    .background_image {
+        height: auto;
+    }
+    .nav .open>a,
+    .nav .open>a:focus,
+    .nav .open>a:hover {
+        background-color: #4d4343;
+    }
+    .nav>li>a:focus,
+    .nav>li>a:hover {
+        background-color: #4d4343;
+    }
+    .req-docs-main-div {
+        width: 100%;
+    }
+    #topheader { height: 82px; }
+}

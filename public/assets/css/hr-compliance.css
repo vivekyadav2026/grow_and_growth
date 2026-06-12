@@ -1,0 +1,1450 @@
+.common_class {
+    float: left;
+    width: 100%;
+}
+
+.one {
+    padding: 45px 0 0 0;
+    background-image: url('https://www.onlinelegalindia.com/images/hr-complaience/hrms-banner-bg.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tag_line {
+    display: inline-block;
+    color: #F1681B;
+    font-size: 14px;
+    margin-bottom: 10px;
+    background-color: #FFEEE4;
+    line-height: 18px;
+    border-radius: 67px;
+    padding: 10px;
+}
+
+.one_left h1 {
+    color: #0C1D3D;
+    font-size: 36px;
+    line-height: 50px;
+    padding-right: 176px;
+    font-weight: 600;
+}
+
+.span_color {
+    color: #F1681B;
+}
+
+.sub_text {
+    margin-top: 33px;
+    color: #464646;
+    font-size: 18px;
+    line-height: 28px;
+    padding-right: 20px;
+}
+
+.badge_holder span {
+    display: inline-block;
+    padding: 10px;
+    font-size: 15px;
+    margin-top: 26px;
+    color: #464646;
+    margin-right: 10px;
+    line-height: 24px;
+    font-weight: 600;
+}
+
+.explore_btn {
+    display: inline-block;
+    margin-top: 35px;
+    padding: 10px;
+    border: 1px solid #FF5B1A;
+    border-radius: 7px;
+    color: #ffffff;
+    background-color: #FF5B1A;
+}
+
+.form_check .custom_check {
+    color: #333;
+}
+
+#captcha_code {
+    border: 1px solid #a7a7a7;
+    background: #FFF;
+    color: #2b2b2b;
+    font-size: 14px;
+    height: 46px;
+    padding-left: 10px;
+}
+
+
+.one_left_inner {
+    margin: 25px 0;
+}
+
+.one_left_inner p {
+    color: #000000;
+    font-size: 16px;
+}
+
+.new_ul_li li {
+    font-size: 16px;
+    color: #000;
+    position: relative;
+    margin-bottom: 17px;
+    padding-left: 29px;
+    list-style: none;
+}
+
+.new_ul_li {
+    margin: 25px 0;
+    column-count: 1;
+}
+
+.new_ul_li li::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: url(https://www.onlinelegalindia.com/images/trademark-registration/trademark/tick.png);
+    overflow: auto;
+}
+
+.form_block_left_inner_holder {
+    margin-top: 35px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.form_block_left_inner_left_holder {
+    display: grid;
+    grid-template-columns: 130px 1fr;
+    align-items: center;
+    grid-gap: 15px;
+}
+
+.form_block_left_inner_left_holder_border {
+    border-right: 2px solid #000;
+}
+
+.fblil_right p {
+    color: #000;
+    font-size: 15px;
+    margin-top: 0;
+    font-weight: 600;
+}
+
+.fblil_right p span {
+    display: block;
+}
+
+
+
+
+/* HEADING */
+.hr-content h2 {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    line-height: 46px;
+    color: #ffffff;
+}
+
+/* LIST */
+.hr-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px;
+}
+
+.tck_txt_start {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 600;
+    color: #ffffff !important;
+}
+
+.hr-list li {
+    font-size: 16px;
+    margin-bottom: 12px;
+    line-height: 26px;
+    position: relative;
+    padding-left: 28px;
+    font-weight: 400;
+}
+
+/* TICK */
+.hr-list li span {
+    position: absolute;
+    left: 0;
+    top: 2px;
+    color:#129805;
+    font-size: 24px;
+}
+
+/* HIGHLIGHT */
+.hr-highlight {
+    color: #FFE386;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 34px;
+    padding-right: 20px;
+}
+
+.one_right {
+    box-shadow: 2px 1px 17px 0px rgba(0, 0, 0, 0.2);
+    padding: 25px 15px;
+    border-radius: 12px;
+    background-color: #fff;
+}
+
+.one_right h5 {
+    text-align: center;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.form_one_right {
+    margin-top: 25px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.new_control {
+    height: 40px !important;
+    font-size: 14px;
+    width: 100%;
+    border: 1px solid #ccc;
+    color: #919191;
+}
+
+.new_control_select {
+    border-radius: 4px !important;
+    padding-left: 10px;
+}
+
+.tsfb_started {
+    background-color: #129805;
+    height: 40px;
+    border-radius: 24px;
+    color: #fff !important;
+    font-size: 16px;
+    font-weight: 700;
+    width: 100%;
+    margin-top: 20px
+}
+
+.hr-section {
+    background: #FFF3D3;
+    padding: 40px 0;
+    color: #fff;
+}
+.hr-and-compliance-section{
+    background: #ffffff;
+    padding: 40px 0;
+}
+.hr-and-compliance-content h2{
+    color: #0B1933 !important;
+}
+.tck_txt_startt{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 600;
+    color: #464646 !important;
+}
+
+/* TITLE */
+.hr-title {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 40px;
+    line-height: 46px;
+    text-align: center;
+}
+
+/* GRID */
+.hr-grid {
+    margin-bottom: 30px;
+}
+
+/* CARD */
+.hr-card {
+    border: 1px solid #ffffff;
+    padding: 16px 0 16px 17px;
+    border-radius: 10px;
+    margin-bottom: 31px;
+    background: transparent;
+    transition: 0.3s ease;
+    min-height: 180px;
+}
+
+.hr-card:hover {
+    border-color: #fff;
+    transform: translateY(-3px);
+}
+
+/* ICON */
+.hr-card img {
+    margin-bottom: 10px;
+}
+
+/* HEADING */
+.hr-card h4 {
+    font-size: 18px;
+    margin-bottom: 12px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+/* TEXT */
+.hr-card p {
+    font-size: 14px;
+    color: #ffffff;
+    line-height: 22px;
+    font-weight: 500;
+}
+
+/* FOOTER TEXT */
+.hr-footer-text {
+    color: #FFE386;
+    font-size: 24px;
+    margin-top: 0px;
+    line-height: 34px;
+    text-align: center;
+    padding: 0 254px;
+}
+
+/* SECTION */
+.svc {
+    padding: 40px 0;
+}
+
+/* HEADING */
+.svc-heading {
+    font-size: 36px;
+    font-weight: 600;
+    color: #0C1D3D;
+    line-height: 46px;
+    padding: 0 294px 0 0;
+    margin-bottom: 77px;
+}
+
+/* SLIDER */
+.sl-outer {
+    overflow: hidden;
+}
+
+.sl-track {
+    display: flex;
+    gap: 20px;
+    will-change: transform;
+    margin-bottom: 4px;
+}
+
+.saurabh_imgg {
+    display: flex;
+}
+
+/* CARD */
+.svc-card {
+    flex: 0 0 calc(25% - 15px);
+    min-width: 312px;
+    background: #ffffff;
+    border: 1px solid #6D6F78;
+    border-radius: 25px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    contain: layout paint;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+/* ICON */
+.c-icon img {
+    width: 44px;
+    height: 44px;
+    object-fit: contain;
+}
+
+.c-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 40px;
+    line-height: 34px;
+    color: #000000;
+}
+
+/* LIST */
+.c-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    height: 196px;
+}
+
+.c-list li {
+    font-size: 18px;
+    color: #6D6F78;
+    padding-left: 14px;
+    position: relative;
+    line-height: 28px;
+    font-weight: 400;
+}
+
+.c-list li::before {
+    content: "•";
+    color: #E85D1A;
+    position: absolute;
+    left: 0;
+}
+
+/* HIDDEN */
+.extra {
+    display: none
+}
+
+.c-list.expanded .extra {
+    display: list-item
+}
+
+/* READ MORE */
+.read-more {
+    font-size: 13px;
+    color: #E85D1A;
+    font-weight: 600;
+    border: none;
+    background: none;
+    cursor: pointer;
+    padding: 0;
+}
+
+/* NAV */
+.sl-nav {
+    display: flex;
+    gap: 10px;
+    margin-top: 42px;
+    text-align: center;
+    justify-content: center;
+}
+
+.nav-btn-clr {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+
+.nav-btn {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    background: #fff;
+    cursor: pointer;
+}
+
+.cstm-row-padding {
+    padding: 0 15px;
+}
+
+.rm-arrow {
+    display: inline-block;
+    transition: transform .3s;
+}
+
+.read-more[aria-expanded="true"] .rm-arrow {
+    transform: rotate(180deg);
+}
+
+.c-list {
+    max-height: 200px;
+    overflow: hidden;
+    transition: max-height .3s ease;
+}
+
+.c-list.expanded {
+    max-height: 500px;
+    /* enough for expanded content */
+}
+
+/* SECTION */
+.cta-section {
+    padding: 40px 0;
+}
+
+/* BOX */
+.cta-box {
+    position: relative;
+    border-radius: 12px;
+    overflow: hidden;
+
+    /* 🔥 use your image here */
+    background: url('https://www.onlinelegalindia.com/images/hr-complaience/resolve-dispute-banner.webp') center/cover no-repeat;
+
+    min-height: 180px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* CONTENT */
+.cta-content {
+    text-align: center;
+    color: #fff;
+    padding: 0 270px;
+}
+
+.cta-content h3 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 24px;
+    line-height: 34px;
+}
+
+/* BUTTON */
+.cta-btn {
+    display: inline-block;
+    background: #fff;
+    color: #0C1D3D;
+    padding: 10px 80px;
+    border-radius: 0px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    transition: 0.3s;
+    line-height: 28px;
+}
+
+.cta-btn:hover {
+    background: #f2f2f2;
+}
+
+/* SECTION */
+.hw-section {
+    padding: 40px 0;
+    background: #F6F8FF;
+    text-align: center;
+}
+
+/* TITLE */
+.hw-title {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 62px;
+    color: #0C1D3D;
+}
+
+/* WRAPPER */
+.hw-steps {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+
+
+
+/* LINE BETWEEN STEPS */
+.hw-step:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    top: 35px;
+    right: -34%;
+    width: 68%;
+    height: 2px;
+    background: #f05a22;
+    z-index: 0;
+}
+
+/* STEP */
+.hw-step {
+    width: 25%;
+    position: relative;
+    z-index: 1;
+}
+
+/* CIRCLE */
+.hw-circle {
+    width: 80px;
+    height: 80px;
+    border: 2px solid #F1681B;
+    border-radius: 50%;
+    margin: 0 auto 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 36px;
+    background: #fff;
+    line-height: 46px;
+}
+
+/* TEXT */
+.hw-step h4 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    line-height: 30px;
+}
+
+.hw-step p {
+    font-size: 16px;
+    color: #747474;
+    line-height: 26px;
+    padding: 0 20px;
+}
+
+/* SECTION */
+.whyus-section {
+    padding: 40px 0;
+}
+
+
+
+
+/* IMAGE */
+.whyus-img-wrap {
+    position: relative;
+    text-align: center;
+}
+
+.main-img {
+    max-width: 100%;
+}
+
+
+
+
+/* CONTENT */
+.whyus-content h2 {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    line-height: 43px;
+    color: #0C1D3D;
+    margin-top: 28px;
+}
+
+/* LIST */
+.whyus-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px;
+}
+
+.whyus-list li {
+    font-size: 16px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    line-height: 26px;
+    color: #2C2C2C;
+}
+
+/* BUTTON */
+.whyus-btn {
+    display: inline-block;
+    background: #0E5913;
+    color: #fff;
+    padding: 10px 80px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.whyus-btn:hover {
+    color: #ffffff;
+
+}
+
+.cta2-section {
+    background: #0C1D3D;
+    padding: 40px 0;
+}
+
+/* BOX */
+.cta2-box {
+    text-align: center;
+    color: #fff;
+}
+
+/* HEADING */
+.cta2-box h2 {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    line-height: 46px;
+}
+
+/* TEXT */
+.cta2-box p {
+    font-size: 16px;
+    color: #ffffff;
+    margin-bottom: 15px;
+    line-height: 26px;
+}
+
+/* BUTTON */
+.cta2-btn {
+    display: inline-block;
+    background: #fff;
+    color: #000;
+    padding: 10px 64px;
+    border-radius: 0px;
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: 0.3s;
+    line-height: 28px;
+    color: #0C1D3D;
+}
+
+.cta2-btn:hover {
+    background: #f2f2f2;
+}
+
+.pricing-section {
+    padding: 40px 0;
+}
+
+/* TITLE */
+.pricing-title {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 70px;
+    color: #0C1D3D;
+    text-align: start;
+    line-height: 46px;
+    padding: 0 15px;
+}
+
+/* CARD */
+.pricing-card {
+    background: #fff;
+    border: 1px solid #7B7B7B;
+    border-radius: 12px;
+    padding: 25px 16px;
+    position: relative;
+    transition: 0.3s;
+    margin-bottom: 25px;
+
+    text-align: center;
+    /* 🔥 main center */
+}
+
+/* UL center but readable */
+.pricing-card ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 15px auto;
+    display: inline-block;
+    text-align: left;
+}
+
+/* LI alignment fix */
+.pricing-card ul li {
+    display: flex;
+    align-items: flex-start;
+    font-size: 18px;
+    margin-bottom: 8px;
+    color: #6D6F78;
+    line-height: 28px;
+}
+
+/* icon spacing */
+.tick_image_gap {
+    margin-right: 10px;
+    flex-shrink: 0;
+}
+
+/* ACTIVE CARD */
+.pricing-card.active {
+    border: 2px solid #ff6b35;
+}
+
+/* BADGE */
+.badge {
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #ff6b35;
+    color: #fff;
+    font-size: 11px;
+    padding: 4px 10px;
+    border-radius: 20px;
+}
+
+/* TEXT */
+.pricing-card h4 {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.sub {
+    font-size: 14px;
+    color: #8D8D8D;
+    display: block;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.hrms_cls {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px;
+
+}
+
+.pricing-card h3 {
+    font-size: 20px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+/* LIST */
+.pricing-card ul {
+    text-align: left;
+    padding-left: 0px;
+    margin-top: 24px;
+    height: 212px;
+}
+.fp_txt{
+    margin-top: 29px !important;
+}
+
+.pricing-card ul li {
+    display: flex;
+    align-items: flex-start;
+    font-size: 16px;
+    margin-bottom: 6px;
+    color: #6D6F78;
+    line-height: 26px;
+}
+
+.ep_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tick_image_gap {
+    margin-right: 4px;
+    margin-top: 6px;
+}
+
+/* BUTTON */
+.pricing-btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 8px;
+    border: 1px solid #129805;
+    border-radius: 6px;
+    color: #020816;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 28px;
+    width: 80%;
+    text-align: center;
+}
+
+.active-btn {
+    background: #ff6b35;
+    color: #fff;
+    border: none;
+}
+
+.text_bold {
+    color: #0C1D3D !important;
+    font-weight: bold !important;
+    font-size: 17px !important;
+}
+
+.common_class_new {
+    float: left;
+    width: 100%;
+}
+
+.one_left_section_mobile {
+    display: none;
+}
+
+.cstm_hr_content {
+    margin-left: 20px;
+}
+
+.hrms_section {
+    background: url("https://www.onlinelegalindia.com/images/hr-complaience/all-in-one-bg.webp") no-repeat center center;
+    background-size: cover;
+    padding: 40px 0;
+    background-repeat: no-repeat;
+}
+
+
+/* LEFT CONTENT */
+.hrms_content h2 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #ffffff;
+    line-height: 42px;
+}
+
+.hrms_content ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 25px;
+}
+
+.hrms_content ul li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 24px;
+}
+
+.hrms_content ul li img {
+    width: 18px;
+    margin-right: 10px;
+}
+
+/* BUTTON */
+.hrms_btn {
+        display: inline-block;
+    background: #fff;
+    color: #000;
+    padding: 10px 72px;
+    border-radius: 0px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    transition: 0.3s;
+}
+/* LIMIT LIST */
+.limit-list li:nth-child(n+5) {
+  display: none;
+}
+
+.limit-list.expanded li {
+    display: flex;
+    gap: 2px;
+}
+.gst_rdiobtn ul {
+    list-style: none;
+    display: inline-grid;
+    margin-left: 10px;
+    width: calc(100% - 48px);
+}
+
+/* READ MORE */
+.read-toggle {
+  display: inline-block;
+  color: #ff6b35;
+  font-size: 13px;
+  cursor: pointer;
+  margin: 10px 0;
+  font-weight: 600;
+}
+
+/* OPTIONAL SMOOTH */
+.limit-list {
+  transition: all .3s ease;
+}
+
+/* .hrms_btn:hover {
+    background: #00c853;
+    color: #fff;
+} */
+
+.hrms_image_mobile{
+    display:none;
+}
+
+
+@media screen and (max-width: 767px) {
+    .hrms_image_destop{
+        display: none;
+    }
+    .hrms_image_mobile{
+    display:block;
+}
+.badge_holder{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+    #captcha_code {
+        width: 46%;
+        height: 38px;
+    }
+    .cstm_hr_content {
+        margin-left: 0;
+    }
+
+    .one {
+        padding: 20px 0 0 0;
+
+    }
+
+    .one_left_section_mobile {
+        display: block;
+    }
+
+    .one_left_section_destop {
+        display: none;
+    }
+
+    .three_block_inner_holder {
+        width: 100%;
+    }
+
+    .one_left h1 {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    /* .one,
+    .two,
+    .five {
+        padding: 30px 0;
+    } */
+
+    .four,
+    .seven,
+    .eight {
+        margin-top: 25px;
+    }
+
+    .one_left_inner p {
+        text-align: center;
+    }
+
+    .new_ul_li {
+        column-count: 1;
+    }
+
+    .form_block_left_inner_holder {
+        grid-template-columns: 1fr;
+        display: flex;
+    }
+
+    .form_block_left_inner_left_holder_border {
+        border-right: none;
+    }
+
+    .fblil_right p {
+        font-size: 14px;
+    }
+
+    .common_tab_body ul {
+        height: 95px;
+    }
+
+    .col_two {
+        padding: 0;
+    }
+
+    .hrms_content h2 {
+        font-size: 28px;
+        line-height: 38px;
+        color: #ffffff;
+    }
+
+    .hrms_btn {
+        display: inline-block;
+        background: #fff;
+        color: #000;
+        padding: 10px 72px;
+        border-radius: 0px;
+        text-decoration: none;
+        font-weight: 600;
+        transition: 0.3s;
+    }
+
+    .hrms_image {
+        margin-top: 20px;
+    }
+
+
+
+
+    .one_left {
+        margin-top: 20px;
+    }
+
+    .six_inner {
+        width: 100%;
+    }
+
+    .six_inner_block {
+        padding: 15px 9px;
+    }
+
+    .six_number h4 {
+        font-size: 40px;
+    }
+
+    .six_text p {
+        font-size: 14px;
+    }
+
+    /* .span_color {
+        display: inline-block;
+    } */
+
+    .one_left h1 {
+        font-size: 28px;
+        text-align: start;
+        padding-right: 0;
+        line-height: 38px;
+    }
+
+    #captcha_code {
+        width: 50%;
+        height: 35px;
+    }
+
+    #captcha_holder {
+        width: 103px;
+        height: 35px;
+        object-fit: cover;
+    }
+
+    .grid_change_mobile {
+        display: grid;
+    }
+
+    .banner_section {
+        order: 2;
+    }
+
+    .hr-section {
+        order: 1;
+    }
+
+    .saurabh_imgg {
+        padding: 24px 15px 0 15px;
+    }
+
+
+    .sub_text {
+        margin-top: 24px;
+        color: #6D6F78;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .badge_holder span {
+        display: inline-block;
+        padding: 6px 10px 6px 0px;
+        font-size: 14px;
+        border-radius: 7px;
+        margin-top: 26px;
+        color: #464646;
+        margin-right: 10px;
+    }
+
+    .explore_btn {
+        display: inline-block;
+        margin-top: 35px;
+        padding: 10px 48px;
+        border: 1px solid #FF5B1A;
+        border-radius: 7px;
+        color: #ffffff;
+    }
+
+    .hr-title {
+        font-size: 28px;
+        font-weight: 600;
+        margin-bottom: 36px;
+        line-height: 38px;
+        text-align: center;
+    }
+
+    .hr-footer-text {
+        padding: 0;
+    }
+
+    .svc-heading {
+        padding: 0;
+        font-size: 28px;
+        line-height: 38px;
+    }
+
+    .cta-content h3 {
+        font-size: 20px;
+        font-weight: 600;
+        margin-bottom: 24px;
+        line-height: 30px;
+    }
+    .pricing-card {
+        padding: 25px 16px;
+        text-align: start;
+    }
+    .pricing-card ul {
+        height: 144px;
+    }
+    .fp_txt {
+    margin-top: 12px !important;
+}
+.read-toggle {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+            font-size: 18px;
+        font-weight: 600;
+        line-height: 28px;
+        margin-top: 10px;
+}
+.pricing-btn {
+        margin-top: 6px;
+}
+
+    .cta-content {
+        text-align: center;
+        color: #fff;
+        padding: 40px 16px;
+    }
+
+    .cta-section {
+        padding: 0;
+    }
+
+    .hw-step {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .hw-steps {
+        display: block;
+
+    }
+
+    .hw-step:not(:last-child)::after {
+        display: none;
+    }
+
+    .hw-title {
+        margin-bottom: 40px;
+    }
+
+    .cta2-box h2 {
+        font-size: 28px;
+        font-weight: 600;
+        margin-bottom: 8px;
+        line-height: 38px;
+    }
+
+    .cta2-box p {
+        margin-top: 20px;
+    }
+
+    .pricing-title {
+        font-size: 28px;
+        line-height: 38px;
+        padding: 0 15px;
+    }
+
+    .pricing-title {
+        margin-bottom: 30px;
+    }
+
+    .hr-content h2 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-bottom: 20px;
+        line-height: 34px;
+        margin-top: 20px;
+        color: #0B1933;
+    }
+
+    /* .hr-content {
+        padding: 20px 15px 40px 15px;
+    } */
+
+    .hr-highlight {
+        padding-right: 0;
+    }
+    .hrms_image{
+        padding: 20px 15px;
+
+    }
+    .hr-section {
+        padding: 20px 0;
+    }
+    .hrms_image_mobile{
+        background-color: #FFF3D3;
+
+    }
+    .hr-and-compliance-section {
+        padding: 12px 0;
+    }
+    .svc {
+    padding: 10px 0;
+}
+.whyus-section {
+    padding: 0;
+}
+
+
+}
+
+@media (min-width: 400px) and (max-width: 450px) {
+    #captcha_holder {
+        width: 39%;
+        height: 35px;
+        object-fit: cover;
+    }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+
+    .custom_row .col-md-7,
+    .custom_row .col-md-5 {
+        width: 50% !important;
+        flex: 0 0 50% !important;
+        max-width: 50% !important;
+        float: none !important;
+    }
+
+    .one {
+        padding: 45px 0;
+    }
+
+    .custom_row {
+        display: flex;
+    }
+
+    .one_left h1 {
+        color: #0C1D3D;
+        font-size: 28px;
+        line-height: 38px;
+        padding-right: 0;
+        font-weight: 600;
+    }
+
+    .hr-row {
+        display: flex;
+    }
+
+    .sub_text {
+        margin-top: 20px;
+        line-height: 28px;
+    }
+
+    .badge_holder span {
+        display: inline-block;
+        border: 1px solid #EAEFFF;
+        padding: 12px 28px;
+        font-size: 14px;
+        border-radius: 7px;
+        margin-top: 26px;
+        color: #0060F0;
+        background-color: #EAEFFF;
+        margin-right: 10px;
+    }
+
+    .explore_btn {
+        display: inline-block;
+        margin-top: 35px;
+        padding: 10px 60px;
+        border: 1px solid #0C1D3D;
+        border-radius: 7px;
+        color: #0060F0;
+    }
+
+    .hr-grid>div {
+        width: 50%;
+        float: left;
+    }
+
+
+    .hr-grid>div:nth-child(5) {
+        float: none;
+        clear: both;
+        margin: 0 auto;
+    }
+
+    .hr-footer-text {
+        padding: 0;
+    }
+
+    .svc-heading {
+        padding: 0;
+    }
+
+    .cta-content {
+        text-align: center;
+        color: #fff;
+        padding: 40px 70px;
+    }
+
+    .cta-section {
+        padding: 0;
+    }
+
+    .hw-steps {
+        flex-wrap: wrap;
+    }
+
+    .hw-step {
+        width: 50%;
+        margin-bottom: 40px;
+    }
+
+    .hw-steps::before {
+        display: none;
+        /* line hide */
+    }
+
+    .hw-step:not(:last-child)::after {
+        display: none;
+    }
+
+    .hw-title {
+        margin-bottom: 40px;
+    }
+
+    .whyus-row {
+        display: flex;
+    }
+
+    .pricing-row>div {
+        width: 50% !important;
+        float: left !important;
+    }
+
+    .hr-row .col-md-7,
+    .hr-row .col-md-5 {
+        width: 50% !important;
+        flex: 0 0 50% !important;
+        max-width: 50% !important;
+        float: none !important;
+
+    }
+
+    .hr-highlight {
+        padding-right: 0;
+    }
+    .hr-row .col-md-6 {
+        width: 50% !important;
+        flex: 0 0 50% !important;
+        max-width: 50% !important;
+        float: none !important;
+
+    }
+    .hrms_content h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+
+}

@@ -1,0 +1,468 @@
+.title-content {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 16px;
+  line-height: 27px;
+}
+.dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:hover {
+  color: #f1ecec;
+  text-decoration: none;
+  background-color: #385067;
+}
+/*here is the form css coding*/
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+
+.container.form {
+  width: 100%;
+  margin-top: 226px;
+  margin-bottom: 70px;
+}
+#contact input[type="text"],
+#contact input[type="email"],
+#contact input[type="tel"],
+#contact input[type="url"],
+#contact textarea,
+#contact button[type="submit"] {
+  font:
+    400 12px/16px "Roboto",
+    Helvetica,
+    Arial,
+    sans-serif;
+}
+
+/*
+#contact h4 {
+  margin: 5px 0 15px;
+  display: block;
+  font-size: 13px;
+  font-weight: 400;
+}
+*/
+
+/*here is the form css coding*/
+
+/*here is the coding css of the benifits of udyog aadhar*/
+
+/*here is the coding css of the benifits of udyog aadhar*/
+
+.card {
+  -moz-box-direction: normal;
+  -moz-box-orient: vertical;
+  background-color: #fff;
+  border-radius: 0.25rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-bottom: 1px;
+  border: none;
+  margin-bottom: 10px;
+}
+.card-header:first-child {
+  border-radius: 0;
+}
+.card-header {
+  margin: 0;
+  background: #13a551;
+  color: #fff;
+  padding: 14px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: none;
+}
+
+.card-header a {
+  width: 97%;
+  float: left;
+  color: #565656;
+  text-decoration: none;
+}
+.card-header p {
+  margin: 0;
+}
+
+.card-header h3 {
+  margin: 0 0 0px;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  color: #fff;
+}
+.card-block {
+  -moz-box-flex: 1;
+  flex: 1 1 auto;
+
+  color: #666;
+  box-shadow: inset 0px 4px 5px rgba(0, 0, 0, 0.1);
+  border-top: 1px soild #000;
+  border-radius: 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 501;
+
+  padding: 20px 18px;
+  border: 1px solid #e2e2e2;
+  background: #f7f7f7;
+}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  text-align: center;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #4caf50;
+  color: #fff;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 28px 32px 33px 32px;
+  background: #f0fff0;
+  border: 1px solid #c7f5c7;
+  background: #f0fff0;
+  box-shadow: 0 5px 5px rgb(227 239 227);
+}
+.tabvalue {
+  display: inline-table;
+  width: 49%;
+  padding: 0 2vw;
+}
+
+.tabvalue ul {
+  list-style: none;
+  margin-top: 22px;
+}
+.tabvalue ul li {
+  margin-bottom: 11px;
+}
+.tabvalue ul li:before {
+  content: url("/images/tick_li.svg");
+  position: relative;
+  z-index: inherit;
+  left: 0;
+  top: 0;
+  width: 17px;
+  height: 17px;
+  float: left;
+  margin-right: 8px;
+}
+
+.govlogo .col-md-2 {
+  width: 32%;
+}
+.govlogo .col-md-2 img {
+  width: 100%;
+  display: table;
+  max-width: inherit;
+}
+
+.tabvalue h3 {
+  font-size: 23px;
+}
+
+.govlogo {
+  width: 100%;
+  float: left;
+  margin-top: 30px;
+}
+
+@media screen and (max-width: 768px) {
+  #topheader {
+    height: 82px;
+  }
+  .tabvalue {
+    display: inline-table;
+    width: 100%;
+    padding: 0 0;
+  }
+  .tab button {
+    font-size: 15px;
+    width: 100%;
+  }
+  .tab button.active {
+    font-size: 15px;
+  }
+  .tabvalue h3 {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .govlogo .col-md-2 {
+    width: 50%;
+  }
+  .title {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .title-content p {
+    font-size: 13px;
+    line-height: 18px;
+    padding: 0 17px;
+  }
+}
+
+/*tab Design end*/
+
+/*here is the style of requirements of documents*/
+.required-documents {
+  padding: 5px 0px;
+}
+/*here is the style of requirements of documents*/
+
+/*here is the syle of why us*/
+.why-us-img-div {
+  margin-top: 50px;
+}
+
+/*here is the syle of why us*/
+
+/*here is the style of footer accordation*/
+
+.accordion-cus-head {
+  font-weight: 600;
+  line-height: 47px;
+  margin-left: 40px;
+}
+.child-ans-div-1 {
+  width: 100%;
+  color: #66667a;
+  border: 1px solid #66667a;
+}
+.child-ans-text {
+  margin-left: 37px;
+  margin-top: 10px;
+}
+
+/*here is the footer sytle css*/
+
+.foter-contact {
+  width: 33%;
+  float: left;
+  color: white;
+}
+
+/*here is the footer sytle css*/
+/*
+
+.req-docs-main-div{
+  height: 150px;
+  width: 21%;
+  text-align: center;
+  float: left;
+  margin: 0% 2% 4% 2%;
+}
+*/
+/*===============14.1.2020==============*/
+
+.tab-2 button {
+  background-color: inherit;
+  float: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 9px;
+  transition: 0.3s;
+  font-size: 1.05vw;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .for-top-margin p {
+    margin-bottom: 15px;
+  }
+  .tab-2 button {
+    font-size: 14px;
+  }
+  .block_heading h2 {
+    font-size: 20px;
+  }
+  .media_cover_box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  #popular_services .services_list h5 {
+    font-size: 12px;
+    width: 61%;
+    top: 4px;
+    line-height: 16px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .block_heading h2 {
+    font-size: 18px;
+  }
+
+  .custom-pull-left {
+    float: left !important;
+    width: 100%;
+    background-color: #385067;
+  }
+  .nav-link a {
+    color: white !important;
+    font-weight: 600;
+  }
+  .container-fluid > .navbar-collapse,
+  .container-fluid > .navbar-header,
+  .container > .navbar-collapse,
+  .container > .navbar-header {
+    margin-right: -15px;
+    margin-left: 0px;
+  }
+
+  .background_image {
+    height: auto;
+  }
+
+  .accordion-cus-head {
+    line-height: 24px;
+    font-size: 14px;
+    margin-left: 16px;
+    padding: 10px;
+  }
+  .child-ans-text {
+    margin-left: 17px;
+  }
+  .child-ans-div-1 {
+    margin-top: -11px;
+  }
+
+  .nav .open > a,
+  .nav .open > a:focus,
+  .nav .open > a:hover {
+    background-color: #4d4343;
+  }
+  .nav > li > a:focus,
+  .nav > li > a:hover {
+    background-color: #4d4343;
+  }
+  .copyright-ul {
+    font-size: 10px;
+    text-align: left;
+    float: left;
+  }
+
+  .for-top-margin {
+    margin-top: 20px;
+  }
+
+  .our-associates {
+    width: 50%;
+  }
+
+  .req-docs-main-div {
+    width: 100%;
+  }
+  .tab-2 button {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 425px) {
+  .title-content {
+    margin-bottom: 5px;
+  }
+  #contact {
+    padding: 15px;
+  }
+  .block_heading h2 {
+    font-size: 16px;
+  }
+  .govlogo .block_heading h2:after {
+    margin-top: 33px;
+  }
+  #popular_services .services_list h5 {
+    width: 63%;
+    top: -11px;
+  }
+  #contact input[name="submit"],
+  #contact input[type="submit"],
+  #contact input[type="button"],
+  button[type="submit"],
+  #contact button[type="button"],
+  input[name="next"] {
+    padding: 8px 10px !important;
+    font-size: 20px !important;
+  }
+  .tabcontent {
+    padding: 15px;
+  }
+}
+
+@media (max-width: 375px) {
+  #contact h3 {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 320px) {
+  #popular_services .services_list h5 {
+    width: 59%;
+    top: -11px;
+    font-size: 10px;
+    line-height: 14px;
+  }
+  .media_cover_box p {
+    line-height: 19px;
+  }
+  #captcha_holder {
+    width: 92px;
+    height: 39px;
+    object-fit: fill;
+  }
+}
+
+.new_md_section {
+  margin: 60px 0 30px 0;
+}
+.new_pack_block_modification {
+  padding: 0 !important;
+  border-radius: 10px;
+}
+.new_pack_block_modification td {
+  border: unset;
+}
+.new_pack_block_modification_one {
+  border-bottom: 1px solid #000 !important;
+  font-size: 16px;
+  color: #323232;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px 0;
+}
+.new_pack_block_modification_two {
+  font-size: 16px;
+  color: #323232;
+  border-bottom: 1px solid #000 !important;
+  padding: 10px 0;
+}
+.new_pack_block_modification_two_bold {
+  font-weight: bold;
+}
+.new_pack_block_modification_two2 {
+  border-bottom: unset !important;
+}
+.new_pack_block_modification_two_border {
+  border-right: 1px solid #000 !important;
+}
