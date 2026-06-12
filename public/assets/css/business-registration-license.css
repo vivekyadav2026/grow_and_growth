@@ -513,7 +513,7 @@ h5.frm_info {
 .fees_info h3 span {
   font-size: 40px;
   font-weight: 600;
-  color: #f06906;
+  color: #0D1B3D;
   margin: 0 10px;
 }
 .fees_info h4 {
@@ -759,7 +759,7 @@ a.associate_but:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #385067;
+  background: #0D1B3D;
 }
 .contact_us_top_info h3 {
   color: #000;
@@ -800,7 +800,7 @@ a.associate_but:hover {
 }
 .ofc_info_area {
   padding: 40px 0;
-  background: #385067;
+  background: #0D1B3D;
 }
 .footer {
   margin-top: 0;

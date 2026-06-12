@@ -17,7 +17,7 @@
 	text-align: center;
 	font-size: 32px;
 	color:
-	#2e363a;
+	#0D1B3D;
 	font-weight: 600;
 }
 .title-content{
@@ -31,7 +31,7 @@
 #f1ecec;
 text-decoration: none;
 background-color:
-    #385067;
+    #0D1B3D;
 }
 
 .block_heading h2::after{margin-top: 20px;}
@@ -144,7 +144,7 @@ position: absolute;
 content: "";
 bottom: -20px;
 left: 18px;
-background-color: #18ba60;
+background-color: #1B5E3A;
 -webkit-border-radius: 2px;
 -moz-border-radius: 2px;
 border-radius: 2px;
@@ -165,7 +165,7 @@ border-radius: 2px;
     border-radius: 0;
 }
 .card-header {
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     margin-bottom: 0;
     padding: 13px 1.25rem;
     border:none;

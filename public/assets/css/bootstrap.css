@@ -226,7 +226,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #337ab7;
+  color: #0D1B3D;
   text-decoration: none;
 }
 a:focus,
@@ -1304,7 +1304,7 @@ fieldset[disabled] .btn-default:hover {
 fieldset[disabled] .btn-primary.focus,
 fieldset[disabled] .btn-primary:focus,
 fieldset[disabled] .btn-primary:hover {
-  background-color: #337ab7;
+  background-color: #0D1B3D;
   border-color: #2e6da4;
 }
 
@@ -1411,7 +1411,7 @@ tbody.collapse.in {
 .dropdown-menu > .active > a:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #337ab7;
+  background-color: #0D1B3D;
   outline: 0;
 }
 .dropdown-menu > .disabled > a,
@@ -1596,7 +1596,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav .open > a:focus,
 .nav .open > a:hover {
   background-color: #eee;
-  border-color: #337ab7;
+  border-color: #0D1B3D;
 }
 .nav .nav-divider {
   height: 1px;
@@ -1689,7 +1689,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav-pills > li.active > a:focus,
 .nav-pills > li.active > a:hover {
   color: #fff;
-  background-color: #337ab7;
+  background-color: #0D1B3D;
 }
 
 @media (min-width: 1200px) {
@@ -2044,7 +2044,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
   padding: 6px 12px;
   margin-left: -1px;
   line-height: 1.42857143;
-  color: #337ab7;
+  color: #0D1B3D;
   text-decoration: none;
   background-color: #fff;
   border: 1px solid #ddd;
@@ -2078,8 +2078,8 @@ fieldset[disabled] .navbar-default .btn-link:hover {
   z-index: 3;
   color: #fff;
   cursor: default;
-  background-color: #337ab7;
-  border-color: #337ab7;
+  background-color: #0D1B3D;
+  border-color: #0D1B3D;
 }
 .pagination > .disabled > a,
 .pagination > .disabled > a:focus,
@@ -2549,22 +2549,22 @@ a.label:hover {
   border-bottom-color: #ddd;
 }
 .panel-primary {
-  border-color: #337ab7;
+  border-color: #0D1B3D;
 }
 .panel-primary > .panel-heading {
   color: #fff;
-  background-color: #337ab7;
-  border-color: #337ab7;
+  background-color: #0D1B3D;
+  border-color: #0D1B3D;
 }
 .panel-primary > .panel-heading + .panel-collapse > .panel-body {
-  border-top-color: #337ab7;
+  border-top-color: #0D1B3D;
 }
 .panel-primary > .panel-heading .badge {
-  color: #337ab7;
+  color: #0D1B3D;
   background-color: #fff;
 }
 .panel-primary > .panel-footer + .panel-collapse > .panel-body {
-  border-bottom-color: #337ab7;
+  border-bottom-color: #0D1B3D;
 }
 .panel-success {
   border-color: #d6e9c6;

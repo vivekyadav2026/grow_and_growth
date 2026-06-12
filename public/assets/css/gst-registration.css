@@ -13,7 +13,7 @@
   font-family: "Poppins", sans-serif;
   text-align: center;
   font-size: 32px;
-  color: #2e363a;
+  color: #0D1B3D;
   font-weight: 600;
 }
 .title-content {
@@ -26,7 +26,7 @@
 .dropdown-menu > li > a:hover {
   color: #f1ecec;
   text-decoration: none;
-  background-color: #385067;
+  background-color: #0D1B3D;
 }
 /*here is the form css coding*/
 
@@ -85,7 +85,7 @@
   margin-top: 13px;
   display: block !important;
   color: #fff;
-  background: #f06906;
+  background: #0D1B3D;
   padding: 11px;
   text-align: center;
   border-radius: 10px;
@@ -344,7 +344,7 @@ fieldset {
   content: "";
   bottom: -20px;
   left: 18px;
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -367,7 +367,7 @@ fieldset {
   content: "";
   bottom: 0px !important;
   left: 542px !important;
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -386,7 +386,7 @@ fieldset {
 .benifits-li::before {
   content: "\f00c";
   font-family: "FontAwesome";
-  color: #18ba60;
+  color: #1B5E3A;
   font-size: 12px;
   position: absolute;
   left: 0;
@@ -427,7 +427,7 @@ fieldset {
   border-radius: 100px !important;
 }
 .card-header {
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   margin-bottom: 0;
   padding: 13px 1.25rem;
   border: none;
@@ -834,7 +834,7 @@ td {
     content: "";
     bottom: -20px;
     left: 18px;
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     border-radius: 2px;
@@ -923,7 +923,7 @@ td {
   .custom-pull-left {
     float: left !important;
     width: 100%;
-    background-color: #385067;
+    background-color: #0D1B3D;
   }
 
   #contact {
@@ -1143,7 +1143,7 @@ section.types_of_gst_regis.cons_sec1 p {
   content: "";
   bottom: -11px;
   left: 50%;
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   /* -webkit-border-radius: 2px; */
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -1202,7 +1202,7 @@ section.gst_req_doc {
 }
 .gstReq_doc_box i {
   font-size: 40px;
-  color: #18ba60;
+  color: #1B5E3A;
   margin-bottom: 10px;
 }
 .gstReq_doc_box p {

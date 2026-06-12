@@ -135,7 +135,7 @@
   text-align: center;
   font-size: 32px;
   color:
-  #2e363a;
+  #0D1B3D;
   font-weight: 600;
   margin-top: 3%;
 }
@@ -154,20 +154,20 @@ content: "";
 bottom: 13px;
 left: 47%;
 background-color:
-#18ba60;
+#1B5E3A;
 -webkit-border-radius: 2px;
 -moz-border-radius: 2px;
 border-radius: 2px;
 }
 .headstyle{
-    color: #2E363A;
+    color: #0D1B3D;
 }
 .lglbreadcrumbs{
     font-family: Poppins;
 }
 .lglbreadcrumbs a{
     text-decoration: none;
-    color: #18ba60;
+    color: #1B5E3A;
 }
 .lglbreadcrumbs a:hover{
     color: #2E3641;

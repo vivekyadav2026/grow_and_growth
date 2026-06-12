@@ -37,7 +37,7 @@
   border-radius: 100px !important;
 }
 .card-header {
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   margin-bottom: 0;
   padding: 13px 1.25rem;
   border: none;
@@ -83,7 +83,7 @@
 .benifits-li::before {
   content: "\f058";
   font-family: "Font Awesome 5 Free";
-  color: #18ba60;
+  color: #1B5E3A;
   font-size: 12px;
   display: inline-table;
 }
@@ -118,7 +118,7 @@
   content: "";
   bottom: -12px;
   left: 43%;
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -534,7 +534,7 @@ img.food__img {
     font-family: "Poppins", sans-serif;
     text-align: center;
     font-size: 22px;
-    color: #2e363a;
+    color: #0D1B3D;
     font-weight: 600;
   }
 }
@@ -636,7 +636,7 @@ img.food__img {
   .custom-pull-left {
     float: left !important;
     width: 100%;
-    background-color: #385067;
+    background-color: #0D1B3D;
   }
 
   .benifits-small-div {

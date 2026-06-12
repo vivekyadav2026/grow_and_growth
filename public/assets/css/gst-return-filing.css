@@ -102,7 +102,7 @@
   display: block;
   width: 75px;
   height: 6px;
-  background: #5cb85c;
+  background: #1B5E3A;
   border-radius: 3px;
   margin: 14px 0 0;
   margin-left: auto;
@@ -287,7 +287,7 @@
   text-decoration: none;
 }
 .nav-item-inner > a:hover {
-  color: #5cb85c;
+  color: #1B5E3A;
 }
 .nav-item-inner-heading {
   position: relative;
@@ -310,14 +310,14 @@
   font-family: FontAwesome;
   font-style: normal;
   color: #fff;
-  background: #5cb85c;
+  background: #1B5E3A;
   height: 30px;
   border-radius: 20px;
   line-height: 29px;
   font-size: 24px;
 }
 .nav-item-inner-heading.minus {
-  color: #5cb85c;
+  color: #1B5E3A;
 }
 .nav-item-inner-heading.minus:after {
   content: url(../../images/minus.svg);
@@ -410,7 +410,7 @@
   display: block;
   content: "";
   bottom: -20px;
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -474,7 +474,7 @@ title .title {
   text-align: center;
   height: 96px;
   border-radius: 8px;
-  background-image: linear-gradient(45deg, #28629a, #385067);
+  background-image: linear-gradient(45deg, #28629a, #0D1B3D);
   color: #fff;
 }
 .happy_clients_bold {
@@ -588,10 +588,10 @@ table {
 
 /* When the radio button is checked, add a blue background */
 .package_container input:checked ~ .checkmark {
-  background-color: #385067;
+  background-color: #0D1B3D;
 
   box-shadow: 1px 1px 2px #acacad;
-  background-image: linear-gradient(45deg, #28629a, #385067);
+  background-image: linear-gradient(45deg, #28629a, #0D1B3D);
 }
 
 .package_container input:checked ~ .checkmark ~ i {
@@ -769,13 +769,13 @@ table {
 }
 .custom_panel .panel-default > .panel-heading {
   color: #fff !important;
-  background-color: #5cb85c !important;
+  background-color: #1B5E3A !important;
 }
 .panel-title a {
   text-decoration: none;
 }
 .custom_accordion .panel-heading {
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   color: #fff;
 }
 .custom_accordion .panel-heading a span {

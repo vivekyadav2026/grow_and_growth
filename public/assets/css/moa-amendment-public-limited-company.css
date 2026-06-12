@@ -16,7 +16,7 @@
 
 .benifts-heading {color: white;margin-top: 30px;font-weight: 600;font-family: 'Poppins', sans-serif;}
 
-.benifts-heading::after {width: 50px;height: 5px;position: absolute;content: '';bottom: -20px;left: 18px;background-color: #18ba60;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;}
+.benifts-heading::after {width: 50px;height: 5px;position: absolute;content: '';bottom: -20px;left: 18px;background-color: #1B5E3A;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;}
 
 .card {-moz-box-direction: normal;-moz-box-orient: vertical;background-color: #fff;border-radius: 0.25rem;display: flex;flex-direction: column;position: relative;margin-bottom: 1px;border: none;}
 /*here is the style of footer accordation*/
@@ -88,7 +88,7 @@
     .custom-pull-left {
         float: left !important;
         width: 100%;
-        background-color: #385067;
+        background-color: #0D1B3D;
     }
     .accordaion-main-div {
         height: auto;
@@ -132,7 +132,7 @@
 }
 
 .block_padding_two .wrap:hover {
-    background: linear-gradient(135deg, #6394ff 0%, #385067 100%);
+    background: linear-gradient(135deg, #6394ff 0%, #0D1B3D 100%);
     color: white;
 }
 

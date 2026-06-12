@@ -44,7 +44,7 @@
   font-family: "Poppins", sans-serif;
   text-align: center;
   font-size: 25px;
-  color: #2e363a;
+  color: #0D1B3D;
   font-weight: 600;
   line-height: 32px;
 }
@@ -59,7 +59,7 @@
   width: 280px;
 }
 b {
-  color: #f06906;
+  color: #0D1B3D;
   /*font-size: 17px;*/
 }
 
@@ -67,7 +67,7 @@ b {
 .dropdown-menu > li > a:hover {
   color: #f1ecec;
   text-decoration: none;
-  background-color: #385067;
+  background-color: #0D1B3D;
 }
 /*here is the form css coding*/
 
@@ -166,7 +166,7 @@ fieldset {
   content: "";
   bottom: 13px;
   left: 47%;
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -180,7 +180,7 @@ fieldset {
   bottom: -20px;
   left: 50%;
   transform: translate(-50%);
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -202,7 +202,7 @@ fieldset {
 }
 
 .cirtificate__btn a {
-  background: #5cb85c;
+  background: #1B5E3A;
   color: #fff;
   padding: 10px 20px;
   font-size: 15px;
@@ -245,8 +245,8 @@ fieldset {
     bottom: 0;
     left: 0;
     z-index: 9999;
-    background: #385067;
-    background: linear-gradient(180deg, #385067 0%, #17242f 100%);
+    background: #0D1B3D;
+    background: linear-gradient(180deg, #0D1B3D 0%, #17242f 100%);
     box-shadow: 0 -4px 13px rgba(0, 0, 0, 0.2);
     border-top: 1px solid #fff;
     height: 59px;
@@ -354,7 +354,7 @@ fieldset {
   text-decoration: none;
 }
 .nav-item-inner > a:hover {
-  color: #5cb85c;
+  color: #1B5E3A;
 }
 .nav-item-inner-heading {
   position: relative;
@@ -377,14 +377,14 @@ fieldset {
   font-family: FontAwesome;
   font-style: normal;
   color: #fff;
-  background: #5cb85c;
+  background: #1B5E3A;
   height: 30px;
   border-radius: 20px;
   line-height: 29px;
   font-size: 24px;
 }
 .nav-item-inner-heading.minus {
-  color: #5cb85c;
+  color: #1B5E3A;
 }
 .nav-item-inner-heading.minus:after {
   content: url(../../images/minus.svg);
@@ -515,7 +515,7 @@ hr {
   border-radius: 100px !important;
 }
 .card-header {
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   margin-bottom: 0;
   padding: 13px 1.25rem;
   border: none;
@@ -608,7 +608,7 @@ hr {
   .custom-pull-left {
     float: left !important;
     width: 100%;
-    background-color: #385067;
+    background-color: #0D1B3D;
   }
   .nav-link a {
     color: white !important;
@@ -671,7 +671,7 @@ hr {
     content: "";
     bottom: -8px;
     left: 44%;
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     border-radius: 2px;
@@ -682,7 +682,7 @@ hr {
     margin-bottom: 10px;
   }
   b {
-    color: #f06906;
+    color: #0D1B3D;
     /*font-size: 17px;*/
   }
 
@@ -809,7 +809,7 @@ hr {
     display: block;
     width: 75px;
     height: 6px;
-    background: #5cb85c;
+    background: #1B5E3A;
     border-radius: 3px;
     margin: 14px 0 0;
     margin-left: auto;

@@ -59,7 +59,7 @@ fieldset {min-width: 100%;width: 100%;margin: 0px 0px 10px;padding: 0px;outline:
     text-align: center;
 }
 .block_heading { width: 100%;display: inline-table;}
-.block_heading h2:after{content: '';display: block;width: 75px;height: 6px;background: #5cb85c;border-radius: 3px;margin: 22px 0 0;margin-left: auto;margin-right: auto;position: relative;
+.block_heading h2:after{content: '';display: block;width: 75px;height: 6px;background: #1B5E3A;border-radius: 3px;margin: 22px 0 0;margin-left: auto;margin-right: auto;position: relative;
     left: 0;
     bottom: 0;}
 .block_padding{padding: 40px 0;width: 100%;float: left;}
@@ -96,7 +96,7 @@ border-radius: 28px;-webkit-border-radius: 28px;-moz-border-radius: 28px; }
 .nav-item-inner > a {display: block;cursor: pointer;display: block;overflow: hidden;font-weight: 500;color: #1a1b1e;padding: 13px 10px 13px 25px;border-radius: 28px;-webkit-border-radius: 28px;-moz-border-radius: 28px;
 font-size: 16px;line-height: 1.875;font-weight: 400;text-align: left;-webkit-transition: all 0.3s linear;-moz-transition: all 0.3s linear;-o-transition: all 0.3s linear;
 -ms-transition: all 0.3s linear;transition: all 0.3s linear;text-decoration: none;}
-.nav-item-inner > a:hover {color: #5cb85c;}
+.nav-item-inner > a:hover {color: #1B5E3A;}
 .nav-item-inner-heading {position: relative;padding: .75rem;padding-right: 2.5rem;font-weight: 700;}
 .nav-item-inner-heading:focus {opacity: 1;}
 .nav-item-inner-heading.minus:after, .nav-item-inner-heading.plus:after {
@@ -110,7 +110,7 @@ font-size: 16px;line-height: 1.875;font-weight: 400;text-align: left;-webkit-tra
     font-family: FontAwesome;
     font-style: normal;
     color: #fff;
-    background: #5cb85c;
+    background: #1B5E3A;
     height: 30px;
     border-radius: 20px;
     line-height: 29px;
@@ -126,13 +126,13 @@ font-size: 16px;line-height: 1.875;font-weight: 400;text-align: left;-webkit-tra
     left: 50% !important;
     top: 18px;
     transform: translateX(-50%);
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     border-radius: 2px;
     margin-top: 18px;
 }
 
 .nav-item-inner-heading.minus{
-    color: #5cb85c;
+    color: #1B5E3A;
 }
 .nav-item-inner-heading.minus:after {
   content: url(../../images/minus.svg);
@@ -167,7 +167,7 @@ font-size: 16px;line-height: 1.875;font-weight: 400;text-align: left;-webkit-tra
     border-radius: 8px;
     background-image: linear-gradient(
 45deg
-, #28629a, #385067);
+, #28629a, #0D1B3D);
     color: #fff;
 }
 
@@ -233,7 +233,7 @@ height: 48px;font-size: 20px;border-radius: 8px;}
     display:block;
     content: "";
     bottom: -14px;
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     border-radius: 2px;
@@ -370,7 +370,7 @@ table{
     margin-top: 30px;
 }
 #doc_req .card-header {
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     margin-bottom: 0;
     border: none;
     padding: 0;

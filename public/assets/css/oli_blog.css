@@ -14,7 +14,7 @@
     margin: 0 5px 5px 0;
     position: relative;
     font-size: 14px !important;
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     display: inline-block;
 }
 .blog-single .entry-footer .tags-links a:hover {
@@ -75,7 +75,7 @@
     display: block;
     text-transform: uppercase;
     font-size: 16px;
-    color: #18ba60;
+    color: #1B5E3A;
     font-weight: 500;
 }
 .navigation.posts-navigation .nav-links li a{font-weight: 600;font-size: 18px;}
@@ -106,7 +106,7 @@
 
 
 a:hover, .wrap-client-slide .owl-theme .owl-controls .owl-nav div.owl-prev:hover:before, .wrap-client-slide .owl-theme .owl-controls .owl-nav div.owl-next:hover:before, ul.flat-list li:before, .navigation.posts-navigation .nav-links li a .meta-nav, article h4.entry-time a, .author-post .info .name a, .flat-portfolio .portfolio-gallery .item .title-post a:hover, .flat-portfolio .portfolio-gallery .item .category-post a:hover, .footer-widgets ul li a:hover, .bottom #menu-bottom li a:hover, .flat-iconbox.flat-iconbox-style2:hover .box-icon span, .imagebox.style-2 .box-button a, .imagebox.style-2 .box-header .box-title a:hover, .imagebox.style-3 .box-header .box-title a:hover, .flat-iconbox.style-3 .box-header .box-icon span, .testimonial-slider.style-2 .testimonial-author .author-info, .blog-shortcode.blog-home3 article .read-more a, .blog-shortcode.blog-home3 article .read-more a:after, .flat-text-block-timeline .year, .imagebox.services-grid .box-button a, .imagebox.services-grid .box-header .box-title a:hover, .flat-portfolio .item .title-post a:hover, .portfolio-filter li a:hover, .breadcrumbs span a:hover, .breadcrumbs a:hover, .flat-imagebox.style-2 .flat-imagebox-button a, .flat-imagebox.style-2 .flat-imagebox-header .flat-imagebox-title a:hover, .flat-iconbox.style-3 .flat-iconbox-header .flat-iconbox-icon span, .flat-imagebox.services-grid .flat-imagebox-button a, article .entry-meta ul li a:hover, .breadcrumbs span a, .breadcrumbs a, .breadcrumbs span.sep {
-    color: #18ba60;
+    color: #1B5E3A;
 }
 .category{
     padding: 0 20px;

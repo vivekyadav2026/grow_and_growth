@@ -80,8 +80,8 @@
     bottom: 0;
     left: 0;
     z-index: 9999;
-    background: #385067;
-    background: linear-gradient(180deg, #385067 0%, #17242f 100%);
+    background: #0D1B3D;
+    background: linear-gradient(180deg, #0D1B3D 0%, #17242f 100%);
     box-shadow: 0 -4px 13px rgba(0, 0, 0, 0.2);
     border-top: 1px solid #fff;
     height: 59px;
@@ -154,7 +154,7 @@
   font-family: "Poppins", sans-serif;
   text-align: center;
   font-size: 32px;
-  color: #2e363a;
+  color: #0D1B3D;
   font-weight: 600;
 }
 
@@ -168,7 +168,7 @@
 .dropdown-menu > li > a:hover {
   color: #f1ecec;
   text-decoration: none;
-  background-color: #385067;
+  background-color: #0D1B3D;
 }
 
 /*here is the form css coding*/
@@ -254,7 +254,7 @@
   content: "";
   bottom: -20px;
   left: 18px;
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -284,7 +284,7 @@
 }
 
 .card-header {
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   margin-bottom: 0;
   padding: 13px 1.25rem;
   border: none;
@@ -486,7 +486,7 @@ a.wrimagecard:hover,
   .custom-pull-left {
     float: left !important;
     width: 100%;
-    background-color: #385067;
+    background-color: #0D1B3D;
   }
 
   .background_image {

@@ -114,7 +114,7 @@ fieldset {
   content: "";
   bottom: -20px;
   left: 18px;
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -199,10 +199,10 @@ hr {
 
 /* When the radio button is checked, add a blue background */
 .package_container input:checked ~ .checkmark {
-  background-color: #385067;
+  background-color: #0D1B3D;
 
   box-shadow: 1px 1px 2px #acacad;
-  background-image: linear-gradient(45deg, #28629a, #385067);
+  background-image: linear-gradient(45deg, #28629a, #0D1B3D);
 }
 
 .package_container input:checked ~ .checkmark ~ i {
@@ -243,7 +243,7 @@ hr {
   justify-content: center;
   align-items: center;
   height: 220px;
-  border-bottom: 8px solid #f06906;
+  border-bottom: 8px solid #0D1B3D;
   border-bottom-left-radius: 54px;
 }
 #documents .legal_list_imp {
@@ -392,7 +392,7 @@ hr {
   text-decoration: none;
 }
 .nav-item-inner > a:hover {
-  color: #5cb85c;
+  color: #1B5E3A;
 }
 .nav-item-inner-heading {
   position: relative;
@@ -415,14 +415,14 @@ hr {
   font-family: FontAwesome;
   font-style: normal;
   color: #fff;
-  background: #5cb85c;
+  background: #1B5E3A;
   height: 30px;
   border-radius: 20px;
   line-height: 29px;
   font-size: 24px;
 }
 .nav-item-inner-heading.minus {
-  color: #5cb85c;
+  color: #1B5E3A;
 }
 .nav-item-inner-heading.minus:after {
   content: url(../../images/minus.svg);
@@ -506,9 +506,9 @@ hr {
   cursor: pointer;
 }
 .package_container input:checked ~ .checkmark {
-  background-color: #385067;
+  background-color: #0D1B3D;
   box-shadow: 1px 1px 2px #acacad;
-  background-image: linear-gradient(45deg, #28629a, #385067);
+  background-image: linear-gradient(45deg, #28629a, #0D1B3D);
 }
 @media screen and (max-width: 768px) {
   .form_package input[type="radio"]:checked ~ .check {
@@ -659,7 +659,7 @@ hr {
     content: "";
     bottom: 3px;
     left: 44%;
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     border-radius: 2px;

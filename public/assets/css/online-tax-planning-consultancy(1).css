@@ -1,6 +1,6 @@
 /*
 .top-header{
-	background-color: #385067;
+	background-color: #0D1B3D;
 	height: auto;
 }
 .top-mobile{
@@ -28,7 +28,7 @@
 #f1ecec;
 text-decoration: none;
 background-color:
-    #385067;
+    #0D1B3D;
 }
 */
 /*here is the form css coding*/
@@ -112,7 +112,7 @@ h2 {
     display: block;
     width: 75px;
     height: 6px;
-    background: #5cb85c;
+    background: #1B5E3A;
     border-radius: 3px;
     margin: 14px 0 0;
     position: relative;
@@ -389,7 +389,7 @@ text-align: center;
   .custom-pull-left {
     float: left !important;
     width: 100%;
-    background-color: #385067;
+    background-color: #0D1B3D;
   }
   .nav-link a {
     color: white !important;

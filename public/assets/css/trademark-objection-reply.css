@@ -50,7 +50,7 @@ border-radius: 28px;-webkit-border-radius: 28px;-moz-border-radius: 28px; }
 .nav-item-inner > a {display: block;cursor: pointer;display: block;overflow: hidden;font-weight: 500;color: #1a1b1e;padding: 13px 10px 13px 25px;border-radius: 28px;-webkit-border-radius: 28px;-moz-border-radius: 28px;
 font-size: 16px;line-height: 1.875;font-weight: 400;text-align: left;-webkit-transition: all 0.3s linear;-moz-transition: all 0.3s linear;-o-transition: all 0.3s linear;
 -ms-transition: all 0.3s linear;transition: all 0.3s linear;text-decoration: none;padding-right: 36px;}
-.nav-item-inner > a:hover {color: #5cb85c;}
+.nav-item-inner > a:hover {color: #1B5E3A;}
 .nav-item-inner-heading {position: relative;padding: .75rem;padding-right: 2.5rem;font-weight: 700;}
 .nav-item-inner-heading:focus {opacity: 1;}
 .nav-item-inner-heading.minus:after, .nav-item-inner-heading.plus:after {
@@ -64,14 +64,14 @@ font-size: 16px;line-height: 1.875;font-weight: 400;text-align: left;-webkit-tra
     font-family: FontAwesome;
     font-style: normal;
     color: #fff;
-    background: #5cb85c;
+    background: #1B5E3A;
     height: 30px;
     border-radius: 20px;
     line-height: 29px;
     font-size: 24px;
 }
 .nav-item-inner-heading.minus{
-    color: #5cb85c;
+    color: #1B5E3A;
 }
 .nav-item-inner-heading.minus:after {
   content: url(../../images/minus.svg);
@@ -136,7 +136,7 @@ height: 48px;font-size: 20px;border-radius: 8px;}
     display:block;
     content: "";
     bottom: -10px;
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     border-radius: 2px;
@@ -182,7 +182,7 @@ height: 48px;font-size: 20px;border-radius: 8px;}
     text-align: center;
     height: 96px;
     border-radius: 8px;
-    background-image: linear-gradient(45deg, #28629a, #385067);
+    background-image: linear-gradient(45deg, #28629a, #0D1B3D);
     color: #fff;
 }
 .happy_clients_bold{
@@ -270,10 +270,10 @@ height: 48px;font-size: 20px;border-radius: 8px;}
 
 /* When the radio button is checked, add a blue background */
 .package_container input:checked ~ .checkmark {
-  background-color: #385067;
+  background-color: #0D1B3D;
     
     box-shadow: 1px 1px 2px #acacad;
-    background-image: linear-gradient(45deg, #28629a, #385067);
+    background-image: linear-gradient(45deg, #28629a, #0D1B3D);
 }
 
 .package_container input:checked ~ .checkmark ~ i{color: #fff;}
@@ -416,7 +416,7 @@ height: 48px;font-size: 20px;border-radius: 8px;}
     margin: 0;
 }
 .custom_accordion .panel-heading {
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     color: #fff;
 }
 .custom_accordion .panel-heading a span {

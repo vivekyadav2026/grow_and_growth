@@ -32,7 +32,7 @@
 }
 
 /* .one_left h1 .span_color, .new_common_heading h2 span, .common_heading h2 span, .h5_sub_heading {
-    color: #F06906;
+    color: #0D1B3D;
 } */
 .green_sub_heading h5 {
   color: #000;
@@ -46,7 +46,7 @@
   position: absolute;
   content: "";
   bottom: -6px;
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   border-radius: 2px;
   left: 50% !important;
   transform: translate(-50%, 10%) !important;
@@ -120,7 +120,7 @@
 }
 
 .custm_fnt_icon {
-  color: #f06906;
+  color: #0D1B3D;
   padding-right: 4px;
 }
 
@@ -244,7 +244,7 @@
 }
 
 .text-box span {
-  color: #f06906;
+  color: #0D1B3D;
   font-size: 36px;
   line-height: 44px;
   font-weight: 600;
@@ -277,7 +277,7 @@
   position: absolute;
   content: "";
   bottom: -6px;
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   border-radius: 2px;
   left: 50% !important;
   transform: translate(-50%, 10%) !important;
@@ -297,7 +297,7 @@
   position: absolute;
   content: "";
   bottom: -6px;
-  background-color: #f06906;
+  background-color: #0D1B3D;
   border-radius: 2px;
   left: 50% !important;
   transform: translate(-50%, 10%) !important;
@@ -757,7 +757,7 @@
 }
 
 .new_section_inner h5 {
-  color: #f06906;
+  color: #0D1B3D;
   font-size: 26px;
   text-align: center;
 }
@@ -1385,7 +1385,7 @@ img {
   background-color: transparent;
   height: 33px;
   border-radius: 4px;
-  color: #f06906 !important;
+  color: #0D1B3D !important;
   font-size: 16px;
   font-weight: 700;
   width: 174px;
@@ -1912,7 +1912,7 @@ img {
     position: absolute;
     content: "";
     bottom: -4px;
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     width: 135px;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -1962,7 +1962,7 @@ img {
     position: absolute;
     top: 0;
     left: 0;
-    color: #f06906;
+    color: #0D1B3D;
     content: url(https://www.onlinelegalindia.com/images/trademark-registration/trademark/tick.png);
     font-family: "Font Awesome 5 Free";
     font-style: normal;
@@ -2058,7 +2058,7 @@ img {
     position: absolute;
     content: "";
     bottom: -6px;
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     border-radius: 2px;
     left: 50% !important;
     transform: translate(-50%, 10%) !important;

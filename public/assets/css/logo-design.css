@@ -42,7 +42,7 @@
   margin-bottom: 15px;
 }
 .logo_text .price_head {
-  color: #f06906;
+  color: #0D1B3D;
   font-weight: 800;
   font-size: 26px;
 }
@@ -61,7 +61,7 @@
   background: #1cab0e !important;
 }
 .create_logo_btn {
-  background: #f06906 0% 0% no-repeat padding-box;
+  background: #0D1B3D 0% 0% no-repeat padding-box;
   border-radius: 5px;
   color: #fff !important;
   padding: 5px 30px;
@@ -292,7 +292,7 @@
 }
 
 .owl-dots button.owl-dot.active {
-  background-color: #f06906 !important;
+  background-color: #0D1B3D !important;
 }
 
 .owl-dots button.owl-dot:focus {
@@ -431,7 +431,7 @@
 .plan_box .list li span {
   font: normal normal normal 11px/37px Roboto;
   letter-spacing: 0px;
-  color: #f06906;
+  color: #0D1B3D;
 }
 
 .plan_box .list li {

@@ -1,0 +1,493 @@
+/* Foundida Custom Theme Overrides */
+:root {
+    --primary-navy: #0D1B3D;
+    --primary-emerald: #1B5E3A;
+    --primary-navy-hover: #152c61;
+    --primary-emerald-hover: #247c4d;
+    --card-shadow: 0 10px 30px rgba(13, 27, 61, 0.08);
+    --card-shadow-hover: 0 15px 40px rgba(27, 94, 58, 0.15);
+}
+
+/* Global Overrides for Old Theme Colors */
+body {
+    font-family: 'Poppins', sans-serif; /* Keep modern font */
+}
+
+/* Replacing Old Blue/Orange/Green with Navy and Emerald */
+.bg-primary, .btn-primary, .header, .footer-top, .bg-orange, .bg-blue, .bg-green {
+    background-color: var(--primary-navy) !important;
+    border-color: var(--primary-navy) !important;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+    background-color: var(--primary-navy-hover) !important;
+    border-color: var(--primary-navy-hover) !important;
+}
+
+.btn-secondary, .btn-success, .bg-success {
+    background-color: var(--primary-emerald) !important;
+    border-color: var(--primary-emerald) !important;
+    color: #fff !important;
+}
+
+.btn-secondary:hover, .btn-success:hover {
+    background-color: var(--primary-emerald-hover) !important;
+    border-color: var(--primary-emerald-hover) !important;
+}
+
+.text-primary, a, h1, h2, h3, h4, h5, h6, .text-blue, .text-orange, .text-green {
+    color: var(--primary-navy);
+}
+
+a:hover {
+    color: var(--primary-emerald);
+}
+
+/* Header & Footer specifically */
+header, footer, .top-header, .footer-area {
+    background-color: var(--primary-navy) !important;
+    color: #fff !important;
+}
+header a, footer a, .top-header a, .footer-area a {
+    color: #fff !important;
+}
+header a:hover, footer a:hover, .top-header a:hover, .footer-area a:hover {
+    color: var(--primary-emerald) !important;
+}
+
+/* -------------------------------------
+   Modern Card & Box Design Improvements
+   ------------------------------------- */
+
+/* Targeting all major service boxes and cards */
+.card, .service-box, .srvc-box, .drop_inner_box, .drop_inner_box_new_block_holder, .pricing-card {
+    background: #ffffff;
+    border-radius: 16px !important; /* Smooth rounded corners */
+    border: 1px solid rgba(13, 27, 61, 0.05) !important; /* Soft border */
+    box-shadow: var(--card-shadow) !important; /* Premium drop shadow */
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) !important; /* Smooth animation */
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+}
+
+/* Hover Lift Effect */
+.card:hover, .service-box:hover, .srvc-box:hover, .drop_inner_box:hover, .pricing-card:hover {
+    transform: translateY(-8px) !important;
+    box-shadow: var(--card-shadow-hover) !important;
+    border-color: rgba(27, 94, 58, 0.2) !important; /* Emerald green tint on hover */
+}
+
+/* Give buttons inside cards the Emerald accent */
+.card .btn, .service-box .btn, .drop_inner_box .btn {
+    border-radius: 8px !important;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    background-color: var(--primary-emerald) !important;
+    border-color: var(--primary-emerald) !important;
+    color: #fff !important;
+}
+.card .btn:hover, .service-box .btn:hover, .drop_inner_box .btn:hover {
+    background-color: var(--primary-emerald-hover) !important;
+    border-color: var(--primary-emerald-hover) !important;
+}
+
+/* Card titles */
+.card-title, .service-box h3, .drop_inner_box h3, .drop_inner_box h4, .srvc-box h3 {
+    color: var(--primary-navy) !important;
+    font-weight: 700 !important;
+    margin-bottom: 12px;
+}
+
+/* Images inside cards */
+.card img, .service-box img, .drop_inner_box img {
+    border-radius: 12px 12px 0 0; /* Match card radius for top images */
+    transition: transform 0.4s ease;
+}
+.card:hover img, .service-box:hover img, .drop_inner_box:hover img {
+    transform: scale(1.03); /* Subtle zoom effect */
+}
+
+/* Accent lines or borders that were orange/green */
+.border-bottom-primary, .service-box:after, .title-separator {
+    background-color: var(--primary-emerald) !important;
+}
+
+/* Fix for oversized logo */
+img[src*='foundida_logo.png'] { max-height: 55px !important; width: auto !important; object-fit: contain; }
+
+
+img[src*='Foundida_Logo'] { max-height: 55px !important; width: auto !important; object-fit: contain; }
+
+
+/* Modern Flat Image Box Overrides */
+.flat-imagebox { border-radius: 16px !important; overflow: hidden; background: #fff; box-shadow: var(--card-shadow) !important; transition: all 0.3s ease !important; border: 1px solid rgba(13,27,61,0.05); }
+.flat-imagebox:hover { transform: translateY(-8px) !important; box-shadow: var(--card-shadow-hover) !important; }
+.flat-imagebox .vc_single_image-img { width: 100% !important; height: 180px !important; object-fit: cover !important; border-radius: 16px 16px 0 0 !important; }
+.flat-imagebox-header { padding: 20px 20px 10px !important; }
+.flat-imagebox-title a { color: var(--primary-navy) !important; font-weight: 700 !important; font-size: 1.25rem !important; }
+.flat-imagebox-content { padding: 0 20px 20px !important; color: #555 !important; }
+.flat-imagebox .read-more { background: var(--primary-emerald) !important; color: #fff !important; padding: 8px 20px !important; border-radius: 50px !important; display: inline-block; font-weight: 600; font-size: 14px; margin-top: 15px; transition: all 0.2s ease !important; }
+.flat-imagebox .read-more:hover { background: var(--primary-navy) !important; color: #fff !important; transform: scale(1.05); }
+
+
+/* Deep Theme Customization - Premium Navbar Layout */
+#myHeader {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid rgba(13, 27, 61, 0.08) !important;
+    box-shadow: 0 4px 25px rgba(13, 27, 61, 0.04) !important;
+}
+
+.navbar, .navbar-default, .main-header, .top-header-new {
+    background-color: #ffffff !important;
+    border: none !important;
+}
+
+#myHeader .nav>li>a, .navbar-nav > li > a, .navbar-brand, .navbar-nav > li > a > span, .dropbtn {
+    color: var(--primary-navy) !important;
+    font-weight: 600 !important;
+    font-size: 14px !important;
+    transition: color 0.2s ease;
+}
+
+#myHeader .nav>li>a:hover, .navbar-nav > li > a:hover, .dropbtn:hover {
+    color: var(--primary-emerald) !important;
+    background-color: transparent !important;
+}
+
+#topheader {
+    background-color: var(--primary-navy) !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+    padding: 6px 0 !important;
+}
+
+#topheader .col-md-12 {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    flex-wrap: wrap !important;
+}
+
+#topheader .pull-left, #topheader .pull-right {
+    float: none !important;
+    display: inline-flex !important;
+    align-items: center !important;
+}
+
+#topheader .contact {
+    margin-left: 20px !important;
+    display: inline-flex !important;
+    gap: 15px !important;
+}
+
+#topheader .contact a {
+    color: rgba(255, 255, 255, 0.85) !important;
+    font-size: 13px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    transition: color 0.2s ease !important;
+}
+
+#topheader .contact a:hover {
+    color: var(--primary-emerald) !important;
+    text-decoration: none !important;
+}
+
+#topheader .socila {
+    padding: 0 !important;
+    margin-left: auto !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 12px !important;
+}
+
+#topheader .socila a {
+    font-size: 14px !important;
+    color: rgba(255, 255, 255, 0.75) !important;
+    transition: all 0.2s ease !important;
+    margin: 0 !important;
+}
+
+#topheader .socila a:hover {
+    color: var(--primary-emerald) !important;
+    transform: scale(1.15) !important;
+}
+
+#topheader .user_login {
+    margin-left: 20px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+}
+
+#topheader .user_login h4 {
+    margin: 0 !important;
+    padding: 0 !important;
+    display: inline-flex !important;
+    align-items: center !important;
+}
+
+#topheader .user_login h4 a {
+    color: rgba(255, 255, 255, 0.85) !important;
+    font-size: 13px !important;
+    text-decoration: none !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    transition: color 0.2s ease !important;
+}
+
+#topheader .user_login h4 a:hover {
+    color: var(--primary-emerald) !important;
+}
+
+#topheader .user_login h4 a b {
+    width: auto !important;
+    font-weight: 600 !important;
+    text-align: left !important;
+    float: none !important;
+    display: inline !important;
+    font-size: 13px !important;
+}
+
+#topheader img {
+    height: 24px !important;
+    width: auto !important;
+    object-fit: contain !important;
+    margin: 0 !important;
+}
+
+.top-header-new, .top-bar, .top_head {
+    background-color: #081126 !important;
+    color: #fff !important;
+}
+
+.top-header-new a, .top-bar a {
+    color: #fff !important;
+}
+
+.top-header-new a:hover, .top-bar a:hover {
+    color: var(--primary-emerald) !important;
+}
+
+/* Premium Dropdown Menu Overrides */
+#myHeader .dropdown-menu {
+    background: #ffffff !important;
+    background-image: none !important;
+    border: 1px solid rgba(13, 27, 61, 0.08) !important;
+    border-radius: 12px !important;
+    box-shadow: 0 10px 40px rgba(13, 27, 61, 0.12) !important;
+    padding: 20px !important;
+}
+
+#myHeader .dropdown-menu::before {
+    border-color: transparent transparent #ffffff transparent !important;
+}
+
+#myHeader .dropdown-menu::after {
+    display: none !important; /* Remove outdated background illustrations */
+}
+
+#myHeader .dropdown-menu .drop_inner_box h3 {
+    color: var(--primary-navy) !important;
+    font-weight: 700 !important;
+    font-size: 13px !important;
+    border-bottom: 1px solid rgba(13, 27, 61, 0.08) !important;
+    padding-bottom: 8px !important;
+    margin-bottom: 12px !important;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+#myHeader .dropdown-menu .drop_inner_box h3 i {
+    color: var(--primary-emerald) !important;
+}
+
+#myHeader .dropdown-menu .nav-link a {
+    color: #4a5568 !important;
+    font-weight: 500 !important;
+    padding: 6px 12px !important;
+    border-radius: 6px !important;
+    transition: all 0.2s ease !important;
+    background: transparent !important;
+    display: block !important;
+    margin-bottom: 4px !important;
+}
+
+#myHeader .dropdown-menu .nav-link a:hover {
+    color: var(--primary-emerald) !important;
+    background-color: rgba(27, 94, 58, 0.05) !important;
+    padding-left: 16px !important;
+}
+
+
+/* -------------------------------------
+   Modern & Professional Banner/Hero Section
+   ------------------------------------- */
+
+.home_section_saurabh_shukla_new_modification {
+    background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.98) 45%, rgba(255, 255, 255, 0.85) 60%, rgba(255, 255, 255, 0.2) 100%), url(https://www.onlinelegalindia.com/images/home-modification-new/new-oli-banner-homepage-ganguly.webp) !important;
+    background-repeat: no-repeat !important;
+    background-position: right center !important;
+    background-size: cover !important;
+    height: auto !important;
+    min-height: 580px !important;
+    display: flex !important;
+    align-items: center !important;
+    padding: 60px 0 !important;
+    border-bottom: 1px solid rgba(37, 42, 77, 0.05);
+}
+
+/* Badge Pill for "India's 1st" */
+.hsss_inner_left_modification_block .hssilmb_span {
+    display: inline-flex !important;
+    align-items: center !important;
+    background: rgba(241, 104, 27, 0.08) !important;
+    color: #f1681b !important;
+    font-size: 13px !important;
+    font-weight: 700 !important;
+    padding: 6px 16px !important;
+    border-radius: 50px !important;
+    border: 1px solid rgba(241, 104, 27, 0.15) !important;
+    margin-bottom: 20px !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1.5px !important;
+    border-left: none !important; /* Remove the old orange line */
+}
+
+/* Heading Styling */
+.hsss_inner_left_modification_block h1 {
+    font-size: 38px !important;
+    line-height: 1.25 !important;
+    font-weight: 800 !important;
+    color: #252a4d !important;
+    letter-spacing: -0.5px !important;
+    margin-bottom: 25px !important;
+}
+
+.hsss_inner_left_modification_block h1 .span_legal_matters_new_block {
+    display: block !important;
+    margin-top: 10px;
+    font-size: 32px !important;
+    line-height: 1.3 !important;
+    font-weight: 700 !important;
+}
+
+.hsss_inner_left_modification_block .span_legal_matters_new_color {
+    color: #209127 !important;
+}
+
+/* Elegant Thin Divider */
+.hssilmb_line_block {
+    height: 4px !important;
+    width: 60px !important;
+    background: linear-gradient(90deg, #209127, transparent) !important;
+    border-radius: 2px !important;
+    margin: 24px 0 !important;
+}
+
+/* Beautiful Interactive Grid for Banner List */
+.index_ul_li_home_modification {
+    margin-top: 25px !important;
+}
+
+.index_ul_li_home_modification ul {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+    column-count: unset !important; /* Reset old column-count */
+    gap: 12px 20px !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    list-style: none !important;
+}
+
+.index_ul_li_home_modification ul li {
+    position: relative !important;
+    padding: 12px 14px 12px 48px !important;
+    background: rgba(255, 255, 255, 0.8) !important;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(37, 42, 77, 0.06) !important;
+    border-radius: 12px !important;
+    transition: all 0.25s ease !important;
+    display: flex !important;
+    align-items: center !important;
+    margin-bottom: 0 !important; /* Override old margin */
+    box-shadow: 0 4px 15px rgba(37, 42, 77, 0.02) !important;
+}
+
+.index_ul_li_home_modification ul li:hover {
+    background: #ffffff !important;
+    transform: translateY(-2px) !important;
+    box-shadow: 0 8px 24px rgba(37, 42, 77, 0.08) !important;
+    border-color: rgba(241, 104, 27, 0.2) !important;
+}
+
+.index_ul_li_home_modification ul li a {
+    color: #252a4d !important;
+    font-weight: 600 !important;
+    font-size: 13.5px !important;
+    margin: 0 !important;
+    position: static !important;
+    text-decoration: none !important;
+    display: inline-block !important;
+    line-height: 1.2 !important;
+}
+
+/* Icon Alignment */
+.index_ul_li_home_modification ul li::after {
+    position: absolute !important;
+    top: 50% !important;
+    left: 14px !important;
+    transform: translateY(-50%) !important;
+    width: 24px !important;
+    height: 24px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    transition: transform 0.25s ease !important;
+}
+
+.index_ul_li_home_modification ul li:hover::after {
+    transform: translateY(-50%) scale(1.1) !important;
+}
+
+/* Responsive Styles */
+@media (max-width: 991px) {
+    .home_section_saurabh_shukla_new_modification {
+        background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.95) 60%, rgba(255, 255, 255, 0.8) 100%), url(https://www.onlinelegalindia.com/images/home-modification-new/new-oli-banner-homepage-ganguly.webp) !important;
+        padding: 40px 0 !important;
+    }
+    .hsss_inner_left_modification_block h1 {
+        font-size: 32px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .home_section_saurabh_shukla_new_modification {
+        background-image: linear-gradient(180deg, #ffffff 0%, #f4faf8 100%) !important;
+        padding: 30px 0 !important;
+        min-height: auto !important;
+    }
+    
+    .hsss_inner_left_modification_block_mobile h2 {
+        font-size: 26px !important;
+        line-height: 1.3 !important;
+        font-weight: 800 !important;
+        color: #252a4d !important;
+        margin-bottom: 20px !important;
+    }
+    
+    .hsss_inner_left_modification_block_mobile h2 .hssilmb_span {
+        display: inline-flex !important;
+        margin-bottom: 12px !important;
+    }
+    
+    .index_ul_li_home_modification ul {
+        grid-template-columns: 1fr !important; /* Stack columns on mobile */
+        gap: 10px !important;
+    }
+    
+    .index_ul_li_home_modification ul li {
+        padding: 10px 12px 10px 44px !important;
+    }
+}

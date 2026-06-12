@@ -196,7 +196,7 @@ img.company_reg_over{
 .com_reg_info h3{
     text-align: center;
     font-size: 16px;
-    color: #385067;
+    color: #0D1B3D;
     font-weight: 400;
     display: table;
     margin: 0 auto 36px;
@@ -682,7 +682,7 @@ a.associate_but:hover{
     margin: 0 auto;
 }
 .sticky_form_top{
-    background: #385067;
+    background: #0D1B3D;
     opacity: 0;
     height: 0;
     overflow: hidden;
@@ -2164,7 +2164,7 @@ input#captcha_code{
     top: -18px;
     border-radius: 30px;
     padding: 5px 10px;
-    color: #f06906;
+    color: #0D1B3D;
     font-size: 14px;
     font-weight: 600;
   }
@@ -2208,7 +2208,7 @@ input#captcha_code{
     display: none;
   }
   .package_area .tabcontent h3 label{
-    color: #f06906;
+    color: #0D1B3D;
     margin: 0;
   }
   .package_area .tabcontent h3 span{
@@ -2432,7 +2432,7 @@ input#captcha_code{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #385067;
+    background: #0D1B3D;
 }
 .contact_us_top_info h3{
     color: #000;
@@ -2494,7 +2494,7 @@ input#captcha_code{
 }
 .ofc_info_area{
     padding: 40px 0;
-    background: #385067;
+    background: #0D1B3D;
 }
 
 @media (max-width: 767px){

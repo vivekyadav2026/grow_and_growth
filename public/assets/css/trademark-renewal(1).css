@@ -248,7 +248,7 @@
   text-decoration: none;
 }
 .nav-item-inner > a:hover {
-  color: #5cb85c;
+  color: #1B5E3A;
 }
 .nav-item-inner-heading {
   position: relative;
@@ -271,14 +271,14 @@
   font-family: FontAwesome;
   font-style: normal;
   color: #fff;
-  background: #5cb85c;
+  background: #1B5E3A;
   height: 30px;
   border-radius: 20px;
   line-height: 29px;
   font-size: 24px;
 }
 .nav-item-inner-heading.minus {
-  color: #5cb85c;
+  color: #1B5E3A;
 }
 .nav-item-inner-heading.minus:after {
   content: url(../../images/minus.svg);
@@ -342,7 +342,7 @@
   display: block;
   content: "";
   bottom: -11px;
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -408,7 +408,7 @@
   text-align: center;
   height: 96px;
   border-radius: 8px;
-  background-image: linear-gradient(45deg, #28629a, #385067);
+  background-image: linear-gradient(45deg, #28629a, #0D1B3D);
   color: #fff;
 }
 .happy_clients_bold {
@@ -482,10 +482,10 @@
 
 /* When the radio button is checked, add a blue background */
 .package_container input:checked ~ .checkmark {
-  background-color: #385067;
+  background-color: #0D1B3D;
 
   box-shadow: 1px 1px 2px #acacad;
-  background-image: linear-gradient(45deg, #28629a, #385067);
+  background-image: linear-gradient(45deg, #28629a, #0D1B3D);
 }
 
 .package_container input:checked ~ .checkmark ~ i {

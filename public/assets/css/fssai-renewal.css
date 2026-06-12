@@ -33,7 +33,7 @@
 .benifits-li::before {
   content: "\f00c";
   font-family: "Font Awesome 5 Free";
-  color: #18ba60;
+  color: #1B5E3A;
   font-size: 12px;
   position: absolute;
   left: 0;
@@ -81,7 +81,7 @@
   border-radius: 100px !important;
 }
 .card-header {
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   margin-bottom: 0;
   padding: 13px 1.25rem;
   border: none;

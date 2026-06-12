@@ -37,7 +37,7 @@
   display: block;
   width: 75px;
   height: 6px;
-  background: #5cb85c;
+  background: #1B5E3A;
   border-radius: 3px;
   position: absolute;
   left: 50%;
@@ -228,7 +228,7 @@
   height: 43px;
   width: 220px;
   color: #fff !important;
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   font-size: 17px;
   display: flex;
   align-items: center;
@@ -736,7 +736,7 @@
     top: 202px;
     z-index: 1;
     column-count: 3;
-    background-color: #215585;
+    background-color: #0D1B3D;
     border-radius: 5px;
     padding: 0 15px;
   }

@@ -94,7 +94,7 @@
   content: "";
   bottom: -20px;
   left: 18px;
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -322,7 +322,7 @@
 }
 
 .resolveFooter_box {
-  background: #f06906;
+  background: #0D1B3D;
   background-image: url(../images/resove_box_bg.webp);
   background-repeat: no-repeat;
   font-size: 13px;
@@ -780,7 +780,7 @@
   .custom-pull-left {
     float: left !important;
     width: 100%;
-    background-color: #385067;
+    background-color: #0D1B3D;
   }
   .nav-link a {
     color: white !important;
@@ -942,8 +942,8 @@
     bottom: 0;
     left: 0;
     z-index: 9999;
-    background: #385067;
-    background: linear-gradient(180deg, #385067 0%, #17242f 100%);
+    background: #0D1B3D;
+    background: linear-gradient(180deg, #0D1B3D 0%, #17242f 100%);
     box-shadow: 0 -4px 13px rgba(0, 0, 0, 0.2);
     border-top: 1px solid #fff;
     height: 59px;
@@ -1059,7 +1059,7 @@
   margin-bottom: 0;
   font-family: "Poppins";
   text-align: center;
-  color: #2e363a;
+  color: #0D1B3D;
   font-weight: 600;
 }
 .use_odr_services_heading p {
@@ -1108,11 +1108,11 @@
   margin-bottom: 0;
   font-family: "Poppins";
   text-align: center;
-  color: #2e363a;
+  color: #0D1B3D;
   font-weight: 600;
 }
 .resolve_consumer_conflicts_header h6 span {
-  color: #f06906;
+  color: #0D1B3D;
   margin-right: 6px;
 }
 .resolve_consumer_conflicts_header p {
@@ -1163,7 +1163,7 @@
   margin-bottom: 0;
   font-family: "Poppins";
   text-align: center;
-  color: #2e363a;
+  color: #0D1B3D;
   font-weight: 600;
 }
 .wcodr_heading h6 span {
@@ -1184,7 +1184,7 @@
 }
 .wcodr_inner_block i {
   font-size: 32px;
-  color: #f06906;
+  color: #0D1B3D;
 }
 .wcodr_inner_block h4 {
   color: #000000;
@@ -1611,7 +1611,7 @@
     font-family: "Poppins", sans-serif;
     text-align: center;
     font-size: 22px;
-    color: #2e363a;
+    color: #0D1B3D;
     font-weight: 600;
     line-height: 27px;
   }
@@ -1810,7 +1810,7 @@ input[type="number"]::-webkit-outer-spin-button {
   content: "";
   bottom: -11px;
   left: 48%;
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   border-radius: 2px;
@@ -1987,7 +1987,7 @@ input[type="number"]::-webkit-outer-spin-button {
   margin-top: 20px;
 }
 .new_gst_modal_title {
-  color: #215585;
+  color: #0D1B3D;
   font-size: 20px;
   text-align: center;
 }

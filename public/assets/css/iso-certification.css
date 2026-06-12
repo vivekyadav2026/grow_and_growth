@@ -53,7 +53,7 @@ border-radius: 28px;-webkit-border-radius: 28px;-moz-border-radius: 28px; }
 .nav-item-inner > a {display: block;cursor: pointer;display: block;overflow: hidden;font-weight: 500;color: #1a1b1e;padding: 13px 10px 13px 25px;border-radius: 28px;-webkit-border-radius: 28px;-moz-border-radius: 28px;
 font-size: 16px;line-height: 1.875;font-weight: 400;text-align: left;-webkit-transition: all 0.3s linear;-moz-transition: all 0.3s linear;-o-transition: all 0.3s linear;
 -ms-transition: all 0.3s linear;transition: all 0.3s linear;text-decoration: none;padding-right: 36px;}
-.nav-item-inner > a:hover {color: #5cb85c;}
+.nav-item-inner > a:hover {color: #1B5E3A;}
 .nav-item-inner-heading {position: relative;padding: .75rem;padding-right: 2.5rem;font-weight: 700;}
 .nav-item-inner-heading:focus {opacity: 1;}
 .nav-item-inner-heading.minus:after, .nav-item-inner-heading.plus:after {
@@ -67,14 +67,14 @@ font-size: 16px;line-height: 1.875;font-weight: 400;text-align: left;-webkit-tra
     font-family: FontAwesome;
     font-style: normal;
     color: #fff;
-    background: #5cb85c;
+    background: #1B5E3A;
     height: 30px;
     border-radius: 20px;
     line-height: 29px;
     font-size: 24px;
 }
 .nav-item-inner-heading.minus{
-    color: #5cb85c;
+    color: #1B5E3A;
 }
 .nav-item-inner-heading.minus:after {
   content: url(../../images/minus.svg);
@@ -139,7 +139,7 @@ height: 48px;font-size: 20px;border-radius: 8px;}
     display:block;
     content: "";
     bottom: -10px;
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     border-radius: 2px;
@@ -185,7 +185,7 @@ height: 48px;font-size: 20px;border-radius: 8px;}
     text-align: center;
     height: 96px;
     border-radius: 8px;
-    background-image: linear-gradient(45deg, #28629a, #385067);
+    background-image: linear-gradient(45deg, #28629a, #0D1B3D);
     color: #fff;
 }
 .happy_clients_bold{
@@ -277,10 +277,10 @@ height: 48px;font-size: 20px;border-radius: 8px;}
 
 /* When the radio button is checked, add a blue background */
 .package_container input:checked ~ .checkmark {
-  background-color: #385067;
+  background-color: #0D1B3D;
     
     box-shadow: 1px 1px 2px #acacad;
-    background-image: linear-gradient(45deg, #28629a, #385067);
+    background-image: linear-gradient(45deg, #28629a, #0D1B3D);
 }
 
 .package_container input:checked ~ .checkmark ~ i{color: #fff;}
@@ -430,7 +430,7 @@ height: 48px;font-size: 20px;border-radius: 8px;}
     margin: 0;
 }
 .custom_accordion .panel-heading {
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     color: #fff;
 }
 .custom_accordion .panel-heading a span {
@@ -591,7 +591,7 @@ height: 48px;font-size: 20px;border-radius: 8px;}
     width:100%;
 }
 .h1_span_one, .h1_span_two{
-border-bottom:2px solid #F06906;
+border-bottom:2px solid #0D1B3D;
 margin-left:8px;
 }
 .h1_span_one{
@@ -701,7 +701,7 @@ margin-left:8px;
     justify-content: center;
     height:40px;
     width:40px;
-    background-color:#F06906;
+    background-color:#0D1B3D;
     color:#fff;
     font-size:16px;
     font-weight: 800;
@@ -889,7 +889,7 @@ font-weight: 800;
     left:0;
     font-weight: 800;
     font-family: "Font Awesome 5 Free";
-    color:#F06906;
+    color:#0D1B3D;
 }
 .apply_now_green{
     background: #129805;
@@ -1076,7 +1076,7 @@ font-weight: 800;
 }
 .tor_search_one_inner h2 span{
     margin:0 5px;
-    color:#F06906;
+    color:#0D1B3D;
 }
 .tor_search_one_inner p{
     font-size:16px;
@@ -1411,7 +1411,7 @@ font-weight: 800;
     font-weight: 400;
 }
 .tseb_block_holder h4 span{
-    color:#F06906;
+    color:#0D1B3D;
 }
 .tseb_block_holder p{
     margin-top:20px;
@@ -1703,7 +1703,7 @@ border:none;
 .custom_nav_tabs > li.active > a, .custom_nav_tabs > li.active > a:focus, .custom_nav_tabs > li.active > a:hover{
     border: none;
     color: #129805;
-    border-bottom: 3px solid #F06906;
+    border-bottom: 3px solid #0D1B3D;
     background-color: #CCFDC8;
 }
 .custom_nav_tabs > li:hover > a{
@@ -1760,7 +1760,7 @@ border:none;
     width:100%;
 }
 .ir_six_heading h4 span{
-color:#F06906;
+color:#0D1B3D;
 margin-left:5px;
 }
 .ir_six_heading h4{
@@ -1948,7 +1948,7 @@ width:100%;
   .iso_registration_last_right h3{
     font-size: 19px;
     font-weight: 600;
-    color: #F06906;
+    color: #0D1B3D;
   }
   .iso_registration_last_right p{
     color: #000;
@@ -1979,7 +1979,7 @@ width:100%;
 }
 .new_pp span{
     display:unset !important;
-    color:#F06906;
+    color:#0D1B3D;
 }
 .new_control_select999{
     height: 40px !important;
@@ -2032,7 +2032,7 @@ width:100%;
     display: block;
 }
 .iso_certification span{
-    color:#F06906;
+    color:#0D1B3D;
 }
 .iso_certification{
     font-weight: bold !important;
@@ -2045,14 +2045,14 @@ width:100%;
     text-align: center;
 }
 .common_heading h2 span{
-    color: #F06906;
+    color: #0D1B3D;
 }
 .common_heading h2:after {
     height: 3px;
     position: absolute;
     content: "";
     bottom: -6px;
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     border-radius: 2px;
     left: 50% !important;
     transform: translate(-50%, 10%) !important;
@@ -2471,7 +2471,7 @@ background-color:unset;
       position: fixed;
       bottom: 20px;
       padding: 12px 35px;
-      background-color: #f06906 !important;
+      background-color: #0D1B3D !important;
       color: #ffffff;
       border: none;
       border-radius: 8px;
@@ -2845,13 +2845,13 @@ padding: 0;
 .iso_tab_block .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .iso_tab_block .nav-tabs > li.active > a:hover{
     border: none;
     color: #129805;
-    border-bottom: 3px solid #F06906;
+    border-bottom: 3px solid #0D1B3D;
     background-color: #CCFDC8;
 }
 .iso_tab_block  .nav-tabs > li > a:hover {
     background-color: #CCFDC8;
     color: #129805;
-    border-bottom: 3px solid #F06906;
+    border-bottom: 3px solid #0D1B3D;
 }
 .iso_tab_block .nav-tabs > li > a {
     margin-right: 2px;
@@ -3064,7 +3064,7 @@ padding: 0;
         margin-bottom: 0;
         font-family: 'Poppins';
         text-align: center;
-        color: #2e363a;
+        color: #0D1B3D;
         font-weight: 600;
     }
     .wcodr_heading h6 span {
@@ -3088,7 +3088,7 @@ padding: 0;
     }
     .wcodr_inner_block i {
         font-size: 32px;
-        color: #F06906;
+        color: #0D1B3D;
     }
     .wcodr_inner_block h4 {
         color: #000000;
@@ -3193,7 +3193,7 @@ padding: 0;
     }
     .who_we_help_block i{
         font-size:50px;
-        color:#F06906;
+        color:#0D1B3D;
         text-align: center;
     }
     .who_we_help_block h6{

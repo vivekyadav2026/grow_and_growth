@@ -59,9 +59,9 @@
 /* Form  End*/
 
 .package_container input:checked ~ .checkmark {
-  background-color: #385067;
+  background-color: #0D1B3D;
   box-shadow: 1px 1px 2px #acacad;
-  background-image: linear-gradient(45deg, #28629a, #385067);
+  background-image: linear-gradient(45deg, #28629a, #0D1B3D);
 }
 .package_container input:checked ~ .checkmark:after {
   display: block;
@@ -174,7 +174,7 @@ position: relative;padding: 0 0 0 0px;line-height: 21px;float: left;width: 100%;
   display: block;
   width: 75px;
   height: 6px;
-  background: #5cb85c;
+  background: #1B5E3A;
   border-radius: 3px;
   margin: 14px 0 0;
   position: absolute;
@@ -352,13 +352,13 @@ position: relative;padding: 0 0 0 0px;line-height: 21px;float: left;width: 100%;
 */
 
 /*
-.poservi a:hover i > svg{fill: #5cb85c}
-.poservi a:hover p{color: #5cb85c;text-decoration: none}
+.poservi a:hover i > svg{fill: #1B5E3A}
+.poservi a:hover p{color: #1B5E3A;text-decoration: none}
 */
 
 .poservi a:hover,
 .poservi a:focus {
-  color: #18ba60;
+  color: #1B5E3A;
   text-decoration: none;
   outline: 0;
   /* -webkit-transition: all 0.3s ease-in-out; */
@@ -450,7 +450,7 @@ position: relative;padding: 0 0 0 0px;line-height: 21px;float: left;width: 100%;
   text-decoration: none;
 }
 .nav-item-inner > a:hover {
-  color: #5cb85c;
+  color: #1B5E3A;
 }
 .nav-item-inner-heading {
   position: relative;
@@ -473,14 +473,14 @@ position: relative;padding: 0 0 0 0px;line-height: 21px;float: left;width: 100%;
   font-family: FontAwesome;
   font-style: normal;
   color: #fff;
-  background: #5cb85c;
+  background: #1B5E3A;
   height: 30px;
   border-radius: 20px;
   line-height: 29px;
   font-size: 24px;
 }
 .nav-item-inner-heading.minus {
-  color: #5cb85c;
+  color: #1B5E3A;
 }
 .nav-item-inner-heading.minus:after {
   content: url(../../images/minus.svg);
@@ -536,16 +536,16 @@ position: relative;padding: 0 0 0 0px;line-height: 21px;float: left;width: 100%;
 /*here is the footer sytle css*/
 /*
 #footer{width: 100%;float: left}
-.foter-1{background-color: #2e363a;}
+.foter-1{background-color: #0D1B3D;}
 .custom-icon{
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   width: 40px;
 height: 40px;
 float: left;
 margin-right: 10px;
 line-height: 40px;
 color:#fff;
-background:#18ba60;
+background:#1B5E3A;
 background-color: rgb(24, 186, 96);
 text-align: center;
 margin-top: 20px;
@@ -664,7 +664,7 @@ margin: 0px 5px 0px 5px;
   position: absolute;
   display: block;
   content: "";
-  background-color: #18ba60;
+  background-color: #1B5E3A;
   border-radius: 2px;
   top: 47px;
   left: 50%;
@@ -898,7 +898,7 @@ title .title {
   text-align: center;
   height: 96px;
   border-radius: 8px;
-  background-image: linear-gradient(45deg, #28629a, #385067);
+  background-image: linear-gradient(45deg, #28629a, #0D1B3D);
   color: #fff;
 }
 .happy_clients_bold {
@@ -1222,7 +1222,7 @@ table {
 }
 .custom_panel .panel-default > .panel-heading {
   color: #fff !important;
-  background-color: #5cb85c !important;
+  background-color: #1B5E3A !important;
 }
 .panel-title a {
   text-decoration: none;
@@ -1539,7 +1539,7 @@ table {
     position: absolute;
     display: block;
     content: "";
-    background-color: #18ba60;
+    background-color: #1B5E3A;
     border-radius: 2px;
     top: 35px;
     left: 50%;

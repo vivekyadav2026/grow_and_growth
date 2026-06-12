@@ -1111,10 +1111,10 @@ button, select {
     padding: 10px 26px;
 }
 .btn-theme-color-2 {
-    background-color: #18BA60;
+    background-color: #1B5E3A;
 }    
 .btn-theme-color-2:hover {
-    background-color: #18BA60!important;
+    background-color: #1B5E3A!important;
 }
 /*************End Form Style*********************/ 
 
@@ -1219,7 +1219,7 @@ button, select {
  
     .ho_txt h6 {
       font-weight: 400;
-      color: #F06906;
+      color: #0D1B3D;
       margin-bottom: 15px;
       font-size: 28px;
       line-height: 36px;
