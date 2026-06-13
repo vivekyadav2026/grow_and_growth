@@ -3,21 +3,21 @@
 @section('meta')
 <title>Free Business Compliance Check services for Startups & MSMEs</title>
 <meta name="description" content="Get free business compliance support for GST, ROC, ITR, PF, ESIC and more with expert guidance designed for startups and growing businesses.">
-<link rel="canonical" href="https://www.onlinelegalindia.com/services/free-compliance/" />
-<meta property="og:url" content="https://www.onlinelegalindia.com/services/free-compliance/">
-<meta property="og:image" content="https://www.onlinelegalindia.com/images/all-service-multi/free-compliance-check-og.webp">
+<link rel="canonical" href="https://www.foundida.com/services/free-compliance/" />
+<meta property="og:url" content="https://www.foundida.com/services/free-compliance/">
+<meta property="og:image" content="https://www.foundida.com/images/all-service-multi/free-compliance-check-og.webp">
 <meta property="og:title" content="Free Compliance Check for Growing Businesses">
-<meta property="og:site_name" content="OnlineLegalIndia">
+<meta property="og:site_name" content="Foundida">
 <meta property="og:description" content="Access free compliance check for GST, ROC, ITR, PF, ESIC and business filings with expert support tailored for startups and MSMEs.">
 <meta property="og:locale" content="en-IN">
 @endsection
 
 @section('styles')
-<!--      <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/bootstrap.min.css">-->
-   <!-- <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/cut.css"> -->
-   <!-- <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/alternative-contact-popup.css"> -->
-   <!-- <link rel="stylesheet" href="https://www.onlinelegalindia.com/css/brands.min.css"> -->
-   <!-- <link rel="stylesheet" href="https://www.onlinelegalindia.com/css/solid.min.css"> -->
+<!--      <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/bootstrap.min.css">-->
+   <!-- <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/cut.css"> -->
+   <!-- <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/alternative-contact-popup.css"> -->
+   <!-- <link rel="stylesheet" href="https://www.foundida.com/css/brands.min.css"> -->
+   <!-- <link rel="stylesheet" href="https://www.foundida.com/css/solid.min.css"> -->
 @endsection
 
 @section('content')
@@ -32,7 +32,7 @@
 
                             <form class="new_block custom_nb_frm smooth_lead_form single_smooth_form" method="post" id="oli-validate-form" action="submit_tmr_fsmnew.php" style="margin-top:0px;">
                                 <input type="hidden" id="gclid_field" name="gclid_field" value="" />
-                                <input type="hidden" id="landing_uri" name="landing_uri" value="https://www.onlinelegalindia.com/services/free-compliance/">
+                                <input type="hidden" id="landing_uri" name="landing_uri" value="https://www.foundida.com/services/free-compliance/">
 
                                 <div class="first_div" id="first_div">
                                     <center>
@@ -193,7 +193,7 @@
                                 <div class="satisfied_customers_block_grid">
                                     <div class="satisfied_customers_block_grid_one">
                                         <div class="review_top">
-                                            <img src="https://www.onlinelegalindia.com/images/all-service-multi/banner-review-box.webp" alt="rating summary" loading="lazy" decoding="async" style="max-width:100%;height:auto;display:block;" />
+                                            <img src="https://www.foundida.com/images/all-service-multi/banner-review-box.webp" alt="rating summary" loading="lazy" decoding="async" style="max-width:100%;height:auto;display:block;" />
                                         </div>
                                     </div>
                                 </div>
@@ -207,7 +207,7 @@
 
                     <div class="col-md-7 home_row_block1">
                         <div class="hsss_inner_right">
-                            <img src="https://www.onlinelegalindia.com/images/all-service-multi/free-compliance-sourav-desktop-image.webp" alt="ganguly" loading="eager" decoding="async" fetchpriority="high" style="max-width:100%;height:auto;display:block;" />
+                            <img src="https://www.foundida.com/images/all-service-multi/free-compliance-sourav-desktop-image.webp" alt="ganguly" loading="eager" decoding="async" fetchpriority="high" style="max-width:100%;height:auto;display:block;" />
                         </div>
                     </div>
 
@@ -240,11 +240,11 @@
             <div class="row custtmm_rww">
                 <div class="col-md-4 col-xs-4">
                     <div class="new_md_section_left">
-                        <img src="https://www.onlinelegalindia.com/images/banner/md-new3.webp" alt="Rajesh Kewat">
+                        <img src="https://www.foundida.com/images/banner/md-new3.webp" alt="Rajesh Kewat">
                     </div>
                     <div class="new_md_section_left_text">
                         <h4>Rajesh Kewat</h4>
-                        <p>The Founder & CEO of Online Legal India, Mr. Rajesh Kewat actually had the courage to sacrifice his well paid job at Oxford and turn his startup dream into a multi crore turnover company.</p>
+                        <p>The Founder & CEO of Foundida, Mr. Rajesh Kewat actually had the courage to sacrifice his well paid job at Oxford and turn his startup dream into a multi crore turnover company.</p>
                     </div>
                 </div>
                 <div class="col-md-8 col-xs-8">
@@ -252,17 +252,17 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/about-us/zeenews.webp" alt="Zee News">
+                                <img src="https://www.foundida.com/images/about-us/zeenews.webp" alt="Zee News">
                             </div>
                             <div class="nmsr_block_text">
-                                <p>Meet Rajesh Kewat, The Small Town Entrepreneur Behind Online Legal India's Success</p>
+                                <p>Meet Rajesh Kewat, The Small Town Entrepreneur Behind Foundida's Success</p>
                             </div>
 
                         </div>
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/Ted-x.webp" alt="TEDx">
+                                <img src="https://www.foundida.com/images/Ted-x.webp" alt="TEDx">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>From Rs. 2000 Salary to Multi-Crore Turnover Company | Rajesh Kewat | TEDxPradhikaran.</p>
@@ -272,7 +272,7 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/about-us/footer-forbes-logo-new.webp" alt="Forbes">
+                                <img src="https://www.foundida.com/images/about-us/footer-forbes-logo-new.webp" alt="Forbes">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>Mr. Rajesh Kewat getting featured in the special edition of Forbes India Magazine - Showstoppers 2022-23</p>
@@ -282,7 +282,7 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/Asia_One.webp" alt="Asia One">
+                                <img src="https://www.foundida.com/images/Asia_One.webp" alt="Asia One">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>Rajesh Kewat, the MD of FastInfo Legal Services Pvt Ltd, owns a movie-like story; a man who lost everything for his love & attained great success within just 500 days with his innovative business.</p>
@@ -292,7 +292,7 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/midday9999.webp" alt="Mid Day">
+                                <img src="https://www.foundida.com/images/midday9999.webp" alt="Mid Day">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>Rajesh Kewat Conferred with Businessman of the Year Award at Brands Impact NFA 2022.</p>
@@ -303,9 +303,9 @@
                             <div class="new_past_exprience">
                                 <h5>Past Experiences</h5>
                                 <div class="new_past_exprience_inner">
-                                    <img src="https://www.onlinelegalindia.com/images/oxford.webp" alt="Oxford">
-                                    <img src="https://www.onlinelegalindia.com/images/Pearson_logo.webp" alt="Pearson" class="pearson">
-                                    <img src="https://www.onlinelegalindia.com/images/educomp_logo_1.webp" alt="Educamp">
+                                    <img src="https://www.foundida.com/images/oxford.webp" alt="Oxford">
+                                    <img src="https://www.foundida.com/images/Pearson_logo.webp" alt="Pearson" class="pearson">
+                                    <img src="https://www.foundida.com/images/educomp_logo_1.webp" alt="Educamp">
                                 </div>
                             </div>
                         </div>
@@ -640,18 +640,18 @@
                 <div class="card card-body">
                     <ul class="footer_links">
                         <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/private-company-registration/">Private Limited Company</a>
+                            <a href="https://www.foundida.com/services/company-registration/private-company-registration/">Private Limited Company</a>
                         </li> -->
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/private-company-registration/">Private Limited Company</a>
+                            <a href="https://www.foundida.com/services/company-registration/private-company-registration/">Private Limited Company</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/llp-partnership/">Limited
+                            <a href="https://www.foundida.com/services/company-registration/llp-partnership/">Limited
                                 Liability Partnership</a>
                         </li>
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/one-person-company-registration/">One
+                                href="https://www.foundida.com/services/company-registration/one-person-company-registration/">One
                                 Person Company</a>
                         </li>
                         <!-- <li>
@@ -661,12 +661,12 @@
                         </li> -->
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/public-limited-company/">Public
+                                href="https://www.foundida.com/services/company-registration/public-limited-company/">Public
                                 limited Company</a>
                         </li>
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/section-8-company-registration/">Section
+                                href="https://www.foundida.com/services/company-registration/section-8-company-registration/">Section
                                 8 Company</a>
                         </li>
                     </ul>
@@ -685,35 +685,35 @@
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/fssai-registration/">FSSAI [Food
+                            <a href="https://www.foundida.com/services/fssai-registration/">FSSAI [Food
                                 License]</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/fssai-renewal/">FSSAI Renewal</a>
+                            <a href="https://www.foundida.com/services/fssai-renewal/">FSSAI Renewal</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-iec-code-import-export-license/">IEC
+                            <a href="https://www.foundida.com/services/online-iec-code-import-export-license/">IEC
                                 [Import/Export Code]</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/iec-certificate-modification/">IEC
+                            <a href="https://www.foundida.com/services/iec-certificate-modification/">IEC
                                 Certificate Modification</a>
                         </li>
 
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/bis-certificate/">BIS Certificate</a>
+                            <a href="https://www.foundida.com/services/bis-certificate/">BIS Certificate</a>
                         </li>
 
 
 
                         <li>
-                            <!-- <a  href="https://www.onlinelegalindia.com/services/online-apeda-registration/">Apeda Registration</a> -->
-                            <!-- <a  href="https://www.onlinelegalindia.com/contact/">Apeda Registration</a> -->
+                            <!-- <a  href="https://www.foundida.com/services/online-apeda-registration/">Apeda Registration</a> -->
+                            <!-- <a  href="https://www.foundida.com/contact/">Apeda Registration</a> -->
                         </li>
                         <li>
 
                             <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/hard-copy-certificate/">Hard-Copy
+                            <a href="https://www.foundida.com/services/hard-copy-certificate/">Hard-Copy
                                 License</a>
                         </li> -->
 
@@ -734,22 +734,22 @@
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-registration/">TM
+                            <a href="https://www.foundida.com/services/trademark-registration/">TM
                                 Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-objection-reply/">TM
+                            <a href="https://www.foundida.com/services/trademark-objection-reply/">TM
                                 Objection</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-renewal/">TM Renewal</a>
+                            <a href="https://www.foundida.com/services/trademark-renewal/">TM Renewal</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-copyright-registration/">Copyright
+                            <a href="https://www.foundida.com/services/online-copyright-registration/">Copyright
                                 Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/iso-registration/">ISO
+                            <a href="https://www.foundida.com/services/iso-registration/">ISO
                                 Registration</a>
                         </li>
                     </ul>
@@ -768,16 +768,16 @@
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-registration/">GST Registration</a>
+                            <a href="https://www.foundida.com/services/gst-registration/">GST Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-return-filing/">GST Filing</a>
+                            <a href="https://www.foundida.com/services/gst-return-filing/">GST Filing</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-modification/">GST Modification</a>
+                            <a href="https://www.foundida.com/services/gst-modification/">GST Modification</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-cancellation/">GST Cancellation</a>
+                            <a href="https://www.foundida.com/services/gst-cancellation/">GST Cancellation</a>
                         </li>
                     </ul>
                 </div>
@@ -795,19 +795,19 @@
                 <div class="card card-body">
                     <ul class="footer_links">
                         <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/oliaccountant/">Online Accountant</a>
+                            <a href="https://www.foundida.com/services/oliaccountant/">Online Accountant</a>
                         </li> -->
                         <li>
                             <!-- <a href="">PF
                                 Registration</a> -->
-                            <a href="https://www.onlinelegalindia.com/services/online-tax-pfesi-registration/">PF-ESIC Registration</a>
+                            <a href="https://www.foundida.com/services/online-tax-pfesi-registration/">PF-ESIC Registration</a>
                         </li>
                         <li>
                             <!-- <a href="">PF Return</a> -->
-                            <a href="https://www.onlinelegalindia.com/services/online-tax-pfesi-return/">PF-ESIC Return Filing </a>
+                            <a href="https://www.foundida.com/services/online-tax-pfesi-return/">PF-ESIC Return Filing </a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-bookkeeping-service/">Online
+                            <a href="https://www.foundida.com/services/online-bookkeeping-service/">Online
                                 Bookkeeping</a>
                         </li>
 
@@ -829,13 +829,13 @@
 <div class="row">
     <div class="right_side">
         <div class="textwidget">
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/footer-logo.png" alt="logo" style="margin-left: -13px;"> -->
-            <!-- 30-12-2022_bkp<img class="footer_black_img" src="https://www.onlinelegalindia.com/images/logo6-1.svg" alt="logo" style="margin-left: -13px; width: 250px;"> -->
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/fastinfo-group.svg" alt="logo"
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/footer-logo.png" alt="logo" style="margin-left: -13px;"> -->
+            <!-- 30-12-2022_bkp<img class="footer_black_img" src="https://www.foundida.com/images/logo6-1.svg" alt="logo" style="margin-left: -13px; width: 250px;"> -->
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/fastinfo-group.svg" alt="logo"
                 style="margin-left: -13px; width: 250px;"> -->
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/Online-legal-india-republic.png" alt="logo" style="margin-left: -13px; width: 250px;"> -->
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/Online-legal-india-republic.png" alt="logo" style="margin-left: -13px; width: 250px;"> -->
             <p>
-                <strong>Online Legal India is a part of FastInfo Legal Services Pvt Ltd. Which is registered under the Companies Act, 2013.</strong>
+                <strong>Foundida is a part of FastInfo Legal Services Pvt Ltd. Which is registered under the Companies Act, 2013.</strong>
             </p>
 
         </div>
@@ -871,20 +871,20 @@
         <p class="social_title cstm_align" style="margin: 0;">Follow Us</p>
         <div class="social_contacts">
                             <div class="social_icons">
-                    <!-- <a href="https://www.facebook.com/OnlineLegalIndia/"><i class="fab fa-facebook-f"></i></a>
-                          <a href="mailto:info@onlinelegalindia.com"><i class="fab fa-google-plus-g"></i></a> -->
-                    <a href="https://www.facebook.com/OnlineLegalIndia/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/facebook.webp" alt="Facebook"></a>
+                    <!-- <a href="https://www.facebook.com/Foundida/"><i class="fab fa-facebook-f"></i></a>
+                          <a href="mailto:info@foundida.com"><i class="fab fa-google-plus-g"></i></a> -->
+                    <a href="https://www.facebook.com/Foundida/" target="_blank"><img
+                            src="https://www.foundida.com/images/facebook.webp" alt="Facebook"></a>
                     <a href="https://twitter.com/onlinelegalind" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/twitter.webp" alt="Twitter"></a>
+                            src="https://www.foundida.com/images/twitter.webp" alt="Twitter"></a>
                     <a href="https://www.linkedin.com/company/online-legal-india/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/linkedin.webp" alt="Linkedin"></a>
-                    <a href="https://www.instagram.com/online_legal_india/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/instagram.webp" alt="Instagram"></a>
-                    <a href="mailto:info@onlinelegalindia.com"><img src="https://www.onlinelegalindia.com/images/email.webp"
+                            src="https://www.foundida.com/images/linkedin.webp" alt="Linkedin"></a>
+                    <a href="https://www.instagram.com/foundida/" target="_blank"><img
+                            src="https://www.foundida.com/images/instagram.webp" alt="Instagram"></a>
+                    <a href="mailto:info@foundida.com"><img src="https://www.foundida.com/images/email.webp"
                             alt="Email"></a>
-                    <a href="https://www.youtube.com/c/OnlineLegalIndia" target="_blank"><img class="icons"
-                            src="https://www.onlinelegalindia.com/images/youtube.webp" alt="youtube icon"></a>
+                    <a href="https://www.youtube.com/c/Foundida" target="_blank"><img class="icons"
+                            src="https://www.foundida.com/images/youtube.webp" alt="youtube icon"></a>
 
 
                 </div>
@@ -896,11 +896,11 @@
 
         <div class="app_link_block_holder">
             <ul>
-                <li><a href="https://play.google.com/store/apps/details?id=onlinelegalindia.com.onlinelegalindia"
-                        target="_blank"><img src="https://www.onlinelegalindia.com/images/google-play.webp"
+                <li><a href="https://play.google.com/store/apps/details?id=foundida.com.foundida"
+                        target="_blank"><img src="https://www.foundida.com/images/google-play.webp"
                             alt="Google Play"></a></li>
                 <li><a href="https://apps.apple.com/in/app/online-legal-india/id1573385779" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/app-store.webp" alt="App Store"></a></li>
+                            src="https://www.foundida.com/images/app-store.webp" alt="App Store"></a></li>
             </ul>
         </div>
     </div>
@@ -911,13 +911,13 @@
         <div class="quick_links">
             <ul>
                 <li><a id="careers" target="_blank" href="https://www.fastinfo.com/career">Careers</a></li>
-                <li><a href="https://www.onlinelegalindia.com/contact/">Contact Us</a></li>
-                <li><a href="https://www.onlinelegalindia.com/blogs/">Blogs</a></li>
-                <!-- <li><a href="https://www.onlinelegalindia.com/customer_complain/">Report an Issue</a></li> -->
-                <li><a href="https://www.onlinelegalindia.com/news/">News</a></li>
-                <li><a href="https://www.onlinelegalindia.com/about/">About Us</a></li>
-                <li><a href="https://www.onlinelegalindia.com/press-release/">Press Release</a></li>
-                <li id="event-link"><a href="https://www.onlinelegalindia.com/services/founders-discussion-table/">Event</a></li>
+                <li><a href="https://www.foundida.com/contact/">Contact Us</a></li>
+                <li><a href="https://www.foundida.com/blogs/">Blogs</a></li>
+                <!-- <li><a href="https://www.foundida.com/customer_complain/">Report an Issue</a></li> -->
+                <li><a href="https://www.foundida.com/news/">News</a></li>
+                <li><a href="https://www.foundida.com/about/">About Us</a></li>
+                <li><a href="https://www.foundida.com/press-release/">Press Release</a></li>
+                <li id="event-link"><a href="https://www.foundida.com/services/founders-discussion-table/">Event</a></li>
             </ul>
             <span class="grievance" style="">For any grievance mail to: <a
                     href="mailto:complain@fastinfo.com">complain@fastinfo.com</a></span>
@@ -932,10 +932,16 @@
         <!-- /.container -->
     </footer>
 </section>
+
+    <!-- Redesigned Shared Components -->
+    @include('layouts.ceo_desk')
+    @include('layouts.events')
+    @include('layouts.why_us')
+
 @endsection
 
 @section('scripts')
-<script type='text/javascript' src='https://www.onlinelegalindia.com/js/main.js'></script>
+<script type='text/javascript' src='https://www.foundida.com/js/main.js'></script>
 
 <script>
     $('.accordaion-main-div').click(function() {
@@ -1184,7 +1190,7 @@
                                 $.each(obj, function(i, val) {
                                     //items.push($('<li/>').text(val.ID + " " + val.Company_Name));
                                     //items.push($('<a href="'+val.ID+'"></a><li/>').text("" + val.Company_Name+""));
-                                    items.push('<li><a href="https://onlinelegalindia.com/companydetails.php?cin=' + val.CORPORATE_IDENTIFICATION_NUMBER + '" target="_blank">' + val.Company_Name + '</a></li>');
+                                    items.push('<li><a href="https://foundida.com/companydetails.php?cin=' + val.CORPORATE_IDENTIFICATION_NUMBER + '" target="_blank">' + val.Company_Name + '</a></li>');
                                 });
                                 $('#finalResult').append.apply($('#finalResult'), items);
                             } catch (e) {
@@ -1231,7 +1237,7 @@
     function setCookie(a, d, b) {
         var c = new Date;
         c.setTime(c.getTime() + 864E5 * b);
-        b = "; expires=" + c.toGMTString() + "domain=onlinelegalindia.com;path=/;SameSite=None;Secure";
+        b = "; expires=" + c.toGMTString() + "domain=foundida.com;path=/;SameSite=None;Secure";
         document.cookie = a + "=" + d + b
     }
 
@@ -1269,7 +1275,7 @@
 
             $.ajax({
                 type: 'POST',
-                url: 'https://www.onlinelegalindia.com/payment/store-alternative-number.php',
+                url: 'https://www.foundida.com/payment/store-alternative-number.php',
                 data: {
                     _oclid: _oclid,
                     action: 'check-alter-number'
@@ -1310,7 +1316,7 @@
 
                 $.ajax({
                     type: 'POST',
-                    url: 'https://www.onlinelegalindia.com/payment/store-alternative-number.php',
+                    url: 'https://www.foundida.com/payment/store-alternative-number.php',
                     data: $(form).serialize() + '&action=store-alter-number&_oclid=' + _oclid,
                     dataType: "json",
                     beforeSend: function() {
@@ -1353,7 +1359,7 @@
         let _oclid = getParam("_oclid");
         if (_oclid) {
             if (document.cookie.indexOf('_oclid') > -1) {
-                document.cookie = "_oclid=" + readCookie('_oclid') + ";expires=Thu, 01 Jan 1970 00:00:01 GMT;domain=onlinelegalindia.com;path=/;SameSite=None;Secure";
+                document.cookie = "_oclid=" + readCookie('_oclid') + ";expires=Thu, 01 Jan 1970 00:00:01 GMT;domain=foundida.com;path=/;SameSite=None;Secure";
                 setCookie("_oclid", _oclid, 365)
             } else {
                 setCookie("_oclid", _oclid, 365)
@@ -1379,7 +1385,7 @@
         }
         // $.ajax({
         //     type: 'POST',
-        //     url: 'https://www.onlinelegalindia.com/cookie-user-tracker/insert-tracked-data.php',
+        //     url: 'https://www.foundida.com/cookie-user-tracker/insert-tracked-data.php',
         //     dataType:"json",
         //     data: {
         //         _u_track:readCookie('_u_track'),
@@ -1442,7 +1448,7 @@
 
     //     $.ajax({
     //         type: 'POST',
-    //         url: 'https://www.onlinelegalindia.com/advanced_utm_tracking/custom_cookie_track.php',
+    //         url: 'https://www.foundida.com/advanced_utm_tracking/custom_cookie_track.php',
     //         dataType:"json",
     //         data: {
     //             browser_id:readCookie('browser_id'),
@@ -1473,7 +1479,7 @@
     //     if(readCookie('fbclid') != null){
     //         $.ajax({
     //             type: 'POST',
-    //             url: 'https://www.onlinelegalindia.com/advanced_utm_tracking/insert-fb-utm-data.php',
+    //             url: 'https://www.foundida.com/advanced_utm_tracking/insert-fb-utm-data.php',
     //             data:{ url: window.location.href },
     //             dataType:"json",
     //             success: function (response) {
@@ -1503,7 +1509,7 @@
     //     if(readCookie('gclid') != null){
     //         $.ajax({
     //             type: 'POST',
-    //             url: 'https://www.onlinelegalindia.com/advanced_utm_tracking/insert-google-utm-data.php',
+    //             url: 'https://www.foundida.com/advanced_utm_tracking/insert-google-utm-data.php',
     //             data:{ url: window.location.href },
     //             dataType:"json",
     //             success: function (response) {
@@ -1532,7 +1538,7 @@
     //     if(readCookie('msclkid') != null){
     //         $.ajax({
     //             type: 'POST',
-    //             url: 'https://www.onlinelegalindia.com/advanced_utm_tracking/insert-bing-utm-data.php',
+    //             url: 'https://www.foundida.com/advanced_utm_tracking/insert-bing-utm-data.php',
     //             data:{ url: window.location.href },
     //             dataType:"json",
     //             success: function (response) {
@@ -1548,7 +1554,7 @@
     //     if(params.get('utm_source') == 'mailer'){
     //         $.ajax({
     //             type: 'POST',
-    //             url: 'https://www.onlinelegalindia.com/advanced_utm_tracking/insert-mailer-data.php',
+    //             url: 'https://www.foundida.com/advanced_utm_tracking/insert-mailer-data.php',
     //             data:{ url: window.location.href },
     //             dataType:"json",
     //             success: function (response) {
@@ -1859,7 +1865,7 @@
                         $('.fourth_new_div_form').hide();
                         $('.fifth_new_div_form').show();
 
-                        window.location = "https://www.onlinelegalindia.com/lead-thanks-cls/?oli_id=" + data.oli_id;
+                        window.location = "https://www.foundida.com/lead-thanks-cls/?oli_id=" + data.oli_id;
 
                     } else {
                         alert(data.msg);

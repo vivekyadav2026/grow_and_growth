@@ -2,15 +2,15 @@
 
 @section('meta')
 <title>Apply for FSSAI Registration and Food License Online Process</title>
-<meta name="description" content="Get your FSSAI food license (Local/State/Central) with the help of FSSAI experts from Online Legal India. Apply for FSSAI registration online with us.">
+<meta name="description" content="Get your FSSAI food license (Local/State/Central) with the help of FSSAI experts from Foundida. Apply for FSSAI registration online with us.">
 <meta name="keywords" content="FSSAI Registration Online, FSSAI Food License, Food License Online">
-<link rel="canonical" href="https://www.onlinelegalindia.com/services/fssai-registration/"/>
+<link rel="canonical" href="https://www.foundida.com/services/fssai-registration/"/>
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.onlinelegalindia.com/services/fssai-registration/">
-<meta property="og:image" content="https://www.onlinelegalindia.com/services/fssai-registration/image/fssai-banner-new_block_holder.webp">
+<meta property="og:url" content="https://www.foundida.com/services/fssai-registration/">
+<meta property="og:image" content="https://www.foundida.com/services/fssai-registration/image/fssai-banner-new_block_holder.webp">
 <meta property="og:title" content="Apply for FSSAI Registration and Food License Online Process">
-<meta property="og:site_name" content="OnlineLegalIndia">
-<meta property="og:description" content="Get FSSAI Food License (Basicl/State/Central) at an unbeatable cost with 360° assistance from FSSAI FoSCoS experts of Online Legal India. Apply for FSSAI registration online with us.">
+<meta property="og:site_name" content="Foundida">
+<meta property="og:description" content="Get FSSAI Food License (Basicl/State/Central) at an unbeatable cost with 360° assistance from FSSAI FoSCoS experts of Foundida. Apply for FSSAI registration online with us.">
 <meta property="og:locale" content="en-IN">
 <script type="application/ld+json">
 
@@ -19,8 +19,8 @@
       "@@context":"http://schema.org/",
       "@@type":"Product",
       "name":"FSSAI",
-      "image":"https://www.onlinelegalindia.com/services/fssai-registration/image/fssai-banner.jpg",
-      "description":"Get your FSSAI food license (Local/State/Central) with the help of FSSAI experts from Online Legal India. ⭐5000+ Google Reviews. 1 Lac+ Happy Clients.",
+      "image":"https://www.foundida.com/services/fssai-registration/image/fssai-banner.jpg",
+      "description":"Get your FSSAI food license (Local/State/Central) with the help of FSSAI experts from Foundida. ⭐5000+ Google Reviews. 1 Lac+ Happy Clients.",
       "aggregateRating":{
          "@@type":"AggregateRating",
          "ratingValue":"4.9",
@@ -32,10 +32,10 @@
          "price":"1499",
          "seller":{
             "@@type":"Organization",
-            "name":"Online Legal India",
+            "name":"Foundida",
             "logo":{
                "@@type":"ImageObject",
-               "url":"https://www.onlinelegalindia.com/images/logo6-1.svg",
+               "url":"https://www.foundida.com/images/logo6-1.svg",
                "width":"300",
                "height":"61"
             }
@@ -50,22 +50,22 @@
             "@@type":"ListItem",
             "position":1,
             "name":"services",
-            "item":"https://www.onlinelegalindia.com/services/"
+            "item":"https://www.foundida.com/services/"
          },
          {
             "@@type":"ListItem",
             "position":2,
             "name":"🍲 FSSAI Registration",
-            "item":"https://www.onlinelegalindia.com/services/fssai-registration/"
+            "item":"https://www.foundida.com/services/fssai-registration/"
          }
       ]
    },
    {
       "@@context":"https://schema.org",
       "@@type":"Organization",
-      "name":"Online Legal India",
-      "url":"https://www.onlinelegalindia.com",
-      "logo":"https://www.onlinelegalindia.com/images/logo6-1.svg",
+      "name":"Foundida",
+      "url":"https://www.foundida.com",
+      "logo":"https://www.foundida.com/images/logo6-1.svg",
       "contactPoint":{
          "@@type":"ContactPoint",
          "telephone":"08069029400",
@@ -74,9 +74,9 @@
          "availableLanguage":"en"
       },
       "sameAs":[
-         "https://www.facebook.com/onlinelegalindia/",
-         "https://www.youtube.com/c/OnlineLegalIndia",
-         "https://www.onlinelegalindia.com/"
+         "https://www.facebook.com/foundida/",
+         "https://www.youtube.com/c/Foundida",
+         "https://www.foundida.com/"
       ]
    }
 ]  
@@ -359,19 +359,19 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
 
    }
 </style>
-   <!--      <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/bootstrap.min.css">-->
-   <!-- <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/cut.css"> -->
-   <!-- <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/alternative-contact-popup.css"> -->
-   <!-- <link rel="stylesheet" href="https://www.onlinelegalindia.com/css/brands.min.css"> -->
-   <!-- <link rel="stylesheet" href="https://www.onlinelegalindia.com/css/solid.min.css"> -->
+   <!--      <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/bootstrap.min.css">-->
+   <!-- <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/cut.css"> -->
+   <!-- <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/alternative-contact-popup.css"> -->
+   <!-- <link rel="stylesheet" href="https://www.foundida.com/css/brands.min.css"> -->
+   <!-- <link rel="stylesheet" href="https://www.foundida.com/css/solid.min.css"> -->
 @endsection
 
 @section('content')
 <div class="fssai_registration_ganguly_sukhala_order_change">
 
    <section class="fssairgsoc_one">
-      <img src="https://www.onlinelegalindia.com/images/fssai-registration-campaign/fssai-banner.webp" style="width:100%;" alt="fssai-registration" class="fssai_registration_destop">
-      <img src="https://www.onlinelegalindia.com/images/fssai-registration-campaign/fssai-banner-mb.webp" alt="fssai-registration" class="fssai_registration_mobile">
+      <img src="https://www.foundida.com/images/fssai-registration-campaign/fssai-banner.webp" style="width:100%;" alt="fssai-registration" class="fssai_registration_destop">
+      <img src="https://www.foundida.com/images/fssai-registration-campaign/fssai-banner-mb.webp" alt="fssai-registration" class="fssai_registration_mobile">
    </section>
 
    <section class="apply_food_license_online_registration fssairgsoc_two">
@@ -379,7 +379,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
          <div class="row fssairgsoc_two_row">
             <div class="col-md-5 fssairgsoc_two_row_one">
                <div class="apply_food_license_online_registration_left">
-                  <img src="https://www.onlinelegalindia.com/images/fssai-registration-campaign/sukhla-new.webp" alt="sukhla-new">
+                  <img src="https://www.foundida.com/images/fssai-registration-campaign/sukhla-new.webp" alt="sukhla-new">
                </div>
             </div>
             <div class="col-md-7 fssairgsoc_two_row_two">
@@ -556,7 +556,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                   <h4 class="new_apply_now">Apply Now</h4>
                   <fieldset>
                      <input type="hidden" id="gclid_field" name="gclid_field" value="">
-                     <input type="hidden" id="landing_uri" name="landing_uri" value="https://www.onlinelegalindia.com/services/fssai-registration/">
+                     <input type="hidden" id="landing_uri" name="landing_uri" value="https://www.foundida.com/services/fssai-registration/">
 
                      <fieldset id="first_div">
                         <div class="from_name gap_form">
@@ -1225,11 +1225,11 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
             <div class="row custtmm_rww">
                 <div class="col-md-4 col-xs-4">
                     <div class="new_md_section_left">
-                        <img src="https://www.onlinelegalindia.com/images/banner/md-new3.webp" alt="Rajesh Kewat">
+                        <img src="https://www.foundida.com/images/banner/md-new3.webp" alt="Rajesh Kewat">
                     </div>
                     <div class="new_md_section_left_text">
                         <h4>Rajesh Kewat</h4>
-                        <p>The Founder & CEO of Online Legal India, Mr. Rajesh Kewat actually had the courage to sacrifice his well paid job at Oxford and turn his startup dream into a multi crore turnover company.</p>
+                        <p>The Founder & CEO of Foundida, Mr. Rajesh Kewat actually had the courage to sacrifice his well paid job at Oxford and turn his startup dream into a multi crore turnover company.</p>
                     </div>
                 </div>
                 <div class="col-md-8 col-xs-8">
@@ -1237,17 +1237,17 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/about-us/zeenews.webp" alt="Zee News">
+                                <img src="https://www.foundida.com/images/about-us/zeenews.webp" alt="Zee News">
                             </div>
                             <div class="nmsr_block_text">
-                                <p>Meet Rajesh Kewat, The Small Town Entrepreneur Behind Online Legal India's Success</p>
+                                <p>Meet Rajesh Kewat, The Small Town Entrepreneur Behind Foundida's Success</p>
                             </div>
 
                         </div>
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/Ted-x.webp" alt="TEDx">
+                                <img src="https://www.foundida.com/images/Ted-x.webp" alt="TEDx">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>From Rs. 2000 Salary to Multi-Crore Turnover Company | Rajesh Kewat | TEDxPradhikaran.</p>
@@ -1257,7 +1257,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/about-us/footer-forbes-logo-new.webp" alt="Forbes">
+                                <img src="https://www.foundida.com/images/about-us/footer-forbes-logo-new.webp" alt="Forbes">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>Mr. Rajesh Kewat getting featured in the special edition of Forbes India Magazine - Showstoppers 2022-23</p>
@@ -1267,7 +1267,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/Asia_One.webp" alt="Asia One">
+                                <img src="https://www.foundida.com/images/Asia_One.webp" alt="Asia One">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>Rajesh Kewat, the MD of FastInfo Legal Services Pvt Ltd, owns a movie-like story; a man who lost everything for his love & attained great success within just 500 days with his innovative business.</p>
@@ -1277,7 +1277,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/midday9999.webp" alt="Mid Day">
+                                <img src="https://www.foundida.com/images/midday9999.webp" alt="Mid Day">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>Rajesh Kewat Conferred with Businessman of the Year Award at Brands Impact NFA 2022.</p>
@@ -1288,9 +1288,9 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                             <div class="new_past_exprience">
                                 <h5>Past Experiences</h5>
                                 <div class="new_past_exprience_inner">
-                                    <img src="https://www.onlinelegalindia.com/images/oxford.webp" alt="Oxford">
-                                    <img src="https://www.onlinelegalindia.com/images/Pearson_logo.webp" alt="Pearson" class="pearson">
-                                    <img src="https://www.onlinelegalindia.com/images/educomp_logo_1.webp" alt="Educamp">
+                                    <img src="https://www.foundida.com/images/oxford.webp" alt="Oxford">
+                                    <img src="https://www.foundida.com/images/Pearson_logo.webp" alt="Pearson" class="pearson">
+                                    <img src="https://www.foundida.com/images/educomp_logo_1.webp" alt="Educamp">
                                 </div>
                             </div>
                         </div>
@@ -1327,7 +1327,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
       <div class="row">
          <div class="col-sm-12 col-md-12 margin-bottom new_center">
             <div class="custm_gr_hght">
-               <img src="https://www.onlinelegalindia.com/images/Google-cust 2 1.webp" alt="Google Review">
+               <img src="https://www.foundida.com/images/Google-cust 2 1.webp" alt="Google Review">
                <h3 style="font-size: 32px;">Customer Reviews</h3>
             </div>
          </div>
@@ -1340,7 +1340,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                      </span>
 
                      <h3>Excellent service</h3>
-                     <p>I was worried about how to get my FSSAI registration done, but Online Legal India made the entire process hassle-free. The team was responsive and guided me step-by-step. I received my registration certificate much earlier than expected. Highly recommended!</p>
+                     <p>I was worried about how to get my FSSAI registration done, but Foundida made the entire process hassle-free. The team was responsive and guided me step-by-step. I received my registration certificate much earlier than expected. Highly recommended!</p>
 
                      <h4><span>Customer Name</span>Shams Tabrez</h4>
                   </div>
@@ -1352,7 +1352,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                         </span>
                         
                         <h3>Its 1st time I trust online FSSAI service…</h3>
-                         <p>I used Online Legal India for my FSSAI registration and I’m extremely satisfied with their service. The documentation process was simple, and their expert kept me informed at every stage. Great customer service and affordable pricing!</p>
+                         <p>I used Foundida for my FSSAI registration and I’m extremely satisfied with their service. The documentation process was simple, and their expert kept me informed at every stage. Great customer service and affordable pricing!</p>
                         <h4><span>Customer Name</span>Goa Surgico</h4>
                      </div>
                 </div> -->
@@ -1363,7 +1363,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                      </span>
 
                      <h3>Very good FSSAI service…</h3>
-                     <p>As a first-time entrepreneur starting my home bakery, I needed help with FSSAI registration. I found Online Legal India through a Google search and gave it a shot. I'm glad I did—the process was clear, transparent, and smooth. Thank you!</p>
+                     <p>As a first-time entrepreneur starting my home bakery, I needed help with FSSAI registration. I found Foundida through a Google search and gave it a shot. I'm glad I did—the process was clear, transparent, and smooth. Thank you!</p>
                      <h4><span>Customer Name</span>Shraddha Sinha</h4>
                   </div>
                </div>
@@ -1385,7 +1385,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                      </span>
 
                      <h3>Great experience and highly talented…</h3>
-                     <p>I was completely new to the FSSAI registration process, but Prianka das from Online Legal India made it simple and stress-free. She explained everything clearly and submitted my application quickly. Very satisfied with their professionalism.</p>
+                     <p>I was completely new to the FSSAI registration process, but Prianka das from Foundida made it simple and stress-free. She explained everything clearly and submitted my application quickly. Very satisfied with their professionalism.</p>
                      <h4><span>Customer Name</span>Sooraj Panickar</h4>
                   </div>
                </div>
@@ -1419,8 +1419,8 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                         <span>
                             <img src="../../images/stars-5-tp.svg" alt="Five Star Rating">
                         </span>
-                        <h3>I approach Online Legal India for…</h3>
-                         <p>I approach Online Legal India for a consumer complaint. I received swift follow-up from Ms. Kar, who has drafted the legal notice to my satisfaction and is quickly proceeding with the entire process.</p>
+                        <h3>I approach Foundida for…</h3>
+                         <p>I approach Foundida for a consumer complaint. I received swift follow-up from Ms. Kar, who has drafted the legal notice to my satisfaction and is quickly proceeding with the entire process.</p>
                         <h4><span>Customer Name</span>Anubandh Srivastava </h4>
                      </div>
                 </div>
@@ -1477,7 +1477,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                         </span>
                         
                         <h3>FSSAI - Great Service…</h3>
-                         <p>They are providing you very quick services and I am really happy about the same. Great work is done by Online Legal India. Thanks.</p>
+                         <p>They are providing you very quick services and I am really happy about the same. Great work is done by Foundida. Thanks.</p>
                         <h4><span>Customer Name</span>Namit</h4>
                      </div>
                 </div>
@@ -1538,7 +1538,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                      <div class="hexagon_box">
                         <div class="hexagon">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/happy_customers.svg" alt="Happy Customers" />
+                              <img src="https://www.foundida.com/services/include/image/happy_customers.svg" alt="Happy Customers" />
                            </i>
                            <p>5 Lakh+ Happy Clients Across India</p>
                         </div>
@@ -1548,7 +1548,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                      <div class="hexagon_box">
                         <div class="hexagon iso_sign">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/iso-mark.webp" alt="ISO" />
+                              <img src="https://www.foundida.com/services/include/image/iso-mark.webp" alt="ISO" />
                            </i>
                            <p>ISO Certified</p>
                         </div>
@@ -1558,7 +1558,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                      <div class="hexagon_box">
                         <div class="hexagon">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/data_security.svg" alt="Data Security" />
+                              <img src="https://www.foundida.com/services/include/image/data_security.svg" alt="Data Security" />
                            </i>
                            <p>Data Security & Trust</p>
                         </div>
@@ -1568,7 +1568,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                      <div class="hexagon_box">
                         <div class="hexagon">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/experts.svg" alt="Experts" />
+                              <img src="https://www.foundida.com/services/include/image/experts.svg" alt="Experts" />
                            </i>
                            <p>Trained & Professional Experts</p>
                         </div>
@@ -1578,7 +1578,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                      <div class="hexagon_box">
                         <div class="hexagon">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/on-time.svg" alt="On Time" />
+                              <img src="https://www.foundida.com/services/include/image/on-time.svg" alt="On Time" />
                            </i>
                            <p>On Time Service </p>
                         </div>
@@ -1588,7 +1588,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                      <div class="hexagon_box">
                         <div class="hexagon">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/quick.svg" alt="Quick" />
+                              <img src="https://www.foundida.com/services/include/image/quick.svg" alt="Quick" />
                            </i>
                            <p>Super Fast Service</p>
                         </div>
@@ -1598,7 +1598,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                      <div class="hexagon_box affordable_sign_team">
                         <div class="hexagon">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/users_oli_Jan_22.svg" alt="User OLI" />
+                              <img src="https://www.foundida.com/services/include/image/users_oli_Jan_22.svg" alt="User OLI" />
                            </i>
                            <p>Quick Response Team</p>
                         </div>
@@ -1608,7 +1608,7 @@ Currently, The FLRS is used by 5 Regional Offices of FSSAI that are in New Delhi
                      <div class="hexagon_box">
                         <div class="hexagon affordable_sign">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/affordable.svg" alt="Affordable" />
+                              <img src="https://www.foundida.com/services/include/image/affordable.svg" alt="Affordable" />
                            </i>
                            <p>Affordable</p>
                            <!-- <p>Affordable Than Other Professionals</p> -->
@@ -1766,23 +1766,23 @@ width:70%;
          <div class="awab_one_inner">
 
             <div class="awaboi_block">
-               <img src="https://www.onlinelegalindia.com/images/associated-tata.webp" class="tatawebp" alt="TATA">
+               <img src="https://www.foundida.com/images/associated-tata.webp" class="tatawebp" alt="TATA">
             </div>
 
             <div class="awaboi_block">
-               <img src="https://www.onlinelegalindia.com/images/associated-paytm.webp" class="" alt="Paytm">
+               <img src="https://www.foundida.com/images/associated-paytm.webp" class="" alt="Paytm">
             </div>
 
             <div class="awaboi_block awaboi_block_icici">
-               <img src="https://www.onlinelegalindia.com/images/associated-icici.webp" class="icici_bank" alt=" ICICI">
+               <img src="https://www.foundida.com/images/associated-icici.webp" class="icici_bank" alt=" ICICI">
             </div>
 
             <!-- <div class="awaboi_block">
-               <img src="https://www.onlinelegalindia.com/images/associated-flipkart.webp" class="flipkart" alt="Flipkart">
+               <img src="https://www.foundida.com/images/associated-flipkart.webp" class="flipkart" alt="Flipkart">
             </div> -->
 
            <!--  <div class="awaboi_block awaboi_block_last">
-               <img src="https://www.onlinelegalindia.com/images/associated-DBS-bank.webp" class="" alt="DBS Bank">
+               <img src="https://www.foundida.com/images/associated-DBS-bank.webp" class="" alt="DBS Bank">
             </div> -->
 
          </div>
@@ -1801,15 +1801,15 @@ width:70%;
                <div class="awab_one_inner2">
 
                   <div class="awaboi_block awaboi_block1">
-                     <img src="https://www.onlinelegalindia.com/images/associated-zee.webp" class="" alt="Zee News">
+                     <img src="https://www.foundida.com/images/associated-zee.webp" class="" alt="Zee News">
                   </div>
 
                   <div class="awaboi_block awaboi_block1">
-                     <img src="https://www.onlinelegalindia.com/images/Ted-x-one.webp" class="" alt="TEDx">
+                     <img src="https://www.foundida.com/images/Ted-x-one.webp" class="" alt="TEDx">
                   </div>
 
                   <div class="awaboi_block awaboi_block1">
-                     <img src="https://www.onlinelegalindia.com/images/associated-asia-one.webp" class="" alt="Asia one">
+                     <img src="https://www.foundida.com/images/associated-asia-one.webp" class="" alt="Asia one">
                   </div>
 
 
@@ -1822,11 +1822,11 @@ width:70%;
                <div class="awab_one_inner3">
 
                   <div class="awaboi_block3 ">
-                     <img src="https://www.onlinelegalindia.com/images/oli-fic-iso-certified.webp" class="oli_fic_pic oli_fic_pic999" alt="ISO Certified">
+                     <img src="https://www.foundida.com/images/oli-fic-iso-certified.webp" class="oli_fic_pic oli_fic_pic999" alt="ISO Certified">
                   </div>
 
                   <!-- <div class="awaboi_block3 ">
-                     <img src="https://www.onlinelegalindia.com/images/oli-fic-govt.-certified.webp" class="oli_fic_pic" alt="Govt. Certified">
+                     <img src="https://www.foundida.com/images/oli-fic-govt.-certified.webp" class="oli_fic_pic" alt="Govt. Certified">
                   </div> -->
 
                </div>
@@ -1864,7 +1864,7 @@ width:70%;
             <h4 class="accordion-cus-head">Why Register Under FSSAI and get FoSCos License?</h4>
          </div>
          <div id="child_ans_div_3" style="display: none;" class="child-ans-div-1">
-            <p class="child-ans-text">The FSSAI Registration is the legal process for all Food Business Operators (FBOs) in India to apply for getting the certificate that the available sold food is safe for human consumption. <a href="https://www.onlinelegalindia.com/services/fssai-registration/#contact">Register Now!</a>
+            <p class="child-ans-text">The FSSAI Registration is the legal process for all Food Business Operators (FBOs) in India to apply for getting the certificate that the available sold food is safe for human consumption. <a href="https://www.foundida.com/services/fssai-registration/#contact">Register Now!</a>
             </p>
          </div>
          <div data-port-id="child_ans_div_4" class="accordaion-main-div">
@@ -1886,9 +1886,9 @@ width:70%;
          <div id="child_ans_div_5" style="display: none;" class="child-ans-div-1">
             <p class="child-ans-text">The FoSCos Food Registration cost depends on the category and the duration of the Food License (1-5 years) you are opting for:</p>
             <ul style="margin-top:2%;margin-left: 28px;" class="benifits-ul custom-ul-style">
-               <li style="color: #888;" class="register-benifit-li register-benifits-text"><a href="https://www.onlinelegalindia.com/services/fssai-registration/#contact"><b>Basic FSSAI Registration -</b></a> Rs.1999 for 1 year, Rs.2499 for 2 years, Rs.2999 for 3 years, Rs.3499 for 4 years, Rs.3999 for 5 years (Including Govt Fees)</li>
-               <li style="color: #888;" class="register-benifit-li register-benifits-text"><a href="https://www.onlinelegalindia.com/services/fssai-registration/#contact"><b>State FSSAI Registration - </b></a> Rs.3499 for 1 year (Excluding Govt Fees)</li>
-               <li style="color: #888;" class="register-benifit-li register-benifits-text"><a href="https://www.onlinelegalindia.com/services/fssai-registration/#contact"><b>Central FSSAI Registration - </b></a> Rs.4499 for 1 year (Excluding Govt Fees)</li>
+               <li style="color: #888;" class="register-benifit-li register-benifits-text"><a href="https://www.foundida.com/services/fssai-registration/#contact"><b>Basic FSSAI Registration -</b></a> Rs.1999 for 1 year, Rs.2499 for 2 years, Rs.2999 for 3 years, Rs.3499 for 4 years, Rs.3999 for 5 years (Including Govt Fees)</li>
+               <li style="color: #888;" class="register-benifit-li register-benifits-text"><a href="https://www.foundida.com/services/fssai-registration/#contact"><b>State FSSAI Registration - </b></a> Rs.3499 for 1 year (Excluding Govt Fees)</li>
+               <li style="color: #888;" class="register-benifit-li register-benifits-text"><a href="https://www.foundida.com/services/fssai-registration/#contact"><b>Central FSSAI Registration - </b></a> Rs.4499 for 1 year (Excluding Govt Fees)</li>
             </ul>
          </div>
          <div data-port-id="child_ans_div_6" class="accordaion-main-div">
@@ -1916,21 +1916,21 @@ width:70%;
             <h4 class="accordion-cus-head">How to check my FSSAI FoSCos License Renewal status?</h4>
          </div>
          <div id="child_ans_div_9" style="display: none;" class="child-ans-div-1">
-            <p class="child-ans-text">FSSAI license renewal can be done for 1-5 years and it is necessary for every food business in India. You can contact our Food Licensing experts on+91 87505 30252 and get to know your <a href="https://www.onlinelegalindia.com/services/fssai-renewal/">FSSAI license renewal</a> status by them.
+            <p class="child-ans-text">FSSAI license renewal can be done for 1-5 years and it is necessary for every food business in India. You can contact our Food Licensing experts on+91 87505 30252 and get to know your <a href="https://www.foundida.com/services/fssai-renewal/">FSSAI license renewal</a> status by them.
             </p>
          </div>
          <div data-port-id="child_ans_div_10" class="accordaion-main-div">
             <h4 class="accordion-cus-head">Do I need to issue a different FoSCos License for the different states?</h4>
          </div>
          <div id="child_ans_div_10" style="display: none;" class="child-ans-div-1">
-            <p class="child-ans-text">Yes, you have to take a Central FSSAI license for the main branch or head office and the State FSSAI licenses for any specific state. To assure a stable food business operation across the various states of the country, <a href="https://www.onlinelegalindia.com/services/fssai-registration/#contact">register now!</a>
+            <p class="child-ans-text">Yes, you have to take a Central FSSAI license for the main branch or head office and the State FSSAI licenses for any specific state. To assure a stable food business operation across the various states of the country, <a href="https://www.foundida.com/services/fssai-registration/#contact">register now!</a>
             </p>
          </div>
          <div data-port-id="child_ans_div_11" class="accordaion-main-div">
             <h4 class="accordion-cus-head">I am importing food items for selling in India even then it requires FoSCos Food License?</h4>
          </div>
          <div id="child_ans_div_11" style="display: none;" class="child-ans-div-1">
-            <p class="child-ans-text">Yes, you will be needed to get a Central License for the specific address that is notified in the <a href="https://www.onlinelegalindia.com/services/online-iec-code-import-export-license/">Import Export Code (IEC)</a>. For any import-export related business operation, FSSAI Central License is necessary.</p>
+            <p class="child-ans-text">Yes, you will be needed to get a Central License for the specific address that is notified in the <a href="https://www.foundida.com/services/online-iec-code-import-export-license/">Import Export Code (IEC)</a>. For any import-export related business operation, FSSAI Central License is necessary.</p>
          </div>
          <div data-port-id="child_ans_div_12" class="accordaion-main-div">
             <h4 class="accordion-cus-head">Can I transfer my FSSAI License to someone else?</h4>
@@ -1943,7 +1943,7 @@ width:70%;
             <h4 class="accordion-cus-head">I am planning to sell some Homemade food items online on a small scale, do I need to get a FSSAI enabled FoSCos License?</h4>
          </div>
          <div id="child_ans_div_13" style="display: none;" class="child-ans-div-1">
-            <p class="child-ans-text">Yes. You require having an FSSAI registration to sale homemade stuff on an online platform particularly if your business is on a small scale, and the annual turnover is among 0-12 Lakhs. <a href="https://www.onlinelegalindia.com/services/fssai-registration/#contact">Register here!</a>
+            <p class="child-ans-text">Yes. You require having an FSSAI registration to sale homemade stuff on an online platform particularly if your business is on a small scale, and the annual turnover is among 0-12 Lakhs. <a href="https://www.foundida.com/services/fssai-registration/#contact">Register here!</a>
             </p>
          </div>
          <div data-port-id="child_ans_div_14" class="accordaion-main-div">
@@ -1957,14 +1957,14 @@ width:70%;
             <h4 class="accordion-cus-head">I plan to start an import-export business. Do I need an FoSCos License?</h4>
          </div>
          <div id="child_ans_div_15" style="display: none;" class="child-ans-div-1">
-            <p class="child-ans-text">Yes. But you must obtain your <a href="https://www.onlinelegalindia.com/services/online-iec-code-import-export-license/">Import Export Code (IEC)</a> first. Subsequently, apply for the FSSAI Central License before starting the business operations.
+            <p class="child-ans-text">Yes. But you must obtain your <a href="https://www.foundida.com/services/online-iec-code-import-export-license/">Import Export Code (IEC)</a> first. Subsequently, apply for the FSSAI Central License before starting the business operations.
             </p>
          </div>
          <div data-port-id="child_ans_div_16" class="accordaion-main-div">
             <h4 class="accordion-cus-head">How can I make changes to my existing FSSAI Certificate?</h4>
          </div>
          <div id="child_ans_div_16" style="display: none;" class="child-ans-div-1">
-            <p class="child-ans-text">In case you want to edit/modify/update the information contained in the existing FSSAI Certificate, you will need to apply for a modification with a fee equivalent to a license fee for one-year. To get free legal guidance on the related matters, <a href="https://www.onlinelegalindia.com/services/fssai-registration/">connect with an FSSAI expert panel.</a> </p>
+            <p class="child-ans-text">In case you want to edit/modify/update the information contained in the existing FSSAI Certificate, you will need to apply for a modification with a fee equivalent to a license fee for one-year. To get free legal guidance on the related matters, <a href="https://www.foundida.com/services/fssai-registration/">connect with an FSSAI expert panel.</a> </p>
          </div>
          <div data-port-id="child_ans_div_17" class="accordaion-main-div">
             <h4 class="accordion-cus-head">Is the FoSCos license needed for a catering business authorized by the Central Government?</h4>
@@ -2286,18 +2286,18 @@ width:70%;
                 <div class="card card-body">
                     <ul class="footer_links">
                         <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/private-company-registration/">Private Limited Company</a>
+                            <a href="https://www.foundida.com/services/company-registration/private-company-registration/">Private Limited Company</a>
                         </li> -->
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/private-company-registration/">Private Limited Company</a>
+                            <a href="https://www.foundida.com/services/company-registration/private-company-registration/">Private Limited Company</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/llp-partnership/">Limited
+                            <a href="https://www.foundida.com/services/company-registration/llp-partnership/">Limited
                                 Liability Partnership</a>
                         </li>
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/one-person-company-registration/">One
+                                href="https://www.foundida.com/services/company-registration/one-person-company-registration/">One
                                 Person Company</a>
                         </li>
                         <!-- <li>
@@ -2307,12 +2307,12 @@ width:70%;
                         </li> -->
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/public-limited-company/">Public
+                                href="https://www.foundida.com/services/company-registration/public-limited-company/">Public
                                 limited Company</a>
                         </li>
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/section-8-company-registration/">Section
+                                href="https://www.foundida.com/services/company-registration/section-8-company-registration/">Section
                                 8 Company</a>
                         </li>
                     </ul>
@@ -2331,35 +2331,35 @@ width:70%;
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/fssai-registration/">FSSAI [Food
+                            <a href="https://www.foundida.com/services/fssai-registration/">FSSAI [Food
                                 License]</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/fssai-renewal/">FSSAI Renewal</a>
+                            <a href="https://www.foundida.com/services/fssai-renewal/">FSSAI Renewal</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-iec-code-import-export-license/">IEC
+                            <a href="https://www.foundida.com/services/online-iec-code-import-export-license/">IEC
                                 [Import/Export Code]</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/iec-certificate-modification/">IEC
+                            <a href="https://www.foundida.com/services/iec-certificate-modification/">IEC
                                 Certificate Modification</a>
                         </li>
 
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/bis-certificate/">BIS Certificate</a>
+                            <a href="https://www.foundida.com/services/bis-certificate/">BIS Certificate</a>
                         </li>
 
 
 
                         <li>
-                            <!-- <a  href="https://www.onlinelegalindia.com/services/online-apeda-registration/">Apeda Registration</a> -->
-                            <!-- <a  href="https://www.onlinelegalindia.com/contact/">Apeda Registration</a> -->
+                            <!-- <a  href="https://www.foundida.com/services/online-apeda-registration/">Apeda Registration</a> -->
+                            <!-- <a  href="https://www.foundida.com/contact/">Apeda Registration</a> -->
                         </li>
                         <li>
 
                             <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/hard-copy-certificate/">Hard-Copy
+                            <a href="https://www.foundida.com/services/hard-copy-certificate/">Hard-Copy
                                 License</a>
                         </li> -->
 
@@ -2380,22 +2380,22 @@ width:70%;
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-registration/">TM
+                            <a href="https://www.foundida.com/services/trademark-registration/">TM
                                 Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-objection-reply/">TM
+                            <a href="https://www.foundida.com/services/trademark-objection-reply/">TM
                                 Objection</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-renewal/">TM Renewal</a>
+                            <a href="https://www.foundida.com/services/trademark-renewal/">TM Renewal</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-copyright-registration/">Copyright
+                            <a href="https://www.foundida.com/services/online-copyright-registration/">Copyright
                                 Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/iso-registration/">ISO
+                            <a href="https://www.foundida.com/services/iso-registration/">ISO
                                 Registration</a>
                         </li>
                     </ul>
@@ -2414,16 +2414,16 @@ width:70%;
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-registration/">GST Registration</a>
+                            <a href="https://www.foundida.com/services/gst-registration/">GST Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-return-filing/">GST Filing</a>
+                            <a href="https://www.foundida.com/services/gst-return-filing/">GST Filing</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-modification/">GST Modification</a>
+                            <a href="https://www.foundida.com/services/gst-modification/">GST Modification</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-cancellation/">GST Cancellation</a>
+                            <a href="https://www.foundida.com/services/gst-cancellation/">GST Cancellation</a>
                         </li>
                     </ul>
                 </div>
@@ -2441,19 +2441,19 @@ width:70%;
                 <div class="card card-body">
                     <ul class="footer_links">
                         <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/oliaccountant/">Online Accountant</a>
+                            <a href="https://www.foundida.com/services/oliaccountant/">Online Accountant</a>
                         </li> -->
                         <li>
                             <!-- <a href="">PF
                                 Registration</a> -->
-                            <a href="https://www.onlinelegalindia.com/services/online-tax-pfesi-registration/">PF-ESIC Registration</a>
+                            <a href="https://www.foundida.com/services/online-tax-pfesi-registration/">PF-ESIC Registration</a>
                         </li>
                         <li>
                             <!-- <a href="">PF Return</a> -->
-                            <a href="https://www.onlinelegalindia.com/services/online-tax-pfesi-return/">PF-ESIC Return Filing </a>
+                            <a href="https://www.foundida.com/services/online-tax-pfesi-return/">PF-ESIC Return Filing </a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-bookkeeping-service/">Online
+                            <a href="https://www.foundida.com/services/online-bookkeeping-service/">Online
                                 Bookkeeping</a>
                         </li>
 
@@ -2475,13 +2475,13 @@ width:70%;
 <div class="row">
     <div class="right_side">
         <div class="textwidget">
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/footer-logo.png" alt="logo" style="margin-left: -13px;"> -->
-            <!-- 30-12-2022_bkp<img class="footer_black_img" src="https://www.onlinelegalindia.com/images/logo6-1.svg" alt="logo" style="margin-left: -13px; width: 250px;"> -->
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/fastinfo-group.svg" alt="logo"
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/footer-logo.png" alt="logo" style="margin-left: -13px;"> -->
+            <!-- 30-12-2022_bkp<img class="footer_black_img" src="https://www.foundida.com/images/logo6-1.svg" alt="logo" style="margin-left: -13px; width: 250px;"> -->
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/fastinfo-group.svg" alt="logo"
                 style="margin-left: -13px; width: 250px;"> -->
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/Online-legal-india-republic.png" alt="logo" style="margin-left: -13px; width: 250px;"> -->
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/Online-legal-india-republic.png" alt="logo" style="margin-left: -13px; width: 250px;"> -->
             <p>
-                <strong>Online Legal India is a part of FastInfo Legal Services Pvt Ltd. Which is registered under the Companies Act, 2013.</strong>
+                <strong>Foundida is a part of FastInfo Legal Services Pvt Ltd. Which is registered under the Companies Act, 2013.</strong>
             </p>
 
         </div>
@@ -2517,20 +2517,20 @@ width:70%;
         <p class="social_title cstm_align" style="margin: 0;">Follow Us</p>
         <div class="social_contacts">
                             <div class="social_icons">
-                    <!-- <a href="https://www.facebook.com/OnlineLegalIndia/"><i class="fab fa-facebook-f"></i></a>
-                          <a href="mailto:info@onlinelegalindia.com"><i class="fab fa-google-plus-g"></i></a> -->
-                    <a href="https://www.facebook.com/OnlineLegalIndia/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/facebook.webp" alt="Facebook"></a>
+                    <!-- <a href="https://www.facebook.com/Foundida/"><i class="fab fa-facebook-f"></i></a>
+                          <a href="mailto:info@foundida.com"><i class="fab fa-google-plus-g"></i></a> -->
+                    <a href="https://www.facebook.com/Foundida/" target="_blank"><img
+                            src="https://www.foundida.com/images/facebook.webp" alt="Facebook"></a>
                     <a href="https://twitter.com/onlinelegalind" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/twitter.webp" alt="Twitter"></a>
+                            src="https://www.foundida.com/images/twitter.webp" alt="Twitter"></a>
                     <a href="https://www.linkedin.com/company/online-legal-india/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/linkedin.webp" alt="Linkedin"></a>
-                    <a href="https://www.instagram.com/online_legal_india/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/instagram.webp" alt="Instagram"></a>
-                    <a href="mailto:info@onlinelegalindia.com"><img src="https://www.onlinelegalindia.com/images/email.webp"
+                            src="https://www.foundida.com/images/linkedin.webp" alt="Linkedin"></a>
+                    <a href="https://www.instagram.com/foundida/" target="_blank"><img
+                            src="https://www.foundida.com/images/instagram.webp" alt="Instagram"></a>
+                    <a href="mailto:info@foundida.com"><img src="https://www.foundida.com/images/email.webp"
                             alt="Email"></a>
-                    <a href="https://www.youtube.com/c/OnlineLegalIndia" target="_blank"><img class="icons"
-                            src="https://www.onlinelegalindia.com/images/youtube.webp" alt="youtube icon"></a>
+                    <a href="https://www.youtube.com/c/Foundida" target="_blank"><img class="icons"
+                            src="https://www.foundida.com/images/youtube.webp" alt="youtube icon"></a>
 
 
                 </div>
@@ -2542,11 +2542,11 @@ width:70%;
 
         <div class="app_link_block_holder">
             <ul>
-                <li><a href="https://play.google.com/store/apps/details?id=onlinelegalindia.com.onlinelegalindia"
-                        target="_blank"><img src="https://www.onlinelegalindia.com/images/google-play.webp"
+                <li><a href="https://play.google.com/store/apps/details?id=foundida.com.foundida"
+                        target="_blank"><img src="https://www.foundida.com/images/google-play.webp"
                             alt="Google Play"></a></li>
                 <li><a href="https://apps.apple.com/in/app/online-legal-india/id1573385779" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/app-store.webp" alt="App Store"></a></li>
+                            src="https://www.foundida.com/images/app-store.webp" alt="App Store"></a></li>
             </ul>
         </div>
     </div>
@@ -2557,13 +2557,13 @@ width:70%;
         <div class="quick_links">
             <ul>
                 <li><a id="careers" target="_blank" href="https://www.fastinfo.com/career">Careers</a></li>
-                <li><a href="https://www.onlinelegalindia.com/contact/">Contact Us</a></li>
-                <li><a href="https://www.onlinelegalindia.com/blogs/">Blogs</a></li>
-                <!-- <li><a href="https://www.onlinelegalindia.com/customer_complain/">Report an Issue</a></li> -->
-                <li><a href="https://www.onlinelegalindia.com/news/">News</a></li>
-                <li><a href="https://www.onlinelegalindia.com/about/">About Us</a></li>
-                <li><a href="https://www.onlinelegalindia.com/press-release/">Press Release</a></li>
-                <li id="event-link"><a href="https://www.onlinelegalindia.com/services/founders-discussion-table/">Event</a></li>
+                <li><a href="https://www.foundida.com/contact/">Contact Us</a></li>
+                <li><a href="https://www.foundida.com/blogs/">Blogs</a></li>
+                <!-- <li><a href="https://www.foundida.com/customer_complain/">Report an Issue</a></li> -->
+                <li><a href="https://www.foundida.com/news/">News</a></li>
+                <li><a href="https://www.foundida.com/about/">About Us</a></li>
+                <li><a href="https://www.foundida.com/press-release/">Press Release</a></li>
+                <li id="event-link"><a href="https://www.foundida.com/services/founders-discussion-table/">Event</a></li>
             </ul>
             <span class="grievance" style="">For any grievance mail to: <a
                     href="mailto:complain@fastinfo.com">complain@fastinfo.com</a></span>
@@ -2577,10 +2577,16 @@ width:70%;
         <!-- /.container -->
     </footer>
 </section>
+
+    <!-- Redesigned Shared Components -->
+    @include('layouts.ceo_desk')
+    @include('layouts.events')
+    @include('layouts.why_us')
+
 @endsection
 
 @section('scripts')
-<script type='text/javascript' src='https://www.onlinelegalindia.com/js/main.js'></script>
+<script type='text/javascript' src='https://www.foundida.com/js/main.js'></script>
 
 <script>
     $("input[name='is_prompted_whatsapp']").on("change", function() {
@@ -2644,7 +2650,7 @@ width:70%;
                 email = $('#send_WhatsApp').find('.wa_email').val(),
                 mobile = $('#send_WhatsApp').find('.wa_mobile').val();
             $.ajax({
-                url: "https://www.onlinelegalindia.com/payment/storeWhatsApp.php",
+                url: "https://www.foundida.com/payment/storeWhatsApp.php",
                 method: 'post',
                 data: {
                     name: name,
@@ -2871,7 +2877,7 @@ width:70%;
     function setCookie(a, d, b) {
         var c = new Date;
         c.setTime(c.getTime() + 864E5 * b);
-        b = "; expires=" + c.toGMTString() + "domain=onlinelegalindia.com;path=/;SameSite=None;Secure";
+        b = "; expires=" + c.toGMTString() + "domain=foundida.com;path=/;SameSite=None;Secure";
         document.cookie = a + "=" + d + b
     }
 
@@ -3054,7 +3060,7 @@ width:70%;
     // Common sender
     function logErrorToServer(payload) {
         try {
-            $.post("https://www.onlinelegalindia.com/feed_errorlog.php", {
+            $.post("https://www.foundida.com/feed_errorlog.php", {
                 error_src: payload.type || "unknown",
                 error_desc: JSON.stringify(payload),
                 landing_page: window.location.href,
@@ -3304,7 +3310,7 @@ width:70%;
             if (data.success) {
                btn.html('Redirecting to Payment Lobby...');
                alert(data.msg);
-               window.location.href = 'https://www.onlinelegalindia.com/payment/payment-lobby.php?oli-id=' + oli_id;
+               window.location.href = 'https://www.foundida.com/payment/payment-lobby.php?oli-id=' + oli_id;
             } else {
                alert(data.msg);
                window.history.back();

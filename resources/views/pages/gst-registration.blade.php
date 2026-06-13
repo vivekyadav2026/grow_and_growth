@@ -2,15 +2,15 @@
 
 @section('meta')
 <title>GST Registration Online Assistance | Apply for GST Number in India</title>
-<meta name="description" content="Apply for GST online with Online Legal India and get assistance with GST registration. Get support with GSTIN, fees check, and eligibility verification.">
+<meta name="description" content="Apply for GST online with Foundida and get assistance with GST registration. Get support with GSTIN, fees check, and eligibility verification.">
 <meta name="keywords" content="gst registration, gst apply online, new gst registration, gst registration portal">
-<link rel="canonical" href="https://www.onlinelegalindia.com/services/gst-registration/" />
+<link rel="canonical" href="https://www.foundida.com/services/gst-registration/" />
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.onlinelegalindia.com/services/gst-registration/">
-<meta property="og:image" content="https://www.onlinelegalindia.com/images/gst_No_Free.webp">
+<meta property="og:url" content="https://www.foundida.com/services/gst-registration/">
+<meta property="og:image" content="https://www.foundida.com/images/gst_No_Free.webp">
 <meta property="og:title" content="GST Registration Online Assistance | Apply for GST Number in India">
-<meta property="og:site_name" content="OnlineLegalIndia">
-<meta property="og:description" content="Apply for GST online with Online Legal India and get assistance with GST registration. Get support with GSTIN, fees check, and eligibility verification.">
+<meta property="og:site_name" content="Foundida">
+<meta property="og:description" content="Apply for GST online with Foundida and get assistance with GST registration. Get support with GSTIN, fees check, and eligibility verification.">
 <meta property="og:locale" content="en-IN">
 <script type="application/ld+json">
   {
@@ -20,19 +20,19 @@
         "@@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.onlinelegalindia.com/"
+        "item": "https://www.foundida.com/"
       },
       {
         "@@type": "ListItem",
         "position": 2,
         "name": "Services",
-        "item": "https://www.onlinelegalindia.com/services/"
+        "item": "https://www.foundida.com/services/"
       },
       {
         "@@type": "ListItem",
         "position": 3,
         "name": "GST Registration",
-        "item": "https://www.onlinelegalindia.com/services/gst-registration/"
+        "item": "https://www.foundida.com/services/gst-registration/"
       }
     ]
   }
@@ -53,7 +53,7 @@
       "name": "Will I be eligible to file the GST Returns?",
       "acceptedAnswer": {
         "@@type": "Answer",
-        "text": "Yes! With the free GST Registration services, Online Legal India also provides three different packages to file the GST Returns on-time for the GST registered business individuals in India."
+        "text": "Yes! With the free GST Registration services, Foundida also provides three different packages to file the GST Returns on-time for the GST registered business individuals in India."
       }
     }, {
       "@@type": "Question",
@@ -105,7 +105,7 @@
       "name": "Do I need to visit the GST Department with papers for any purpose?",
       "acceptedAnswer": {
         "@@type": "Answer",
-        "text": "No, you don’t. Online Legal India looks after each and every procedure. You don’t need to visit any Govt. office. You just have to simply register on our official website and get your GST registration done at ease"
+        "text": "No, you don’t. Foundida looks after each and every procedure. You don’t need to visit any Govt. office. You just have to simply register on our official website and get your GST registration done at ease"
       }
     }, {
       "@@type": "Question",
@@ -232,14 +232,14 @@
       "name": "How to Choose HSN or SAC Code during GST Registration?",
       "acceptedAnswer": {
         "@@type": "Answer",
-        "text": "HSN or SAC code refers to Goods and Services code. At Online Legal India, the GST expert helps you to choose the suitable HSN or SAC Code after getting the details about the business."
+        "text": "HSN or SAC code refers to Goods and Services code. At Foundida, the GST expert helps you to choose the suitable HSN or SAC Code after getting the details about the business."
       }
     }, {
       "@@type": "Question",
       "name": "Do I need to be physically present during the GST registration?",
       "acceptedAnswer": {
         "@@type": "Answer",
-        "text": "Online Legal India offers the entire GST Registration service online. You don’t need to be physically present during the registration. You only need a device (phone/computer), internet and required documents. We will get the job done for you, even if you are at the remotest location of the country."
+        "text": "Foundida offers the entire GST Registration service online. You don’t need to be physically present during the registration. You only need a device (phone/computer), internet and required documents. We will get the job done for you, even if you are at the remotest location of the country."
       }
     }, {
       "@@type": "Question",
@@ -299,7 +299,7 @@
       }
     }, {
       "@@type": "Question",
-      "name": "How do I have to send my documents to Online Legal India?",
+      "name": "How do I have to send my documents to Foundida?",
       "acceptedAnswer": {
         "@@type": "Answer",
         "text": "We accept documents over e-mail and whatsapp. Don’t worry, we have a 100% confidential policy and once the job is done, we will delete the documents from our system."
@@ -327,11 +327,11 @@
       font-size: 16px;
    }
 </style>
-   <!--      <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/bootstrap.min.css">-->
-   <!-- <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/cut.css"> -->
-   <!-- <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/alternative-contact-popup.css"> -->
-   <!-- <link rel="stylesheet" href="https://www.onlinelegalindia.com/css/brands.min.css"> -->
-   <!-- <link rel="stylesheet" href="https://www.onlinelegalindia.com/css/solid.min.css"> -->
+   <!--      <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/bootstrap.min.css">-->
+   <!-- <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/cut.css"> -->
+   <!-- <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/alternative-contact-popup.css"> -->
+   <!-- <link rel="stylesheet" href="https://www.foundida.com/css/brands.min.css"> -->
+   <!-- <link rel="stylesheet" href="https://www.foundida.com/css/solid.min.css"> -->
 @endsection
 
 @section('content')
@@ -395,7 +395,7 @@
 
    <section class="from_order_change_one from_order_change_one_destop">
       <a href="#contact">
-         <img class="img-fluid" style="width: 100%" src="https://www.onlinelegalindia.com/images/gst-registration/gst-registration-desktop-banner.webp" alt=" GST registration">
+         <img class="img-fluid" style="width: 100%" src="https://www.foundida.com/images/gst-registration/gst-registration-desktop-banner.webp" alt=" GST registration">
       </a>
    </section>
 
@@ -403,7 +403,7 @@
       <div class="row">
          <div class="container">
             <div class="col-sm-12 col-md-12 col-xs-12">
-               <h1 class="title">Apply for GST Registration with Experts Assistance by Online Legal India </h1>
+               <h1 class="title">Apply for GST Registration with Experts Assistance by Foundida </h1>
             </div>
             <div class="title-content">
                <p>Get 360° Online Assistance from India’s recommended Business Taxation Experts in GST Registration to Filing the Mandatory GST Returns Annually</p>
@@ -427,10 +427,10 @@
 
                      <h3 class="styletrademarkformheader">Need Help with GST Registration?</h3>
                      <h4>Fill Up the below Mentioned Form</h4>
-                     <form id="" class="oli-validate-form" action="https://www.onlinelegalindia.com/payment/submit_gst-registration-or.php" method="post" enctype="multipart/form-data">
+                     <form id="" class="oli-validate-form" action="https://www.foundida.com/payment/submit_gst-registration-or.php" method="post" enctype="multipart/form-data">
 
                         <input type="hidden" id="gclid_field" name="gclid_field" value="">
-                        <input type="hidden" id="landing_uri" name="landing_uri" value="https://www.onlinelegalindia.com/services/gst-registration/">
+                        <input type="hidden" id="landing_uri" name="landing_uri" value="https://www.foundida.com/services/gst-registration/">
 
 
                         <ul id="progressbar">
@@ -563,8 +563,8 @@
                               </div>
 
                               <div class="captcha_box">
-                                 <img id="captcha_holder" src="https://www.onlinelegalindia.com/payment/captcha.php" alt="Captcha">
-                                 <img src="https://www.onlinelegalindia.com/images/capta.webp" id="btnrefresh" alt="Captcha">
+                                 <img id="captcha_holder" src="https://www.foundida.com/payment/captcha.php" alt="Captcha">
+                                 <img src="https://www.foundida.com/images/capta.webp" id="btnrefresh" alt="Captcha">
                                  <input type="text" name="captcha_code" id="captcha_code" class="pull-right" maxlength="4"
                                     onkeyup="this.value = this.value.replace(/[^\d]+/g, '');" placeholder="Enter the captcha here..">
                               </div>
@@ -588,7 +588,7 @@
             <div class="pull-right col-md-6 col-sm-12">
 
                <div class="gst_from_image_destop">
-                  <img class="img-fluid" style="width: 100%" src="https://www.onlinelegalindia.com/images/gst-registration/gst-form-image.webp" alt="gst-form-image">
+                  <img class="img-fluid" style="width: 100%" src="https://www.foundida.com/images/gst-registration/gst-form-image.webp" alt="gst-form-image">
                </div>
             </div>
 
@@ -599,14 +599,14 @@
    <section class="new_section_from_order_banner">
       <a href="#contact">
          <img class="img-fluid" style="width: 100%"
-            src="https://www.onlinelegalindia.com/images/gst-registration/gst-registration-banner-mobile.webp" alt=" GST registration">
+            src="https://www.foundida.com/images/gst-registration/gst-registration-banner-mobile.webp" alt=" GST registration">
       </a>
       <section class="from_order_change_two new_section_display_modification">
          <div class="row">
             <div class="container">
 
                <div class="col-sm-12 col-md-12 col-xs-12">
-                  <h2 class="title">GST Registration with the Experts of Online Legal India | One Day Process</h2>
+                  <h2 class="title">GST Registration with the Experts of Foundida | One Day Process</h2>
                </div>
                <div class="title-content">
                   <p>Get 360° Online Assistance from India’s recommended Business Taxation Experts in GST Filing and
@@ -618,7 +618,7 @@
       </section>
       <div class="gst_from_image_mobile">
          <img class="img-fluid" style="width: 100%"
-            src="https://www.onlinelegalindia.com/images/gst-registration/gst-form-image.webp" alt="gst-form-image">
+            src="https://www.foundida.com/images/gst-registration/gst-form-image.webp" alt="gst-form-image">
       </div>
    </section>
 
@@ -627,7 +627,7 @@
          <div class="row bohgstn_custom_row">
             <div class="col-md-6 bohgstn_custom_row_one">
                <div class="benefits_of_having_gst_number_left">
-                  <img class="img-fluid" style="width: 100%" src="https://www.onlinelegalindia.com/images/gst-registration/gst-benefits-image.webp" alt=" GST registration">
+                  <img class="img-fluid" style="width: 100%" src="https://www.foundida.com/images/gst-registration/gst-benefits-image.webp" alt=" GST registration">
                </div>
             </div>
             <div class="col-md-6 bohgstn_custom_row_two">
@@ -707,7 +707,7 @@
       <div class="gst_overview_text">
          <p>Businesses must register as regular taxable persons under the Goods and Services Tax (GST) if their annual revenue exceeds the threshold limit of Rs. 40 lakhs (in case of goods), Rs. 20 lakhs (in case of services), or Rs. 10 lakhs, as applicable. GST registration is the term for it.</p>
          <p>It is mandatory to generate the GSTIN if annual turnover exceeds the above prescribed limit. If the company conducts business without registering for GST, it is an offence and faces severe penalties.</p>
-         <p>It typically takes 4 to 6 working days to register for GST. In 3 simple steps, Team Online Legal India can assist you in obtaining GST registration more quickly.</p>
+         <p>It typically takes 4 to 6 working days to register for GST. In 3 simple steps, Team Foundida can assist you in obtaining GST registration more quickly.</p>
       </div>
    </div>
 </section>
@@ -841,7 +841,7 @@
    <div class="">
       <div class="gst_question_area">
          <div class="gst_question_left">
-            <img src="https://www.onlinelegalindia.com/services/gst-registration/image/gst-gstin-gstn.webp" alt="GST Return and GSTN">
+            <img src="https://www.foundida.com/services/gst-registration/image/gst-gstin-gstn.webp" alt="GST Return and GSTN">
          </div>
          <div class="gst_question_right">
             <div class="gst_question_box">
@@ -869,14 +869,14 @@
       <div class="row bgstr_block">
          <div class="col-md-4 col-xs-6">
             <div class="penalty_info">
-               <img src="	https://www.onlinelegalindia.com/services/fssai-registration/image/tick_round.webp" alt="tick">
+               <img src="	https://www.foundida.com/services/fssai-registration/image/tick_round.webp" alt="tick">
                <h4>Simplifies taxation services</h4>
                <p>The GST has integrated the Indian market by bringing together several indirect taxes under a single roof.</p>
             </div>
          </div>
          <div class="col-md-4 col-xs-6">
             <div class="penalty_info">
-               <img src="	https://www.onlinelegalindia.com/services/fssai-registration/image/tick_round.webp" alt="tick">
+               <img src="	https://www.foundida.com/services/fssai-registration/image/tick_round.webp" alt="tick">
                <h4>Reduction in costs of products & services</h4>
                <p>The cascading impact of numerous taxes and VATs was eliminated by implementing GST, which decreased the cost of goods and services.</p>
             </div>
@@ -884,28 +884,28 @@
 
          <div class="col-md-4 col-xs-6">
             <div class="penalty_info">
-               <img src="	https://www.onlinelegalindia.com/services/fssai-registration/image/tick_round.webp" alt="tick">
+               <img src="	https://www.foundida.com/services/fssai-registration/image/tick_round.webp" alt="tick">
                <h4>Helps avoid lengthy taxation services</h4>
                <p>Small businesses benefit from GST registration since it lets them avoid time-consuming tax services. Since service providers and product suppliers with annual sales of under 20 lakh rupees and 40 lakh rupees, respectively, are exempt from paying the GST.</p>
             </div>
          </div>
          <div class="col-md-4 col-xs-6">
             <div class="penalty_info">
-               <img src="	https://www.onlinelegalindia.com/services/fssai-registration/image/tick_round.webp" alt="tick">
+               <img src="	https://www.foundida.com/services/fssai-registration/image/tick_round.webp" alt="tick">
                <h4>Aimed at reducing corruption and sales without receipts</h4>
                <p>The GST was implemented with the intention of eliminating fraud and un-receipted sales. Additionally, it assists in lowering the amount of indirect taxes that small businesses must pay.</p>
             </div>
          </div>
          <div class="col-md-4 col-xs-6">
             <div class="penalty_info">
-               <img src="	https://www.onlinelegalindia.com/services/fssai-registration/image/tick_round.webp" alt="tick">
+               <img src="	https://www.foundida.com/services/fssai-registration/image/tick_round.webp" alt="tick">
                <h4>Uniformity in the taxation process</h4>
                <p>GST registration provides for centralised registration and brings uniformity to the taxation process. This makes it easier for businesses to submit their quarterly tax returns online.</p>
             </div>
          </div>
          <div class="col-md-4 col-xs-6">
             <div class="penalty_info">
-               <img src="	https://www.onlinelegalindia.com/services/fssai-registration/image/tick_round.webp" alt="tick">
+               <img src="	https://www.foundida.com/services/fssai-registration/image/tick_round.webp" alt="tick">
                <h4>Composition scheme for small businesses</h4>
                <p>Small businesses with revenue between up to Rs. 1.5 crores can gain from the GST because it offers the possibility to reduce taxes by using the Composition scheme. The tax and compliance burden for many small firms has decreased as a result of this action.</p>
             </div>
@@ -920,7 +920,7 @@
          <div class="penalty_sec_grid_div">
             <div class="penalti_box">
                <h4 class="requirements_head">GST Registration Fees</h4>
-               <p class="req_detail">The lengthy 11-step procedure of registering for GST necessitates the submission of numerous business details and scanned documents. Although there are no fees specified by the GST law for self-register on the GST system, purchasing the GST registration plan with Online Legal India can save you a tonne of time and hassle. You can choose Online Legal India’s GST Registration services, where a GST Expert will help you with GST Registration from beginning to end.</p>
+               <p class="req_detail">The lengthy 11-step procedure of registering for GST necessitates the submission of numerous business details and scanned documents. Although there are no fees specified by the GST law for self-register on the GST system, purchasing the GST registration plan with Foundida can save you a tonne of time and hassle. You can choose Foundida’s GST Registration services, where a GST Expert will help you with GST Registration from beginning to end.</p>
             </div>
          </div>
          <div class="penalty_sec_grid_div">
@@ -939,7 +939,7 @@
       <div class="row">
          <div class="col-sm-12 col-md-12 margin-bottom new_center">
             <div class="">
-               <img src="https://www.onlinelegalindia.com/images/Google-cust 2 1.webp" alt="Google Review">
+               <img src="https://www.foundida.com/images/Google-cust 2 1.webp" alt="Google Review">
                <h3 style="font-size: 32px;">Customer Reviews</h3>
             </div>
          </div>
@@ -951,7 +951,7 @@
                         <img src="../../images/stars-5-tp.svg" alt="5 Star">
                      </span>
                      <h3>Regarding GST registration</h3>
-                     <p>I had been postponing my GST registration due to the complicated paperwork, but Online Legal India made the process super smooth! Their team guided me at every step and handled all the legal formalities. I got my GST certificate before my expected date. Highly recommend their services to all new business owners.</p>
+                     <p>I had been postponing my GST registration due to the complicated paperwork, but Foundida made the process super smooth! Their team guided me at every step and handled all the legal formalities. I got my GST certificate before my expected date. Highly recommend their services to all new business owners.</p>
                      <h4><span>Customer Name</span>Mudabbir Jairajpuri </h4>
                   </div>
                </div> -->
@@ -961,7 +961,7 @@
                         <img src="../../images/stars-5-tp.svg" alt="5 Star">
                      </span>
                      <h3>Your service regarding GST…</h3>
-                     <p>Online Legal India provided a transparent pricing structure with no hidden charges. The team explained the entire process before beginning, and I could track the status of my GST registration online. It was a completely stress-free experience. Will definitely use their services again!</p>
+                     <p>Foundida provided a transparent pricing structure with no hidden charges. The team explained the entire process before beginning, and I could track the status of my GST registration online. It was a completely stress-free experience. Will definitely use their services again!</p>
                      <h4><span>Customer Name</span>Mohd Ziya </h4>
                   </div>
                </div>
@@ -971,7 +971,7 @@
                         <img src="../../images/stars-5-tp.svg" alt="5 Star">
                      </span>
                      <h3>My GST registration…</h3>
-                     <p>As a small business owner, I was confused about GST requirements. Online Legal India not only completed my registration but also educated me about compliance and return filing. Their step-by-step guidance was a big relief. Great service for entrepreneurs!</p>
+                     <p>As a small business owner, I was confused about GST requirements. Foundida not only completed my registration but also educated me about compliance and return filing. Their step-by-step guidance was a big relief. Great service for entrepreneurs!</p>
                      <h4><span>Customer Name</span>Gaurav Roy </h4>
                   </div>
                </div>
@@ -981,7 +981,7 @@
                         <img src="../../images/stars-5-tp.svg" alt="5 Star">
                      </span>
                      <h3>Best GST registration company</h3>
-                     <p>I found Online Legal India through a Google search and decided to give it a try. To my surprise, the process was incredibly quick. I uploaded my documents online, and the rest was handled efficiently. Kudos to the team for delivering what they promise!</p>
+                     <p>I found Foundida through a Google search and decided to give it a try. To my surprise, the process was incredibly quick. I uploaded my documents online, and the rest was handled efficiently. Kudos to the team for delivering what they promise!</p>
                      <h4><span>Customer Name</span>Santanu Das </h4>
                   </div>
                </div>
@@ -991,7 +991,7 @@
                         <img src="../../images/stars-5-tp.svg" alt="5 Star">
                      </span>
                      <h3>Deserves quality beyond stars for the service rendered</h3>
-                     <p>Being a busy trader, I didn't have time to run around for GST registration. Online Legal India’s team handled everything professionally and saved me so much time. Their service is perfect for people who want fast results without any legal headache.</p>
+                     <p>Being a busy trader, I didn't have time to run around for GST registration. Foundida’s team handled everything professionally and saved me so much time. Their service is perfect for people who want fast results without any legal headache.</p>
                      <h4><span>Customer Name</span>Ega Srinivas </h4>
                   </div>
                </div> -->
@@ -1200,11 +1200,11 @@
             <div class="row custtmm_rww">
                 <div class="col-md-4 col-xs-4">
                     <div class="new_md_section_left">
-                        <img src="https://www.onlinelegalindia.com/images/banner/md-new3.webp" alt="Rajesh Kewat">
+                        <img src="https://www.foundida.com/images/banner/md-new3.webp" alt="Rajesh Kewat">
                     </div>
                     <div class="new_md_section_left_text">
                         <h4>Rajesh Kewat</h4>
-                        <p>The Founder & CEO of Online Legal India, Mr. Rajesh Kewat actually had the courage to sacrifice his well paid job at Oxford and turn his startup dream into a multi crore turnover company.</p>
+                        <p>The Founder & CEO of Foundida, Mr. Rajesh Kewat actually had the courage to sacrifice his well paid job at Oxford and turn his startup dream into a multi crore turnover company.</p>
                     </div>
                 </div>
                 <div class="col-md-8 col-xs-8">
@@ -1212,17 +1212,17 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/about-us/zeenews.webp" alt="Zee News">
+                                <img src="https://www.foundida.com/images/about-us/zeenews.webp" alt="Zee News">
                             </div>
                             <div class="nmsr_block_text">
-                                <p>Meet Rajesh Kewat, The Small Town Entrepreneur Behind Online Legal India's Success</p>
+                                <p>Meet Rajesh Kewat, The Small Town Entrepreneur Behind Foundida's Success</p>
                             </div>
 
                         </div>
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/Ted-x.webp" alt="TEDx">
+                                <img src="https://www.foundida.com/images/Ted-x.webp" alt="TEDx">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>From Rs. 2000 Salary to Multi-Crore Turnover Company | Rajesh Kewat | TEDxPradhikaran.</p>
@@ -1232,7 +1232,7 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/about-us/footer-forbes-logo-new.webp" alt="Forbes">
+                                <img src="https://www.foundida.com/images/about-us/footer-forbes-logo-new.webp" alt="Forbes">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>Mr. Rajesh Kewat getting featured in the special edition of Forbes India Magazine - Showstoppers 2022-23</p>
@@ -1242,7 +1242,7 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/Asia_One.webp" alt="Asia One">
+                                <img src="https://www.foundida.com/images/Asia_One.webp" alt="Asia One">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>Rajesh Kewat, the MD of FastInfo Legal Services Pvt Ltd, owns a movie-like story; a man who lost everything for his love & attained great success within just 500 days with his innovative business.</p>
@@ -1252,7 +1252,7 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/midday9999.webp" alt="Mid Day">
+                                <img src="https://www.foundida.com/images/midday9999.webp" alt="Mid Day">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>Rajesh Kewat Conferred with Businessman of the Year Award at Brands Impact NFA 2022.</p>
@@ -1263,9 +1263,9 @@
                             <div class="new_past_exprience">
                                 <h5>Past Experiences</h5>
                                 <div class="new_past_exprience_inner">
-                                    <img src="https://www.onlinelegalindia.com/images/oxford.webp" alt="Oxford">
-                                    <img src="https://www.onlinelegalindia.com/images/Pearson_logo.webp" alt="Pearson" class="pearson">
-                                    <img src="https://www.onlinelegalindia.com/images/educomp_logo_1.webp" alt="Educamp">
+                                    <img src="https://www.foundida.com/images/oxford.webp" alt="Oxford">
+                                    <img src="https://www.foundida.com/images/Pearson_logo.webp" alt="Pearson" class="pearson">
+                                    <img src="https://www.foundida.com/images/educomp_logo_1.webp" alt="Educamp">
                                 </div>
                             </div>
                         </div>
@@ -1321,7 +1321,7 @@
                      <div class="hexagon_box">
                         <div class="hexagon">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/happy_customers.svg" alt="Happy Customers" />
+                              <img src="https://www.foundida.com/services/include/image/happy_customers.svg" alt="Happy Customers" />
                            </i>
                            <p>5 Lakh+ Happy Clients Across India</p>
                         </div>
@@ -1331,7 +1331,7 @@
                      <div class="hexagon_box">
                         <div class="hexagon iso_sign">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/iso-mark.webp" alt="ISO" />
+                              <img src="https://www.foundida.com/services/include/image/iso-mark.webp" alt="ISO" />
                            </i>
                            <p>ISO Certified</p>
                         </div>
@@ -1341,7 +1341,7 @@
                      <div class="hexagon_box">
                         <div class="hexagon">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/data_security.svg" alt="Data Security" />
+                              <img src="https://www.foundida.com/services/include/image/data_security.svg" alt="Data Security" />
                            </i>
                            <p>Data Security & Trust</p>
                         </div>
@@ -1351,7 +1351,7 @@
                      <div class="hexagon_box">
                         <div class="hexagon">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/experts.svg" alt="Experts" />
+                              <img src="https://www.foundida.com/services/include/image/experts.svg" alt="Experts" />
                            </i>
                            <p>Trained & Professional Experts</p>
                         </div>
@@ -1361,7 +1361,7 @@
                      <div class="hexagon_box">
                         <div class="hexagon">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/on-time.svg" alt="On Time" />
+                              <img src="https://www.foundida.com/services/include/image/on-time.svg" alt="On Time" />
                            </i>
                            <p>On Time Service </p>
                         </div>
@@ -1371,7 +1371,7 @@
                      <div class="hexagon_box">
                         <div class="hexagon">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/quick.svg" alt="Quick" />
+                              <img src="https://www.foundida.com/services/include/image/quick.svg" alt="Quick" />
                            </i>
                            <p>Super Fast Service</p>
                         </div>
@@ -1381,7 +1381,7 @@
                      <div class="hexagon_box affordable_sign_team">
                         <div class="hexagon">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/users_oli_Jan_22.svg" alt="User OLI" />
+                              <img src="https://www.foundida.com/services/include/image/users_oli_Jan_22.svg" alt="User OLI" />
                            </i>
                            <p>Quick Response Team</p>
                         </div>
@@ -1391,7 +1391,7 @@
                      <div class="hexagon_box">
                         <div class="hexagon affordable_sign">
                            <i>
-                              <img src="https://www.onlinelegalindia.com/services/include/image/affordable.svg" alt="Affordable" />
+                              <img src="https://www.foundida.com/services/include/image/affordable.svg" alt="Affordable" />
                            </i>
                            <p>Affordable</p>
                            <!-- <p>Affordable Than Other Professionals</p> -->
@@ -1435,7 +1435,7 @@
                   <div class="process_section">
                      <i>3</i>
 
-                     <p>Send The Required Documents to Online Legal India</p>
+                     <p>Send The Required Documents to Foundida</p>
                      <p>⟶</p>
                   </div>
                </div>
@@ -1443,7 +1443,7 @@
                   <div class="process_section">
                      <i>4</i>
 
-                     <p>Experts of Online Legal India will upload your documents on Govt portal > ARN &amp; TRN number will be generated</p>
+                     <p>Experts of Foundida will upload your documents on Govt portal > ARN &amp; TRN number will be generated</p>
                      <p>⟶</p>
                   </div>
                </div>
@@ -1615,23 +1615,23 @@ width:70%;
          <div class="awab_one_inner">
 
             <div class="awaboi_block">
-               <img src="https://www.onlinelegalindia.com/images/associated-tata.webp" class="tatawebp" alt="TATA">
+               <img src="https://www.foundida.com/images/associated-tata.webp" class="tatawebp" alt="TATA">
             </div>
 
             <div class="awaboi_block">
-               <img src="https://www.onlinelegalindia.com/images/associated-paytm.webp" class="" alt="Paytm">
+               <img src="https://www.foundida.com/images/associated-paytm.webp" class="" alt="Paytm">
             </div>
 
             <div class="awaboi_block awaboi_block_icici">
-               <img src="https://www.onlinelegalindia.com/images/associated-icici.webp" class="icici_bank" alt=" ICICI">
+               <img src="https://www.foundida.com/images/associated-icici.webp" class="icici_bank" alt=" ICICI">
             </div>
 
             <!-- <div class="awaboi_block">
-               <img src="https://www.onlinelegalindia.com/images/associated-flipkart.webp" class="flipkart" alt="Flipkart">
+               <img src="https://www.foundida.com/images/associated-flipkart.webp" class="flipkart" alt="Flipkart">
             </div> -->
 
            <!--  <div class="awaboi_block awaboi_block_last">
-               <img src="https://www.onlinelegalindia.com/images/associated-DBS-bank.webp" class="" alt="DBS Bank">
+               <img src="https://www.foundida.com/images/associated-DBS-bank.webp" class="" alt="DBS Bank">
             </div> -->
 
          </div>
@@ -1650,15 +1650,15 @@ width:70%;
                <div class="awab_one_inner2">
 
                   <div class="awaboi_block awaboi_block1">
-                     <img src="https://www.onlinelegalindia.com/images/associated-zee.webp" class="" alt="Zee News">
+                     <img src="https://www.foundida.com/images/associated-zee.webp" class="" alt="Zee News">
                   </div>
 
                   <div class="awaboi_block awaboi_block1">
-                     <img src="https://www.onlinelegalindia.com/images/Ted-x-one.webp" class="" alt="TEDx">
+                     <img src="https://www.foundida.com/images/Ted-x-one.webp" class="" alt="TEDx">
                   </div>
 
                   <div class="awaboi_block awaboi_block1">
-                     <img src="https://www.onlinelegalindia.com/images/associated-asia-one.webp" class="" alt="Asia one">
+                     <img src="https://www.foundida.com/images/associated-asia-one.webp" class="" alt="Asia one">
                   </div>
 
 
@@ -1671,11 +1671,11 @@ width:70%;
                <div class="awab_one_inner3">
 
                   <div class="awaboi_block3 ">
-                     <img src="https://www.onlinelegalindia.com/images/oli-fic-iso-certified.webp" class="oli_fic_pic oli_fic_pic999" alt="ISO Certified">
+                     <img src="https://www.foundida.com/images/oli-fic-iso-certified.webp" class="oli_fic_pic oli_fic_pic999" alt="ISO Certified">
                   </div>
 
                   <!-- <div class="awaboi_block3 ">
-                     <img src="https://www.onlinelegalindia.com/images/oli-fic-govt.-certified.webp" class="oli_fic_pic" alt="Govt. Certified">
+                     <img src="https://www.foundida.com/images/oli-fic-govt.-certified.webp" class="oli_fic_pic" alt="Govt. Certified">
                   </div> -->
 
                </div>
@@ -1703,7 +1703,7 @@ width:70%;
             <h4 class="accordion-cus-head">Will I be eligible to file the GST Returns?</h4>
          </div>
          <div id="child_ans_div_36" style="display: none;" class="child-ans-div-1">
-            <p class="child-ans-text">Yes! With the free GST Registration services, Online Legal India also provides three different packages to file the GST Returns on-time for the GST registered business individuals in India. </p>
+            <p class="child-ans-text">Yes! With the free GST Registration services, Foundida also provides three different packages to file the GST Returns on-time for the GST registered business individuals in India. </p>
          </div>
          <div data-port-id="child_ans_div_2" class="accordaion-main-div">
             <h4 class="accordion-cus-head">What is the need of GST?</h4>
@@ -1745,7 +1745,7 @@ width:70%;
          <div id="child_ans_div_7" style="display: none;" class="child-ans-div-1">
             <p class="child-ans-text">
                No, you don’t.
-               <bold>Online Legal India</bold>
+               <bold>Foundida</bold>
                looks after each and every procedure. You don’t need to visit any Govt. office. You just have to simply register on our official website and get your GST registration done at ease
             </p>
          </div>
@@ -1853,14 +1853,14 @@ width:70%;
             <h4 class="accordion-cus-head">How to Choose HSN or SAC Code during GST Registration?</h4>
          </div>
          <div id="child_ans_div_24" style="display: none;" class="child-ans-div-1">
-            <p class="child-ans-text">HSN or SAC code refers to Goods and Services code. At Online Legal India, the GST expert helps you to choose the suitable HSN or SAC Code after getting the details about the business.</p>
+            <p class="child-ans-text">HSN or SAC code refers to Goods and Services code. At Foundida, the GST expert helps you to choose the suitable HSN or SAC Code after getting the details about the business.</p>
          </div>
          <div data-port-id="child_ans_div_25" class="accordaion-main-div">
             <h4 class="accordion-cus-head">Do I need to be physically present during the GST registration?</h4>
          </div>
          <div id="child_ans_div_25" style="display: none;" class="child-ans-div-1">
             <p class="child-ans-text">
-               <bold>Online Legal India</bold>
+               <bold>Foundida</bold>
                offers the entire GST Registration service online. You don’t need to be physically present during the registration. You only need a device (phone/computer), internet and required documents. We will get the job done for you, even if you are at the remotest location of the country.
             </p>
          </div>
@@ -1913,7 +1913,7 @@ width:70%;
             <p class="child-ans-text">We require the copy of electricity bill or NOC from the landlord in case of rented place. NOC format will be share by our company during registration process.</p>
          </div>
          <div data-port-id="child_ans_div_34" class="accordaion-main-div">
-            <h4 class="accordion-cus-head">How do I have to send my documents to Online Legal India?</h4>
+            <h4 class="accordion-cus-head">How do I have to send my documents to Foundida?</h4>
          </div>
          <div id="child_ans_div_34" style="display: none;" class="child-ans-div-1">
             <p class="child-ans-text">We accept documents over e-mail and whatsapp. Don’t worry, we have a 100% confidential policy and we do not share our customers documents with anyone.</p>
@@ -2261,18 +2261,18 @@ width:70%;
                 <div class="card card-body">
                     <ul class="footer_links">
                         <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/private-company-registration/">Private Limited Company</a>
+                            <a href="https://www.foundida.com/services/company-registration/private-company-registration/">Private Limited Company</a>
                         </li> -->
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/private-company-registration/">Private Limited Company</a>
+                            <a href="https://www.foundida.com/services/company-registration/private-company-registration/">Private Limited Company</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/llp-partnership/">Limited
+                            <a href="https://www.foundida.com/services/company-registration/llp-partnership/">Limited
                                 Liability Partnership</a>
                         </li>
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/one-person-company-registration/">One
+                                href="https://www.foundida.com/services/company-registration/one-person-company-registration/">One
                                 Person Company</a>
                         </li>
                         <!-- <li>
@@ -2282,12 +2282,12 @@ width:70%;
                         </li> -->
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/public-limited-company/">Public
+                                href="https://www.foundida.com/services/company-registration/public-limited-company/">Public
                                 limited Company</a>
                         </li>
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/section-8-company-registration/">Section
+                                href="https://www.foundida.com/services/company-registration/section-8-company-registration/">Section
                                 8 Company</a>
                         </li>
                     </ul>
@@ -2306,35 +2306,35 @@ width:70%;
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/fssai-registration/">FSSAI [Food
+                            <a href="https://www.foundida.com/services/fssai-registration/">FSSAI [Food
                                 License]</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/fssai-renewal/">FSSAI Renewal</a>
+                            <a href="https://www.foundida.com/services/fssai-renewal/">FSSAI Renewal</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-iec-code-import-export-license/">IEC
+                            <a href="https://www.foundida.com/services/online-iec-code-import-export-license/">IEC
                                 [Import/Export Code]</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/iec-certificate-modification/">IEC
+                            <a href="https://www.foundida.com/services/iec-certificate-modification/">IEC
                                 Certificate Modification</a>
                         </li>
 
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/bis-certificate/">BIS Certificate</a>
+                            <a href="https://www.foundida.com/services/bis-certificate/">BIS Certificate</a>
                         </li>
 
 
 
                         <li>
-                            <!-- <a  href="https://www.onlinelegalindia.com/services/online-apeda-registration/">Apeda Registration</a> -->
-                            <!-- <a  href="https://www.onlinelegalindia.com/contact/">Apeda Registration</a> -->
+                            <!-- <a  href="https://www.foundida.com/services/online-apeda-registration/">Apeda Registration</a> -->
+                            <!-- <a  href="https://www.foundida.com/contact/">Apeda Registration</a> -->
                         </li>
                         <li>
 
                             <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/hard-copy-certificate/">Hard-Copy
+                            <a href="https://www.foundida.com/services/hard-copy-certificate/">Hard-Copy
                                 License</a>
                         </li> -->
 
@@ -2355,22 +2355,22 @@ width:70%;
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-registration/">TM
+                            <a href="https://www.foundida.com/services/trademark-registration/">TM
                                 Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-objection-reply/">TM
+                            <a href="https://www.foundida.com/services/trademark-objection-reply/">TM
                                 Objection</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-renewal/">TM Renewal</a>
+                            <a href="https://www.foundida.com/services/trademark-renewal/">TM Renewal</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-copyright-registration/">Copyright
+                            <a href="https://www.foundida.com/services/online-copyright-registration/">Copyright
                                 Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/iso-registration/">ISO
+                            <a href="https://www.foundida.com/services/iso-registration/">ISO
                                 Registration</a>
                         </li>
                     </ul>
@@ -2389,16 +2389,16 @@ width:70%;
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-registration/">GST Registration</a>
+                            <a href="https://www.foundida.com/services/gst-registration/">GST Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-return-filing/">GST Filing</a>
+                            <a href="https://www.foundida.com/services/gst-return-filing/">GST Filing</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-modification/">GST Modification</a>
+                            <a href="https://www.foundida.com/services/gst-modification/">GST Modification</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-cancellation/">GST Cancellation</a>
+                            <a href="https://www.foundida.com/services/gst-cancellation/">GST Cancellation</a>
                         </li>
                     </ul>
                 </div>
@@ -2416,19 +2416,19 @@ width:70%;
                 <div class="card card-body">
                     <ul class="footer_links">
                         <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/oliaccountant/">Online Accountant</a>
+                            <a href="https://www.foundida.com/services/oliaccountant/">Online Accountant</a>
                         </li> -->
                         <li>
                             <!-- <a href="">PF
                                 Registration</a> -->
-                            <a href="https://www.onlinelegalindia.com/services/online-tax-pfesi-registration/">PF-ESIC Registration</a>
+                            <a href="https://www.foundida.com/services/online-tax-pfesi-registration/">PF-ESIC Registration</a>
                         </li>
                         <li>
                             <!-- <a href="">PF Return</a> -->
-                            <a href="https://www.onlinelegalindia.com/services/online-tax-pfesi-return/">PF-ESIC Return Filing </a>
+                            <a href="https://www.foundida.com/services/online-tax-pfesi-return/">PF-ESIC Return Filing </a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-bookkeeping-service/">Online
+                            <a href="https://www.foundida.com/services/online-bookkeeping-service/">Online
                                 Bookkeeping</a>
                         </li>
 
@@ -2450,13 +2450,13 @@ width:70%;
 <div class="row">
     <div class="right_side">
         <div class="textwidget">
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/footer-logo.png" alt="logo" style="margin-left: -13px;"> -->
-            <!-- 30-12-2022_bkp<img class="footer_black_img" src="https://www.onlinelegalindia.com/images/logo6-1.svg" alt="logo" style="margin-left: -13px; width: 250px;"> -->
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/fastinfo-group.svg" alt="logo"
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/footer-logo.png" alt="logo" style="margin-left: -13px;"> -->
+            <!-- 30-12-2022_bkp<img class="footer_black_img" src="https://www.foundida.com/images/logo6-1.svg" alt="logo" style="margin-left: -13px; width: 250px;"> -->
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/fastinfo-group.svg" alt="logo"
                 style="margin-left: -13px; width: 250px;"> -->
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/Online-legal-india-republic.png" alt="logo" style="margin-left: -13px; width: 250px;"> -->
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/Online-legal-india-republic.png" alt="logo" style="margin-left: -13px; width: 250px;"> -->
             <p>
-                <strong>Online Legal India is a part of FastInfo Legal Services Pvt Ltd. Which is registered under the Companies Act, 2013.</strong>
+                <strong>Foundida is a part of FastInfo Legal Services Pvt Ltd. Which is registered under the Companies Act, 2013.</strong>
             </p>
 
         </div>
@@ -2492,20 +2492,20 @@ width:70%;
         <p class="social_title cstm_align" style="margin: 0;">Follow Us</p>
         <div class="social_contacts">
                             <div class="social_icons">
-                    <!-- <a href="https://www.facebook.com/OnlineLegalIndia/"><i class="fab fa-facebook-f"></i></a>
-                          <a href="mailto:info@onlinelegalindia.com"><i class="fab fa-google-plus-g"></i></a> -->
-                    <a href="https://www.facebook.com/OnlineLegalIndia/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/facebook.webp" alt="Facebook"></a>
+                    <!-- <a href="https://www.facebook.com/Foundida/"><i class="fab fa-facebook-f"></i></a>
+                          <a href="mailto:info@foundida.com"><i class="fab fa-google-plus-g"></i></a> -->
+                    <a href="https://www.facebook.com/Foundida/" target="_blank"><img
+                            src="https://www.foundida.com/images/facebook.webp" alt="Facebook"></a>
                     <a href="https://twitter.com/onlinelegalind" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/twitter.webp" alt="Twitter"></a>
+                            src="https://www.foundida.com/images/twitter.webp" alt="Twitter"></a>
                     <a href="https://www.linkedin.com/company/online-legal-india/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/linkedin.webp" alt="Linkedin"></a>
-                    <a href="https://www.instagram.com/online_legal_india/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/instagram.webp" alt="Instagram"></a>
-                    <a href="mailto:info@onlinelegalindia.com"><img src="https://www.onlinelegalindia.com/images/email.webp"
+                            src="https://www.foundida.com/images/linkedin.webp" alt="Linkedin"></a>
+                    <a href="https://www.instagram.com/foundida/" target="_blank"><img
+                            src="https://www.foundida.com/images/instagram.webp" alt="Instagram"></a>
+                    <a href="mailto:info@foundida.com"><img src="https://www.foundida.com/images/email.webp"
                             alt="Email"></a>
-                    <a href="https://www.youtube.com/c/OnlineLegalIndia" target="_blank"><img class="icons"
-                            src="https://www.onlinelegalindia.com/images/youtube.webp" alt="youtube icon"></a>
+                    <a href="https://www.youtube.com/c/Foundida" target="_blank"><img class="icons"
+                            src="https://www.foundida.com/images/youtube.webp" alt="youtube icon"></a>
 
 
                 </div>
@@ -2517,11 +2517,11 @@ width:70%;
 
         <div class="app_link_block_holder">
             <ul>
-                <li><a href="https://play.google.com/store/apps/details?id=onlinelegalindia.com.onlinelegalindia"
-                        target="_blank"><img src="https://www.onlinelegalindia.com/images/google-play.webp"
+                <li><a href="https://play.google.com/store/apps/details?id=foundida.com.foundida"
+                        target="_blank"><img src="https://www.foundida.com/images/google-play.webp"
                             alt="Google Play"></a></li>
                 <li><a href="https://apps.apple.com/in/app/online-legal-india/id1573385779" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/app-store.webp" alt="App Store"></a></li>
+                            src="https://www.foundida.com/images/app-store.webp" alt="App Store"></a></li>
             </ul>
         </div>
     </div>
@@ -2532,13 +2532,13 @@ width:70%;
         <div class="quick_links">
             <ul>
                 <li><a id="careers" target="_blank" href="https://www.fastinfo.com/career">Careers</a></li>
-                <li><a href="https://www.onlinelegalindia.com/contact/">Contact Us</a></li>
-                <li><a href="https://www.onlinelegalindia.com/blogs/">Blogs</a></li>
-                <!-- <li><a href="https://www.onlinelegalindia.com/customer_complain/">Report an Issue</a></li> -->
-                <li><a href="https://www.onlinelegalindia.com/news/">News</a></li>
-                <li><a href="https://www.onlinelegalindia.com/about/">About Us</a></li>
-                <li><a href="https://www.onlinelegalindia.com/press-release/">Press Release</a></li>
-                <li id="event-link"><a href="https://www.onlinelegalindia.com/services/founders-discussion-table/">Event</a></li>
+                <li><a href="https://www.foundida.com/contact/">Contact Us</a></li>
+                <li><a href="https://www.foundida.com/blogs/">Blogs</a></li>
+                <!-- <li><a href="https://www.foundida.com/customer_complain/">Report an Issue</a></li> -->
+                <li><a href="https://www.foundida.com/news/">News</a></li>
+                <li><a href="https://www.foundida.com/about/">About Us</a></li>
+                <li><a href="https://www.foundida.com/press-release/">Press Release</a></li>
+                <li id="event-link"><a href="https://www.foundida.com/services/founders-discussion-table/">Event</a></li>
             </ul>
             <span class="grievance" style="">For any grievance mail to: <a
                     href="mailto:complain@fastinfo.com">complain@fastinfo.com</a></span>
@@ -2552,10 +2552,16 @@ width:70%;
         <!-- /.container -->
     </footer>
 </section>
+
+    <!-- Redesigned Shared Components -->
+    @include('layouts.ceo_desk')
+    @include('layouts.events')
+    @include('layouts.why_us')
+
 @endsection
 
 @section('scripts')
-<script type='text/javascript' src='https://www.onlinelegalindia.com/js/main.js'></script>
+<script type='text/javascript' src='https://www.foundida.com/js/main.js'></script>
 
 <script>
     $("input[name='is_prompted_whatsapp']").on("change", function() {
@@ -2619,7 +2625,7 @@ width:70%;
                 email = $('#send_WhatsApp').find('.wa_email').val(),
                 mobile = $('#send_WhatsApp').find('.wa_mobile').val();
             $.ajax({
-                url: "https://www.onlinelegalindia.com/payment/storeWhatsApp.php",
+                url: "https://www.foundida.com/payment/storeWhatsApp.php",
                 method: 'post',
                 data: {
                     name: name,
@@ -2846,7 +2852,7 @@ width:70%;
     function setCookie(a, d, b) {
         var c = new Date;
         c.setTime(c.getTime() + 864E5 * b);
-        b = "; expires=" + c.toGMTString() + "domain=onlinelegalindia.com;path=/;SameSite=None;Secure";
+        b = "; expires=" + c.toGMTString() + "domain=foundida.com;path=/;SameSite=None;Secure";
         document.cookie = a + "=" + d + b
     }
 
@@ -3029,7 +3035,7 @@ width:70%;
     // Common sender
     function logErrorToServer(payload) {
         try {
-            $.post("https://www.onlinelegalindia.com/feed_errorlog.php", {
+            $.post("https://www.foundida.com/feed_errorlog.php", {
                 error_src: payload.type || "unknown",
                 error_desc: JSON.stringify(payload),
                 landing_page: window.location.href,
@@ -3411,7 +3417,7 @@ width:70%;
             if (data.success) {
                btn.html('Redirecting to Payment Lobby...');
                alert(data.msg);
-               window.location.href = 'https://www.onlinelegalindia.com/payment/payment-lobby.php?oli-id=' + oli_id;
+               window.location.href = 'https://www.foundida.com/payment/payment-lobby.php?oli-id=' + oli_id;
             } else {
                alert(data.msg);
                window.history.back();
@@ -3434,7 +3440,7 @@ width:70%;
       var oli_id = $('#oliid').val();
       if (id == 'pay_now') {
 
-         window.location.href = 'https://www.onlinelegalindia.com/payment/payment-lobby.php?oli-id=' + oli_id;
+         window.location.href = 'https://www.foundida.com/payment/payment-lobby.php?oli-id=' + oli_id;
       } else if (id == 'call_now') {
          $.ajax({
             url: "../../payment/submit_gst-registration-or.php",

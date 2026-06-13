@@ -1,26 +1,26 @@
 @extends('layouts.app')
 
 @section('meta')
-<title>Online Legal India: Registration, GST, Compliance & Audit</title>
-<meta name="description" content="Online Legal India is India’s 1st & only platform for business registration, licences, compliance, GST, tax, audit, & legal (ODR) services—all under one roof.">
-<meta name="keywords" content="Online Legal India">
-<link rel="canonical" href="https://www.onlinelegalindia.com/" />
+<title>Foundida: Registration, GST, Compliance & Audit</title>
+<meta name="description" content="Foundida is India’s 1st & only platform for business registration, licences, compliance, GST, tax, audit, & legal (ODR) services—all under one roof.">
+<meta name="keywords" content="Foundida">
+<link rel="canonical" href="https://www.foundida.com/" />
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.onlinelegalindia.com/">
-<meta property="og:image" content="https://www.onlinelegalindia.com/images/onlinelegalindia-logo.webp">
-<meta property="og:title" content="Online Legal India: Registration, GST, Compliance & Audit">
-<meta property="og:site_name" content="OnlineLegalIndia">
-<meta property="og:description" content="Online Legal India is India’s 1st & only platform for business registration, licences, compliance, GST, tax, audit, & legal (ODR) services—all under one roof.">
+<meta property="og:url" content="https://www.foundida.com/">
+<meta property="og:image" content="https://www.foundida.com/images/foundida-logo.webp">
+<meta property="og:title" content="Foundida: Registration, GST, Compliance & Audit">
+<meta property="og:site_name" content="Foundida">
+<meta property="og:description" content="Foundida is India’s 1st & only platform for business registration, licences, compliance, GST, tax, audit, & legal (ODR) services—all under one roof.">
 <meta property="og:locale" content="en-IN">
 <script type="application/ld+json">
   {
     "@@context": "https://schema.org",
     "@@type": ["Organization"],
-    "name": "Online Legal India",
+    "name": "Foundida",
     "alternateName": "FastInfo Legal Services Pvt Ltd.",
-    "url": "https://www.onlinelegalindia.com/",
-    "logo": "https://www.onlinelegalindia.com/images/logo-cd-odr1.svg",
-    "image": "https://www.onlinelegalindia.com/images/logo-cd-odr1.svg",
+    "url": "https://www.foundida.com/",
+    "logo": "https://www.foundida.com/images/logo-cd-odr1.svg",
+    "image": "https://www.foundida.com/images/logo-cd-odr1.svg",
     "telephone": "+918069029400",
     "priceRange": "INR",
 
@@ -41,7 +41,7 @@
 
     "contactPoint": {
       "@@type": "ContactPoint",
-      "email": "info@onlinelegalindia.com",
+      "email": "info@foundida.com",
       "contactType": "customer support",
       "areaServed": "IN",
       "availableLanguage": [
@@ -55,145 +55,255 @@
     },
 
     "sameAs": [
-      "https://www.facebook.com/OnlineLegalIndia/",
+      "https://www.facebook.com/Foundida/",
       "https://twitter.com/onlinelegalind",
-      "https://www.instagram.com/online_legal_india/",
+      "https://www.instagram.com/foundida/",
       "https://www.linkedin.com/company/online-legal-india/",
-      "https://www.youtube.com/c/OnlineLegalIndia"
+      "https://www.youtube.com/c/Foundida"
     ]
   }
 </script>
 @endsection
 
 @section('styles')
-<!--      <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/bootstrap.min.css">-->
-   <!-- <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/cut.css"> -->
-   <!-- <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/alternative-contact-popup.css"> -->
-   <!-- <link rel="stylesheet" href="https://www.onlinelegalindia.com/css/brands.min.css"> -->
-   <!-- <link rel="stylesheet" href="https://www.onlinelegalindia.com/css/solid.min.css"> -->
+<!--      <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/bootstrap.min.css">-->
+   <!-- <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/cut.css"> -->
+   <!-- <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/alternative-contact-popup.css"> -->
+   <!-- <link rel="stylesheet" href="https://www.foundida.com/css/brands.min.css"> -->
+   <!-- <link rel="stylesheet" href="https://www.foundida.com/css/solid.min.css"> -->
 @endsection
 
 @section('content')
-<link rel="preload" as="style" onload="this.rel = 'stylesheet'" type="text/css" href="https://www.onlinelegalindia.com/css/custom-home-modification.css?v=1.2">
+<link rel="preload" as="style" onload="this.rel = 'stylesheet'" type="text/css" href="https://www.foundida.com/css/custom-home-modification.css?v=1.2">
 
 
 
-<div class="row" style="margin-right: 0px; margin-left: 0px;">
-    <section class="home_section_saurabh_shukla home_section_saurabh_shukla_new_modification">
-        <div class="container new_block_container">
-            <div class="hsss_inner">
-                <div class="row home_row_block">
 
-                    <div class="col-md-7 home_row_block1">
-
-                        <div class="hsss_inner_left hsss_inner_left_modification_block hsss_inner_left_modification_block_destop">
-                            <h1><span class="hssilmb_span">India's 1st </span><span class="span_legal_matters span_legal_matters_new_block">All-in-One Platform for <span class="span_legal_matters_new_color">Business Registration, Compliance, HR & Legal Tech</span></span></h1>
-                            <div class="hssilmb_line_block"></div>
-                            <div class="index_ul_li_home index_ul_li_home_modification">
-                                <ul>
-
-                                    <li class="three"><a
-                                            href="https://www.onlinelegalindia.com/services/company-registration-all/">Company
-                                            Registration</a></li>
-
-                                    <li class="two"><a
-                                            href="https://www.onlinelegalindia.com/services/trademark-all/">Trademark</a></li>
-
-                                    <li class="one"><a href="https://www.onlinelegalindia.com/services/iso-certification/">ISO
-                                            Certification</a> </li>
-                                    <li class="seven"><a
-                                            href="https://www.onlinelegalindia.com/services/gst-registration/">GST Registration</a>
-                                    </li>
-                                    <li class="eight"><a
-                                            href="https://www.onlinelegalindia.com/services/consumer-dispute-odr/">Consumer Dispute</a>
-                                    </li>
-                                    <li class="last_child_li six"><a
-                                            href="https://www.onlinelegalindia.com/services/compliance/">Business Compliance</a></li>
-                                    <li class="last_child_li five"><a href="https://www.onlinelegalindia.com/services/tax/">Tax
-                                            &amp; Accounting Services</a></li>
+<!-- GLOBAL PREMIUM SIMPLE CSS -->
+<link rel="stylesheet" href="{{ asset('assets/css/premium-simple.css') }}?v=1.0">
 
 
-                                    <li class="last_child_li four"><a
-                                            href="https://www.onlinelegalindia.com/services/licenses/">Licenses</a></li>
+<!-- GLOBAL ZOLVIT CSS -->
+<link rel="stylesheet" href="{{ asset('assets/css/zolvit-theme.css') }}?v=3.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 
-                                    <li class="last_child_li ten"><a href="https://www.onlinelegalindia.com/services/hr-compliance/">HR & Payroll</a></li>
-                                    <li class="last_child_li eleven"><a href="https://www.onlinelegalindia.com/services/legal-dispute-odr">Other Legal Dispute (ODR)</a></li>
+<!-- GLOBAL ZOLVIT CSS v4.0 (Cache Busting) -->
+<link rel="stylesheet" href="{{ asset('assets/css/zolvit-theme.css') }}?v=4.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-                                </ul>
-                            </div>
-                            <!-- <div class="hsss_inner_google_trustpiolt">
-
-
-
-                                <div class="new_grid">
-                                    <img src="https://www.onlinelegalindia.com/images/trademark-search-block/legal-corporate-CC/google-rating-new.webp"
-                                        alt="Google Rating">
-                                </div>
-
-                            </div> -->
-                        </div>
-                    </div>
-
-                    <div class="col-md-5 home_row_block2">
-                        <div class="hsss_inner_left hsss_inner_left_modification_block hsss_inner_left_modification_block_mobile">
-                            <h2><span class="hssilmb_span">India's 1st </span><span class="span_legal_matters span_legal_matters_new_block">All-in-One Platform for <span class="span_legal_matters_new_color">Business Registration, Compliance, HR & Legal Tech</span></span></h2>
-                        </div>
-                        <div class="hsss_inner_right hsss_inner_right_new_modification">
-                            <img src="https://www.onlinelegalindia.com/images/home-modification-new/sourav-ganguly-oli-banner.webp"
-                                alt="sourav ganguly" width="445"
-                                height="511"
-                                fetchpriority="high"
-                                loading="eager"
-                                style="max-width:100%; height:auto;" />
-                        </div>
-                    </div>
-
-                </div>
-            </div>
+<!-- 1. BLUE HERO SECTION -->
+<section class="zolvit-hero">
+    <div class="zv-container">
+        
+        <div class="zv-top-review">
+            <img src="{{ asset('assets/images/trademark-search-block/legal-corporate-CC/google-rating-new.webp') }}" alt="Google" style="height: 20px; border-radius: 50%;">
+            <span class="zv-stars"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i></span>
+            <span>4.8/5 (20k+ Reviews)</span>
         </div>
-    </section>
+        
+        <h1 class="zv-title">Build Your Business with Passion.<br>Run It Smarter with Us.</h1>
+        <p class="zv-subtitle">Simplifying Legal, Tax, and Compliance, the AI-Driven Way. Trusted by millions.</p>
+        
+        <div class="zv-search-wrapper">
+            <input type="text" class="zv-search-input" placeholder="Try 'GST Filing' or 'Trademark'">
+            <button class="zv-search-btn"><i class="fas fa-search"></i></button>
+        </div>
+        
+        <div class="zv-quick-links">
+            <a href="/trademark-registration" class="zv-pill">Trademark Registration</a>
+            <a href="/gst-registration" class="zv-pill">GST Registration</a>
+            <a href="/company-registration" class="zv-pill">Company Registration</a>
+            <a href="/contact" class="zv-pill">Lawyer Consultation</a>
+        </div>
+        
+    </div>
+</section>
+
+<!-- 2. BULLETPROOF SVG CONVEX CURVE -->
+<div class="hero-curve-divider">
+    <svg viewBox="0 0 1440 120" preserveAspectRatio="none">
+        <path d="M0,120 C480,0 960,0 1440,120 Z" fill="#000000"></path>
+    </svg>
 </div>
 
-
-
-
-<section class="about_section_new_modification_block_new">
-
-    <div class="container">
-        <div class="about_section_new_modification_block_new_inner">
-            <div class="row">
-                <div class="col-md-5 about_image_wrapper">
-                    <div class="about_image_bg">
-                        <img src="https://www.onlinelegalindia.com/images/home-modification-new/about-saurabh-shukla-new.webp" alt="Mr. Saurabh Shukla" loading="lazy">
-                    </div>
-                </div>
-                <div class="col-md-7 about_content">
-                    <h2 class="about_title">About Online Legal India</h2>
-                    <p class="about_intro"><span class="highlight_orange">Online Legal India</span> is a brand of FastInfo Legal Services Pvt. Ltd., registered under the Companies Act, 2013.</p>
-                    <p class="about_description">Our core panel consists of diligent professionals, all under one roof. They provide solution to all the individual, business person, corporate body and others for the issues faced by them in their everyday life.</p>
-                </div>
-            </div>
-            <div class="about_highlight">
-                <h2>Online Legal India is India's 1st &amp; only all-in-one platform, that provides business registration, licences, GST &amp; tax, regulatory compliance, ODR-enabled legal support, audit, HR &amp; payroll, all under one roof.</h2>
-            </div>
+<!-- 3. BLACK TRUST SECTION (Contains Cards + Trust Badges) -->
+<section class="zv-trust-section">
+    
+    <!-- The 3 Overlapping Cards (Pulled up via negative margin) -->
+    <div class="zv-cards-wrapper">
+        <div class="zv-card zv-card-left">
+            <h3>Start Your Business <i class="fas fa-caret-right" style="color: var(--zv-emerald);"></i></h3>
+            <p>Launch your business effortlessly with expert-guided incorporation, registrations, and licensing.</p>
+        </div>
+        
+        <div class="zv-card zv-card-center">
+            <h3>Manage Your Business <i class="fas fa-caret-right" style="color: var(--zv-emerald);"></i></h3>
+            <p>Stay compliant and in control with automated tax filings, smart dashboards, and real-time alerts.</p>
+        </div>
+        
+        <div class="zv-card zv-card-right">
+            <h3>Protect Your Business <i class="fas fa-caret-right" style="color: var(--zv-emerald);"></i></h3>
+            <p>Secure your brand with trademark registration, contracts, and legal support from trusted experts.</p>
         </div>
     </div>
 
+    <!-- The Trust Badges -->
+    <div class="zv-trust-flex">
+        <div class="zv-trust-quote">
+            <p>"Registration, Filing, and Legal help in one app just makes sense"</p>
+            <span>Review By <strong>Sanjivani Awale</strong> on Google</span>
+        </div>
+        
+        <div class="zv-laurel-badge">
+            <i class="fas fa-leaf" style="color: var(--zv-yellow); font-size: 24px;"></i>
+            <div class="zv-stars" style="margin-top: 10px;"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
+            <p style="margin: 5px 0; font-size: 12px;">20,000+ Reviews</p>
+            <h4>VOTED NO 1 LEGAL<br>PLATFORM IN INDIA</h4>
+            <p style="font-size: 14px;">2026</p>
+        </div>
+        
+        <div class="zv-google-badge">
+            <img src="{{ asset('assets/images/trademark-search-block/legal-corporate-CC/google-rating-new.webp') }}" alt="Google" style="width: 60px;">
+            <div class="zv-google-badge-text">
+                <p style="margin: 0; font-weight: 600;">Google Reviews</p>
+                <div class="zv-stars" style="font-size: 14px;"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i> 4.8/5</div>
+                <p style="margin: 0; font-size: 12px; color: #94A3B8;">20k+ Happy Reviews</p>
+            </div>
+        </div>
+    </div>
+    
 </section>
+
+<!-- About Section CSS -->
+<link rel="stylesheet" href="{{ asset('assets/css/about-section.css') }}?v=1.0">
+
+<section class="foundida-about">
+    <div class="container">
+        <div class="row">
+
+            <!-- LEFT: Founder Card + Stats -->
+            <div class="col-md-5 fa-founder-col">
+
+                <!-- Founder Card -->
+                <div class="fa-founder-card">
+                    <img src="{{ asset('assets/images/founder-avatar.png') }}" alt="Mr. Arjun Mehta - Founder & CEO" class="fa-founder-img">
+                    <div class="fa-founder-info">
+                        <p class="fa-founder-quote">"Our mission is to make legal and compliance services accessible, affordable, and effortless for every Indian entrepreneur."</p>
+                        <h4 class="fa-founder-name">Mr. Arjun Mehta</h4>
+                        <p class="fa-founder-title">Founder & CEO, Foundida</p>
+                        <div class="fa-founder-badges">
+                            <span class="fa-badge">Forbes 30 Under 30</span>
+                            <span class="fa-badge">IIM Ahmedabad</span>
+                            <span class="fa-badge">TEDx Speaker</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Stats -->
+                <div class="fa-stats-row">
+                    <div class="fa-stat-card">
+                        <span class="fa-stat-number">5<span>L+</span></span>
+                        <span class="fa-stat-label">Happy Clients</span>
+                    </div>
+                    <div class="fa-stat-card">
+                        <span class="fa-stat-number">16<span>+</span></span>
+                        <span class="fa-stat-label">Services</span>
+                    </div>
+                    <div class="fa-stat-card">
+                        <span class="fa-stat-number">12<span>yr</span></span>
+                        <span class="fa-stat-label">Experience</span>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- RIGHT: About Content -->
+            <div class="col-md-7 fa-content-col">
+
+                <div class="fa-eyebrow">About Foundida</div>
+
+                <h2 class="fa-headline">
+                    India's Most Trusted<br>
+                    <span class="fa-accent">Legal & Compliance</span> Platform
+                </h2>
+
+                <p class="fa-description">
+                    <strong>Foundida</strong> is a brand of FastInfo Legal Services Pvt. Ltd., registered under the Companies Act, 2013. We are India's <strong>1st &amp; only all-in-one platform</strong> offering business registration, GST &amp; tax, compliance, legal support, audit, and HR — all under one roof. Our panel of diligent professionals delivers expert-backed solutions to individuals, businesses, and corporates across India.
+                </p>
+
+                <div class="fa-features">
+                    <div class="fa-feature-item">
+                        <div class="fa-feature-icon"><i class="fas fa-shield-alt"></i></div>
+                        <div class="fa-feature-text">
+                            <h4>100% Secure</h4>
+                            <p>Bank-level data security & confidentiality</p>
+                        </div>
+                    </div>
+                    <div class="fa-feature-item">
+                        <div class="fa-feature-icon"><i class="fas fa-users"></i></div>
+                        <div class="fa-feature-text">
+                            <h4>Expert Panel</h4>
+                            <p>500+ CAs, CSs & Legal experts on board</p>
+                        </div>
+                    </div>
+                    <div class="fa-feature-item">
+                        <div class="fa-feature-icon"><i class="fas fa-clock"></i></div>
+                        <div class="fa-feature-text">
+                            <h4>On-Time Delivery</h4>
+                            <p>Guaranteed timeline for every service</p>
+                        </div>
+                    </div>
+                    <div class="fa-feature-item">
+                        <div class="fa-feature-icon"><i class="fas fa-certificate"></i></div>
+                        <div class="fa-feature-text">
+                            <h4>ISO 9001:2015</h4>
+                            <p>Certified for quality management systems</p>
+                        </div>
+                    </div>
+                    <div class="fa-feature-item">
+                        <div class="fa-feature-icon"><i class="fas fa-headset"></i></div>
+                        <div class="fa-feature-text">
+                            <h4>24/7 Support</h4>
+                            <p>Dedicated support via call, chat & email</p>
+                        </div>
+                    </div>
+                    <div class="fa-feature-item">
+                        <div class="fa-feature-icon"><i class="fas fa-rupee-sign"></i></div>
+                        <div class="fa-feature-text">
+                            <h4>Lowest Prices</h4>
+                            <p>No hidden charges, transparent pricing</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="fa-cta-row">
+                    <a href="/contact" class="fa-cta-primary">
+                        Get Free Consultation <i class="fas fa-arrow-right"></i>
+                    </a>
+                    <a href="/about" class="fa-cta-secondary">
+                        Learn More <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- 
 <section class=" home_about">
     <div class="container">
         <div class="row">
             <div class="col-md-7 about">
                 <h2>About Us</h2>
-                <p>Online Legal India is a brand of FastInfo Legal Services Pvt. Ltd., registered under the
+                <p>Foundida is a brand of FastInfo Legal Services Pvt. Ltd., registered under the
                     Companies Act, 2013.</p>
                 <p class="about_seond_p">Our core panel consists of diligent professionals, all under one roof. They provide solution to all the individual, business person, corporate body and others for the issues faced by them in their everyday life.</p>
             </div>
             <div class="col-md-5">
                 <div class="about_imgg">
-                    <img src="https://www.onlinelegalindia.com/images/home-modification/about-us.webp" alt="About Us" loading="lazy">
+                    <img src="https://www.foundida.com/images/home-modification/about-us.webp" alt="About Us" loading="lazy">
                 </div>
             </div>
         </div>
@@ -203,820 +313,522 @@
 <!-- <section class="home_bottom_section">
     <div class="container">
         <div class="home_bottom_section_inner">
-            <h2>Online Legal India is India’s 1st & only all-in-one platform, that provides business registration, licences, GST & tax, regulatory compliance, ODR-enabled legal support, audit, HR & payroll, all under one roof.</h2>
+            <h2>Foundida is India’s 1st & only all-in-one platform, that provides business registration, licences, GST & tax, regulatory compliance, ODR-enabled legal support, audit, HR & payroll, all under one roof.</h2>
         </div>
-    </div>
 </section> -->
 
-<section class="srvc-space" style="margin-top:10px; margin-bottom:10px;">
-    <div class="container pb-60" style="padding-top:0px;">
-        <div class="section-content">
-            <div class="row">
-                <div class="col-md-12 col-sm-12 orsrv">
-                    <h2 class="benifts-heading" style="color: black">Our Services</h2>
-                </div>
-            </div>
-            <div class="row">
+<!-- Services Section CSS -->
+<link rel="stylesheet" href="{{ asset('assets/css/services-section.css') }}?v=1.0">
 
-
-
-                <div class="wpb_column col-md-3 col-sm-12 col-xs-12">
-                    <div class="wpb_single_image wpb_content_element vc_align_left">
-                        <a href="https://www.onlinelegalindia.com/services/trademark-registration/" target="_self"
-                            class="vc_single_image-wrapper   vc_box_border_grey">
-                            <img width="370" height="246"
-                                src="https://www.onlinelegalindia.com/images/home-modification/trademark-registration.webp"
-                                class="vc_single_image-img attachment-full" loading="lazy" alt="Trademark" />
-                        </a>
-                    </div>
-                    <div class="flat-imagebox services-grid ">
-                        <div class="flat-imagebox-inner">
-                            <div class="flat-imagebox-header">
-                                <h3 class="flat-imagebox-title flat_imagebox_title_modification"> <a
-                                        href="https://www.onlinelegalindia.com/services/trademark-registration/" target="_self">
-                                        Trademark Registration Online </a></h3>
-                            </div>
-                            <div class="flat-imagebox-content">
-                                <div class="flat-imagebox-desc">Register your trademark (brand name, logo, slogan, icon,
-                                    etc.) from anywhere in India through our online registration assistance services.
-                                </div>
-                                <div class="flat-imagebox-button"> <a
-                                        href="https://www.onlinelegalindia.com/services/trademark-registration/" target="_self">
-                                        Click Here </a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <div class="wpb_column col-md-3 col-sm-12 col-xs-12">
-                    <div class="wpb_single_image wpb_content_element vc_align_left">
-                        <a href="https://www.onlinelegalindia.com/services/iso-certification" target="_self"
-                            class="vc_single_image-wrapper   vc_box_border_grey">
-                            <img width="370" height="246"
-                                src="https://www.onlinelegalindia.com/images/home-modification/iso-registration-home-image.webp"
-                                class="vc_single_image-img attachment-full" loading="lazy" alt="ISO Registration" />
-                        </a>
-                    </div>
-                    <div class="flat-imagebox services-grid ">
-                        <div class="flat-imagebox-inner">
-                            <div class="flat-imagebox-header">
-                                <h3 class="flat-imagebox-title flat_imagebox_title_modification"> <a
-                                        href="https://www.onlinelegalindia.com/services/iso-certification" target="_self"> ISO
-                                        Registration </a></h3>
-                            </div>
-                            <div class="flat-imagebox-content">
-                                <div class="flat-imagebox-desc">Get your ISO Certification support from anywhere in
-                                    India and enhance your business credibility with globally recognized standards.
-                                </div>
-                                <div class="flat-imagebox-button"> <a
-                                        href="https://www.onlinelegalindia.com/services/iso-certification" target="_self"> Click
-                                        Here </a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="wpb_column col-md-3 col-sm-12 col-xs-12">
-                    <div class="wpb_single_image wpb_content_element vc_align_left">
-                        <a href="https://www.onlinelegalindia.com/services/gst-online/" target="_self"
-                            class="vc_single_image-wrapper   vc_box_border_grey">
-                            <img width="370" height="246"
-                                src="https://www.onlinelegalindia.com/images/home-modification/GST-registration.webp"
-                                class="vc_single_image-img attachment-full" loading="lazy" alt="GST-LOI" />
-                        </a>
-                    </div>
-                    <div class="flat-imagebox services-grid ">
-                        <div class="flat-imagebox-inner">
-                            <div class="flat-imagebox-header">
-                                <h3 class="flat-imagebox-title flat_imagebox_title_modification"> <a href="https://www.onlinelegalindia.com/services/gst-online/"
-                                        target="_self">GST Registration Services</a></h3>
-                            </div>
-                            <div class="flat-imagebox-content">
-                                <div class="flat-imagebox-desc">Online Legal India supports you to meet GST compliance
-                                    for your business.</div>
-                                <div class="flat-imagebox-button"> <a href="https://www.onlinelegalindia.com/services/gst-online/"
-                                        target="_self"> Click Here </a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-
-
-
-                <div class="wpb_column col-md-3 col-sm-12 col-xs-12">
-                    <div class="wpb_single_image wpb_content_element vc_align_left">
-                        <a href="https://www.onlinelegalindia.com/services/company-registration/" target="_self"
-                            class="vc_single_image-wrapper   vc_box_border_grey">
-                            <img width="370" height="246"
-                                src="https://www.onlinelegalindia.com/images/home-modification/company-registration.webp" loading="lazy"
-                                alt="Company Registration" />
-                        </a>
-                    </div>
-                    <div class="flat-imagebox services-grid ">
-                        <div class="flat-imagebox-inner">
-                            <div class="flat-imagebox-header">
-                                <h3 class="flat-imagebox-title flat_imagebox_title_modification">
-                                    <a href="https://www.onlinelegalindia.com/services/company-registration/" target="_self">
-                                        Company Registration </a>
-                                </h3>
-                            </div>
-                            <div class="flat-imagebox-content">
-                                <div class="flat-imagebox-desc">We have professionals to support everything online on
-                                    the ROC portal and relieve you of any burden. Click to learn.</div>
-                                <div class="flat-imagebox-button"> <a
-                                        href="https://www.onlinelegalindia.com/services/company-registration/" target="_self">
-                                        Click Here </a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            <div class="row">
-
-
-                <div class="wpb_column col-md-3 col-sm-12 col-xs-12">
-
-                    <div class="wpb_single_image wpb_content_element vc_align_center">
-                        <a href="https://www.onlinelegalindia.com/services/online-iec-code-import-export-license/" target="_self"
-                            class="vc_single_image-wrapper   vc_box_border_grey">
-                            <img width="370" height="246"
-                                src="https://www.onlinelegalindia.com/images/home-modification/import-export-code.webp"
-                                class="vc_single_image-img attachment-full" loading="lazy" alt="Banner" />
-                        </a>
-                    </div>
-
-                    <div class="flat-imagebox services-grid ">
-                        <div class="flat-imagebox-inner">
-                            <div class="flat-imagebox-header">
-                                <h3 class="flat-imagebox-title flat_imagebox_title_modification"> <a
-                                        href="https://www.onlinelegalindia.com/services/online-iec-code-import-export-license/"
-                                        target="_self"> Import Export Code Registration </a></h3>
-                            </div>
-                            <div class="flat-imagebox-content">
-                                <div class="flat-imagebox-desc">Get an IEC code from the Directorate General of Foreign
-                                    Trade, Ministry of Commerce and Industry, Govt. of India, through our support.</div>
-                                <div class="flat-imagebox-button"> <a
-                                        href="https://www.onlinelegalindia.com/services/online-iec-code-import-export-license/"
-                                        target="_self"> Click Here </a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-                <div class="wpb_column col-md-3 col-sm-12 col-xs-12">
-                    <div class="wpb_single_image wpb_content_element vc_align_left">
-                        <a href="https://www.onlinelegalindia.com/services/consumer-complaint-odr/" target="_self"
-                            class="vc_single_image-wrapper   vc_box_border_grey">
-                            <img width="370" height="246"
-                                src="https://www.onlinelegalindia.com/images/home-modification/consumer-complaint-odr.webp"
-                                class="vc_single_image-img attachment-full" loading="lazy" alt="GST-LOI" />
-                        </a>
-                    </div>
-                    <div class="flat-imagebox services-grid ">
-                        <div class="flat-imagebox-inner">
-                            <div class="flat-imagebox-header">
-                                <h3 class="flat-imagebox-title flat_imagebox_title_modification"> <a
-                                        href="https://www.onlinelegalindia.com/services/consumer-dispute-odr"
-                                        target="_self">Consumer Dispute</a></h3>
-                            </div>
-                            <div class="flat-imagebox-content">
-                                <div class="flat-imagebox-desc">Say goodbye to long legal battles—Online Legal India
-                                    assists you to quick and smart consumer dispute resolution, online.</div>
-                                <div class="flat-imagebox-button"> <a
-                                        href="https://www.onlinelegalindia.com/services/consumer-dispute-odr" target="_self"> Click
-                                        Here </a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="wpb_column col-md-3 col-sm-12 col-xs-12">
-                    <div class="wpb_single_image wpb_content_element vc_align_left">
-                        <a href="https://www.onlinelegalindia.com/services/fssai-registration/" target="_self"
-                            class="vc_single_image-wrapper   vc_box_border_grey">
-                            <img width="370" height="246"
-                                src="https://www.onlinelegalindia.com/images/home-modification/fssai-registration.webp"
-                                class="vc_single_image-img attachment-full" loading="lazy" alt="FSSAI" />
-                        </a>
-                    </div>
-                    <div class="flat-imagebox services-grid ">
-                        <div class="flat-imagebox-inner">
-                            <div class="flat-imagebox-header">
-                                <h3 class="flat-imagebox-title flat_imagebox_title_modification"> <a
-                                        href="https://www.onlinelegalindia.com/services/fssai-registration/" target="_self"> FSSAI
-                                        Registration </a></h3>
-                            </div>
-                            <div class="flat-imagebox-content">
-                                <div class="flat-imagebox-desc">Register FSSAI with our support for certificates and
-                                    licenses to run your food business flawlessly with perfect compliance.</div>
-                                <div class="flat-imagebox-button"> <a
-                                        href="https://www.onlinelegalindia.com/services/fssai-registration/" target="_self"> Click
-                                        Here </a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-                <div class="wpb_column col-md-3 col-sm-12 col-xs-12">
-                    <div class="wpb_single_image wpb_content_element vc_align_center">
-                        <a href="https://www.onlinelegalindia.com/services/online-dispute-resolution/" target="_self"
-                            class="vc_single_image-wrapper   vc_box_border_grey">
-                            <img width="370" height="246" src="https://www.onlinelegalindia.com/images/home-modification/odr.webp"
-                                class="vc_single_image-img attachment-full" loading="lazy" alt="Online Dispute Resolution" />
-                        </a>
-                    </div>
-                    <div class="flat-imagebox services-grid ">
-                        <div class="flat-imagebox-inner">
-                            <div class="flat-imagebox-header">
-                                <h3 class="flat-imagebox-title flat_imagebox_title_modification"> <a
-                                        href="https://www.onlinelegalindia.com/services/online-dispute-resolution/" target="_self">
-                                        Online Dispute Resolution
-                                    </a></h3>
-                            </div>
-                            <div class="flat-imagebox-content">
-                                <div class="flat-imagebox-desc">Avoid courtroom stress by resolving disputes online with
-                                    our professional ODR assistance, available anytime, anywhere.</div>
-                                <div class="flat-imagebox-button"> <a
-                                        href="https://www.onlinelegalindia.com/services/online-dispute-resolution/" target="_self">
-                                        Click Here </a></div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                </div>
-
-
-
-            </div>
-
-
-            <div class="row">
-
-                <div class="wpb_column col-md-3 col-sm-12 col-xs-12">
-                    <div class="wpb_single_image wpb_content_element vc_align_left">
-                        <a href="https://www.onlinelegalindia.com/services/virtual-cxo-services/" target="_self"
-                            class="vc_single_image-wrapper   vc_box_border_grey">
-                            <img width="370" height="246"
-                                src="https://www.onlinelegalindia.com/images/home-modification/virtual-cxo-service-all-service.webp"
-                                class="vc_single_image-img attachment-full" loading="lazy" alt="virtual-cxo-service-all-service" />
-                        </a>
-                    </div>
-                    <div class="flat-imagebox services-grid ">
-                        <div class="flat-imagebox-inner">
-                            <div class="flat-imagebox-header">
-                                <h3 class="flat-imagebox-title flat_imagebox_title_modification"> <a
-                                        href="https://www.onlinelegalindia.com/services/virtual-cxo-services/" target="_self">
-                                        Virtual CXO Services </a></h3>
-                            </div>
-                            <div class="flat-imagebox-content">
-                                <div class="flat-imagebox-desc">Virtual CXO leadership support to help startups and
-                                    MSMEs decide faster, scale with confidence, and avoid costly growth mistakes.</div>
-                                <div class="flat-imagebox-button"> <a
-                                        href="https://www.onlinelegalindia.com/services/virtual-cxo-services/" target="_self">
-                                        Click Here </a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="wpb_column col-md-3 col-sm-12 col-xs-12">
-                    <div class="wpb_single_image wpb_content_element vc_align_left">
-                        <a href="https://www.onlinelegalindia.com/services/corporate-compliance-governance/" target="_self"
-                            class="vc_single_image-wrapper   vc_box_border_grey ">
-                            <img width="370" height="246"
-                                src="https://www.onlinelegalindia.com/images/home-modification/big-corporate-services-image.webp"
-                                class="vc_single_image-img attachment-full" loading="lazy" alt="Corporates" />
-                        </a>
-                    </div>
-                    <div class="flat-imagebox services-grid ">
-                        <div class="flat-imagebox-inner">
-                            <div class="flat-imagebox-header">
-                                <h3 class="flat-imagebox-title flat_imagebox_title_modification"> <a
-                                        href="https://www.onlinelegalindia.com/services/corporate-compliance-governance/"
-                                        target="_self">Corporates </a></h3>
-                            </div>
-                            <div class="flat-imagebox-content">
-                                <div class="flat-imagebox-desc">Strategic Advisory for Enterprises, Corporates &
-                                    Institutional Businesses</div>
-                                <div class="flat-imagebox-button"> <a
-                                        href="https://www.onlinelegalindia.com/services/corporate-compliance-governance/"
-                                        target="_self"> Click Here </a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="wpb_column col-md-3 col-sm-12 col-xs-12">
-                    <div class="wpb_single_image wpb_content_element vc_align_left">
-                        <a href="https://www.onlinelegalindia.com/services/hr-compliance/" target="_self"
-                            class="vc_single_image-wrapper   vc_box_border_grey ">
-                            <img width="370" height="246"
-                                src="https://www.onlinelegalindia.com/images/home-modification/hr-compliance-homepage.webp"
-                                class="vc_single_image-img attachment-full" loading="lazy" alt="HR Compliance" />
-                        </a>
-                    </div>
-                    <div class="flat-imagebox services-grid ">
-                        <div class="flat-imagebox-inner">
-                            <div class="flat-imagebox-header">
-                                <h3 class="flat-imagebox-title flat_imagebox_title_modification"> <a
-                                        href="https://www.onlinelegalindia.com/services/hr-compliance/"
-                                        target="_self">HR Compliance </a></h3>
-                            </div>
-                            <div class="flat-imagebox-content">
-                                <div class="flat-imagebox-desc">All-in-one HR software for payroll, compliance & team management. Automate tasks, save time & improve efficiency today.</div>
-                                <div class="flat-imagebox-button"> <a
-                                        href="https://www.onlinelegalindia.com/services/hr-compliance/"
-                                        target="_self"> Click Here </a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="wpb_column col-md-3 col-sm-12 col-xs-12">
-                    <div class="wpb_single_image wpb_content_element vc_align_left">
-                        <a href="https://www.onlinelegalindia.com/services/gem-registration/" target="_self"
-                            class="vc_single_image-wrapper   vc_box_border_grey ">
-                            <img width="370" height="246"
-                                src="https://www.onlinelegalindia.com/images/home-modification/gem-registration.webp"
-                                class="vc_single_image-img attachment-full" loading="lazy" alt="GeM Registration" />
-                        </a>
-                    </div>
-                    <div class="flat-imagebox services-grid ">
-                        <div class="flat-imagebox-inner">
-                            <div class="flat-imagebox-header">
-                                <h3 class="flat-imagebox-title flat_imagebox_title_modification"> <a
-                                        href="https://www.onlinelegalindia.com/services/gem-registration/"
-                                        target="_self">GeM Registration</a></h3>
-                            </div>
-                            <div class="flat-imagebox-content">
-                                <div class="flat-imagebox-desc">GeM enables businesses to sell products and services directly to government departments through a secure online marketplace.</div>
-                                <div class="flat-imagebox-button"> <a
-                                        href="https://www.onlinelegalindia.com/services/gem-registration/"
-                                        target="_self"> Click Here </a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-            </div>
-
-        </div>
-    </div>
-</section>
-
-
-<section class="our_most_in_demand_services our_most_in_demand_services_new_modification">
+<section class="fd-services-sec">
     <div class="container">
-        <div class="row">
-            <div class="col-sm-12 col-md-12">
-                <h2 style="color: black;margin-top:0;" class="benifts-heading">Expertise Meets Credibility</h2>
-            </div>
+        
+        <!-- Section Header -->
+        <div class="fd-srvc-header">
+            <span class="fd-srvc-badge">
+                <i class="fas fa-cubes"></i> Our Offerings
+            </span>
+            <h2 class="fd-srvc-title">
+                Launch & Grow with <span>Expert Solutions</span>
+            </h2>
+            <p class="fd-srvc-subtitle">
+                Quick, hassle-free online services for business registration, licensing, tax compliance, and smart legal support, tailored for Indian entrepreneurs.
+            </p>
         </div>
-        <div class="row video_row">
 
-            <div class="col-md-4">
-
-                <div class="video-box2026">
-                    <div id="video2" class="video-container2026" onclick="loadVideo2()">
-                        <img src="https://www.onlinelegalindia.com/images/home-modification-new/raid.webp" class="video-thumb video_thmd_cstm" alt="raid">
-                        <div class="play-button2026">▶</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="video-box2026">
-                    <div id="video3" class="video-container2026" onclick="loadVideo3()">
-                        <img src="https://www.onlinelegalindia.com/images/home-modification-new/monday-meeting.webp" class="video-thumb video_thmd_cstm" alt="monday-meeting">
-                        <div class="play-button2026">▶</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="video-box2026">
-                    <div id="video1" class="video-container2026" onclick="loadVideo1()">
-                        <img src="https://www.onlinelegalindia.com/images/home-modification-new/trademark.webp" class="video-thumb video_thmd_cstm" alt="trademark-registration-thub">
-                        <div class="play-button2026">▶</div>
-                    </div>
-                </div>
-
-            </div>
+        <!-- Category Filter Tabs -->
+        <div class="fd-srvc-filters">
+            <button class="fd-filter-btn active" data-filter="all">All Services</button>
+            <button class="fd-filter-btn" data-filter="startups-reg">Startups & Registration</button>
+            <button class="fd-filter-btn" data-filter="ip-growth">IP & Growth</button>
+            <button class="fd-filter-btn" data-filter="legal-compliance">Legal & Compliance</button>
         </div>
+
+        <!-- Service Cards Grid -->
+        <div class="fd-services-grid">
+
+            <!-- Card 1: Company Registration -->
+            <div class="fd-service-card" data-category="startups-reg">
+                <div class="fd-srvc-img-wrapper">
+                    <span class="fd-srvc-cat-badge">Startups</span>
+                    <img class="fd-srvc-img" src="{{ asset('assets/images/company-reg-service.png') }}" alt="Company Registration" loading="lazy">
+                </div>
+                <div class="fd-srvc-info">
+                    <div class="fd-srvc-meta">
+                        <i class="far fa-clock"></i> End-to-end Support
+                    </div>
+                    <h3 class="fd-srvc-card-title">
+                        <a href="https://www.foundida.com/services/company-registration/">Company Registration</a>
+                    </h3>
+                    <p class="fd-srvc-desc">We have professionals to support everything online on the ROC portal and relieve you of any burden. Click to learn.</p>
+                    <div class="fd-srvc-action">
+                        <a href="https://www.foundida.com/services/company-registration/" class="fd-srvc-btn">
+                            Get Started <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 2: GST Registration -->
+            <div class="fd-service-card" data-category="startups-reg">
+                <div class="fd-srvc-img-wrapper">
+                    <span class="fd-srvc-cat-badge">Tax & GST</span>
+                    <img class="fd-srvc-img" src="{{ asset('assets/images/gst-tax-service.png') }}" alt="GST Registration" loading="lazy">
+                </div>
+                <div class="fd-srvc-info">
+                    <div class="fd-srvc-meta">
+                        <i class="far fa-clock"></i> 100% Online Process
+                    </div>
+                    <h3 class="fd-srvc-card-title">
+                        <a href="https://www.foundida.com/services/gst-online/">GST Registration</a>
+                    </h3>
+                    <p class="fd-srvc-desc">Foundida supports you to meet GST compliance and registrations for your business with professional assistance.</p>
+                    <div class="fd-srvc-action">
+                        <a href="https://www.foundida.com/services/gst-online/" class="fd-srvc-btn">
+                            Get Started <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 3: FSSAI Registration -->
+            <div class="fd-service-card" data-category="startups-reg">
+                <div class="fd-srvc-img-wrapper">
+                    <span class="fd-srvc-cat-badge">Food Business</span>
+                    <img class="fd-srvc-img" src="{{ asset('assets/images/company-reg-service.png') }}" alt="FSSAI Registration" loading="lazy">
+                </div>
+                <div class="fd-srvc-info">
+                    <div class="fd-srvc-meta">
+                        <i class="far fa-clock"></i> Government License
+                    </div>
+                    <h3 class="fd-srvc-card-title">
+                        <a href="https://www.foundida.com/services/fssai-registration/">FSSAI Registration</a>
+                    </h3>
+                    <p class="fd-srvc-desc">Register FSSAI with our support for certificates and licenses to run your food business flawlessly with perfect compliance.</p>
+                    <div class="fd-srvc-action">
+                        <a href="https://www.foundida.com/services/fssai-registration/" class="fd-srvc-btn">
+                            Get Started <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 4: GeM Registration -->
+            <div class="fd-service-card" data-category="startups-reg">
+                <div class="fd-srvc-img-wrapper">
+                    <span class="fd-srvc-cat-badge">Government Portal</span>
+                    <img class="fd-srvc-img" src="{{ asset('assets/images/company-reg-service.png') }}" alt="GeM Registration" loading="lazy">
+                </div>
+                <div class="fd-srvc-info">
+                    <div class="fd-srvc-meta">
+                        <i class="far fa-clock"></i> Sell to Govt
+                    </div>
+                    <h3 class="fd-srvc-card-title">
+                        <a href="https://www.foundida.com/services/gem-registration/">GeM Registration</a>
+                    </h3>
+                    <p class="fd-srvc-desc">GeM enables businesses to sell products and services directly to government departments through a secure online marketplace.</p>
+                    <div class="fd-srvc-action">
+                        <a href="https://www.foundida.com/services/gem-registration/" class="fd-srvc-btn">
+                            Get Started <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 5: Trademark Registration -->
+            <div class="fd-service-card" data-category="ip-growth">
+                <div class="fd-srvc-img-wrapper">
+                    <span class="fd-srvc-cat-badge">IP & Protection</span>
+                    <img class="fd-srvc-img" src="{{ asset('assets/images/trademark-service.png') }}" alt="Trademark Registration" loading="lazy">
+                </div>
+                <div class="fd-srvc-info">
+                    <div class="fd-srvc-meta">
+                        <i class="far fa-clock"></i> 1-2 Days Process
+                    </div>
+                    <h3 class="fd-srvc-card-title">
+                        <a href="https://www.foundida.com/services/trademark-registration/">Trademark Registration</a>
+                    </h3>
+                    <p class="fd-srvc-desc">Register your trademark (brand name, logo, slogan, icon, etc.) from anywhere in India through our online registration assistance services.</p>
+                    <div class="fd-srvc-action">
+                        <a href="https://www.foundida.com/services/trademark-registration/" class="fd-srvc-btn">
+                            Get Started <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 6: ISO Registration -->
+            <div class="fd-service-card" data-category="ip-growth">
+                <div class="fd-srvc-img-wrapper">
+                    <span class="fd-srvc-cat-badge">Quality Standards</span>
+                    <img class="fd-srvc-img" src="{{ asset('assets/images/trademark-service.png') }}" alt="ISO Certification" loading="lazy">
+                </div>
+                <div class="fd-srvc-info">
+                    <div class="fd-srvc-meta">
+                        <i class="far fa-clock"></i> Boost Credibility
+                    </div>
+                    <h3 class="fd-srvc-card-title">
+                        <a href="https://www.foundida.com/services/iso-certification">ISO Registration</a>
+                    </h3>
+                    <p class="fd-srvc-desc">Get your ISO Certification support from anywhere in India and enhance your business credibility with globally recognized standards.</p>
+                    <div class="fd-srvc-action">
+                        <a href="https://www.foundida.com/services/iso-certification" class="fd-srvc-btn">
+                            Get Started <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 7: Import Export Code (IEC) -->
+            <div class="fd-service-card" data-category="ip-growth">
+                <div class="fd-srvc-img-wrapper">
+                    <span class="fd-srvc-cat-badge">Import Export</span>
+                    <img class="fd-srvc-img" src="{{ asset('assets/images/trademark-service.png') }}" alt="IEC Registration" loading="lazy">
+                </div>
+                <div class="fd-srvc-info">
+                    <div class="fd-srvc-meta">
+                        <i class="far fa-clock"></i> 1-3 Days Delivery
+                    </div>
+                    <h3 class="fd-srvc-card-title">
+                        <a href="https://www.foundida.com/services/online-iec-code-import-export-license/">Import Export Code</a>
+                    </h3>
+                    <p class="fd-srvc-desc">Get an IEC code from the Directorate General of Foreign Trade, Ministry of Commerce and Industry, Govt. of India, through our support.</p>
+                    <div class="fd-srvc-action">
+                        <a href="https://www.foundida.com/services/online-iec-code-import-export-license/" class="fd-srvc-btn">
+                            Get Started <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 8: Virtual CXO Services -->
+            <div class="fd-service-card" data-category="ip-growth">
+                <div class="fd-srvc-img-wrapper">
+                    <span class="fd-srvc-cat-badge">Management</span>
+                    <img class="fd-srvc-img" src="{{ asset('assets/images/company-reg-service.png') }}" alt="Virtual CXO Services" loading="lazy">
+                </div>
+                <div class="fd-srvc-info">
+                    <div class="fd-srvc-meta">
+                        <i class="far fa-clock"></i> Scale Your Startup
+                    </div>
+                    <h3 class="fd-srvc-card-title">
+                        <a href="https://www.foundida.com/services/virtual-cxo-services/">Virtual CXO Services</a>
+                    </h3>
+                    <p class="fd-srvc-desc">Virtual CXO leadership support to help startups and MSMEs decide faster, scale with confidence, and avoid costly growth mistakes.</p>
+                    <div class="srvc-action">
+                        <a href="https://www.foundida.com/services/virtual-cxo-services/" class="fd-srvc-btn">
+                            Get Started <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 9: Online Dispute Resolution (ODR) -->
+            <div class="fd-service-card" data-category="legal-compliance">
+                <div class="fd-srvc-img-wrapper">
+                    <span class="fd-srvc-cat-badge">Dispute Resolution</span>
+                    <img class="fd-srvc-img" src="{{ asset('assets/images/dispute-service.png') }}" alt="Online Dispute Resolution" loading="lazy">
+                </div>
+                <div class="fd-srvc-info">
+                    <div class="fd-srvc-meta">
+                        <i class="far fa-clock"></i> Out of Court
+                    </div>
+                    <h3 class="fd-srvc-card-title">
+                        <a href="https://www.foundida.com/services/online-dispute-resolution/">Online Dispute Resolution</a>
+                    </h3>
+                    <p class="fd-srvc-desc">Avoid courtroom stress by resolving disputes online with our professional ODR assistance, available anytime, anywhere.</p>
+                    <div class="fd-srvc-action">
+                        <a href="https://www.foundida.com/services/online-dispute-resolution/" class="fd-srvc-btn">
+                            Get Started <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 10: Consumer Dispute -->
+            <div class="fd-service-card" data-category="legal-compliance">
+                <div class="fd-srvc-img-wrapper">
+                    <span class="fd-srvc-cat-badge">Dispute Resolution</span>
+                    <img class="fd-srvc-img" src="{{ asset('assets/images/dispute-service.png') }}" alt="Consumer Dispute" loading="lazy">
+                </div>
+                <div class="fd-srvc-info">
+                    <div class="fd-srvc-meta">
+                        <i class="far fa-clock"></i> Quick Legal Remedy
+                    </div>
+                    <h3 class="fd-srvc-card-title">
+                        <a href="https://www.foundida.com/services/consumer-dispute-odr">Consumer Dispute</a>
+                    </h3>
+                    <p class="fd-srvc-desc">Say goodbye to long legal battles—Foundida assists you to quick and smart consumer dispute resolution, online.</p>
+                    <div class="fd-srvc-action">
+                        <a href="https://www.foundida.com/services/consumer-dispute-odr" class="fd-srvc-btn">
+                            Get Started <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 11: Corporates Advisory -->
+            <div class="fd-service-card" data-category="legal-compliance">
+                <div class="fd-srvc-img-wrapper">
+                    <span class="fd-srvc-cat-badge">Corporate Law</span>
+                    <img class="fd-srvc-img" src="{{ asset('assets/images/company-reg-service.png') }}" alt="Corporates" loading="lazy">
+                </div>
+                <div class="fd-srvc-info">
+                    <div class="fd-srvc-meta">
+                        <i class="far fa-clock"></i> Expert Board Advisory
+                    </div>
+                    <h3 class="fd-srvc-card-title">
+                        <a href="https://www.foundida.com/services/corporate-compliance-governance/">Corporate Services</a>
+                    </h3>
+                    <p class="fd-srvc-desc">Strategic Advisory and governance for Enterprises, Corporates & Institutional Businesses.</p>
+                    <div class="fd-srvc-action">
+                        <a href="https://www.foundida.com/services/corporate-compliance-governance/" class="fd-srvc-btn">
+                            Get Started <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 12: HR Compliance -->
+            <div class="fd-service-card" data-category="legal-compliance">
+                <div class="fd-srvc-img-wrapper">
+                    <span class="fd-srvc-cat-badge">HR & Payroll</span>
+                    <img class="fd-srvc-img" src="{{ asset('assets/images/gst-tax-service.png') }}" alt="HR Compliance" loading="lazy">
+                </div>
+                <div class="fd-srvc-info">
+                    <div class="fd-srvc-meta">
+                        <i class="far fa-clock"></i> Payroll & Compliance
+                    </div>
+                    <h3 class="fd-srvc-card-title">
+                        <a href="https://www.foundida.com/services/hr-compliance/">HR Compliance</a>
+                    </h3>
+                    <p class="fd-srvc-desc">All-in-one HR software for payroll, compliance & team management. Automate tasks, save time & improve efficiency today.</p>
+                    <div class="fd-srvc-action">
+                        <a href="https://www.foundida.com/services/hr-compliance/" class="fd-srvc-btn">
+                            Get Started <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Bottom CTA -->
+        <div class="fd-srvc-bottom-cta">
+            <p>Need a custom solution or can't find what you are looking for?</p>
+            <a href="https://www.foundida.com/contact-us" class="fd-srvc-cta-btn">
+                Talk to a Legal Expert <i class="fas fa-headset"></i>
+            </a>
+        </div>
+
     </div>
 </section>
 
+<!-- Filter Script -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const filterBtns = document.querySelectorAll(".fd-filter-btn");
+        const cards = document.querySelectorAll(".fd-service-card");
 
-<section class="upgrade_with_justice">
-    <div class="container-fluid upgrade_with_justice_container">
-        <div class="upgrade_with_justice_inner_section_block">
+        filterBtns.forEach(btn => {
+            btn.addEventListener("click", () => {
+                // Toggle active button class
+                filterBtns.forEach(b => b.classList.remove("active"));
+                btn.classList.add("active");
 
-            <div class="upgrade_with_justice_inner">
-                <div class="uwji_one">
-                    <div class="upgrade_with_justice_heading upgrade_with_justice_heading_mobile">
-                        <h2>Our ODR Platform Gets a Major Upgrade with Justice Katriar (Retd.)<span class="uwjh_one">Joining<span class="uwjh_two"> Online Legal India</span></span></h2>
-                    </div>
-                    <div class="uwji_one_img">
-                        <img src="https://www.onlinelegalindia.com/images/home-modification/mediator-and-arbitrator.webp" class="" alt="Justice Katriar" width="364" height="382" loading="lazy">
-                    </div>
-                    <div class="uwji_one_text">
-                        <h3>Mediator & Arbitrator,</h3>
-                        <p>Justice Patna High Court (Retd.)</p>
-                    </div>
-                </div>
-                <div class="uwji_three">
-                    <div class="upgrade_with_justice_heading upgrade_with_justice_heading_destop">
-                        <h2>Our ODR Platform Gets a Major Upgrade with Justice Katriar (Retd.)<span class="uwjh_one">Joining<span class="uwjh_two"> Online Legal India</span></span></h2>
-                    </div>
-                    <div class="uwji_four">
-                        <div class="uwji_two">
-                            <p>Currently conducting arbitration <span>proceedings assigned by:</span></p>
-                            <ul>
-                                <li>Supreme Court of India</li>
-                                <li>Delhi High Court</li>
-                                <li>Patna High Court</li>
-                                <li>Jharkhand High Court</li>
-                                <li>Indian Council of Arbitration (FICCI)</li>
-                            </ul>
-                        </div>
-                        <div class="uwji_two">
-                            <p>On the Panel of <span>Arbitrators for:</span></p>
-                            <ul>
-                                <li>Delhi High Court Arbitration Council</li>
-                                <li>ONGC</li>
-                                <li>GAIL (India) Ltd.</li>
-                                <li>MMTC Ltd.</li>
-                                <li>NTPC Ltd</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+                const category = btn.getAttribute("data-filter");
 
+                cards.forEach(card => {
+                    const cardCat = card.getAttribute("data-category");
+                    if (category === "all" || cardCat === category) {
+                        card.classList.remove("fd-hidden");
+                        // Trigger fade in animation
+                        card.style.opacity = "0";
+                        card.style.transform = "scale(0.96)";
+                        setTimeout(() => {
+                            card.style.opacity = "1";
+                            card.style.transform = "scale(1)";
+                        }, 50);
+                    } else {
+                        card.classList.add("fd-hidden");
+                    }
+                });
+            });
+        });
+    });
+</script>
 
-<section class="meet_our_founder">
+<!-- CEO Desk & Events Gallery Stylesheet -->
+<link rel="stylesheet" href="{{ asset('assets/css/ceo-events.css') }}?v=1.0">
+
+<!-- From CEO's Desk Section -->
+<section class="fd-ceo-desk-sec">
     <div class="container">
-        <div class="row">
-            <div class="col-sm-12 col-md-12">
-                <h2 style="color: black;margin-top:0;" class="benifts-heading">Meet Our Founder</h2>
+        <div class="fd-ceo-desk-card">
+            <div class="fd-ceo-desk-img-wrapper">
+                <img src="{{ asset('assets/images/founder-avatar.png') }}" alt="Mr. Arjun Mehta" class="fd-ceo-desk-img">
             </div>
-        </div>
-        <div class="row cust_md_video founder_tab_video_grid">
-            <div class="col-md-4">
-                <div class="video-box2026">
-                    <div id="video4" class="video-container2026" onclick="loadVideo4()">
-                        <img src="https://www.onlinelegalindia.com/images/home-modification-new/tedx-videoo.webp" class="video-thumb" alt="tedx-video">
-                        <div class="play-button2026">▶</div>
-                    </div>
-                    <h4 class="video_txt">A TEDx Featured Journey</h4>
-                </div>
-
-            </div>
-            <div class="col-md-4">
-                <div class="video-box2026">
-                    <div id="video5" class="video-container2026" onclick="loadVideo5()">
-                        <img src="https://www.onlinelegalindia.com/images/home-modification-new/podcast-creative.webp" class="video-thumb" alt="businessman-of-the-year">
-                        <div class="play-button2026">▶</div>
-
-                    </div>
-                    <h4 class="video_txt">Limelight Moment Alongside Malaika Arora</h4>
-                </div>
-
-            </div>
-
-            <div class="col-md-4">
-                <div class="video-box2026">
-                    <div id="video6" class="video-container2026" onclick="loadVideo6()">
-                        <img src="https://www.onlinelegalindia.com/images/home-modification-new/podcastt.webp" class="video-thumb" alt="podcast-video">
-                        <div class="play-button2026">▶</div>
-                    </div>
-                    <h4 class="video_txt">Podcast with Raj Shamani</h4>
-                </div>
-
-            </div>
-        </div>
-    </div>
-
-</section>
-
-
-<style>
-    .rajesh_kewat_text3 h4 {
-        text-align: center !important;
-        font-size: 22px;
-        color: #3c3e41;
-        text-align: right;
-        font-weight: bold;
-    }
-
-    .rajesh_kewat_text3 p {
-        text-align: center;
-    }
-</style>
-<section class="new_md_section">
-    <div class="container">
-        <div class="new_md_section_inner">
-
-            <div class="row custtmm_rww">
-                <div class="col-md-4 col-xs-4">
-                    <div class="new_md_section_left">
-                        <img src="https://www.onlinelegalindia.com/images/banner/md-new3.webp" alt="Rajesh Kewat">
-                    </div>
-                    <div class="new_md_section_left_text">
-                        <h4>Rajesh Kewat</h4>
-                        <p>The Founder & CEO of Online Legal India, Mr. Rajesh Kewat actually had the courage to sacrifice his well paid job at Oxford and turn his startup dream into a multi crore turnover company.</p>
-                    </div>
-                </div>
-                <div class="col-md-8 col-xs-8">
-                    <div class="new_md_section_right">
-
-                        <div class="nmsr_block">
-                            <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/about-us/zeenews.webp" alt="Zee News">
-                            </div>
-                            <div class="nmsr_block_text">
-                                <p>Meet Rajesh Kewat, The Small Town Entrepreneur Behind Online Legal India's Success</p>
-                            </div>
-
-                        </div>
-
-                        <div class="nmsr_block">
-                            <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/Ted-x.webp" alt="TEDx">
-                            </div>
-                            <div class="nmsr_block_text">
-                                <p>From Rs. 2000 Salary to Multi-Crore Turnover Company | Rajesh Kewat | TEDxPradhikaran.</p>
-                            </div>
-
-                        </div>
-
-                        <div class="nmsr_block">
-                            <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/about-us/footer-forbes-logo-new.webp" alt="Forbes">
-                            </div>
-                            <div class="nmsr_block_text">
-                                <p>Mr. Rajesh Kewat getting featured in the special edition of Forbes India Magazine - Showstoppers 2022-23</p>
-                            </div>
-
-                        </div>
-
-                        <div class="nmsr_block">
-                            <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/Asia_One.webp" alt="Asia One">
-                            </div>
-                            <div class="nmsr_block_text">
-                                <p>Rajesh Kewat, the MD of FastInfo Legal Services Pvt Ltd, owns a movie-like story; a man who lost everything for his love & attained great success within just 500 days with his innovative business.</p>
-                            </div>
-
-                        </div>
-
-                        <div class="nmsr_block">
-                            <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/midday9999.webp" alt="Mid Day">
-                            </div>
-                            <div class="nmsr_block_text">
-                                <p>Rajesh Kewat Conferred with Businessman of the Year Award at Brands Impact NFA 2022.</p>
-                            </div>
-
-                        </div>
-                        <div class="nmsr_block nmsr_block99">
-                            <div class="new_past_exprience">
-                                <h5>Past Experiences</h5>
-                                <div class="new_past_exprience_inner">
-                                    <img src="https://www.onlinelegalindia.com/images/oxford.webp" alt="Oxford">
-                                    <img src="https://www.onlinelegalindia.com/images/Pearson_logo.webp" alt="Pearson" class="pearson">
-                                    <img src="https://www.onlinelegalindia.com/images/educomp_logo_1.webp" alt="Educamp">
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-            </div>
-
-            <!-- <div class="rajesh_kewat_text">
-                <p>‘Kahin par pohochne ke liye, kahin se nikalna bohot zaroori hota hai’</p>
-                <h5 class="deewani">- Yeh Jawani Hain Deewani</h5>
-
-            </div> -->
-
-            <div class="rajesh_kewat_text3_block">
-                <div class="rajesh_kewat_text3">
-                    <h4>From CEO's Desk</h4>
-                    <p class="text_p">‘You don’t need MONEY to build your business empire, what you need is big dreams & a SHARP MIND! If you got it, try it.’</p>
-                    <div class="rajesh_kewat_arrow"></div>
-
-                </div>
-            </div>
-            <div class="rajesh_kewat_text4">
-                <h5>- Rajesh Kewat</h5>
-            </div>
-
-        </div>
-    </div>
-</section>
-
-<section class="new_media_block block_padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 col-md-12">
-                <h2 style="color: black" class="benifts-heading">Events Gallery</h2>
-            </div>
-        </div>
-        <div class="new_media_block_grid">
-
-            <div class="nmbg_block">
-                <div class="nmbg_block_image">
-                    <img src="https://www.onlinelegalindia.com/images/home-modification/businessman-of-the-year-one.webp" class="img-fluid"
-                        alt="Businessman of the Year" loading="lazy">
-                </div>
-                <div class="nmbg_block_text">
-                    <p>Businessman of the Year</p>
-                </div>
-            </div>
-
-            <div class="nmbg_block">
-                <div class="nmbg_block_image">
-                    <img src="https://www.onlinelegalindia.com/images/home-modification/TEDx.webp" class="img-fluid" alt="TEDx">
-                </div>
-                <div class="nmbg_block_text">
-                    <p>TEDx</p>
-                </div>
-            </div>
-
-
-            <div class="nmbg_block">
-                <div class="nmbg_block_image">
-                    <img src="https://www.onlinelegalindia.com/images/home-modification/IIT.webp" class="img-fluid" alt="IIT">
-                </div>
-                <div class="nmbg_block_text">
-                    <p>IIT Kharagpur</p>
-                </div>
-            </div>
-
-
-
-
-        </div>
-    </div>
-</section>
-
-<section id="associated">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-2 col-sm-12 col-xs-12 associated_heading">
-                <h2><span>We Are</span> Associated With:</h2>
-            </div>
-            <div class="col-md-10 col-sm-12 col-xs-12 associated_logos">
-                <div id="associated_carousal_home" class="owl-carousel owl-theme">
-                    <div class="item"><img src="https://www.onlinelegalindia.com/images/logos/google.webp" alt="Google" /></div>
-                    <div class="item"><img src="https://www.onlinelegalindia.com/images/logos/paytm.webp" alt="Paytm" /></div>
-                    <div class="item"><img src="https://www.onlinelegalindia.com/images/banner/meta-logo.webp"
-                            alt="Meta" /></div>
-                    <div class="item"><img src="https://www.onlinelegalindia.com/images/banner/aws-logo.webp"
-                            alt="AWS" /></div>
-
-                    <div class="item"><img src="https://www.onlinelegalindia.com/images/banner/tata-home-logo.webp"
-                            alt="Tata Tele Business Service" /></div>
-                    <div class="item"><img
-                            src="https://www.onlinelegalindia.com/images/banner/truecaller-home-logo.webp"
-                            alt="Truecaller" /></div>
+            <div class="fd-ceo-desk-content">
+                <span class="fd-ceo-desk-badge">From CEO's Desk</span>
+                <blockquote class="fd-ceo-desk-quote">
+                    "You don’t need MONEY to build your business empire, what you need is big dreams & a SHARP MIND! If you got it, try it."
+                </blockquote>
+                <div class="fd-ceo-desk-signature">
+                    <span class="fd-ceo-desk-name">Mr. Arjun Mehta</span>
+                    <span class="fd-ceo-desk-title">Founder & CEO, Foundida</span>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-
-<section id="whyUs" class="block_padding new_new_block_padding">
+<!-- Redesigned Events Gallery Section -->
+<section class="fd-events-sec">
     <div class="container">
-        <div class="row">
-            <div class="col-sm-12 col-md-12">
-                <h2 style="color: black" class="benifts-heading">Why Us?</h2>
-            </div>
-            <div class="col-md-12 col-sm-12">
-                <div class="row tab_why_uss">
-                    <div class="col-md-4 col-sm-12 cstm_hght_cls">
-                        <div class="hexagon_box">
-                            <div class="hexagon">
-                                <i>
-                                    <img src="https://www.onlinelegalindia.com/images/home-modification/recognized.webp"
-                                        alt="Recognized" />
-                                </i>
-                                <p>Recognized by Govt. of India</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 cstm_hght_cls">
-                        <div class="hexagon_box">
-                            <div class="hexagon">
-                                <i>
-                                    <img src="https://www.onlinelegalindia.com/images/home-modification/happy_customers.webp"
-                                        alt="Happy Customer" />
-                                </i>
-                                <p>5 Lakh+ Happy Customers Across India</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 cstm_hght_cls">
-                        <div class="hexagon_box">
-                            <div class="hexagon iso_sign">
-                                <i>
-                                    <img src="https://www.onlinelegalindia.com/images/home-modification/iso-mark.webp" alt="ISO" />
-                                </i>
-                                <p>ISO Certified</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 cstm_hght_cls">
-                        <div class="hexagon_box">
-                            <div class="hexagon">
-                                <i>
-                                    <img src="https://www.onlinelegalindia.com/images/home-modification/data_security.webp"
-                                        alt="Data Security" />
-                                </i>
-                                <p>Data Security & Trust</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 cstm_hght_cls">
-                        <div class="hexagon_box">
-                            <div class="hexagon">
-                                <i>
-                                    <img src="https://www.onlinelegalindia.com/images/home-modification/experts.webp"
-                                        alt="Experts" />
-                                </i>
-                                <p>Trained & Professional Experts</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 cstm_hght_cls">
-                        <div class="hexagon_box">
-                            <div class="hexagon">
-                                <i>
-                                    <img src="https://www.onlinelegalindia.com/images/home-modification/on-time.webp"
-                                        alt="On Time" />
-                                </i>
-                                <p>On Time Service </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 cstm_hght_cls">
-                        <div class="hexagon_box">
-                            <div class="hexagon">
-                                <i>
-                                    <img src="https://www.onlinelegalindia.com/images/home-modification/quick.webp" alt="Quick" />
-                                </i>
-                                <p>Super Fast Service</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 cstm_hght_cls">
-                        <div class="hexagon_box affordable_sign_team">
-                            <div class="hexagon">
-                                <i>
-                                    <img src="https://www.onlinelegalindia.com/images/home-modification/users_oli_Jan_22.webp"
-                                        alt="Users OLI" />
-                                </i>
-                                <p>Quick Response Team</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-12 cstm_hght_cls">
-                        <div class="hexagon_box">
-                            <div class="hexagon affordable_sign">
-                                <i>
-                                    <img src="https://www.onlinelegalindia.com/images/home-modification/affordable.webp"
-                                        alt="Affordable" />
-                                </i>
-                                <p>Affordable</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
+        
+        <!-- Section Header -->
+        <div class="fd-events-header">
+            <span class="fd-events-badge">
+                <i class="fas fa-camera-retro"></i> Gallery
+            </span>
+            <h2 class="fd-events-title">
+                Our <span>Key Milestones</span>
+            </h2>
+            <p class="fd-events-subtitle">
+                A glimpse of our speaking engagements, corporate achievements, and national recognition.
+            </p>
         </div>
+
+        <!-- Events Grid -->
+        <div class="fd-events-grid">
+            
+            <!-- Event 1: Businessman of the Year -->
+            <div class="fd-event-card">
+                <div class="fd-event-img-wrapper">
+                    <img class="fd-event-img" src="{{ asset('assets/images/event-award.png') }}" alt="Businessman of the Year" loading="lazy">
+                </div>
+                <div class="fd-event-info">
+                    <h4 class="fd-event-card-title">Businessman of the Year Award</h4>
+                </div>
+            </div>
+
+            <!-- Event 2: TEDx Talk -->
+            <div class="fd-event-card">
+                <div class="fd-event-img-wrapper">
+                    <img class="fd-event-img" src="{{ asset('assets/images/event-tedx.png') }}" alt="TEDx Talk" loading="lazy">
+                </div>
+                <div class="fd-event-info">
+                    <h4 class="fd-event-card-title">Featured TEDx Keynote Speaker</h4>
+                </div>
+            </div>
+
+            <!-- Event 3: IIT Kharagpur -->
+            <div class="fd-event-card">
+                <div class="fd-event-img-wrapper">
+                    <img class="fd-event-img" src="{{ asset('assets/images/event-iit.png') }}" alt="IIT Kharagpur Event" loading="lazy">
+                </div>
+                <div class="fd-event-info">
+                    <h4 class="fd-event-card-title">Guest Lecture at IIT Kharagpur</h4>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+
+
+<!-- Why Us Stylesheet -->
+<link rel="stylesheet" href="{{ asset('assets/css/why-us.css') }}?v=1.0">
+
+<section class="fd-whyus-sec">
+    <div class="container">
+        
+        <!-- Section Header -->
+        <div class="fd-whyus-header">
+            <span class="fd-whyus-badge">
+                <i class="fas fa-question-circle"></i> Why Foundida?
+            </span>
+            <h2 class="fd-whyus-title">
+                Redefining Legal & <span>Compliance Services</span>
+            </h2>
+            <p class="fd-whyus-subtitle">
+                We are building the future of legal services. Here is why new-age startups, SMEs, and modern entrepreneurs launch and scale with us.
+            </p>
+        </div>
+
+        <!-- Grid -->
+        <div class="fd-whyus-grid">
+            
+            <!-- Card 1: Built for Startups -->
+            <div class="fd-whyus-card">
+                <div class="fd-whyus-icon-wrapper">
+                    <i class="fas fa-rocket"></i>
+                </div>
+                <h3 class="fd-whyus-card-title">Built for Startups</h3>
+                <p class="fd-whyus-card-desc">
+                    We understand the agility required by new-age founders. Our processes are streamlined to support fast growth and modern legal requirements.
+                </p>
+            </div>
+
+            <!-- Card 2: 100% Digitized Workflows -->
+            <div class="fd-whyus-card">
+                <div class="fd-whyus-icon-wrapper">
+                    <i class="fas fa-laptop-code"></i>
+                </div>
+                <h3 class="fd-whyus-card-title">100% Digital & Simple</h3>
+                <p class="fd-whyus-card-desc">
+                    Say goodbye to endless physical files and manual courier runs. Track, upload, and manage all your documents online with our simple client dashboard.
+                </p>
+            </div>
+
+            <!-- Card 3: Direct Expert Access -->
+            <div class="fd-whyus-card">
+                <div class="fd-whyus-icon-wrapper">
+                    <i class="fas fa-user-tie"></i>
+                </div>
+                <h3 class="fd-whyus-card-title">Direct Expert Access</h3>
+                <p class="fd-whyus-card-desc">
+                    No sales agents or pushy representatives. You get direct support and consultation from qualified CAs, CSs, and experienced corporate lawyers.
+                </p>
+            </div>
+
+            <!-- Card 4: Transparent Flat Fees -->
+            <div class="fd-whyus-card">
+                <div class="fd-whyus-icon-wrapper">
+                    <i class="fas fa-receipt"></i>
+                </div>
+                <h3 class="fd-whyus-card-title">Flat Transparent Pricing</h3>
+                <p class="fd-whyus-card-desc">
+                    We hate hidden charges. We offer upfront, all-inclusive pricing with zero surprises, so you can plan your legal budgets with confidence.
+                </p>
+            </div>
+
+            <!-- Card 5: Fast Guaranteed Delivery -->
+            <div class="fd-whyus-card">
+                <div class="fd-whyus-icon-wrapper">
+                    <i class="fas fa-history"></i>
+                </div>
+                <h3 class="fd-whyus-card-title">Guaranteed Turnaround</h3>
+                <p class="fd-whyus-card-desc">
+                    We respect your timelines. We adhere to strict service delivery timelines and keep you updated at every step of your application process.
+                </p>
+            </div>
+
+            <!-- Card 6: Enterprise-Grade Privacy -->
+            <div class="fd-whyus-card">
+                <div class="fd-whyus-icon-wrapper">
+                    <i class="fas fa-shield-alt"></i>
+                </div>
+                <h3 class="fd-whyus-card-title">Enterprise Security</h3>
+                <p class="fd-whyus-card-desc">
+                    Your company data, financial records, and intellectual property are guarded under strict non-disclosure agreements and SSL-encrypted pipelines.
+                </p>
+            </div>
+
+        </div>
+
     </div>
 </section>
 
@@ -1344,18 +1156,18 @@
                 <div class="card card-body">
                     <ul class="footer_links">
                         <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/private-company-registration/">Private Limited Company</a>
+                            <a href="https://www.foundida.com/services/company-registration/private-company-registration/">Private Limited Company</a>
                         </li> -->
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/private-company-registration/">Private Limited Company</a>
+                            <a href="https://www.foundida.com/services/company-registration/private-company-registration/">Private Limited Company</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/llp-partnership/">Limited
+                            <a href="https://www.foundida.com/services/company-registration/llp-partnership/">Limited
                                 Liability Partnership</a>
                         </li>
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/one-person-company-registration/">One
+                                href="https://www.foundida.com/services/company-registration/one-person-company-registration/">One
                                 Person Company</a>
                         </li>
                         <!-- <li>
@@ -1365,12 +1177,12 @@
                         </li> -->
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/public-limited-company/">Public
+                                href="https://www.foundida.com/services/company-registration/public-limited-company/">Public
                                 limited Company</a>
                         </li>
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/section-8-company-registration/">Section
+                                href="https://www.foundida.com/services/company-registration/section-8-company-registration/">Section
                                 8 Company</a>
                         </li>
                     </ul>
@@ -1389,35 +1201,35 @@
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/fssai-registration/">FSSAI [Food
+                            <a href="https://www.foundida.com/services/fssai-registration/">FSSAI [Food
                                 License]</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/fssai-renewal/">FSSAI Renewal</a>
+                            <a href="https://www.foundida.com/services/fssai-renewal/">FSSAI Renewal</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-iec-code-import-export-license/">IEC
+                            <a href="https://www.foundida.com/services/online-iec-code-import-export-license/">IEC
                                 [Import/Export Code]</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/iec-certificate-modification/">IEC
+                            <a href="https://www.foundida.com/services/iec-certificate-modification/">IEC
                                 Certificate Modification</a>
                         </li>
 
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/bis-certificate/">BIS Certificate</a>
+                            <a href="https://www.foundida.com/services/bis-certificate/">BIS Certificate</a>
                         </li>
 
 
 
                         <li>
-                            <!-- <a  href="https://www.onlinelegalindia.com/services/online-apeda-registration/">Apeda Registration</a> -->
-                            <!-- <a  href="https://www.onlinelegalindia.com/contact/">Apeda Registration</a> -->
+                            <!-- <a  href="https://www.foundida.com/services/online-apeda-registration/">Apeda Registration</a> -->
+                            <!-- <a  href="https://www.foundida.com/contact/">Apeda Registration</a> -->
                         </li>
                         <li>
 
                             <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/hard-copy-certificate/">Hard-Copy
+                            <a href="https://www.foundida.com/services/hard-copy-certificate/">Hard-Copy
                                 License</a>
                         </li> -->
 
@@ -1438,22 +1250,22 @@
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-registration/">TM
+                            <a href="https://www.foundida.com/services/trademark-registration/">TM
                                 Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-objection-reply/">TM
+                            <a href="https://www.foundida.com/services/trademark-objection-reply/">TM
                                 Objection</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-renewal/">TM Renewal</a>
+                            <a href="https://www.foundida.com/services/trademark-renewal/">TM Renewal</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-copyright-registration/">Copyright
+                            <a href="https://www.foundida.com/services/online-copyright-registration/">Copyright
                                 Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/iso-registration/">ISO
+                            <a href="https://www.foundida.com/services/iso-registration/">ISO
                                 Registration</a>
                         </li>
                     </ul>
@@ -1472,16 +1284,16 @@
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-registration/">GST Registration</a>
+                            <a href="https://www.foundida.com/services/gst-registration/">GST Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-return-filing/">GST Filing</a>
+                            <a href="https://www.foundida.com/services/gst-return-filing/">GST Filing</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-modification/">GST Modification</a>
+                            <a href="https://www.foundida.com/services/gst-modification/">GST Modification</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-cancellation/">GST Cancellation</a>
+                            <a href="https://www.foundida.com/services/gst-cancellation/">GST Cancellation</a>
                         </li>
                     </ul>
                 </div>
@@ -1499,19 +1311,19 @@
                 <div class="card card-body">
                     <ul class="footer_links">
                         <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/oliaccountant/">Online Accountant</a>
+                            <a href="https://www.foundida.com/services/oliaccountant/">Online Accountant</a>
                         </li> -->
                         <li>
                             <!-- <a href="">PF
                                 Registration</a> -->
-                            <a href="https://www.onlinelegalindia.com/services/online-tax-pfesi-registration/">PF-ESIC Registration</a>
+                            <a href="https://www.foundida.com/services/online-tax-pfesi-registration/">PF-ESIC Registration</a>
                         </li>
                         <li>
                             <!-- <a href="">PF Return</a> -->
-                            <a href="https://www.onlinelegalindia.com/services/online-tax-pfesi-return/">PF-ESIC Return Filing </a>
+                            <a href="https://www.foundida.com/services/online-tax-pfesi-return/">PF-ESIC Return Filing </a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-bookkeeping-service/">Online
+                            <a href="https://www.foundida.com/services/online-bookkeeping-service/">Online
                                 Bookkeeping</a>
                         </li>
 
@@ -1533,13 +1345,13 @@
 <div class="row">
     <div class="right_side">
         <div class="textwidget">
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/footer-logo.png" alt="logo" style="margin-left: -13px;"> -->
-            <!-- 30-12-2022_bkp<img class="footer_black_img" src="https://www.onlinelegalindia.com/images/logo6-1.svg" alt="logo" style="margin-left: -13px; width: 250px;"> -->
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/fastinfo-group.svg" alt="logo"
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/footer-logo.png" alt="logo" style="margin-left: -13px;"> -->
+            <!-- 30-12-2022_bkp<img class="footer_black_img" src="https://www.foundida.com/images/logo6-1.svg" alt="logo" style="margin-left: -13px; width: 250px;"> -->
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/fastinfo-group.svg" alt="logo"
                 style="margin-left: -13px; width: 250px;"> -->
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/Online-legal-india-republic.png" alt="logo" style="margin-left: -13px; width: 250px;"> -->
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/Online-legal-india-republic.png" alt="logo" style="margin-left: -13px; width: 250px;"> -->
             <p>
-                <strong>Online Legal India is a part of FastInfo Legal Services Pvt Ltd. Which is registered under the Companies Act, 2013.</strong>
+                <strong>Foundida is a part of FastInfo Legal Services Pvt Ltd. Which is registered under the Companies Act, 2013.</strong>
             </p>
 
         </div>
@@ -1575,20 +1387,20 @@
         <p class="social_title cstm_align" style="margin: 0;">Follow Us</p>
         <div class="social_contacts">
                             <div class="social_icons">
-                    <!-- <a href="https://www.facebook.com/OnlineLegalIndia/"><i class="fab fa-facebook-f"></i></a>
-                          <a href="mailto:info@onlinelegalindia.com"><i class="fab fa-google-plus-g"></i></a> -->
-                    <a href="https://www.facebook.com/OnlineLegalIndia/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/facebook.webp" alt="Facebook"></a>
+                    <!-- <a href="https://www.facebook.com/Foundida/"><i class="fab fa-facebook-f"></i></a>
+                          <a href="mailto:info@foundida.com"><i class="fab fa-google-plus-g"></i></a> -->
+                    <a href="https://www.facebook.com/Foundida/" target="_blank"><img
+                            src="https://www.foundida.com/images/facebook.webp" alt="Facebook"></a>
                     <a href="https://twitter.com/onlinelegalind" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/twitter.webp" alt="Twitter"></a>
+                            src="https://www.foundida.com/images/twitter.webp" alt="Twitter"></a>
                     <a href="https://www.linkedin.com/company/online-legal-india/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/linkedin.webp" alt="Linkedin"></a>
-                    <a href="https://www.instagram.com/online_legal_india/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/instagram.webp" alt="Instagram"></a>
-                    <a href="mailto:info@onlinelegalindia.com"><img src="https://www.onlinelegalindia.com/images/email.webp"
+                            src="https://www.foundida.com/images/linkedin.webp" alt="Linkedin"></a>
+                    <a href="https://www.instagram.com/foundida/" target="_blank"><img
+                            src="https://www.foundida.com/images/instagram.webp" alt="Instagram"></a>
+                    <a href="mailto:info@foundida.com"><img src="https://www.foundida.com/images/email.webp"
                             alt="Email"></a>
-                    <a href="https://www.youtube.com/c/OnlineLegalIndia" target="_blank"><img class="icons"
-                            src="https://www.onlinelegalindia.com/images/youtube.webp" alt="youtube icon"></a>
+                    <a href="https://www.youtube.com/c/Foundida" target="_blank"><img class="icons"
+                            src="https://www.foundida.com/images/youtube.webp" alt="youtube icon"></a>
 
 
                 </div>
@@ -1600,11 +1412,11 @@
 
         <div class="app_link_block_holder">
             <ul>
-                <li><a href="https://play.google.com/store/apps/details?id=onlinelegalindia.com.onlinelegalindia"
-                        target="_blank"><img src="https://www.onlinelegalindia.com/images/google-play.webp"
+                <li><a href="https://play.google.com/store/apps/details?id=foundida.com.foundida"
+                        target="_blank"><img src="https://www.foundida.com/images/google-play.webp"
                             alt="Google Play"></a></li>
                 <li><a href="https://apps.apple.com/in/app/online-legal-india/id1573385779" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/app-store.webp" alt="App Store"></a></li>
+                            src="https://www.foundida.com/images/app-store.webp" alt="App Store"></a></li>
             </ul>
         </div>
     </div>
@@ -1615,13 +1427,13 @@
         <div class="quick_links">
             <ul>
                 <li><a id="careers" target="_blank" href="https://www.fastinfo.com/career">Careers</a></li>
-                <li><a href="https://www.onlinelegalindia.com/contact/">Contact Us</a></li>
-                <li><a href="https://www.onlinelegalindia.com/blogs/">Blogs</a></li>
-                <!-- <li><a href="https://www.onlinelegalindia.com/customer_complain/">Report an Issue</a></li> -->
-                <li><a href="https://www.onlinelegalindia.com/news/">News</a></li>
-                <li><a href="https://www.onlinelegalindia.com/about/">About Us</a></li>
-                <li><a href="https://www.onlinelegalindia.com/press-release/">Press Release</a></li>
-                <li id="event-link"><a href="https://www.onlinelegalindia.com/services/founders-discussion-table/">Event</a></li>
+                <li><a href="https://www.foundida.com/contact/">Contact Us</a></li>
+                <li><a href="https://www.foundida.com/blogs/">Blogs</a></li>
+                <!-- <li><a href="https://www.foundida.com/customer_complain/">Report an Issue</a></li> -->
+                <li><a href="https://www.foundida.com/news/">News</a></li>
+                <li><a href="https://www.foundida.com/about/">About Us</a></li>
+                <li><a href="https://www.foundida.com/press-release/">Press Release</a></li>
+                <li id="event-link"><a href="https://www.foundida.com/services/founders-discussion-table/">Event</a></li>
             </ul>
             <span class="grievance" style="">For any grievance mail to: <a
                     href="mailto:complain@fastinfo.com">complain@fastinfo.com</a></span>
@@ -1639,7 +1451,7 @@
 @endsection
 
 @section('scripts')
-<script type='text/javascript' src='https://www.onlinelegalindia.com/js/main.js'></script>
+<script type='text/javascript' src='https://www.foundida.com/js/main.js'></script>
 
 <script>
     $('.accordaion-main-div').click(function() {
@@ -1885,7 +1697,7 @@
                                 $.each(obj, function(i, val) {
                                     //items.push($('<li/>').text(val.ID + " " + val.Company_Name));
                                     //items.push($('<a href="'+val.ID+'"></a><li/>').text("" + val.Company_Name+""));
-                                    items.push('<li><a href="https://onlinelegalindia.com/companydetails.php?cin=' + val.CORPORATE_IDENTIFICATION_NUMBER + '" target="_blank">' + val.Company_Name + '</a></li>');
+                                    items.push('<li><a href="https://foundida.com/companydetails.php?cin=' + val.CORPORATE_IDENTIFICATION_NUMBER + '" target="_blank">' + val.Company_Name + '</a></li>');
                                 });
                                 $('#finalResult').append.apply($('#finalResult'), items);
                             } catch (e) {
@@ -1932,7 +1744,7 @@
     function setCookie(a, d, b) {
         var c = new Date;
         c.setTime(c.getTime() + 864E5 * b);
-        b = "; expires=" + c.toGMTString() + "domain=onlinelegalindia.com;path=/;SameSite=None;Secure";
+        b = "; expires=" + c.toGMTString() + "domain=foundida.com;path=/;SameSite=None;Secure";
         document.cookie = a + "=" + d + b
     }
 
@@ -1970,7 +1782,7 @@
 
             $.ajax({
                 type: 'POST',
-                url: 'https://www.onlinelegalindia.com/payment/store-alternative-number.php',
+                url: 'https://www.foundida.com/payment/store-alternative-number.php',
                 data: {
                     _oclid: _oclid,
                     action: 'check-alter-number'
@@ -2011,7 +1823,7 @@
 
                 $.ajax({
                     type: 'POST',
-                    url: 'https://www.onlinelegalindia.com/payment/store-alternative-number.php',
+                    url: 'https://www.foundida.com/payment/store-alternative-number.php',
                     data: $(form).serialize() + '&action=store-alter-number&_oclid=' + _oclid,
                     dataType: "json",
                     beforeSend: function() {
@@ -2054,7 +1866,7 @@
         let _oclid = getParam("_oclid");
         if (_oclid) {
             if (document.cookie.indexOf('_oclid') > -1) {
-                document.cookie = "_oclid=" + readCookie('_oclid') + ";expires=Thu, 01 Jan 1970 00:00:01 GMT;domain=onlinelegalindia.com;path=/;SameSite=None;Secure";
+                document.cookie = "_oclid=" + readCookie('_oclid') + ";expires=Thu, 01 Jan 1970 00:00:01 GMT;domain=foundida.com;path=/;SameSite=None;Secure";
                 setCookie("_oclid", _oclid, 365)
             } else {
                 setCookie("_oclid", _oclid, 365)
@@ -2080,7 +1892,7 @@
         }
         // $.ajax({
         //     type: 'POST',
-        //     url: 'https://www.onlinelegalindia.com/cookie-user-tracker/insert-tracked-data.php',
+        //     url: 'https://www.foundida.com/cookie-user-tracker/insert-tracked-data.php',
         //     dataType:"json",
         //     data: {
         //         _u_track:readCookie('_u_track'),
@@ -2143,7 +1955,7 @@
 
     //     $.ajax({
     //         type: 'POST',
-    //         url: 'https://www.onlinelegalindia.com/advanced_utm_tracking/custom_cookie_track.php',
+    //         url: 'https://www.foundida.com/advanced_utm_tracking/custom_cookie_track.php',
     //         dataType:"json",
     //         data: {
     //             browser_id:readCookie('browser_id'),
@@ -2174,7 +1986,7 @@
     //     if(readCookie('fbclid') != null){
     //         $.ajax({
     //             type: 'POST',
-    //             url: 'https://www.onlinelegalindia.com/advanced_utm_tracking/insert-fb-utm-data.php',
+    //             url: 'https://www.foundida.com/advanced_utm_tracking/insert-fb-utm-data.php',
     //             data:{ url: window.location.href },
     //             dataType:"json",
     //             success: function (response) {
@@ -2204,7 +2016,7 @@
     //     if(readCookie('gclid') != null){
     //         $.ajax({
     //             type: 'POST',
-    //             url: 'https://www.onlinelegalindia.com/advanced_utm_tracking/insert-google-utm-data.php',
+    //             url: 'https://www.foundida.com/advanced_utm_tracking/insert-google-utm-data.php',
     //             data:{ url: window.location.href },
     //             dataType:"json",
     //             success: function (response) {
@@ -2233,7 +2045,7 @@
     //     if(readCookie('msclkid') != null){
     //         $.ajax({
     //             type: 'POST',
-    //             url: 'https://www.onlinelegalindia.com/advanced_utm_tracking/insert-bing-utm-data.php',
+    //             url: 'https://www.foundida.com/advanced_utm_tracking/insert-bing-utm-data.php',
     //             data:{ url: window.location.href },
     //             dataType:"json",
     //             success: function (response) {
@@ -2249,7 +2061,7 @@
     //     if(params.get('utm_source') == 'mailer'){
     //         $.ajax({
     //             type: 'POST',
-    //             url: 'https://www.onlinelegalindia.com/advanced_utm_tracking/insert-mailer-data.php',
+    //             url: 'https://www.foundida.com/advanced_utm_tracking/insert-mailer-data.php',
     //             data:{ url: window.location.href },
     //             dataType:"json",
     //             success: function (response) {

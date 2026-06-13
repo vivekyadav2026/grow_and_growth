@@ -3,22 +3,22 @@
 @section('meta')
 <title>12A Registration | 80G Registration | CSR Registration Services</title>
 <meta name="description" content="Avail of Professional consultations on Section 12A Registration, 80G Registration, CSR Registration, CSR Activity Report, etc. from us affordably.">
-<link rel="canonical" href="https://www.onlinelegalindia.com/services/section-8-company-compliance-filing/"/>
+<link rel="canonical" href="https://www.foundida.com/services/section-8-company-compliance-filing/"/>
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.onlinelegalindia.com/services/ngo-compliance-filing/">
-<meta property="og:image" content="https://www.onlinelegalindia.com/images/ngo-compliance/ngo-compliance-filing.webp">
+<meta property="og:url" content="https://www.foundida.com/services/ngo-compliance-filing/">
+<meta property="og:image" content="https://www.foundida.com/images/ngo-compliance/ngo-compliance-filing.webp">
 <meta property="og:title" content="Get Affordable Consultation on 12A 80G CSR Registration">
-<meta property="og:site_name" content="OnlineLegalIndia">
+<meta property="og:site_name" content="Foundida">
 <meta property="og:description" content="Avail of Professional consultations on Section 12A Registration, 80G Registration, CSR Registration, CSR Activity Report, etc. from us affordably.">
 <meta property="og:locale" content="en-IN">
 @endsection
 
 @section('styles')
-<!--      <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/bootstrap.min.css">-->
-   <!-- <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/cut.css"> -->
-   <!-- <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/alternative-contact-popup.css"> -->
-   <!-- <link rel="stylesheet" href="https://www.onlinelegalindia.com/css/brands.min.css"> -->
-   <!-- <link rel="stylesheet" href="https://www.onlinelegalindia.com/css/solid.min.css"> -->
+<!--      <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/bootstrap.min.css">-->
+   <!-- <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/cut.css"> -->
+   <!-- <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/alternative-contact-popup.css"> -->
+   <!-- <link rel="stylesheet" href="https://www.foundida.com/css/brands.min.css"> -->
+   <!-- <link rel="stylesheet" href="https://www.foundida.com/css/solid.min.css"> -->
 @endsection
 
 @section('content')
@@ -209,7 +209,7 @@ map area{
 }
 }
 .background_image {
-    background-image: url(https://www.onlinelegalindia.com/images/fees_bg_new_pic99.webp) !important;
+    background-image: url(https://www.foundida.com/images/fees_bg_new_pic99.webp) !important;
 }
 #trademark .register-benifits-text {
     width: 30%;
@@ -332,7 +332,7 @@ map area{
             <!-- <div class="new_grid">
               <div class="form_block_left_inner_left_holder form_block_left_inner_left_holder_border">
                 <div class="fblil_left">
-                  <img src="https://www.onlinelegalindia.com/images/trademark-registration/trademark/trustpilot-new-block.png">
+                  <img src="https://www.foundida.com/images/trademark-registration/trademark/trustpilot-new-block.png">
                 </div>
                 <div class="fblil_right">
                   <p class="new_p">We’re rated 4.5/5 &amp; <span>30,940 Reviews in all</span></p>
@@ -343,7 +343,7 @@ map area{
             <div class="new_grid">
               <div class="form_block_left_inner_left_holder">
                 <div class="fblil_left">
-                  <img src="https://www.onlinelegalindia.com/images/company-compl-llptopvt/google.webp" alt="Google logo -  Online Legal India">
+                  <img src="https://www.foundida.com/images/company-compl-llptopvt/google.webp" alt="Google logo -  Foundida">
                 </div>
                 <div class="fblil_right">
                   <p class="new_p">Rated 4.5 on Google <span>&amp; 6000+ Reviews in all</span></p>
@@ -422,8 +422,8 @@ map area{
             </div>
 
             <fieldset class="new_fieldset">
-              <img id="captcha_holder" src="https://www.onlinelegalindia.com/payment/captcha.php" alt="captcha">
-              <img src="https://www.onlinelegalindia.com/images/capta.webp" id="btnrefresh" alt="captcha">
+              <img id="captcha_holder" src="https://www.foundida.com/payment/captcha.php" alt="captcha">
+              <img src="https://www.foundida.com/images/capta.webp" id="btnrefresh" alt="captcha">
               <input type="text" name="captcha_code" id="captcha_code" class="pull-right" maxlength="4" onkeyup="this.value = this.value.replace(/[^\d]+/g, '');" placeholder="Enter the captcha here..">
             </fieldset>
 
@@ -456,14 +456,14 @@ map area{
     </div>
 
     <div class="ngo_two_text">
-      <p>Online Legal India has a team of experts to provide support to availing of business compliances for all types of Section 8 Companies. If you have a Section 8 Company, you must meet some business compliance. Don’t worry! You may have a lot of important work in hand or you may not be accustomed to performing all complicated online form filling out activities. We are your premium support to meet any compliance criteria of your company.</p>
+      <p>Foundida has a team of experts to provide support to availing of business compliances for all types of Section 8 Companies. If you have a Section 8 Company, you must meet some business compliance. Don’t worry! You may have a lot of important work in hand or you may not be accustomed to performing all complicated online form filling out activities. We are your premium support to meet any compliance criteria of your company.</p>
       <p>The following standards are to maintain to demonstrate their sincerity, and authenticity with some annual compliances. We can help you in all respective fields of services.</p>
     </div>
 
     <!-- <div class="ngo_sub_heading">
-            <h6>Avail of Legal Compliance for NGO<span><img src="https://www.onlinelegalindia.com/images/ngo-compliance/line.png"></span></h6>
+            <h6>Avail of Legal Compliance for NGO<span><img src="https://www.foundida.com/images/ngo-compliance/line.png"></span></h6>
             <p>Based on the Income Tax Act, of 1961, 12A registration is a one-time certification that the income tax department grants against any non-profit organization. The purpose of the registration is to exempt the payable tax if there is any. Usually, this registration is generally applied immediately after the NGO registration. The NGOs registered under Trust, society, or Section 8 Company require Section 12A registration. All nonprofit organizations require it so that they can save the tax as they require more capital for serving the people.</p>
-            <p>If you require services related to section 12A registration, contact Online Legal India. We will do it for you at the minimum cost of Rs. 9000/-, excluding 18% GST.</p>
+            <p>If you require services related to section 12A registration, contact Foundida. We will do it for you at the minimum cost of Rs. 9000/-, excluding 18% GST.</p>
         </div> -->
 
     <div class="new_block_section">
@@ -472,10 +472,10 @@ map area{
         <div class="col-md-5">
           <div class="common_left">
             <div class="common_sub_heading">
-              <h6>Section <span class="span_color">12A Registration</span><span><img src="https://www.onlinelegalindia.com/images/company-compl-llptopvt/line.webp" alt="Line -  icon "></span></h6>
+              <h6>Section <span class="span_color">12A Registration</span><span><img src="https://www.foundida.com/images/company-compl-llptopvt/line.webp" alt="Line -  icon "></span></h6>
             </div>
             <div class="img_block">
-              <img src="https://www.onlinelegalindia.com/images/ngo-compliance/tax.webp" alt="Section 12A Registration - Online Legal India">
+              <img src="https://www.foundida.com/images/ngo-compliance/tax.webp" alt="Section 12A Registration - Foundida">
             </div>
           </div>
         </div>
@@ -484,7 +484,7 @@ map area{
           <div class="common_right">
             <div class="common_p_block">
               <p>According to the Income Tax Act, of 1961, you will get provision certificate of 12A registration on successful application. Then, you have to apply for permanent 12A certificate. Income Tax department grants 12A certification against any non-profit organization. The purpose of the registration is to exempt the payable tax if there is any. Usually, this registration is applied 3 months after the NGO registration. The NGOs registered under Trust, society, or Section 8 Company require Section 12A registration. All nonprofit organizations require it so that they can save the tax as they require more capital for serving the people.</p>
-              <p>If you require services related to section 12A registration, contact Online Legal India. We will do it for you at the minimum cost of Rs. 9000/-, excluding 18% GST.</p>
+              <p>If you require services related to section 12A registration, contact Foundida. We will do it for you at the minimum cost of Rs. 9000/-, excluding 18% GST.</p>
             </div>
           </div>
         </div>
@@ -554,7 +554,7 @@ map area{
         <div class="col-md-7 col7_padding">
           <div class="common_right">
             <div class="common_sub_heading">
-              <h6>Section <span class="span_color">80G Registration</span><span><img src="https://www.onlinelegalindia.com/images/company-compl-llptopvt/line.webp" alt="Line -  icon "></span></h6>
+              <h6>Section <span class="span_color">80G Registration</span><span><img src="https://www.foundida.com/images/company-compl-llptopvt/line.webp" alt="Line -  icon "></span></h6>
             </div>
             <div class="common_p_block">
               <p>Section 80G, registration of income tax, 1961, is a provision in which organizations or individuals can claim for non-deduction of tax on donations offered to any charitable organizations, Section 8 Companies, and NGOs. The donors (individuals or companies) who donate to the organization can also claim their taxable income for non-reduction under this act. So, the people or companies under taxable income will inspire donating to a nonprofit organization like section 8 company.</p>
@@ -568,7 +568,7 @@ map area{
           <div class="common_left">
 
             <div class="img_block">
-              <img src="https://www.onlinelegalindia.com/images/ngo-compliance/bdg.webp" alt="Registration to NGOs - Online Legal India">
+              <img src="https://www.foundida.com/images/ngo-compliance/bdg.webp" alt="Registration to NGOs - Foundida">
             </div>
           </div>
         </div>
@@ -589,7 +589,7 @@ map area{
             <li>Copy of the registration certificate issued by the authority</li>
             <!-- <li>FCRA registration certificate, if applicable</li> -->
             <li>Copies of annual accounts for the last three years preceding</li>
-            <li>Contact Online Legal India to learn more</li>
+            <li>Contact Foundida to learn more</li>
           </ul>
         </div>
       </div>
@@ -636,10 +636,10 @@ map area{
         <div class="col-md-5">
           <div class="common_left">
             <div class="common_sub_heading">
-              <h6><span class="span_color">CSR Registration</span><span><img src="https://www.onlinelegalindia.com/images/company-compl-llptopvt/line.webp" alt="Line -  icon "></span></h6>
+              <h6><span class="span_color">CSR Registration</span><span><img src="https://www.foundida.com/images/company-compl-llptopvt/line.webp" alt="Line -  icon "></span></h6>
             </div>
             <div class="img_block">
-              <img src="https://www.onlinelegalindia.com/images/ngo-compliance/csr.webp" alt="Corporate Social Responsibility - Online Legal India">
+              <img src="https://www.foundida.com/images/ngo-compliance/csr.webp" alt="Corporate Social Responsibility - Foundida">
             </div>
           </div>
         </div>
@@ -726,7 +726,7 @@ map area{
             <h6>CSR Activity Report:</h6>
             <p>You know CSR stands for Corporate Social Responsibility. Companies with specific turnover need to be socially responsible for the people in the nation. They can also donate funds to NGOs for social service. </p>
             <p>A corporate social responsibility report is an internal and external document that the registered companies or NGOs have to maintain. They have to show the proof of social service to the donor companies as well as to the government. So, a report generation is essential. </p>
-            <p>If you do not know how and when to do it, contact Online Legal India, the most trusted online platform to solve all your CSR-related issues, or create a CSR Activity Report for submission. Contact us for getting it at the lowest cost.</p>
+            <p>If you do not know how and when to do it, contact Foundida, the most trusted online platform to solve all your CSR-related issues, or create a CSR Activity Report for submission. Contact us for getting it at the lowest cost.</p>
           </div>
 
 
@@ -1051,18 +1051,18 @@ map area{
                 <div class="card card-body">
                     <ul class="footer_links">
                         <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/private-company-registration/">Private Limited Company</a>
+                            <a href="https://www.foundida.com/services/company-registration/private-company-registration/">Private Limited Company</a>
                         </li> -->
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/private-company-registration/">Private Limited Company</a>
+                            <a href="https://www.foundida.com/services/company-registration/private-company-registration/">Private Limited Company</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/llp-partnership/">Limited
+                            <a href="https://www.foundida.com/services/company-registration/llp-partnership/">Limited
                                 Liability Partnership</a>
                         </li>
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/one-person-company-registration/">One
+                                href="https://www.foundida.com/services/company-registration/one-person-company-registration/">One
                                 Person Company</a>
                         </li>
                         <!-- <li>
@@ -1072,12 +1072,12 @@ map area{
                         </li> -->
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/public-limited-company/">Public
+                                href="https://www.foundida.com/services/company-registration/public-limited-company/">Public
                                 limited Company</a>
                         </li>
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/section-8-company-registration/">Section
+                                href="https://www.foundida.com/services/company-registration/section-8-company-registration/">Section
                                 8 Company</a>
                         </li>
                     </ul>
@@ -1096,35 +1096,35 @@ map area{
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/fssai-registration/">FSSAI [Food
+                            <a href="https://www.foundida.com/services/fssai-registration/">FSSAI [Food
                                 License]</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/fssai-renewal/">FSSAI Renewal</a>
+                            <a href="https://www.foundida.com/services/fssai-renewal/">FSSAI Renewal</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-iec-code-import-export-license/">IEC
+                            <a href="https://www.foundida.com/services/online-iec-code-import-export-license/">IEC
                                 [Import/Export Code]</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/iec-certificate-modification/">IEC
+                            <a href="https://www.foundida.com/services/iec-certificate-modification/">IEC
                                 Certificate Modification</a>
                         </li>
 
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/bis-certificate/">BIS Certificate</a>
+                            <a href="https://www.foundida.com/services/bis-certificate/">BIS Certificate</a>
                         </li>
 
 
 
                         <li>
-                            <!-- <a  href="https://www.onlinelegalindia.com/services/online-apeda-registration/">Apeda Registration</a> -->
-                            <!-- <a  href="https://www.onlinelegalindia.com/contact/">Apeda Registration</a> -->
+                            <!-- <a  href="https://www.foundida.com/services/online-apeda-registration/">Apeda Registration</a> -->
+                            <!-- <a  href="https://www.foundida.com/contact/">Apeda Registration</a> -->
                         </li>
                         <li>
 
                             <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/hard-copy-certificate/">Hard-Copy
+                            <a href="https://www.foundida.com/services/hard-copy-certificate/">Hard-Copy
                                 License</a>
                         </li> -->
 
@@ -1145,22 +1145,22 @@ map area{
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-registration/">TM
+                            <a href="https://www.foundida.com/services/trademark-registration/">TM
                                 Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-objection-reply/">TM
+                            <a href="https://www.foundida.com/services/trademark-objection-reply/">TM
                                 Objection</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-renewal/">TM Renewal</a>
+                            <a href="https://www.foundida.com/services/trademark-renewal/">TM Renewal</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-copyright-registration/">Copyright
+                            <a href="https://www.foundida.com/services/online-copyright-registration/">Copyright
                                 Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/iso-registration/">ISO
+                            <a href="https://www.foundida.com/services/iso-registration/">ISO
                                 Registration</a>
                         </li>
                     </ul>
@@ -1179,16 +1179,16 @@ map area{
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-registration/">GST Registration</a>
+                            <a href="https://www.foundida.com/services/gst-registration/">GST Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-return-filing/">GST Filing</a>
+                            <a href="https://www.foundida.com/services/gst-return-filing/">GST Filing</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-modification/">GST Modification</a>
+                            <a href="https://www.foundida.com/services/gst-modification/">GST Modification</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-cancellation/">GST Cancellation</a>
+                            <a href="https://www.foundida.com/services/gst-cancellation/">GST Cancellation</a>
                         </li>
                     </ul>
                 </div>
@@ -1206,19 +1206,19 @@ map area{
                 <div class="card card-body">
                     <ul class="footer_links">
                         <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/oliaccountant/">Online Accountant</a>
+                            <a href="https://www.foundida.com/services/oliaccountant/">Online Accountant</a>
                         </li> -->
                         <li>
                             <!-- <a href="">PF
                                 Registration</a> -->
-                            <a href="https://www.onlinelegalindia.com/services/online-tax-pfesi-registration/">PF-ESIC Registration</a>
+                            <a href="https://www.foundida.com/services/online-tax-pfesi-registration/">PF-ESIC Registration</a>
                         </li>
                         <li>
                             <!-- <a href="">PF Return</a> -->
-                            <a href="https://www.onlinelegalindia.com/services/online-tax-pfesi-return/">PF-ESIC Return Filing </a>
+                            <a href="https://www.foundida.com/services/online-tax-pfesi-return/">PF-ESIC Return Filing </a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-bookkeeping-service/">Online
+                            <a href="https://www.foundida.com/services/online-bookkeeping-service/">Online
                                 Bookkeeping</a>
                         </li>
 
@@ -1240,13 +1240,13 @@ map area{
 <div class="row">
     <div class="right_side">
         <div class="textwidget">
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/footer-logo.png" alt="logo" style="margin-left: -13px;"> -->
-            <!-- 30-12-2022_bkp<img class="footer_black_img" src="https://www.onlinelegalindia.com/images/logo6-1.svg" alt="logo" style="margin-left: -13px; width: 250px;"> -->
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/fastinfo-group.svg" alt="logo"
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/footer-logo.png" alt="logo" style="margin-left: -13px;"> -->
+            <!-- 30-12-2022_bkp<img class="footer_black_img" src="https://www.foundida.com/images/logo6-1.svg" alt="logo" style="margin-left: -13px; width: 250px;"> -->
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/fastinfo-group.svg" alt="logo"
                 style="margin-left: -13px; width: 250px;"> -->
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/Online-legal-india-republic.png" alt="logo" style="margin-left: -13px; width: 250px;"> -->
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/Online-legal-india-republic.png" alt="logo" style="margin-left: -13px; width: 250px;"> -->
             <p>
-                <strong>Online Legal India is a part of FastInfo Legal Services Pvt Ltd. Which is registered under the Companies Act, 2013.</strong>
+                <strong>Foundida is a part of FastInfo Legal Services Pvt Ltd. Which is registered under the Companies Act, 2013.</strong>
             </p>
 
         </div>
@@ -1282,20 +1282,20 @@ map area{
         <p class="social_title cstm_align" style="margin: 0;">Follow Us</p>
         <div class="social_contacts">
                             <div class="social_icons">
-                    <!-- <a href="https://www.facebook.com/OnlineLegalIndia/"><i class="fab fa-facebook-f"></i></a>
-                          <a href="mailto:info@onlinelegalindia.com"><i class="fab fa-google-plus-g"></i></a> -->
-                    <a href="https://www.facebook.com/OnlineLegalIndia/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/facebook.webp" alt="Facebook"></a>
+                    <!-- <a href="https://www.facebook.com/Foundida/"><i class="fab fa-facebook-f"></i></a>
+                          <a href="mailto:info@foundida.com"><i class="fab fa-google-plus-g"></i></a> -->
+                    <a href="https://www.facebook.com/Foundida/" target="_blank"><img
+                            src="https://www.foundida.com/images/facebook.webp" alt="Facebook"></a>
                     <a href="https://twitter.com/onlinelegalind" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/twitter.webp" alt="Twitter"></a>
+                            src="https://www.foundida.com/images/twitter.webp" alt="Twitter"></a>
                     <a href="https://www.linkedin.com/company/online-legal-india/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/linkedin.webp" alt="Linkedin"></a>
-                    <a href="https://www.instagram.com/online_legal_india/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/instagram.webp" alt="Instagram"></a>
-                    <a href="mailto:info@onlinelegalindia.com"><img src="https://www.onlinelegalindia.com/images/email.webp"
+                            src="https://www.foundida.com/images/linkedin.webp" alt="Linkedin"></a>
+                    <a href="https://www.instagram.com/foundida/" target="_blank"><img
+                            src="https://www.foundida.com/images/instagram.webp" alt="Instagram"></a>
+                    <a href="mailto:info@foundida.com"><img src="https://www.foundida.com/images/email.webp"
                             alt="Email"></a>
-                    <a href="https://www.youtube.com/c/OnlineLegalIndia" target="_blank"><img class="icons"
-                            src="https://www.onlinelegalindia.com/images/youtube.webp" alt="youtube icon"></a>
+                    <a href="https://www.youtube.com/c/Foundida" target="_blank"><img class="icons"
+                            src="https://www.foundida.com/images/youtube.webp" alt="youtube icon"></a>
 
 
                 </div>
@@ -1307,11 +1307,11 @@ map area{
 
         <div class="app_link_block_holder">
             <ul>
-                <li><a href="https://play.google.com/store/apps/details?id=onlinelegalindia.com.onlinelegalindia"
-                        target="_blank"><img src="https://www.onlinelegalindia.com/images/google-play.webp"
+                <li><a href="https://play.google.com/store/apps/details?id=foundida.com.foundida"
+                        target="_blank"><img src="https://www.foundida.com/images/google-play.webp"
                             alt="Google Play"></a></li>
                 <li><a href="https://apps.apple.com/in/app/online-legal-india/id1573385779" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/app-store.webp" alt="App Store"></a></li>
+                            src="https://www.foundida.com/images/app-store.webp" alt="App Store"></a></li>
             </ul>
         </div>
     </div>
@@ -1322,13 +1322,13 @@ map area{
         <div class="quick_links">
             <ul>
                 <li><a id="careers" target="_blank" href="https://www.fastinfo.com/career">Careers</a></li>
-                <li><a href="https://www.onlinelegalindia.com/contact/">Contact Us</a></li>
-                <li><a href="https://www.onlinelegalindia.com/blogs/">Blogs</a></li>
-                <!-- <li><a href="https://www.onlinelegalindia.com/customer_complain/">Report an Issue</a></li> -->
-                <li><a href="https://www.onlinelegalindia.com/news/">News</a></li>
-                <li><a href="https://www.onlinelegalindia.com/about/">About Us</a></li>
-                <li><a href="https://www.onlinelegalindia.com/press-release/">Press Release</a></li>
-                <li id="event-link"><a href="https://www.onlinelegalindia.com/services/founders-discussion-table/">Event</a></li>
+                <li><a href="https://www.foundida.com/contact/">Contact Us</a></li>
+                <li><a href="https://www.foundida.com/blogs/">Blogs</a></li>
+                <!-- <li><a href="https://www.foundida.com/customer_complain/">Report an Issue</a></li> -->
+                <li><a href="https://www.foundida.com/news/">News</a></li>
+                <li><a href="https://www.foundida.com/about/">About Us</a></li>
+                <li><a href="https://www.foundida.com/press-release/">Press Release</a></li>
+                <li id="event-link"><a href="https://www.foundida.com/services/founders-discussion-table/">Event</a></li>
             </ul>
             <span class="grievance" style="">For any grievance mail to: <a
                     href="mailto:complain@fastinfo.com">complain@fastinfo.com</a></span>
@@ -1342,10 +1342,16 @@ map area{
         <!-- /.container -->
     </footer>
 </section>
+
+    <!-- Redesigned Shared Components -->
+    @include('layouts.ceo_desk')
+    @include('layouts.events')
+    @include('layouts.why_us')
+
 @endsection
 
 @section('scripts')
-<script type='text/javascript' src='https://www.onlinelegalindia.com/js/main.js'></script>
+<script type='text/javascript' src='https://www.foundida.com/js/main.js'></script>
 
 <script>
     $("input[name='is_prompted_whatsapp']").on("change", function() {
@@ -1409,7 +1415,7 @@ map area{
                 email = $('#send_WhatsApp').find('.wa_email').val(),
                 mobile = $('#send_WhatsApp').find('.wa_mobile').val();
             $.ajax({
-                url: "https://www.onlinelegalindia.com/payment/storeWhatsApp.php",
+                url: "https://www.foundida.com/payment/storeWhatsApp.php",
                 method: 'post',
                 data: {
                     name: name,
@@ -1636,7 +1642,7 @@ map area{
     function setCookie(a, d, b) {
         var c = new Date;
         c.setTime(c.getTime() + 864E5 * b);
-        b = "; expires=" + c.toGMTString() + "domain=onlinelegalindia.com;path=/;SameSite=None;Secure";
+        b = "; expires=" + c.toGMTString() + "domain=foundida.com;path=/;SameSite=None;Secure";
         document.cookie = a + "=" + d + b
     }
 
@@ -1819,7 +1825,7 @@ map area{
     // Common sender
     function logErrorToServer(payload) {
         try {
-            $.post("https://www.onlinelegalindia.com/feed_errorlog.php", {
+            $.post("https://www.foundida.com/feed_errorlog.php", {
                 error_src: payload.type || "unknown",
                 error_desc: JSON.stringify(payload),
                 landing_page: window.location.href,
@@ -1947,7 +1953,7 @@ map area{
 </script>
 
 <script>
-  baseUrl = 'https://www.onlinelegalindia.com/'
+  baseUrl = 'https://www.foundida.com/'
   $(document).on('click', '#nextBtn', function(e) {
     e.preventDefault();
     $('#nextBtn').text('Please Wait..');

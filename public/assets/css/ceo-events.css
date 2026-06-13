@@ -1,0 +1,278 @@
+/* =============================================
+   CEO DESK & EVENTS GALLERY - Foundida Index Page
+   ============================================= */
+
+:root {
+    --primary-navy: #0D1B3D;
+    --primary-emerald: #1B5E3A;
+    --emerald-light: #e8f5e9;
+    --text-dark: #1e293b;
+    --text-muted: #64748b;
+    --bg-light: #f8fafc;
+    --shadow-soft: 0 10px 30px rgba(13, 27, 61, 0.04);
+    --shadow-hover: 0 20px 40px rgba(13, 27, 61, 0.1);
+    --transition-smooth: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* =============================================
+   FROM CEO'S DESK SECTION
+   ============================================= */
+.fd-ceo-desk-sec {
+    background: linear-gradient(135deg, #ffffff 0%, #f1f5f9 100%);
+    position: relative;
+    overflow: hidden;
+}
+
+.fd-ceo-desk-sec::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: radial-gradient(circle at 100% 0%, rgba(27, 94, 58, 0.04) 0%, transparent 50%);
+    pointer-events: none;
+}
+
+.fd-ceo-desk-card {
+    background: #ffffff;
+    border-radius: 24px;
+    padding: 60px;
+    box-shadow: var(--shadow-soft);
+    border: 1px solid rgba(13, 27, 61, 0.05);
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 45px;
+    position: relative;
+}
+
+@media (max-width: 991px) {
+    .fd-ceo-desk-card {
+        flex-direction: column;
+        text-align: center;
+        padding: 40px 30px;
+    }
+}
+
+.fd-ceo-desk-img-wrapper {
+    flex-shrink: 0;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 4px solid var(--primary-emerald);
+    box-shadow: 0 8px 20px rgba(27, 94, 58, 0.15);
+}
+
+.fd-ceo-desk-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.fd-ceo-desk-content {
+    flex-grow: 1;
+    position: relative;
+}
+
+.fd-ceo-desk-badge {
+    display: inline-block;
+    background: var(--emerald-light);
+    color: var(--primary-emerald);
+    padding: 6px 14px;
+    border-radius: 30px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.fd-ceo-desk-quote {
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--primary-navy);
+    line-height: 1.5;
+    margin-bottom: 25px;
+    font-style: italic;
+    position: relative;
+    z-index: 1;
+}
+
+.fd-ceo-desk-quote::before {
+    content: '“';
+    position: absolute;
+    top: -45px;
+    left: -20px;
+    font-size: 120px;
+    color: rgba(27, 94, 58, 0.08);
+    font-family: serif;
+    z-index: -1;
+}
+
+.fd-ceo-desk-signature {
+    display: flex;
+    flex-direction: column;
+}
+
+.fd-ceo-desk-name {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--primary-navy);
+    margin-bottom: 4px;
+}
+
+.fd-ceo-desk-title {
+    font-size: 14px;
+    color: var(--text-muted);
+    font-weight: 500;
+}
+
+/* =============================================
+   EVENTS GALLERY SECTION
+   ============================================= */
+.fd-events-sec {
+    padding: 100px 0;
+    background: #ffffff;
+    position: relative;
+}
+
+.fd-events-header {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto 55px auto;
+}
+
+.fd-events-badge {
+    display: inline-flex;
+    align-items: center;
+    background: var(--emerald-light);
+    color: var(--primary-emerald);
+    padding: 8px 16px;
+    border-radius: 50px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    border: 1px solid rgba(27, 94, 58, 0.1);
+}
+
+.fd-events-badge i {
+    margin-right: 8px;
+}
+
+.fd-events-title {
+    font-size: 38px;
+    font-weight: 800;
+    color: var(--primary-navy);
+    line-height: 1.2;
+    margin-bottom: 15px;
+}
+
+.fd-events-title span {
+    color: var(--primary-emerald);
+    position: relative;
+    display: inline-block;
+}
+
+.fd-events-title span::after {
+    content: '';
+    position: absolute;
+    bottom: 4px;
+    left: 0;
+    width: 100%;
+    height: 8px;
+    background: rgba(27, 94, 58, 0.15);
+    z-index: -1;
+    border-radius: 2px;
+}
+
+.fd-events-subtitle {
+    font-size: 16px;
+    color: var(--text-muted);
+    line-height: 1.6;
+}
+
+.fd-events-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+@media (max-width: 991px) {
+    .fd-events-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 576px) {
+    .fd-events-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+}
+
+.fd-event-card {
+    background: #ffffff;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: var(--shadow-soft);
+    border: 1px solid rgba(13, 27, 61, 0.03);
+    transition: var(--transition-smooth);
+    display: flex;
+    flex-direction: column;
+}
+
+.fd-event-card:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-hover);
+    border-color: rgba(27, 94, 58, 0.15);
+}
+
+.fd-event-img-wrapper {
+    position: relative;
+    overflow: hidden;
+    aspect-ratio: 4 / 3;
+    background: #f1f5f9;
+}
+
+.fd-event-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: var(--transition-smooth);
+}
+
+.fd-event-card:hover .fd-event-img {
+    transform: scale(1.08);
+}
+
+.fd-event-img-wrapper::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, rgba(13, 27, 61, 0) 50%, rgba(13, 27, 61, 0.3) 100%);
+}
+
+.fd-event-info {
+    padding: 24px;
+    text-align: center;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.fd-event-card-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--primary-navy);
+    line-height: 1.4;
+    margin: 0;
+}

@@ -282,7 +282,7 @@
    <!-- End Meta Pixel Code -->
 
    <!-- Foundida Custom Theme -->
-   <link rel="stylesheet" href="{{ asset('assets/css/foundida-theme.css') }}?v=1.0">
+   <link rel="stylesheet" href="{{ asset('assets/css/foundida-theme.css') }}?v=3.0">
    
    @yield('styles')
 </head>

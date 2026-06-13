@@ -1,0 +1,280 @@
+/* =============================================
+   PREMIUM FOOTER - Foundida Layout
+   ============================================= */
+
+:root {
+    --primary-navy: #0D1B3D;
+    --primary-emerald: #1B5E3A;
+    --emerald-light: #e8f5e9;
+    --footer-bg: #091328;
+    --footer-border: rgba(255, 255, 255, 0.06);
+    --text-light-muted: #94a3b8;
+    --text-white: #f8fafc;
+    --transition-smooth: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.fd-footer-sec {
+    background: var(--footer-bg);
+    color: var(--text-white);
+    padding: 80px 0 30px 0;
+    position: relative;
+    font-family: 'Outfit', sans-serif;
+    border-top: 2px solid var(--primary-emerald);
+}
+
+/* Footer Grid Wrapper */
+.fd-footer-grid {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr 1fr 1fr 1fr;
+    gap: 40px;
+    margin-bottom: 50px;
+}
+
+@media (max-width: 1200px) {
+    .fd-footer-grid {
+        grid-template-columns: 1.2fr 1fr 1fr 1fr;
+    }
+    .fd-footer-grid-brand {
+        grid-column: span 4;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .fd-footer-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+    }
+    .fd-footer-grid-brand {
+        grid-column: span 2;
+    }
+}
+
+@media (max-width: 480px) {
+    .fd-footer-grid {
+        grid-template-columns: 1fr;
+        gap: 25px;
+    }
+    .fd-footer-grid-brand {
+        grid-column: span 1;
+    }
+}
+
+/* Brand Column */
+.fd-footer-brand-logo {
+    display: block;
+    margin-bottom: 20px;
+}
+
+.fd-footer-brand-logo img {
+    max-height: 45px;
+    object-fit: contain;
+}
+
+.fd-footer-brand-desc {
+    font-size: 14.5px;
+    color: var(--text-light-muted);
+    line-height: 1.6;
+    margin-bottom: 25px;
+}
+
+.fd-footer-socials {
+    display: flex;
+    gap: 12px;
+}
+
+.fd-footer-social-icon {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.04);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-white);
+    font-size: 16px;
+    transition: var(--transition-smooth);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    text-decoration: none;
+}
+
+.fd-footer-social-icon:hover {
+    background: var(--primary-emerald);
+    color: #ffffff;
+    transform: translateY(-3px);
+    box-shadow: 0 8px 15px rgba(27, 94, 58, 0.25);
+    border-color: var(--primary-emerald);
+}
+
+/* Links Columns */
+.fd-footer-title {
+    font-size: 17px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-bottom: 25px;
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.fd-footer-title::after {
+    content: '';
+    position: absolute;
+    bottom: -8px;
+    left: 0;
+    width: 30px;
+    height: 2px;
+    background: var(--primary-emerald);
+    border-radius: 2px;
+}
+
+.fd-footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.fd-footer-links li a {
+    font-size: 14.5px;
+    color: var(--text-light-muted);
+    text-decoration: none;
+    transition: var(--transition-smooth);
+    display: inline-block;
+}
+
+.fd-footer-links li a:hover {
+    color: #ffffff;
+    transform: translateX(4px);
+    padding-left: 2px;
+}
+
+/* App badge styling */
+.fd-footer-app-badge {
+    margin-top: 20px;
+    display: block;
+}
+
+.fd-footer-app-badge img {
+    max-width: 140px;
+    border-radius: 6px;
+    transition: var(--transition-smooth);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.fd-footer-app-badge img:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Bottom Footer Bar */
+.fd-footer-bottom {
+    border-top: 1px solid var(--footer-border);
+    padding-top: 30px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.fd-footer-copy {
+    font-size: 14px;
+    color: var(--text-light-muted);
+}
+
+.fd-footer-bottom-links {
+    display: flex;
+    gap: 24px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    flex-wrap: wrap;
+}
+
+.fd-footer-bottom-links li a {
+    font-size: 14px;
+    color: var(--text-light-muted);
+    text-decoration: none;
+    transition: var(--transition-smooth);
+}
+
+.fd-footer-bottom-links li a:hover {
+    color: #ffffff;
+}
+
+/* Grievance text */
+.fd-footer-grievance {
+    font-size: 13.5px;
+    color: var(--text-light-muted);
+    margin-top: 15px;
+    display: block;
+    border-top: 1px dashed rgba(255, 255, 255, 0.05);
+    padding-top: 15px;
+}
+
+.fd-footer-grievance a {
+    color: var(--primary-emerald);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.fd-footer-grievance a:hover {
+    text-decoration: underline;
+}
+
+/* Sticky Action Button / Dialer */
+.fd-sticky-dialer {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    z-index: 9999;
+}
+
+.fd-dialer-btn {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: var(--primary-emerald);
+    color: #ffffff !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    box-shadow: 0 10px 25px rgba(27, 94, 58, 0.4);
+    transition: var(--transition-smooth);
+    text-decoration: none;
+    position: relative;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+.fd-dialer-btn:hover {
+    transform: scale(1.1) rotate(15deg);
+    background: #14472b;
+    box-shadow: 0 15px 30px rgba(27, 94, 58, 0.5);
+}
+
+/* Floating animation */
+@keyframes fd-bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }
+}
+
+.fd-sticky-dialer {
+    animation: fd-bounce 3s ease-in-out infinite;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .fd-footer-bottom {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+    .fd-footer-bottom-links {
+        justify-content: center;
+    }
+}

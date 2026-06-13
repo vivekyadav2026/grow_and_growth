@@ -1,0 +1,312 @@
+/* =========================================
+   ZOLVIT-STYLE THEME (Navy & Emerald Edition)
+   ========================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+:root {
+    --zv-navy: #0D1B3D;
+    --zv-navy-dark: #081026;
+    --zv-emerald: #1B5E3A;
+    --zv-emerald-light: #247A4C;
+    --zv-yellow: #FACC15;
+    --zv-text: #FFFFFF;
+}
+
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* 1. HERO SECTION (Navy Background) */
+.zolvit-hero {
+    position: relative;
+    background: radial-gradient(circle at top, var(--zv-navy), var(--zv-navy-dark)) !important;
+    background-color: var(--zv-navy) !important;
+    padding: 200px 0 60px 0 !important; /* Normal padding, no more massive empty space */
+    margin-top: 0 !important; 
+    text-align: center;
+    color: #FFFFFF !important;
+    display: block !important;
+    z-index: 1;
+}
+
+/* Faint background watermarks (Optional texture) */
+.zolvit-hero::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-image: radial-gradient(rgba(255,255,255,0.03) 2px, transparent 2px);
+    background-size: 40px 40px;
+    z-index: 0;
+}
+
+.zv-container {
+    position: relative;
+    z-index: 5;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/* 2. HEADINGS & REVIEWS */
+.zv-top-review {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 24px;
+}
+.zv-stars {
+    color: var(--zv-yellow);
+}
+
+.zv-title {
+    font-size: 52px;
+    font-weight: 800;
+    line-height: 1.2;
+    margin-bottom: 16px;
+    letter-spacing: -1px;
+    color: #FFFFFF !important;
+}
+.zv-subtitle {
+    font-size: 18px;
+    font-weight: 400;
+    opacity: 0.9;
+    margin-bottom: 40px;
+    color: #E2E8F0 !important;
+}
+
+/* 3. SEARCH BAR */
+.zv-search-wrapper {
+    max-width: 700px;
+    margin: 0 auto 24px auto;
+    position: relative;
+}
+.zv-search-input {
+    width: 100%;
+    padding: 20px 24px;
+    border-radius: 50px;
+    border: 1px solid rgba(255,255,255,0.2);
+    background: rgba(255,255,255,0.05);
+    color: #FFFFFF;
+    font-size: 18px;
+    outline: none;
+    backdrop-filter: blur(8px);
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+}
+.zv-search-input::placeholder {
+    color: rgba(255,255,255,0.5);
+}
+.zv-search-btn {
+    position: absolute;
+    right: 8px;
+    top: 8px;
+    bottom: 8px;
+    width: 48px;
+    border-radius: 50%;
+    background: var(--zv-emerald); /* Emerald Green Accent */
+    color: #FFF;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.3s;
+    box-shadow: 0 4px 10px rgba(27,94,58,0.4);
+}
+.zv-search-btn:hover {
+    background: var(--zv-emerald-light);
+}
+
+/* 4. QUICK LINKS */
+.zv-quick-links {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+.zv-pill {
+    padding: 8px 20px;
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 50px;
+    color: #E2E8F0;
+    font-size: 14px;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+.zv-pill:hover {
+    background: rgba(27,94,58,0.3); /* Emerald tint on hover */
+    border-color: var(--zv-emerald);
+    color: #FFF;
+}
+
+/* 5. BULLETPROOF SVG CURVE */
+.hero-curve-divider {
+    width: 100%;
+    height: 80px;
+    overflow: hidden;
+    line-height: 0;
+    background-color: var(--zv-navy);
+}
+.hero-curve-divider svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+/* 6. BLACK TRUST SECTION */
+.zv-trust-section {
+    background-color: #000000;
+    position: relative;
+    padding-bottom: 80px;
+}
+
+/* 7. ROBUST OVERLAPPING CARDS */
+.zv-cards-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 20px;
+    max-width: 1050px;
+    margin: 0 auto;
+    margin-top: -140px; /* Pulls cards UP over the SVG curve */
+    position: relative;
+    z-index: 10;
+    padding-bottom: 60px; /* Space between cards and trust text */
+}
+
+.zv-card {
+    background: #FFFFFF;
+    border-radius: 12px;
+    padding: 30px 20px;
+    width: 310px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+    color: #333;
+    text-align: left;
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    position: relative;
+    border-bottom: 4px solid transparent;
+}
+.zv-card h3 {
+    font-size: 22px;
+    font-weight: 800;
+    color: var(--zv-navy);
+    margin-bottom: 12px;
+}
+.zv-card p {
+    font-size: 14px;
+    color: #64748B;
+    line-height: 1.5;
+}
+
+/* Specific Card Tilts */
+.zv-card-left {
+    transform: translateY(30px) rotate(-4deg);
+    z-index: 1;
+}
+.zv-card-center {
+    width: 340px; /* Slightly larger */
+    transform: translateY(0) rotate(0deg);
+    z-index: 2;
+    padding-bottom: 50px; /* Make it taller */
+    box-shadow: 0 25px 50px rgba(0,0,0,0.5);
+}
+.zv-card-right {
+    transform: translateY(30px) rotate(4deg);
+    z-index: 1;
+}
+
+/* Hover effects */
+.zv-card:hover {
+    transform: translateY(-10px) rotate(0deg);
+    z-index: 3;
+    border-bottom: 4px solid var(--zv-emerald); /* Emerald highlight on hover */
+}
+
+/* 8. TRUST RIBBON CONTENT */
+.zv-trust-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 15px;
+    flex-wrap: wrap;
+    gap: 30px;
+    color: #FFFFFF;
+}
+.zv-trust-quote {
+    flex: 1;
+    min-width: 250px;
+}
+.zv-trust-quote p {
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: 8px;
+    color: #F8FAFC !important;
+}
+.zv-trust-quote span {
+    font-size: 14px;
+    color: #94A3B8;
+}
+
+.zv-laurel-badge {
+    flex: 1;
+    text-align: center;
+    min-width: 250px;
+}
+/* Forcing typography colors to fix the dark blue on black issue */
+.zv-laurel-badge h4 {
+    font-size: 20px;
+    font-weight: 800;
+    margin: 10px 0;
+    letter-spacing: 1px;
+    color: #FFFFFF !important; 
+}
+.zv-laurel-badge p {
+    color: #CBD5E1 !important;
+}
+
+.zv-google-badge {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: flex-end;
+    min-width: 250px;
+}
+.zv-google-badge img {
+    width: 50px;
+}
+.zv-google-badge-text {
+    text-align: left;
+}
+.zv-google-badge-text p {
+    color: #FFFFFF !important;
+}
+.zv-google-badge-text .zv-stars {
+    color: var(--zv-yellow) !important;
+}
+
+/* Responsive */
+@media (max-width: 991px) {
+    .zv-cards-wrapper {
+        flex-direction: column;
+        align-items: center;
+        margin-top: -60px;
+    }
+    .zv-card {
+        transform: none !important;
+        width: 100% !important;
+        max-width: 400px;
+        margin-bottom: 20px;
+    }
+    .zv-trust-flex {
+        justify-content: center;
+        text-align: center;
+    }
+    .zv-google-badge {
+        justify-content: center;
+    }
+}

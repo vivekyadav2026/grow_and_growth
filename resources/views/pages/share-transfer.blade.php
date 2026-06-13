@@ -1,9 +1,9 @@
 @extends('layouts.app')
 
 @section('meta')
-<title>Transfer The Shares of Your Company Easily | Online Legal India</title>
+<title>Transfer The Shares of Your Company Easily | Foundida</title>
 <meta name="description" content="Want to add investors to your company but having problems in sharing transfer of private limited company? Take professional advice for all your legal queries.">
-<link rel="canonical" href="https://www.onlinelegalindia.com/services/share-transfer/"/>
+<link rel="canonical" href="https://www.foundida.com/services/share-transfer/"/>
 @endsection
 
 @section('styles')
@@ -12,11 +12,11 @@
         font-size: 16px;
     }
 </style>
-   <!--      <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/bootstrap.min.css">-->
-   <!-- <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/cut.css"> -->
-   <!-- <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/alternative-contact-popup.css"> -->
-   <!-- <link rel="stylesheet" href="https://www.onlinelegalindia.com/css/brands.min.css"> -->
-   <!-- <link rel="stylesheet" href="https://www.onlinelegalindia.com/css/solid.min.css"> -->
+   <!--      <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/bootstrap.min.css">-->
+   <!-- <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/cut.css"> -->
+   <!-- <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/alternative-contact-popup.css"> -->
+   <!-- <link rel="stylesheet" href="https://www.foundida.com/css/brands.min.css"> -->
+   <!-- <link rel="stylesheet" href="https://www.foundida.com/css/solid.min.css"> -->
 @endsection
 
 @section('content')
@@ -81,7 +81,7 @@
         <div style="position:relative;"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>
         <div class="modal-content modal_content_forbes">
             <div class="modal-body modal_body_forbes">
-                <img src="https://www.onlinelegalindia.com/images/about-us/rajesh-kewat-forbes.webp" alt="rajesh kewat forbes" style="width:100%;">
+                <img src="https://www.foundida.com/images/about-us/rajesh-kewat-forbes.webp" alt="rajesh kewat forbes" style="width:100%;">
             </div>
         </div>
     </div>
@@ -93,21 +93,21 @@
         <div class="modal-content">
             <div class="modal-body">
                 <div class="popup_img"><img src="images/zeenews.webp" alt="Zeenews"></div>
-                <h2>Meet Rajesh Kewat, The Small Town Entrepreneur Behind OnlineLegalIndia's Success</h2>
+                <h2>Meet Rajesh Kewat, The Small Town Entrepreneur Behind Foundida's Success</h2>
                 <p>We all know today’s world is totally running on online technology, to utilize this online platform and preventing people from moving pillar to post that small town entrepreneur came up with an one stop solution for providing all sort of legal and professional services at their doorstep in the name of FastInfo Legal Services Pvt. Ltd. </p>
                 <img src="images/zeenews-rajesh.webp" alt="Zeenews Rajesh Kewat">
-                <p>We all know today’s world is totally running on online technology, to utilize this online platform and preventing people from moving pillar to post that small town entrepreneur came up with an one stop solution for providing all sort of legal and professional services at their doorstep in the name of <a href="https://www.onlinelegalindia.com/">FastInfo Legal Services Pvt. Ltd. </a></p>
+                <p>We all know today’s world is totally running on online technology, to utilize this online platform and preventing people from moving pillar to post that small town entrepreneur came up with an one stop solution for providing all sort of legal and professional services at their doorstep in the name of <a href="https://www.foundida.com/">FastInfo Legal Services Pvt. Ltd. </a></p>
                 <p>A small town boy with a dream in his eyes to reach the sky. Mr Rajesh Kewat who is the Managing Director and Founder of one of the Leading Online Business Sector <a href="https://www.fastinfo.com/">“FastInfo”.</a></p>
                 <p>He believed positive motivation & inspiration are the hallmark of success for the entrepreneur from a small town, there may not be availability of proper resources but will power and confident is a gentle way to achieve the success.</p>
                 <img src="images/legal-popup.webp" alt="Legal Services">
-                <p>Under the brand name of Online Legal India which is basically focused on fighting against online fraud and providing professional services for business compliances. Online Legal India became one of the India’s leading online companies and within a short period of time it grabbed customer’s heart. Online Legal India basically dealing with consultation services on Legal matters, GST filing and Registration, TAX compliance,</p>
+                <p>Under the brand name of Foundida which is basically focused on fighting against online fraud and providing professional services for business compliances. Foundida became one of the India’s leading online companies and within a short period of time it grabbed customer’s heart. Foundida basically dealing with consultation services on Legal matters, GST filing and Registration, TAX compliance,</p>
                 <p>IEC Registration, FSSAI Registration, Company Registration, Trademark Registration, Consumer Complaint and many more.</p>
-                <p>When Online Legal India was flourishing at a higher range, and reaching out the customers for the legal and business compliance with a high outcome, FastInfo had decided to come up with an E- Learning platform to serve the students in both urban and rural areas. He realized there are many students in the rural areas who are lacking in the education due to the lack of proper infrastructure& there are large number of students from distance education or open universities who are not getting enough help from anywhere.</p>
+                <p>When Foundida was flourishing at a higher range, and reaching out the customers for the legal and business compliance with a high outcome, FastInfo had decided to come up with an E- Learning platform to serve the students in both urban and rural areas. He realized there are many students in the rural areas who are lacking in the education due to the lack of proper infrastructure& there are large number of students from distance education or open universities who are not getting enough help from anywhere.</p>
                 <img src="images/fastinfo-intro.webp" alt="Fastinfo Intro">
-                <p><a href="https://www.onlinelegalindia.com/services/rajesh-kewat/">Mr Rajesh Kewat</a>(Founder) who was associated with one of the leading education sector OXFORD for a long time decided to come up with an idea of enhancing his skill in the education sector. Therefore, he came up with an idea of launching an Online Educational Platform and making it accessible throughout the nation which enables LIVE interactive classes between a teacher and a student. He named the same as “FastInfo Class”, this is the online platform to provide education to the students and at the same time providing quality guidance. FastInfo Class provide the online tuition to IGNOU & NIOS bachelors and masters’ student, students appearing for Competitive Examslike Banking Exam including IBPS Exam, Railway Exam (RRB Exam), UPSC CSE etc and also provide helps for co-curricular courses. </p>
+                <p><a href="https://www.foundida.com/services/rajesh-kewat/">Mr Rajesh Kewat</a>(Founder) who was associated with one of the leading education sector OXFORD for a long time decided to come up with an idea of enhancing his skill in the education sector. Therefore, he came up with an idea of launching an Online Educational Platform and making it accessible throughout the nation which enables LIVE interactive classes between a teacher and a student. He named the same as “FastInfo Class”, this is the online platform to provide education to the students and at the same time providing quality guidance. FastInfo Class provide the online tuition to IGNOU & NIOS bachelors and masters’ student, students appearing for Competitive Examslike Banking Exam including IBPS Exam, Railway Exam (RRB Exam), UPSC CSE etc and also provide helps for co-curricular courses. </p>
                 <p>Like this, <a href="https://www.fastinfo.com/">FastInfo</a> is growing towards the achievement to become the India’s largest online platform for e- commerce sectors. FastInfo is yet to come up with many more projects in upcoming future like FastInfo Tech which is going to be launched very soon for the IT sector.</p>
                 <div class="bottom_link_close">
-                    <a class="bottom_link" onclick="gtagevent5();" href="https://zeenews.india.com/companies/meet-rajesh-kewat-the-small-town-entrepreneur-behind-fastinfoclass-onlinelegalindia-success-2280370.html" target="_blank">Read Full Article at <span>Zee News</span></a>
+                    <a class="bottom_link" onclick="gtagevent5();" href="https://zeenews.india.com/companies/meet-rajesh-kewat-the-small-town-entrepreneur-behind-fastinfoclass-foundida-success-2280370.html" target="_blank">Read Full Article at <span>Zee News</span></a>
                     <a data-dismiss="modal" aria-label="Close">Close</a>
                 </div>
             </div>
@@ -125,7 +125,7 @@
                 <img src="images/zeenews-rajesh.webp" alt="Rajesh Kewat">
                 <p>We come across many rags to riches stories in a lifetime. Most of the stories are about an individual toiling hard to become significant in the world. The story of Rajesh Kewat, a simple man from the small town of Dinhata, West Bengal, might seem like a run of the mill rags to riches story, but it is much more. It is a story of a hardworking man who has managed to turn his fortunes and is now dedicated to simplifying the lives of those around him. Rajesh Kewat, a Masters in Computer Application is the Managing Director of FastInfo Legal Services Pvt. Ltd.</p>
                 <p>FastInfo Legal Services, formerly known as True Consultants was initially a platform for online RTI applications. The existence of an online portal for the same bridged the gap between the citizens and their right to question. The platform helped the citizens’ voices reach the correct places at a menial cost, affordable to all.</p>
-                <p>Online Legal India, another venture of Rajesh Kewat also enables easier procedures for GST Filing & Registration, Company Registration, Trade Mark Registration, and many more. It is a boon for small scale businesses as well, as it helps with formalities like business registrations & compliances.</p>
+                <p>Foundida, another venture of Rajesh Kewat also enables easier procedures for GST Filing & Registration, Company Registration, Trade Mark Registration, and many more. It is a boon for small scale businesses as well, as it helps with formalities like business registrations & compliances.</p>
                 <p>Rajesh Kewat has been unstoppable once he realized the potential of simplifying lives with the help of the digital platform. He also started the FastInfo Classes that are not just online tutorials available for school students; it also has classes for competitive exams. There are multiple distance learning courses that are available on the platform. Many realize the positive and significant change that one can bring around, but only a few take a leap of faith and work to create that change.</p>
                 <p>Rajesh Kewat had been through the worst phase of his life in 2017, when he lost everything he had, to the point of being financially broke. But, it is his perseverance and confidence that helped him take back his worth and be a much stronger individual. He is a fine example to prove that to run a business, all one needs is the will to work hard and a sharp mind to make the right decisions.</p>
                 <div class="bottom_link_close">
@@ -171,16 +171,16 @@
         <div style="position:relative"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>
         <div class="modal-content">
             <div class="modal-body">
-                <div class="popup_img"><img src="https://www.onlinelegalindia.com/images/mid-day.webp" alt="Mid Day"></div>
+                <div class="popup_img"><img src="https://www.foundida.com/images/mid-day.webp" alt="Mid Day"></div>
                 <h2>Rajesh Kewat Conferred with Businessman of the Year Award at Brands Impact NFA 2022</h2>
                 <p>Rajesh Kewat, Founder and Managing Director of the FastInfo Legal Services Pvt. Ltd. was awarded “Businessman of the Year” by renowned Bollywood actress Malaika Arora at the first edition of the National Fame Awards 2022 presented by Brands Impact in a ceremony held at one of the most opulent hotels, Vivanta New Delhi, Dwarka.</p>
-                <img src="https://www.onlinelegalindia.com/images/mid-day-banner.webp" style="width:100%;margin-bottom:20px;" alt="Rajesh Mid Day">
+                <img src="https://www.foundida.com/images/mid-day-banner.webp" style="width:100%;margin-bottom:20px;" alt="Rajesh Mid Day">
                 <p>India’s top branding company Brands Impact organized the first edition of the National Fame Awards aiming to recognize the efforts and dedication of individuals and companies that have risen to fame and have nationwide supporters/ clientele, owing to their talent and contributions to various industries.</p>
                 <p>Congratulating Mr. Kewat, Amol Monga, Founder and Director of Brands Impact said “It is a matter for pride to be honouring people like Mr. Kewat who inspire thousands of budding entrepreneurs and businessmen who wish to make it big just like him. I wish him even greater heights of success and prosperity for future"</p>
                 <p>A man with humble beginnings, Mr Rajesh Kewat is the Founder and Managing Director of FastInfo Legal Services Pvt. Ltd. He grew up in a small town named Dinhata in the Cooch Behar district of West Bengal. As it's said that adversity is a great teacher and Mr. Kewat definitely learned a lot from his days of struggle. To help run their household, he started working at a young age.</p>
                 <p>On receiving the award, Mr. Kewat said, “This is a very proud moment for me, I want to dedicate this award to each and every member of the FastInfo group, my family members and all my well-wishers without whose support, it wouldn’t have been possible for me to stand on this stage today. I might be present here today physically, receiving this award but there are hardworks of many people behind this achievement. I would also like to thank Ms. Malaika for presenting me with the award.”</p>
-                <p>He wanted to achieve big things in life and knew becoming a businessman was one way to do so. People often think that a huge investment is needed to start a business. Yet, Mr. Kewat proved everyone wrong by starting his business with only an investment of rupees 1000 and today owns a group of companies with a turnover of crores. His group of companies comprises of six brands namely Online Legal India, FastInfo Class, Online RTI Application, Innovative Bharat, OnlyDesi, and Online Class India. As per his beliefs, anyone with a passion for business can become an entrepreneur and he always derives utmost satisfaction in encouraging the youth of the country. Mr Kewat believes, “You don’t need money to build your business empire, what you need is big dreams and a sharp mind! If you got it, try it.”</p>
-                <p>An ardent social worker, he has always found a way to give back to society, be it through filing RTI applications for free as a teen to launching his own websites like Online Legal India for legal advice, and FastInfo Class for Online Spoken English classes at an affordable fee of rupees 299/month. Inspiration for this is deeply embedded in his own experiences. As a child, due to challenging financial conditions, he had to transfer from an English-medium school to Bengali- medium and from then he has faced firsthand problems arising due to the lack of fluency in spoken English. To help people from tier three cities overcome this problem he is on his newfound mission to provide Spoken English and overall personality development classes by opening up centers starting with his district Coochbehar.</p>
+                <p>He wanted to achieve big things in life and knew becoming a businessman was one way to do so. People often think that a huge investment is needed to start a business. Yet, Mr. Kewat proved everyone wrong by starting his business with only an investment of rupees 1000 and today owns a group of companies with a turnover of crores. His group of companies comprises of six brands namely Foundida, FastInfo Class, Online RTI Application, Innovative Bharat, OnlyDesi, and Online Class India. As per his beliefs, anyone with a passion for business can become an entrepreneur and he always derives utmost satisfaction in encouraging the youth of the country. Mr Kewat believes, “You don’t need money to build your business empire, what you need is big dreams and a sharp mind! If you got it, try it.”</p>
+                <p>An ardent social worker, he has always found a way to give back to society, be it through filing RTI applications for free as a teen to launching his own websites like Foundida for legal advice, and FastInfo Class for Online Spoken English classes at an affordable fee of rupees 299/month. Inspiration for this is deeply embedded in his own experiences. As a child, due to challenging financial conditions, he had to transfer from an English-medium school to Bengali- medium and from then he has faced firsthand problems arising due to the lack of fluency in spoken English. To help people from tier three cities overcome this problem he is on his newfound mission to provide Spoken English and overall personality development classes by opening up centers starting with his district Coochbehar.</p>
                 <p>Recently, he launched the Online RTI Application website absolutely free for the public to obtain expert advice on RTI filing. His main goal has always been to bridge the gap between affordability and accessibility.</p>
                 <p>A journey of a thousand miles begins with a single step, and for Mr Rajesh Kewat this is just the beginning of his journey. He will always find ways to help society and encourage entrepreneurship among the youth of India!</p>
                 <div class="bottom_link_close">
@@ -205,7 +205,7 @@
             </div>
         </div>
         <div class="title-content">
-            <p>Get Your Share Transfered at lowest fees. Online Legal India is an MCA (Ministry of Corporate Affairs) & MSME registered company in India. Our experienced team will draft & complete all the documentations on the same day.</p>
+            <p>Get Your Share Transfered at lowest fees. Foundida is an MCA (Ministry of Corporate Affairs) & MSME registered company in India. Our experienced team will draft & complete all the documentations on the same day.</p>
         </div>
     </div>
 </div>
@@ -218,10 +218,10 @@
 
         <div class="pull-left col-md-6 col-sm-12">
 
-            <form id="contact" class="oli-validate-form" action="https://www.onlinelegalindia.com/payment/submit-share-transfer.php" method="post" enctype="multipart/form-data">
+            <form id="contact" class="oli-validate-form" action="https://www.foundida.com/payment/submit-share-transfer.php" method="post" enctype="multipart/form-data">
 
                 <input type="hidden" id="gclid_field" name="gclid_field" value="">
-                <input type="hidden" id="landing_uri" name="landing_uri" value="https://www.onlinelegalindia.com/services/share-transfer/">
+                <input type="hidden" id="landing_uri" name="landing_uri" value="https://www.foundida.com/services/share-transfer/">
 
                 <h3>Need Help with Share Transfer?</h3>
 
@@ -361,8 +361,8 @@
                         </div>
                     </div>
 
-                    <img id="captcha_holder" src="https://www.onlinelegalindia.com/payment/captcha.php" alt="Captcha" />
-                    <img src="https://www.onlinelegalindia.com/images/capta.webp" id="btnrefresh" alt="Captcha" />
+                    <img id="captcha_holder" src="https://www.foundida.com/payment/captcha.php" alt="Captcha" />
+                    <img src="https://www.foundida.com/images/capta.webp" id="btnrefresh" alt="Captcha" />
                     <input type="text" name="captcha_code" id="captcha_code" class="pull-right" maxlength="4" onkeyup="this.value = this.value.replace(/[^\d]+/g, '');" placeholder="Enter the captcha here.." />
 
                     <input type="hidden" id="is_submitted" value="0">
@@ -426,7 +426,7 @@
         <div class="row">
             <div class="col-sm-12 col-md-12 margin-bottom new_center">
                 <div class="">
-                    <img src="https://www.onlinelegalindia.com/images/Google-cust 2 1.webp" alt="Google Review">
+                    <img src="https://www.foundida.com/images/Google-cust 2 1.webp" alt="Google Review">
                     <h3 style="font-size: 32px;">Customer Reviews</h3>
                 </div>
             </div>
@@ -434,7 +434,7 @@
                 <div id="reviews" class="owl-one owl-carousel">
                     <!-- <div class="item">
                         <div class="trust_reviewstrat custm_trst">
-                            <p>Online Legal India offers one of the most affordable and efficient share transfer services in the market. Their legal team was very responsive, and all my queries were resolved promptly. I’ll definitely use their services again for any legal or compliance needs.</h4>
+                            <p>Foundida offers one of the most affordable and efficient share transfer services in the market. Their legal team was very responsive, and all my queries were resolved promptly. I’ll definitely use their services again for any legal or compliance needs.</h4>
                             <h4>Abhishek Sharma</h4>
                         </div>
                     </div> -->
@@ -446,7 +446,7 @@
                     </div>
                     <!-- <div class="item">
                         <div class="trust_reviewstrat custm_trst">
-                            <p>From documentation to filing, everything was handled efficiently by the Online Legal India team. I was guided step-by-step during the share transfer process, and it felt like I had a legal expert by my side. Great customer experience!</p>
+                            <p>From documentation to filing, everything was handled efficiently by the Foundida team. I was guided step-by-step during the share transfer process, and it felt like I had a legal expert by my side. Great customer experience!</p>
                             <h4>Karan Mehta</h4>
                         </div>
                     </div> -->
@@ -608,11 +608,11 @@
             <div class="row custtmm_rww">
                 <div class="col-md-4 col-xs-4">
                     <div class="new_md_section_left">
-                        <img src="https://www.onlinelegalindia.com/images/banner/md-new3.webp" alt="Rajesh Kewat">
+                        <img src="https://www.foundida.com/images/banner/md-new3.webp" alt="Rajesh Kewat">
                     </div>
                     <div class="new_md_section_left_text">
                         <h4>Rajesh Kewat</h4>
-                        <p>The Founder & CEO of Online Legal India, Mr. Rajesh Kewat actually had the courage to sacrifice his well paid job at Oxford and turn his startup dream into a multi crore turnover company.</p>
+                        <p>The Founder & CEO of Foundida, Mr. Rajesh Kewat actually had the courage to sacrifice his well paid job at Oxford and turn his startup dream into a multi crore turnover company.</p>
                     </div>
                 </div>
                 <div class="col-md-8 col-xs-8">
@@ -620,17 +620,17 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/about-us/zeenews.webp" alt="Zee News">
+                                <img src="https://www.foundida.com/images/about-us/zeenews.webp" alt="Zee News">
                             </div>
                             <div class="nmsr_block_text">
-                                <p>Meet Rajesh Kewat, The Small Town Entrepreneur Behind Online Legal India's Success</p>
+                                <p>Meet Rajesh Kewat, The Small Town Entrepreneur Behind Foundida's Success</p>
                             </div>
 
                         </div>
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/Ted-x.webp" alt="TEDx">
+                                <img src="https://www.foundida.com/images/Ted-x.webp" alt="TEDx">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>From Rs. 2000 Salary to Multi-Crore Turnover Company | Rajesh Kewat | TEDxPradhikaran.</p>
@@ -640,7 +640,7 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/about-us/footer-forbes-logo-new.webp" alt="Forbes">
+                                <img src="https://www.foundida.com/images/about-us/footer-forbes-logo-new.webp" alt="Forbes">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>Mr. Rajesh Kewat getting featured in the special edition of Forbes India Magazine - Showstoppers 2022-23</p>
@@ -650,7 +650,7 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/Asia_One.webp" alt="Asia One">
+                                <img src="https://www.foundida.com/images/Asia_One.webp" alt="Asia One">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>Rajesh Kewat, the MD of FastInfo Legal Services Pvt Ltd, owns a movie-like story; a man who lost everything for his love & attained great success within just 500 days with his innovative business.</p>
@@ -660,7 +660,7 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/midday9999.webp" alt="Mid Day">
+                                <img src="https://www.foundida.com/images/midday9999.webp" alt="Mid Day">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>Rajesh Kewat Conferred with Businessman of the Year Award at Brands Impact NFA 2022.</p>
@@ -671,9 +671,9 @@
                             <div class="new_past_exprience">
                                 <h5>Past Experiences</h5>
                                 <div class="new_past_exprience_inner">
-                                    <img src="https://www.onlinelegalindia.com/images/oxford.webp" alt="Oxford">
-                                    <img src="https://www.onlinelegalindia.com/images/Pearson_logo.webp" alt="Pearson" class="pearson">
-                                    <img src="https://www.onlinelegalindia.com/images/educomp_logo_1.webp" alt="Educamp">
+                                    <img src="https://www.foundida.com/images/oxford.webp" alt="Oxford">
+                                    <img src="https://www.foundida.com/images/Pearson_logo.webp" alt="Pearson" class="pearson">
+                                    <img src="https://www.foundida.com/images/educomp_logo_1.webp" alt="Educamp">
                                 </div>
                             </div>
                         </div>
@@ -946,23 +946,23 @@ width:70%;
          <div class="awab_one_inner">
 
             <div class="awaboi_block">
-               <img src="https://www.onlinelegalindia.com/images/associated-tata.webp" class="tatawebp" alt="TATA">
+               <img src="https://www.foundida.com/images/associated-tata.webp" class="tatawebp" alt="TATA">
             </div>
 
             <div class="awaboi_block">
-               <img src="https://www.onlinelegalindia.com/images/associated-paytm.webp" class="" alt="Paytm">
+               <img src="https://www.foundida.com/images/associated-paytm.webp" class="" alt="Paytm">
             </div>
 
             <div class="awaboi_block awaboi_block_icici">
-               <img src="https://www.onlinelegalindia.com/images/associated-icici.webp" class="icici_bank" alt=" ICICI">
+               <img src="https://www.foundida.com/images/associated-icici.webp" class="icici_bank" alt=" ICICI">
             </div>
 
             <!-- <div class="awaboi_block">
-               <img src="https://www.onlinelegalindia.com/images/associated-flipkart.webp" class="flipkart" alt="Flipkart">
+               <img src="https://www.foundida.com/images/associated-flipkart.webp" class="flipkart" alt="Flipkart">
             </div> -->
 
            <!--  <div class="awaboi_block awaboi_block_last">
-               <img src="https://www.onlinelegalindia.com/images/associated-DBS-bank.webp" class="" alt="DBS Bank">
+               <img src="https://www.foundida.com/images/associated-DBS-bank.webp" class="" alt="DBS Bank">
             </div> -->
 
          </div>
@@ -981,15 +981,15 @@ width:70%;
                <div class="awab_one_inner2">
 
                   <div class="awaboi_block awaboi_block1">
-                     <img src="https://www.onlinelegalindia.com/images/associated-zee.webp" class="" alt="Zee News">
+                     <img src="https://www.foundida.com/images/associated-zee.webp" class="" alt="Zee News">
                   </div>
 
                   <div class="awaboi_block awaboi_block1">
-                     <img src="https://www.onlinelegalindia.com/images/Ted-x-one.webp" class="" alt="TEDx">
+                     <img src="https://www.foundida.com/images/Ted-x-one.webp" class="" alt="TEDx">
                   </div>
 
                   <div class="awaboi_block awaboi_block1">
-                     <img src="https://www.onlinelegalindia.com/images/associated-asia-one.webp" class="" alt="Asia one">
+                     <img src="https://www.foundida.com/images/associated-asia-one.webp" class="" alt="Asia one">
                   </div>
 
 
@@ -1002,11 +1002,11 @@ width:70%;
                <div class="awab_one_inner3">
 
                   <div class="awaboi_block3 ">
-                     <img src="https://www.onlinelegalindia.com/images/oli-fic-iso-certified.webp" class="oli_fic_pic oli_fic_pic999" alt="ISO Certified">
+                     <img src="https://www.foundida.com/images/oli-fic-iso-certified.webp" class="oli_fic_pic oli_fic_pic999" alt="ISO Certified">
                   </div>
 
                   <!-- <div class="awaboi_block3 ">
-                     <img src="https://www.onlinelegalindia.com/images/oli-fic-govt.-certified.webp" class="oli_fic_pic" alt="Govt. Certified">
+                     <img src="https://www.foundida.com/images/oli-fic-govt.-certified.webp" class="oli_fic_pic" alt="Govt. Certified">
                   </div> -->
 
                </div>
@@ -1163,14 +1163,14 @@ width:70%;
                 </a>
             </div>
             <div class="col-md-4 col-sm-4">
-                <a href="mailto:info@onlinelegalindia.com">
+                <a href="mailto:info@foundida.com">
                     <div class="contact_us_top_info">
                         <div>
                             <div class="con_icon_con">
                                 <img src="images/con_icon3.webp" alt="">
                             </div>
                             <h3>E-mail address</h3>
-                            <p>info@onlinelegalindia.com</p>
+                            <p>info@foundida.com</p>
                         </div>
                     </div>
                 </a>
@@ -1509,18 +1509,18 @@ width:70%;
                 <div class="card card-body">
                     <ul class="footer_links">
                         <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/private-company-registration/">Private Limited Company</a>
+                            <a href="https://www.foundida.com/services/company-registration/private-company-registration/">Private Limited Company</a>
                         </li> -->
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/private-company-registration/">Private Limited Company</a>
+                            <a href="https://www.foundida.com/services/company-registration/private-company-registration/">Private Limited Company</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/llp-partnership/">Limited
+                            <a href="https://www.foundida.com/services/company-registration/llp-partnership/">Limited
                                 Liability Partnership</a>
                         </li>
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/one-person-company-registration/">One
+                                href="https://www.foundida.com/services/company-registration/one-person-company-registration/">One
                                 Person Company</a>
                         </li>
                         <!-- <li>
@@ -1530,12 +1530,12 @@ width:70%;
                         </li> -->
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/public-limited-company/">Public
+                                href="https://www.foundida.com/services/company-registration/public-limited-company/">Public
                                 limited Company</a>
                         </li>
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/section-8-company-registration/">Section
+                                href="https://www.foundida.com/services/company-registration/section-8-company-registration/">Section
                                 8 Company</a>
                         </li>
                     </ul>
@@ -1554,35 +1554,35 @@ width:70%;
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/fssai-registration/">FSSAI [Food
+                            <a href="https://www.foundida.com/services/fssai-registration/">FSSAI [Food
                                 License]</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/fssai-renewal/">FSSAI Renewal</a>
+                            <a href="https://www.foundida.com/services/fssai-renewal/">FSSAI Renewal</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-iec-code-import-export-license/">IEC
+                            <a href="https://www.foundida.com/services/online-iec-code-import-export-license/">IEC
                                 [Import/Export Code]</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/iec-certificate-modification/">IEC
+                            <a href="https://www.foundida.com/services/iec-certificate-modification/">IEC
                                 Certificate Modification</a>
                         </li>
 
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/bis-certificate/">BIS Certificate</a>
+                            <a href="https://www.foundida.com/services/bis-certificate/">BIS Certificate</a>
                         </li>
 
 
 
                         <li>
-                            <!-- <a  href="https://www.onlinelegalindia.com/services/online-apeda-registration/">Apeda Registration</a> -->
-                            <!-- <a  href="https://www.onlinelegalindia.com/contact/">Apeda Registration</a> -->
+                            <!-- <a  href="https://www.foundida.com/services/online-apeda-registration/">Apeda Registration</a> -->
+                            <!-- <a  href="https://www.foundida.com/contact/">Apeda Registration</a> -->
                         </li>
                         <li>
 
                             <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/hard-copy-certificate/">Hard-Copy
+                            <a href="https://www.foundida.com/services/hard-copy-certificate/">Hard-Copy
                                 License</a>
                         </li> -->
 
@@ -1603,22 +1603,22 @@ width:70%;
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-registration/">TM
+                            <a href="https://www.foundida.com/services/trademark-registration/">TM
                                 Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-objection-reply/">TM
+                            <a href="https://www.foundida.com/services/trademark-objection-reply/">TM
                                 Objection</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-renewal/">TM Renewal</a>
+                            <a href="https://www.foundida.com/services/trademark-renewal/">TM Renewal</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-copyright-registration/">Copyright
+                            <a href="https://www.foundida.com/services/online-copyright-registration/">Copyright
                                 Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/iso-registration/">ISO
+                            <a href="https://www.foundida.com/services/iso-registration/">ISO
                                 Registration</a>
                         </li>
                     </ul>
@@ -1637,16 +1637,16 @@ width:70%;
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-registration/">GST Registration</a>
+                            <a href="https://www.foundida.com/services/gst-registration/">GST Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-return-filing/">GST Filing</a>
+                            <a href="https://www.foundida.com/services/gst-return-filing/">GST Filing</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-modification/">GST Modification</a>
+                            <a href="https://www.foundida.com/services/gst-modification/">GST Modification</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-cancellation/">GST Cancellation</a>
+                            <a href="https://www.foundida.com/services/gst-cancellation/">GST Cancellation</a>
                         </li>
                     </ul>
                 </div>
@@ -1664,19 +1664,19 @@ width:70%;
                 <div class="card card-body">
                     <ul class="footer_links">
                         <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/oliaccountant/">Online Accountant</a>
+                            <a href="https://www.foundida.com/services/oliaccountant/">Online Accountant</a>
                         </li> -->
                         <li>
                             <!-- <a href="">PF
                                 Registration</a> -->
-                            <a href="https://www.onlinelegalindia.com/services/online-tax-pfesi-registration/">PF-ESIC Registration</a>
+                            <a href="https://www.foundida.com/services/online-tax-pfesi-registration/">PF-ESIC Registration</a>
                         </li>
                         <li>
                             <!-- <a href="">PF Return</a> -->
-                            <a href="https://www.onlinelegalindia.com/services/online-tax-pfesi-return/">PF-ESIC Return Filing </a>
+                            <a href="https://www.foundida.com/services/online-tax-pfesi-return/">PF-ESIC Return Filing </a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-bookkeeping-service/">Online
+                            <a href="https://www.foundida.com/services/online-bookkeeping-service/">Online
                                 Bookkeeping</a>
                         </li>
 
@@ -1698,13 +1698,13 @@ width:70%;
 <div class="row">
     <div class="right_side">
         <div class="textwidget">
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/footer-logo.png" alt="logo" style="margin-left: -13px;"> -->
-            <!-- 30-12-2022_bkp<img class="footer_black_img" src="https://www.onlinelegalindia.com/images/logo6-1.svg" alt="logo" style="margin-left: -13px; width: 250px;"> -->
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/fastinfo-group.svg" alt="logo"
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/footer-logo.png" alt="logo" style="margin-left: -13px;"> -->
+            <!-- 30-12-2022_bkp<img class="footer_black_img" src="https://www.foundida.com/images/logo6-1.svg" alt="logo" style="margin-left: -13px; width: 250px;"> -->
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/fastinfo-group.svg" alt="logo"
                 style="margin-left: -13px; width: 250px;"> -->
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/Online-legal-india-republic.png" alt="logo" style="margin-left: -13px; width: 250px;"> -->
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/Online-legal-india-republic.png" alt="logo" style="margin-left: -13px; width: 250px;"> -->
             <p>
-                <strong>Online Legal India is a part of FastInfo Legal Services Pvt Ltd. Which is registered under the Companies Act, 2013.</strong>
+                <strong>Foundida is a part of FastInfo Legal Services Pvt Ltd. Which is registered under the Companies Act, 2013.</strong>
             </p>
 
         </div>
@@ -1740,20 +1740,20 @@ width:70%;
         <p class="social_title cstm_align" style="margin: 0;">Follow Us</p>
         <div class="social_contacts">
                             <div class="social_icons">
-                    <!-- <a href="https://www.facebook.com/OnlineLegalIndia/"><i class="fab fa-facebook-f"></i></a>
-                          <a href="mailto:info@onlinelegalindia.com"><i class="fab fa-google-plus-g"></i></a> -->
-                    <a href="https://www.facebook.com/OnlineLegalIndia/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/facebook.webp" alt="Facebook"></a>
+                    <!-- <a href="https://www.facebook.com/Foundida/"><i class="fab fa-facebook-f"></i></a>
+                          <a href="mailto:info@foundida.com"><i class="fab fa-google-plus-g"></i></a> -->
+                    <a href="https://www.facebook.com/Foundida/" target="_blank"><img
+                            src="https://www.foundida.com/images/facebook.webp" alt="Facebook"></a>
                     <a href="https://twitter.com/onlinelegalind" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/twitter.webp" alt="Twitter"></a>
+                            src="https://www.foundida.com/images/twitter.webp" alt="Twitter"></a>
                     <a href="https://www.linkedin.com/company/online-legal-india/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/linkedin.webp" alt="Linkedin"></a>
-                    <a href="https://www.instagram.com/online_legal_india/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/instagram.webp" alt="Instagram"></a>
-                    <a href="mailto:info@onlinelegalindia.com"><img src="https://www.onlinelegalindia.com/images/email.webp"
+                            src="https://www.foundida.com/images/linkedin.webp" alt="Linkedin"></a>
+                    <a href="https://www.instagram.com/foundida/" target="_blank"><img
+                            src="https://www.foundida.com/images/instagram.webp" alt="Instagram"></a>
+                    <a href="mailto:info@foundida.com"><img src="https://www.foundida.com/images/email.webp"
                             alt="Email"></a>
-                    <a href="https://www.youtube.com/c/OnlineLegalIndia" target="_blank"><img class="icons"
-                            src="https://www.onlinelegalindia.com/images/youtube.webp" alt="youtube icon"></a>
+                    <a href="https://www.youtube.com/c/Foundida" target="_blank"><img class="icons"
+                            src="https://www.foundida.com/images/youtube.webp" alt="youtube icon"></a>
 
 
                 </div>
@@ -1765,11 +1765,11 @@ width:70%;
 
         <div class="app_link_block_holder">
             <ul>
-                <li><a href="https://play.google.com/store/apps/details?id=onlinelegalindia.com.onlinelegalindia"
-                        target="_blank"><img src="https://www.onlinelegalindia.com/images/google-play.webp"
+                <li><a href="https://play.google.com/store/apps/details?id=foundida.com.foundida"
+                        target="_blank"><img src="https://www.foundida.com/images/google-play.webp"
                             alt="Google Play"></a></li>
                 <li><a href="https://apps.apple.com/in/app/online-legal-india/id1573385779" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/app-store.webp" alt="App Store"></a></li>
+                            src="https://www.foundida.com/images/app-store.webp" alt="App Store"></a></li>
             </ul>
         </div>
     </div>
@@ -1780,13 +1780,13 @@ width:70%;
         <div class="quick_links">
             <ul>
                 <li><a id="careers" target="_blank" href="https://www.fastinfo.com/career">Careers</a></li>
-                <li><a href="https://www.onlinelegalindia.com/contact/">Contact Us</a></li>
-                <li><a href="https://www.onlinelegalindia.com/blogs/">Blogs</a></li>
-                <!-- <li><a href="https://www.onlinelegalindia.com/customer_complain/">Report an Issue</a></li> -->
-                <li><a href="https://www.onlinelegalindia.com/news/">News</a></li>
-                <li><a href="https://www.onlinelegalindia.com/about/">About Us</a></li>
-                <li><a href="https://www.onlinelegalindia.com/press-release/">Press Release</a></li>
-                <li id="event-link"><a href="https://www.onlinelegalindia.com/services/founders-discussion-table/">Event</a></li>
+                <li><a href="https://www.foundida.com/contact/">Contact Us</a></li>
+                <li><a href="https://www.foundida.com/blogs/">Blogs</a></li>
+                <!-- <li><a href="https://www.foundida.com/customer_complain/">Report an Issue</a></li> -->
+                <li><a href="https://www.foundida.com/news/">News</a></li>
+                <li><a href="https://www.foundida.com/about/">About Us</a></li>
+                <li><a href="https://www.foundida.com/press-release/">Press Release</a></li>
+                <li id="event-link"><a href="https://www.foundida.com/services/founders-discussion-table/">Event</a></li>
             </ul>
             <span class="grievance" style="">For any grievance mail to: <a
                     href="mailto:complain@fastinfo.com">complain@fastinfo.com</a></span>
@@ -1800,10 +1800,16 @@ width:70%;
         <!-- /.container -->
     </footer>
 </section>
+
+    <!-- Redesigned Shared Components -->
+    @include('layouts.ceo_desk')
+    @include('layouts.events')
+    @include('layouts.why_us')
+
 @endsection
 
 @section('scripts')
-<script type='text/javascript' src='https://www.onlinelegalindia.com/js/main.js'></script>
+<script type='text/javascript' src='https://www.foundida.com/js/main.js'></script>
 
 <script>
     $("input[name='is_prompted_whatsapp']").on("change", function() {
@@ -1867,7 +1873,7 @@ width:70%;
                 email = $('#send_WhatsApp').find('.wa_email').val(),
                 mobile = $('#send_WhatsApp').find('.wa_mobile').val();
             $.ajax({
-                url: "https://www.onlinelegalindia.com/payment/storeWhatsApp.php",
+                url: "https://www.foundida.com/payment/storeWhatsApp.php",
                 method: 'post',
                 data: {
                     name: name,
@@ -2094,7 +2100,7 @@ width:70%;
     function setCookie(a, d, b) {
         var c = new Date;
         c.setTime(c.getTime() + 864E5 * b);
-        b = "; expires=" + c.toGMTString() + "domain=onlinelegalindia.com;path=/;SameSite=None;Secure";
+        b = "; expires=" + c.toGMTString() + "domain=foundida.com;path=/;SameSite=None;Secure";
         document.cookie = a + "=" + d + b
     }
 
@@ -2277,7 +2283,7 @@ width:70%;
     // Common sender
     function logErrorToServer(payload) {
         try {
-            $.post("https://www.onlinelegalindia.com/feed_errorlog.php", {
+            $.post("https://www.foundida.com/feed_errorlog.php", {
                 error_src: payload.type || "unknown",
                 error_desc: JSON.stringify(payload),
                 landing_page: window.location.href,

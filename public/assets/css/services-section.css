@@ -1,0 +1,381 @@
+/* =============================================
+   PREMIUM SERVICES SECTION - Foundida Index Page
+   ============================================= */
+
+:root {
+    --primary-navy: #0D1B3D;
+    --primary-emerald: #1B5E3A;
+    --emerald-light: #e8f5e9;
+    --emerald-hover: #14472b;
+    --text-dark: #1e293b;
+    --text-muted: #64748b;
+    --bg-light: #f8fafc;
+    --shadow-soft: 0 10px 30px rgba(13, 27, 61, 0.04);
+    --shadow-hover: 0 20px 40px rgba(13, 27, 61, 0.1);
+    --transition-smooth: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.fd-services-sec {
+    padding: 30px 0;
+    background: linear-gradient(180deg, #ffffff 0%, var(--bg-light) 100%);
+    position: relative;
+    overflow: hidden;
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+/* Background elements for premium aesthetic */
+.fd-services-sec::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: 
+        radial-gradient(circle at 10% 20%, rgba(27, 94, 58, 0.03) 0%, transparent 40%),
+        radial-gradient(circle at 90% 80%, rgba(13, 27, 61, 0.03) 0%, transparent 40%);
+    pointer-events: none;
+}
+
+/* Section Header */
+.fd-srvc-header {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+}
+
+.fd-srvc-badge {
+    display: inline-flex;
+    align-items: center;
+    background: var(--emerald-light);
+    color: var(--primary-emerald);
+    padding: 8px 16px;
+    border-radius: 50px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    border: 1px solid rgba(27, 94, 58, 0.1);
+}
+
+.fd-srvc-badge i {
+    margin-right: 8px;
+    font-size: 14px;
+}
+
+.fd-srvc-title {
+    font-size: 40px;
+    font-weight: 800;
+    color: var(--primary-navy) !important;
+    line-height: 1.2;
+    margin-bottom: 15px;
+}
+
+.fd-srvc-title span {
+    color: var(--primary-emerald) !important;
+    position: relative;
+    display: inline-block;
+}
+
+.fd-srvc-title span::after {
+    content: '';
+    position: absolute;
+    bottom: 4px;
+    left: 0;
+    width: 100%;
+    height: 8px;
+    background: rgba(27, 94, 58, 0.15);
+    z-index: -1;
+    border-radius: 2px;
+}
+
+.fd-srvc-subtitle {
+    font-size: 17px;
+    color: var(--text-muted) !important;
+    line-height: 1.6;
+}
+
+/* Category Filter Tabs */
+.fd-srvc-filters {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 45px;
+}
+
+.fd-filter-btn {
+    background: #ffffff;
+    border: 1px solid rgba(13, 27, 61, 0.08);
+    color: var(--primary-navy);
+    padding: 12px 24px;
+    border-radius: 50px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: var(--transition-smooth);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.03);
+}
+
+.fd-filter-btn:hover {
+    border-color: var(--primary-emerald);
+    color: var(--primary-emerald);
+    transform: translateY(-2px);
+    box-shadow: 0 10px 15px -3px rgba(27, 94, 58, 0.05);
+}
+
+.fd-filter-btn.active {
+    background: var(--primary-emerald);
+    color: #ffffff;
+    border-color: var(--primary-emerald);
+    box-shadow: 0 10px 20px -5px rgba(27, 94, 58, 0.3);
+}
+
+/* Service Grid & Cards */
+.fd-services-grid {
+    display: grid !important;
+    grid-template-columns: repeat(4, 1fr) !important;
+    gap: 30px !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+@media (max-width: 1200px) {
+    .fd-services-grid {
+        grid-template-columns: repeat(3, 1fr) !important;
+    }
+}
+
+@media (max-width: 991px) {
+    .fd-services-grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+    .fd-srvc-title {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 576px) {
+    .fd-services-grid {
+        grid-template-columns: 1fr !important;
+        gap: 20px !important;
+    }
+    .fd-services-sec {
+        padding: 60px 0;
+    }
+    .fd-srvc-title {
+        font-size: 28px;
+    }
+}
+
+/* Single Service Card */
+.fd-service-card {
+    background: #ffffff !important;
+    border-radius: 16px !important;
+    overflow: hidden !important;
+    box-shadow: var(--shadow-soft) !important;
+    border: 1px solid rgba(13, 27, 61, 0.03) !important;
+    transition: var(--transition-smooth) !important;
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100% !important;
+    position: relative !important;
+    opacity: 1;
+    visibility: visible;
+}
+
+.fd-service-card.fd-hidden {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+}
+
+/* Card Image & Overlay */
+.fd-srvc-img-wrapper {
+    position: relative;
+    overflow: hidden;
+    aspect-ratio: 16 / 10;
+    background: #f1f5f9;
+}
+
+.fd-srvc-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: var(--transition-smooth);
+}
+
+.fd-service-card:hover .fd-srvc-img {
+    transform: scale(1.08);
+}
+
+/* Dark gradient overlay on hover */
+.fd-srvc-img-wrapper::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, rgba(13, 27, 61, 0) 50%, rgba(13, 27, 61, 0.4) 100%);
+    opacity: 0.8;
+    transition: var(--transition-smooth);
+}
+
+/* Category Badge on image */
+.fd-srvc-cat-badge {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    z-index: 10;
+    background: rgba(13, 27, 61, 0.85);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    color: #ffffff;
+    padding: 6px 12px;
+    border-radius: 30px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Card Body */
+.fd-srvc-info {
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.fd-srvc-card-title {
+    font-size: 19px;
+    font-weight: 700;
+    color: var(--primary-navy) !important;
+    margin-bottom: 12px;
+    line-height: 1.4;
+    transition: var(--transition-smooth);
+}
+
+.fd-srvc-card-title a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.fd-srvc-card-title a:hover {
+    color: var(--primary-emerald);
+}
+
+.fd-srvc-desc {
+    font-size: 14px;
+    color: var(--text-muted) !important;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    flex-grow: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Speed tag e.g. "Instant Support" or "2-3 Days" */
+.fd-srvc-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--primary-emerald);
+    margin-bottom: 15px;
+    background: rgba(27, 94, 58, 0.05);
+    padding: 6px 12px;
+    border-radius: 6px;
+    width: fit-content;
+}
+
+.fd-srvc-meta i {
+    font-size: 13px;
+}
+
+/* Card Footer Action */
+.fd-srvc-action {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 15px;
+    border-top: 1px solid rgba(13, 27, 61, 0.05);
+    margin-top: auto;
+}
+
+.fd-srvc-btn {
+    display: inline-flex;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--primary-emerald) !important;
+    text-decoration: none;
+    transition: var(--transition-smooth);
+}
+
+.fd-srvc-btn i {
+    margin-left: 6px;
+    font-size: 12px;
+    transition: var(--transition-smooth);
+}
+
+.fd-service-card:hover .fd-srvc-btn {
+    color: var(--primary-emerald) !important;
+}
+
+.fd-service-card:hover .fd-srvc-btn i {
+    transform: translateX(5px);
+}
+
+/* Hover effect on card */
+.fd-service-card:hover {
+    transform: translateY(-8px) !important;
+    box-shadow: var(--shadow-hover) !important;
+    border-color: rgba(27, 94, 58, 0.15) !important;
+}
+
+/* All Services Bottom CTA */
+.fd-srvc-bottom-cta {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.fd-srvc-bottom-cta p {
+    font-size: 16px;
+    color: var(--text-dark);
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.fd-srvc-cta-btn {
+    display: inline-flex;
+    align-items: center;
+    background: var(--primary-navy);
+    color: #ffffff;
+    padding: 14px 28px;
+    border-radius: 50px;
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: var(--transition-smooth);
+    box-shadow: 0 4px 12px rgba(13, 27, 61, 0.15);
+}
+
+.fd-srvc-cta-btn:hover {
+    background: var(--primary-emerald);
+    color: #ffffff;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(27, 94, 58, 0.25);
+}
+
+.fd-srvc-cta-btn i {
+    margin-left: 8px;
+    font-size: 14px;
+}

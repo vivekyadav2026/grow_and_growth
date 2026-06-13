@@ -3,12 +3,12 @@
 @section('meta')
 <title>Annual Filing Compliance & Bookkeeping Services in India</title>
 <meta name="description" content="Stay compliant year-round with expert annual compliance filing and bookkeeping services tailored to meet regulatory requirements and keep your finances in order.">
-<link rel="canonical" href="https://www.onlinelegalindia.com/services/annual-compliance-bookkeeping/" />
+<link rel="canonical" href="https://www.foundida.com/services/annual-compliance-bookkeeping/" />
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.onlinelegalindia.com/services/annual-compliance-bookkeeping/">
-<meta property="og:image" content="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/og-afc-and-bkk-og.webp">
+<meta property="og:url" content="https://www.foundida.com/services/annual-compliance-bookkeeping/">
+<meta property="og:image" content="https://www.foundida.com/images/annual-compliance-bookkeeping/og-afc-and-bkk-og.webp">
 <meta property="og:title" content="Annual Filing Compliance & Bookkeeping Combo">
-<meta property="og:site_name" content="OnlineLegalIndia">
+<meta property="og:site_name" content="Foundida">
 <meta property="og:description" content="Reliable annual filing and bookkeeping services to ensure full compliance.">
 <meta property="og:locale" content="en-IN">
 @endsection
@@ -32,11 +32,11 @@
       border: 3px solid #d6d6d6;
    }
 </style>
-   <!--      <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/bootstrap.min.css">-->
-   <!-- <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/cut.css"> -->
-   <!-- <link rel="stylesheet" type="text/css" href="https://www.onlinelegalindia.com/css/alternative-contact-popup.css"> -->
-   <!-- <link rel="stylesheet" href="https://www.onlinelegalindia.com/css/brands.min.css"> -->
-   <!-- <link rel="stylesheet" href="https://www.onlinelegalindia.com/css/solid.min.css"> -->
+   <!--      <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/bootstrap.min.css">-->
+   <!-- <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/cut.css"> -->
+   <!-- <link rel="stylesheet" type="text/css" href="https://www.foundida.com/css/alternative-contact-popup.css"> -->
+   <!-- <link rel="stylesheet" href="https://www.foundida.com/css/brands.min.css"> -->
+   <!-- <link rel="stylesheet" href="https://www.foundida.com/css/solid.min.css"> -->
 @endsection
 
 @section('content')
@@ -60,7 +60,7 @@
       </div>
 
       <div class="col_two">
-         <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/hero-image-annual-complianccee.webp" alt="Annual Compliance Bookkeeping">
+         <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/hero-image-annual-complianccee.webp" alt="Annual Compliance Bookkeeping">
       </div>
    </div>
 
@@ -70,14 +70,14 @@
 
             <div class="col-md-3">
                <div class="one_bottom_block">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/end-to-end-compliance.webp" alt="end to end compliance">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/end-to-end-compliance.webp" alt="end to end compliance">
                   <p>End-to-End<span>Compliance</span></p>
                </div>
             </div>
 
             <div class="col-md-3">
                <div class="one_bottom_block">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/expert-bookkeeping-support.webp" alt="expert bookkeeping support">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/expert-bookkeeping-support.webp" alt="expert bookkeeping support">
                   <p>Expert Bookkeeping<span>Support</span></p>
                </div>
             </div>
@@ -85,14 +85,14 @@
 
             <div class="col-md-3">
                <div class="one_bottom_block">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/timely-roc-filing.webp" alt="timely roc filing">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/timely-roc-filing.webp" alt="timely roc filing">
                   <p>Timely ROC<span>Filing</span></p>
                </div>
             </div>
 
             <div class="col-md-3">
                <div class="one_bottom_block">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/no-penalty-assurance.webp" alt="no penalty assurance">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/no-penalty-assurance.webp" alt="no penalty assurance">
                   <p>No Penalty<span>Assurance</span></p>
                </div>
             </div>
@@ -111,9 +111,9 @@
             <div class="two_left">
                <div class="one_right">
                   <h5>Get a Callback</h5>
-                  <form class="form_one_right oli-validate-form" id="contact" action="https://www.onlinelegalindia.com/payment/submit_annual_compliances_bkk_new.php" method="post" enctype="multipart/form-data">
+                  <form class="form_one_right oli-validate-form" id="contact" action="https://www.foundida.com/payment/submit_annual_compliances_bkk_new.php" method="post" enctype="multipart/form-data">
                      <input type="hidden" id="gclid_field" name="gclid_field" value="">
-                     <input type="hidden" id="landing_uri" name="landing_uri" value="https://www.onlinelegalindia.com/services/annual-compliance-bookkeeping/">
+                     <input type="hidden" id="landing_uri" name="landing_uri" value="https://www.foundida.com/services/annual-compliance-bookkeeping/">
                      <div id="first_div" class="from_first_section">
 
                         <div class="form-group">
@@ -167,8 +167,8 @@
                         </div>
                         <div class="form-group">
                            <fieldset class="new_fieldset">
-                              <img id="captcha_holder" src="https://www.onlinelegalindia.com/payment/captcha.php" alt="captcha">
-                              <img src="https://www.onlinelegalindia.com/images/capta.webp" id="btnrefresh" alt="captcha">
+                              <img id="captcha_holder" src="https://www.foundida.com/payment/captcha.php" alt="captcha">
+                              <img src="https://www.foundida.com/images/capta.webp" id="btnrefresh" alt="captcha">
                               <input type="text" name="captcha_code" id="captcha_code" class="pull-right valid" maxlength="4" onkeyup="this.value = this.value.replace(/[^\d]+/g, '');" placeholder="Enter the captcha">
                            </fieldset>
                         </div>
@@ -288,7 +288,7 @@
       <div class="col-md-6">
          <div class="two_right">
             <h2>Choose <span>AFC+BKK Package</span> & Stay Compliant</h2>
-            <p>At Online Legal India, we understand the critical importance of maintaining accurate financial records and adhering to statutory compliance requirements. Our integrated Annual Filing Compliance and Bookkeeping (AFC+BKK) package is designed to ensure your business stays compliant, financially organized, and audit-ready.</p>
+            <p>At Foundida, we understand the critical importance of maintaining accurate financial records and adhering to statutory compliance requirements. Our integrated Annual Filing Compliance and Bookkeeping (AFC+BKK) package is designed to ensure your business stays compliant, financially organized, and audit-ready.</p>
          </div>
       </div>
    </div>
@@ -305,7 +305,7 @@
 
             <div class="item">
                <div class="trust_reviewstrat">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/accurate-financial-statements.webp" alt="accurate financial statements">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/accurate-financial-statements.webp" alt="accurate financial statements">
                   <h3>Accurate Financial Statements</h3>
                   <p>Ensure precise Balance Sheets and P&L accounts by maintaining updated and organized books of accounts throughout the year, eliminating the need to rely solely on bank statements.</p>
                </div>
@@ -314,7 +314,7 @@
 
             <div class="item">
                <div class="trust_reviewstrat">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/legal-compliance-made-easy.webp" alt="legal compliance made easy">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/legal-compliance-made-easy.webp" alt="legal compliance made easy">
                   <h3>Legal Compliance Made Easy</h3>
                   <p>Easily meet mandatory requirements under the Income Tax Act by maintaining complete financial records for at least 7 years, reducing the risk of legal complications or scrutiny.</p>
                </div>
@@ -322,7 +322,7 @@
 
             <div class="item">
                <div class="trust_reviewstrat">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/audit-ready-document.webp" alt="audit ready document">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/audit-ready-document.webp" alt="audit ready document">
                   <h3>Audit-Ready Documentation</h3>
                   <p>Avoid auditor objections and delays by maintaining well-documented, verifiable financial records that align with professional audit standards and compliance checks.</p>
                </div>
@@ -331,7 +331,7 @@
 
             <div class="item">
                <div class="trust_reviewstrat">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/faster-consistent-fillings.webp" alt="faster consistent fillings">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/faster-consistent-fillings.webp" alt="faster consistent fillings">
                   <h3>Faster, Consistent Filings</h3>
                   <p>Enable timely, accurate filing of both ITR and GST returns by ensuring that your financial data is consistent, error-free, and readily available when needed.</p>
                </div>
@@ -340,7 +340,7 @@
 
             <div class="item">
                <div class="trust_reviewstrat">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/all-in-one.webp" alt="all in one">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/all-in-one.webp" alt="all in one">
                   <h3>All-in-One Solution</h3>
                   <p>Benefit from a bundled service that includes annual ROC compliance and full-year bookkeeping, simplifying financial management while saving time, money, and effort.</p>
                </div>
@@ -359,7 +359,7 @@
          <div class="row">
             <div class="col-md-8">
                <div class="four_inner_left">
-                  <p>With Online Legal India’s AFC + BKK package, experience peace of mind and professional-grade financial management—tailored for businesses that prioritize accuracy, growth, and compliance.</p>
+                  <p>With Foundida’s AFC + BKK package, experience peace of mind and professional-grade financial management—tailored for businesses that prioritize accuracy, growth, and compliance.</p>
                   <div class="four_inner_left_button">
                      <button type="button" class="btn get_started_button get_started_button2 apply_now_green">Start AFC & BKK Today</button>
                   </div>
@@ -367,7 +367,7 @@
             </div>
             <div class="col-md-4">
                <div class="four_inner_right">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/file.webp" alt="file">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/file.webp" alt="file">
                </div>
             </div>
          </div>
@@ -643,7 +643,7 @@
 
             <div class="col-md-4">
                <div class="seven_row_block">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/legal-compliance.webp" alt="legal compliance">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/legal-compliance.webp" alt="legal compliance">
                   <h6>Regularity Compliance</h6>
                   <p>Stay compliant with regulatory obligations to avoid penalties and build trust with stakeholders through a proactive approach.</p>
                </div>
@@ -651,7 +651,7 @@
 
             <div class="col-md-4">
                <div class="seven_row_block">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/financial-clarity.webp" alt="financial clarity">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/financial-clarity.webp" alt="financial clarity">
                   <h6>Financial Clarity</h6>
                   <p>Understand your business’s financial health with accurate records—supporting better decisions, planning, and growth.</p>
                </div>
@@ -659,7 +659,7 @@
 
             <div class="col-md-4">
                <div class="seven_row_block">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/audit-preparednesswebp.webp" alt="audit">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/audit-preparednesswebp.webp" alt="audit">
                   <h6>Audit Preparedness</h6>
                   <p>Ensure smooth audits with organized records that reflect transparency, reduce disruptions, and confirm accountability.</p>
                </div>
@@ -667,7 +667,7 @@
 
             <div class="col-md-4 col-md-offset-2">
                <div class="seven_row_block">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/time-efficiency.webp" alt="time efficiency">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/time-efficiency.webp" alt="time efficiency">
                   <h6>Time Efficiency</h6>
                   <p>Save time through streamlined processes and automation, letting you focus on core business functions and productivity.</p>
                </div>
@@ -675,7 +675,7 @@
 
             <div class="col-md-4">
                <div class="seven_row_block">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/enhanced-credibility.webp" alt="enhanced credibility">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/enhanced-credibility.webp" alt="enhanced credibility">
                   <h6>Enhanced Credibility</h6>
                   <p>Impress stakeholders with professional documentation that boosts your credibility and fosters long-term relationships.</p>
                </div>
@@ -690,7 +690,7 @@
 <section class="eight common_class">
    <div class="container">
       <div class="eight_inner">
-         <p>With Online Legal India’s AFC + BKK package, experience peace of mind, legal safety, and professional-grade financial management—tailored for businesses that prioritize accuracy, growth, and compliance.</p>
+         <p>With Foundida’s AFC + BKK package, experience peace of mind, legal safety, and professional-grade financial management—tailored for businesses that prioritize accuracy, growth, and compliance.</p>
          <div class="four_inner_left_button four_inner_left_button99">
             <button type="button" class="btn get_started_button get_started_button2  apply_now_green">Start AFC &amp; BKK Today</button>
          </div>
@@ -704,7 +704,7 @@
          <div class="row">
             <div class="col-md-5">
                <div class="nine_inner_section_left">
-                  <img src="https://www.onlinelegalindia.com/images/annual-compliance-bookkeeping/why-choose-us.webp" alt="Why Choose Us">
+                  <img src="https://www.foundida.com/images/annual-compliance-bookkeeping/why-choose-us.webp" alt="Why Choose Us">
                </div>
             </div>
             <div class="col-md-7">
@@ -748,11 +748,11 @@
             <div class="row custtmm_rww">
                 <div class="col-md-4 col-xs-4">
                     <div class="new_md_section_left">
-                        <img src="https://www.onlinelegalindia.com/images/banner/md-new3.webp" alt="Rajesh Kewat">
+                        <img src="https://www.foundida.com/images/banner/md-new3.webp" alt="Rajesh Kewat">
                     </div>
                     <div class="new_md_section_left_text">
                         <h4>Rajesh Kewat</h4>
-                        <p>The Founder & CEO of Online Legal India, Mr. Rajesh Kewat actually had the courage to sacrifice his well paid job at Oxford and turn his startup dream into a multi crore turnover company.</p>
+                        <p>The Founder & CEO of Foundida, Mr. Rajesh Kewat actually had the courage to sacrifice his well paid job at Oxford and turn his startup dream into a multi crore turnover company.</p>
                     </div>
                 </div>
                 <div class="col-md-8 col-xs-8">
@@ -760,17 +760,17 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/about-us/zeenews.webp" alt="Zee News">
+                                <img src="https://www.foundida.com/images/about-us/zeenews.webp" alt="Zee News">
                             </div>
                             <div class="nmsr_block_text">
-                                <p>Meet Rajesh Kewat, The Small Town Entrepreneur Behind Online Legal India's Success</p>
+                                <p>Meet Rajesh Kewat, The Small Town Entrepreneur Behind Foundida's Success</p>
                             </div>
 
                         </div>
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/Ted-x.webp" alt="TEDx">
+                                <img src="https://www.foundida.com/images/Ted-x.webp" alt="TEDx">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>From Rs. 2000 Salary to Multi-Crore Turnover Company | Rajesh Kewat | TEDxPradhikaran.</p>
@@ -780,7 +780,7 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/about-us/footer-forbes-logo-new.webp" alt="Forbes">
+                                <img src="https://www.foundida.com/images/about-us/footer-forbes-logo-new.webp" alt="Forbes">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>Mr. Rajesh Kewat getting featured in the special edition of Forbes India Magazine - Showstoppers 2022-23</p>
@@ -790,7 +790,7 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/Asia_One.webp" alt="Asia One">
+                                <img src="https://www.foundida.com/images/Asia_One.webp" alt="Asia One">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>Rajesh Kewat, the MD of FastInfo Legal Services Pvt Ltd, owns a movie-like story; a man who lost everything for his love & attained great success within just 500 days with his innovative business.</p>
@@ -800,7 +800,7 @@
 
                         <div class="nmsr_block">
                             <div class="nmsr_block_img">
-                                <img src="https://www.onlinelegalindia.com/images/midday9999.webp" alt="Mid Day">
+                                <img src="https://www.foundida.com/images/midday9999.webp" alt="Mid Day">
                             </div>
                             <div class="nmsr_block_text">
                                 <p>Rajesh Kewat Conferred with Businessman of the Year Award at Brands Impact NFA 2022.</p>
@@ -811,9 +811,9 @@
                             <div class="new_past_exprience">
                                 <h5>Past Experiences</h5>
                                 <div class="new_past_exprience_inner">
-                                    <img src="https://www.onlinelegalindia.com/images/oxford.webp" alt="Oxford">
-                                    <img src="https://www.onlinelegalindia.com/images/Pearson_logo.webp" alt="Pearson" class="pearson">
-                                    <img src="https://www.onlinelegalindia.com/images/educomp_logo_1.webp" alt="Educamp">
+                                    <img src="https://www.foundida.com/images/oxford.webp" alt="Oxford">
+                                    <img src="https://www.foundida.com/images/Pearson_logo.webp" alt="Pearson" class="pearson">
+                                    <img src="https://www.foundida.com/images/educomp_logo_1.webp" alt="Educamp">
                                 </div>
                             </div>
                         </div>
@@ -968,7 +968,7 @@
                </div>
                <div id="collapseEight" class="panel-collapse panel_collapse_ten collapse">
                   <div class="panel-body panel_body_ten">
-                     <p>Yes, outsourcing to experts like Online Legal India ensures professional recordkeeping, timely updates, and reduced overhead costs for growing businesses.</p>
+                     <p>Yes, outsourcing to experts like Foundida ensures professional recordkeeping, timely updates, and reduced overhead costs for growing businesses.</p>
                   </div>
                </div>
             </div>
@@ -992,7 +992,7 @@
                <div class="panel-heading panel_heading_ten">
                   <h4 class="panel-title panel_title_ten">
                      <a class="accordion-toggle accordion_toggle_ten" data-toggle="collapse" data-parent="#accordion" href="#collapseTen">
-                        How can Online Legal India help?
+                        How can Foundida help?
                      </a>
                   </h4>
                </div>
@@ -1318,18 +1318,18 @@
                 <div class="card card-body">
                     <ul class="footer_links">
                         <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/private-company-registration/">Private Limited Company</a>
+                            <a href="https://www.foundida.com/services/company-registration/private-company-registration/">Private Limited Company</a>
                         </li> -->
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/private-company-registration/">Private Limited Company</a>
+                            <a href="https://www.foundida.com/services/company-registration/private-company-registration/">Private Limited Company</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/company-registration/llp-partnership/">Limited
+                            <a href="https://www.foundida.com/services/company-registration/llp-partnership/">Limited
                                 Liability Partnership</a>
                         </li>
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/one-person-company-registration/">One
+                                href="https://www.foundida.com/services/company-registration/one-person-company-registration/">One
                                 Person Company</a>
                         </li>
                         <!-- <li>
@@ -1339,12 +1339,12 @@
                         </li> -->
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/public-limited-company/">Public
+                                href="https://www.foundida.com/services/company-registration/public-limited-company/">Public
                                 limited Company</a>
                         </li>
                         <li>
                             <a
-                                href="https://www.onlinelegalindia.com/services/company-registration/section-8-company-registration/">Section
+                                href="https://www.foundida.com/services/company-registration/section-8-company-registration/">Section
                                 8 Company</a>
                         </li>
                     </ul>
@@ -1363,35 +1363,35 @@
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/fssai-registration/">FSSAI [Food
+                            <a href="https://www.foundida.com/services/fssai-registration/">FSSAI [Food
                                 License]</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/fssai-renewal/">FSSAI Renewal</a>
+                            <a href="https://www.foundida.com/services/fssai-renewal/">FSSAI Renewal</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-iec-code-import-export-license/">IEC
+                            <a href="https://www.foundida.com/services/online-iec-code-import-export-license/">IEC
                                 [Import/Export Code]</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/iec-certificate-modification/">IEC
+                            <a href="https://www.foundida.com/services/iec-certificate-modification/">IEC
                                 Certificate Modification</a>
                         </li>
 
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/bis-certificate/">BIS Certificate</a>
+                            <a href="https://www.foundida.com/services/bis-certificate/">BIS Certificate</a>
                         </li>
 
 
 
                         <li>
-                            <!-- <a  href="https://www.onlinelegalindia.com/services/online-apeda-registration/">Apeda Registration</a> -->
-                            <!-- <a  href="https://www.onlinelegalindia.com/contact/">Apeda Registration</a> -->
+                            <!-- <a  href="https://www.foundida.com/services/online-apeda-registration/">Apeda Registration</a> -->
+                            <!-- <a  href="https://www.foundida.com/contact/">Apeda Registration</a> -->
                         </li>
                         <li>
 
                             <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/hard-copy-certificate/">Hard-Copy
+                            <a href="https://www.foundida.com/services/hard-copy-certificate/">Hard-Copy
                                 License</a>
                         </li> -->
 
@@ -1412,22 +1412,22 @@
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-registration/">TM
+                            <a href="https://www.foundida.com/services/trademark-registration/">TM
                                 Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-objection-reply/">TM
+                            <a href="https://www.foundida.com/services/trademark-objection-reply/">TM
                                 Objection</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/trademark-renewal/">TM Renewal</a>
+                            <a href="https://www.foundida.com/services/trademark-renewal/">TM Renewal</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-copyright-registration/">Copyright
+                            <a href="https://www.foundida.com/services/online-copyright-registration/">Copyright
                                 Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/iso-registration/">ISO
+                            <a href="https://www.foundida.com/services/iso-registration/">ISO
                                 Registration</a>
                         </li>
                     </ul>
@@ -1446,16 +1446,16 @@
                 <div class="card card-body">
                     <ul class="footer_links">
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-registration/">GST Registration</a>
+                            <a href="https://www.foundida.com/services/gst-registration/">GST Registration</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-return-filing/">GST Filing</a>
+                            <a href="https://www.foundida.com/services/gst-return-filing/">GST Filing</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-modification/">GST Modification</a>
+                            <a href="https://www.foundida.com/services/gst-modification/">GST Modification</a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/gst-cancellation/">GST Cancellation</a>
+                            <a href="https://www.foundida.com/services/gst-cancellation/">GST Cancellation</a>
                         </li>
                     </ul>
                 </div>
@@ -1473,19 +1473,19 @@
                 <div class="card card-body">
                     <ul class="footer_links">
                         <!-- <li>
-                            <a href="https://www.onlinelegalindia.com/services/oliaccountant/">Online Accountant</a>
+                            <a href="https://www.foundida.com/services/oliaccountant/">Online Accountant</a>
                         </li> -->
                         <li>
                             <!-- <a href="">PF
                                 Registration</a> -->
-                            <a href="https://www.onlinelegalindia.com/services/online-tax-pfesi-registration/">PF-ESIC Registration</a>
+                            <a href="https://www.foundida.com/services/online-tax-pfesi-registration/">PF-ESIC Registration</a>
                         </li>
                         <li>
                             <!-- <a href="">PF Return</a> -->
-                            <a href="https://www.onlinelegalindia.com/services/online-tax-pfesi-return/">PF-ESIC Return Filing </a>
+                            <a href="https://www.foundida.com/services/online-tax-pfesi-return/">PF-ESIC Return Filing </a>
                         </li>
                         <li>
-                            <a href="https://www.onlinelegalindia.com/services/online-bookkeeping-service/">Online
+                            <a href="https://www.foundida.com/services/online-bookkeeping-service/">Online
                                 Bookkeeping</a>
                         </li>
 
@@ -1507,13 +1507,13 @@
 <div class="row">
     <div class="right_side">
         <div class="textwidget">
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/footer-logo.png" alt="logo" style="margin-left: -13px;"> -->
-            <!-- 30-12-2022_bkp<img class="footer_black_img" src="https://www.onlinelegalindia.com/images/logo6-1.svg" alt="logo" style="margin-left: -13px; width: 250px;"> -->
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/fastinfo-group.svg" alt="logo"
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/footer-logo.png" alt="logo" style="margin-left: -13px;"> -->
+            <!-- 30-12-2022_bkp<img class="footer_black_img" src="https://www.foundida.com/images/logo6-1.svg" alt="logo" style="margin-left: -13px; width: 250px;"> -->
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/fastinfo-group.svg" alt="logo"
                 style="margin-left: -13px; width: 250px;"> -->
-            <!-- <img class="footer_black_img" src="https://www.onlinelegalindia.com/images/Online-legal-india-republic.png" alt="logo" style="margin-left: -13px; width: 250px;"> -->
+            <!-- <img class="footer_black_img" src="https://www.foundida.com/images/Online-legal-india-republic.png" alt="logo" style="margin-left: -13px; width: 250px;"> -->
             <p>
-                <strong>Online Legal India is a part of FastInfo Legal Services Pvt Ltd. Which is registered under the Companies Act, 2013.</strong>
+                <strong>Foundida is a part of FastInfo Legal Services Pvt Ltd. Which is registered under the Companies Act, 2013.</strong>
             </p>
 
         </div>
@@ -1549,20 +1549,20 @@
         <p class="social_title cstm_align" style="margin: 0;">Follow Us</p>
         <div class="social_contacts">
                             <div class="social_icons">
-                    <!-- <a href="https://www.facebook.com/OnlineLegalIndia/"><i class="fab fa-facebook-f"></i></a>
-                          <a href="mailto:info@onlinelegalindia.com"><i class="fab fa-google-plus-g"></i></a> -->
-                    <a href="https://www.facebook.com/OnlineLegalIndia/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/facebook.webp" alt="Facebook"></a>
+                    <!-- <a href="https://www.facebook.com/Foundida/"><i class="fab fa-facebook-f"></i></a>
+                          <a href="mailto:info@foundida.com"><i class="fab fa-google-plus-g"></i></a> -->
+                    <a href="https://www.facebook.com/Foundida/" target="_blank"><img
+                            src="https://www.foundida.com/images/facebook.webp" alt="Facebook"></a>
                     <a href="https://twitter.com/onlinelegalind" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/twitter.webp" alt="Twitter"></a>
+                            src="https://www.foundida.com/images/twitter.webp" alt="Twitter"></a>
                     <a href="https://www.linkedin.com/company/online-legal-india/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/linkedin.webp" alt="Linkedin"></a>
-                    <a href="https://www.instagram.com/online_legal_india/" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/instagram.webp" alt="Instagram"></a>
-                    <a href="mailto:info@onlinelegalindia.com"><img src="https://www.onlinelegalindia.com/images/email.webp"
+                            src="https://www.foundida.com/images/linkedin.webp" alt="Linkedin"></a>
+                    <a href="https://www.instagram.com/foundida/" target="_blank"><img
+                            src="https://www.foundida.com/images/instagram.webp" alt="Instagram"></a>
+                    <a href="mailto:info@foundida.com"><img src="https://www.foundida.com/images/email.webp"
                             alt="Email"></a>
-                    <a href="https://www.youtube.com/c/OnlineLegalIndia" target="_blank"><img class="icons"
-                            src="https://www.onlinelegalindia.com/images/youtube.webp" alt="youtube icon"></a>
+                    <a href="https://www.youtube.com/c/Foundida" target="_blank"><img class="icons"
+                            src="https://www.foundida.com/images/youtube.webp" alt="youtube icon"></a>
 
 
                 </div>
@@ -1574,11 +1574,11 @@
 
         <div class="app_link_block_holder">
             <ul>
-                <li><a href="https://play.google.com/store/apps/details?id=onlinelegalindia.com.onlinelegalindia"
-                        target="_blank"><img src="https://www.onlinelegalindia.com/images/google-play.webp"
+                <li><a href="https://play.google.com/store/apps/details?id=foundida.com.foundida"
+                        target="_blank"><img src="https://www.foundida.com/images/google-play.webp"
                             alt="Google Play"></a></li>
                 <li><a href="https://apps.apple.com/in/app/online-legal-india/id1573385779" target="_blank"><img
-                            src="https://www.onlinelegalindia.com/images/app-store.webp" alt="App Store"></a></li>
+                            src="https://www.foundida.com/images/app-store.webp" alt="App Store"></a></li>
             </ul>
         </div>
     </div>
@@ -1589,13 +1589,13 @@
         <div class="quick_links">
             <ul>
                 <li><a id="careers" target="_blank" href="https://www.fastinfo.com/career">Careers</a></li>
-                <li><a href="https://www.onlinelegalindia.com/contact/">Contact Us</a></li>
-                <li><a href="https://www.onlinelegalindia.com/blogs/">Blogs</a></li>
-                <!-- <li><a href="https://www.onlinelegalindia.com/customer_complain/">Report an Issue</a></li> -->
-                <li><a href="https://www.onlinelegalindia.com/news/">News</a></li>
-                <li><a href="https://www.onlinelegalindia.com/about/">About Us</a></li>
-                <li><a href="https://www.onlinelegalindia.com/press-release/">Press Release</a></li>
-                <li id="event-link"><a href="https://www.onlinelegalindia.com/services/founders-discussion-table/">Event</a></li>
+                <li><a href="https://www.foundida.com/contact/">Contact Us</a></li>
+                <li><a href="https://www.foundida.com/blogs/">Blogs</a></li>
+                <!-- <li><a href="https://www.foundida.com/customer_complain/">Report an Issue</a></li> -->
+                <li><a href="https://www.foundida.com/news/">News</a></li>
+                <li><a href="https://www.foundida.com/about/">About Us</a></li>
+                <li><a href="https://www.foundida.com/press-release/">Press Release</a></li>
+                <li id="event-link"><a href="https://www.foundida.com/services/founders-discussion-table/">Event</a></li>
             </ul>
             <span class="grievance" style="">For any grievance mail to: <a
                     href="mailto:complain@fastinfo.com">complain@fastinfo.com</a></span>
@@ -1609,10 +1609,16 @@
         <!-- /.container -->
     </footer>
 </section>
+
+    <!-- Redesigned Shared Components -->
+    @include('layouts.ceo_desk')
+    @include('layouts.events')
+    @include('layouts.why_us')
+
 @endsection
 
 @section('scripts')
-<script type='text/javascript' src='https://www.onlinelegalindia.com/js/main.js'></script>
+<script type='text/javascript' src='https://www.foundida.com/js/main.js'></script>
 
 <script>
     $("input[name='is_prompted_whatsapp']").on("change", function() {
@@ -1676,7 +1682,7 @@
                 email = $('#send_WhatsApp').find('.wa_email').val(),
                 mobile = $('#send_WhatsApp').find('.wa_mobile').val();
             $.ajax({
-                url: "https://www.onlinelegalindia.com/payment/storeWhatsApp.php",
+                url: "https://www.foundida.com/payment/storeWhatsApp.php",
                 method: 'post',
                 data: {
                     name: name,
@@ -1903,7 +1909,7 @@
     function setCookie(a, d, b) {
         var c = new Date;
         c.setTime(c.getTime() + 864E5 * b);
-        b = "; expires=" + c.toGMTString() + "domain=onlinelegalindia.com;path=/;SameSite=None;Secure";
+        b = "; expires=" + c.toGMTString() + "domain=foundida.com;path=/;SameSite=None;Secure";
         document.cookie = a + "=" + d + b
     }
 
@@ -2086,7 +2092,7 @@
     // Common sender
     function logErrorToServer(payload) {
         try {
-            $.post("https://www.onlinelegalindia.com/feed_errorlog.php", {
+            $.post("https://www.foundida.com/feed_errorlog.php", {
                 error_src: payload.type || "unknown",
                 error_desc: JSON.stringify(payload),
                 landing_page: window.location.href,
@@ -2314,7 +2320,7 @@
                      success: function(data) {
                         if (data.success) {
                            fbq('track', 'Lead');
-                           // window.location.href = "https://www.onlinelegalindia.com/payment/payment-lobby.php?oli-id=" + data.oliid;
+                           // window.location.href = "https://www.foundida.com/payment/payment-lobby.php?oli-id=" + data.oliid;
                            $('#oliid').val(data.oliid);
                            $('#second_div').show();
                            $('#first_div').hide();

@@ -46,32 +46,41 @@
    <div id="mode_box"></div>
 
    <section id="topheader">
+      {{-- Scoped style: Highest priority, loaded synchronously with HTML --}}
+      <style>
+         #topheader, #topheader * { color: #fff !important; }
+         #topheader { background-color: #0D1B3D !important; }
+         #topheader a:hover, #topheader .socila a:hover { color: #1B5E3A !important; }
+      </style>
       <div class="container">
          <div class="row">
             <div class="col-md-12 col-sm-12">
                <div class="pull-left iso"><img src="{{ asset('assets/images/startupindia.webp') }}" alt="Startup India"></div>
                <div class="pull-left contact">
-                  <a class="mob_num" style="cursor:pointer" href="tel:08069029400" onclick="gtagevent();"><span class="top-mobile"><i class="fa fa-phone"></i></span><b>+91 87505 30252</b></a>
-
-                  <a class="mob_email" style="cursor:pointer" href="mailto:info@Foundida.com"><span class="top-mobile"><i class="fa fa-envelope"></i></span>
-                     <b>info@Foundida.com</b></a>
+                  <a class="mob_num" style="cursor:pointer; color:#fff !important;" href="tel:08069029400" onclick="gtagevent();">
+                     <span class="top-mobile" style="color:#fff !important;"><i class="fa fa-phone" style="color:#fff !important;"></i></span>
+                     <b style="color:#fff !important;">+91 87505 30252</b>
+                  </a>
+                  <a class="mob_email" style="cursor:pointer; color:#fff !important;" href="mailto:info@Foundida.com">
+                     <span class="top-mobile" style="color:#fff !important;"><i class="fa fa-envelope" style="color:#fff !important;"></i></span>
+                     <b style="color:#fff !important;">info@Foundida.com</b>
+                  </a>
                </div>
-                              <!-- TrustBox widget - Micro Review Count -->
-                              <!-- End TrustBox widget -->
                <div class="pull-right socila">
-                  <a href="https://www.facebook.com/Foundida/" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                  <a href="https://twitter.com/onlinelegalind" target="_blank"><i class="fab fa-twitter"></i></a>
-                  <a href="https://www.instagram.com/online_legal_india/" target="_blank"><i class="fab fa-instagram"></i></a>
-                  <a href="https://www.linkedin.com/company/online-legal-india/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                  <a href="https://www.youtube.com/c/Foundida" target="_blank"><i class="fab fa-youtube"></i></a>
+                  <a href="https://www.facebook.com/Foundida/" target="_blank" style="color:rgba(255,255,255,0.85) !important;"><i class="fab fa-facebook-f" style="color:rgba(255,255,255,0.85) !important;"></i></a>
+                  <a href="https://twitter.com/onlinelegalind" target="_blank" style="color:rgba(255,255,255,0.85) !important;"><i class="fab fa-twitter" style="color:rgba(255,255,255,0.85) !important;"></i></a>
+                  <a href="https://www.instagram.com/foundida/" target="_blank" style="color:rgba(255,255,255,0.85) !important;"><i class="fab fa-instagram" style="color:rgba(255,255,255,0.85) !important;"></i></a>
+                  <a href="https://www.linkedin.com/company/online-legal-india/" target="_blank" style="color:rgba(255,255,255,0.85) !important;"><i class="fab fa-linkedin-in" style="color:rgba(255,255,255,0.85) !important;"></i></a>
+                  <a href="https://www.youtube.com/c/Foundida" target="_blank" style="color:rgba(255,255,255,0.85) !important;"><i class="fab fa-youtube" style="color:rgba(255,255,255,0.85) !important;"></i></a>
                </div>
                <div class="pull-right user_login">
-                  <h4><a href="https://www.Foundida.in/customers/login"><b>Already registered? Login now</b></a></h4>
+                  <h4><a href="https://www.Foundida.in/customers/login" style="color:#fff !important;"><b style="color:#fff !important;">Already registered? Login now</b></a></h4>
                </div>
             </div>
          </div>
       </div>
    </section>
+
 
    <section class="new_year_marquee_tag_section" style="display:none;">
       <div class="container">

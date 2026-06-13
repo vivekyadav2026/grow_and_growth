@@ -35,25 +35,71 @@ body {
     border-color: var(--primary-emerald-hover) !important;
 }
 
-.text-primary, a, h1, h2, h3, h4, h5, h6, .text-blue, .text-orange, .text-green {
+/* Only apply navy to non-header text elements */
+.text-primary, .text-blue, .text-orange, .text-green {
     color: var(--primary-navy);
 }
 
-a:hover {
+/* Only apply navy to links OUTSIDE the header/footer */
+body a:not(#topheader a):not(header a):not(footer a) {
+    /* color: var(--primary-navy); */
+}
+
+body a:not(#topheader a):not(header a):not(footer a):hover {
     color: var(--primary-emerald);
 }
 
-/* Header & Footer specifically */
-header, footer, .top-header, .footer-area {
+/* ============================================
+   TOP HEADER BAR — FULLY HARDCODED WHITE TEXT
+   (Overrides everything including Bootstrap)
+   ============================================ */
+section#topheader,
+section#topheader .col-md-12,
+section#topheader .container {
+    background-color: #0D1B3D !important;
+    color: #ffffff !important;
+}
+
+/* Every text node, span, b, i inside topheader */
+section#topheader *:not(img) {
+    color: #ffffff !important;
+}
+
+/* Links specifically */
+section#topheader a,
+section#topheader a b,
+section#topheader a span,
+section#topheader .contact a,
+section#topheader .user_login a,
+section#topheader .user_login h4 a {
+    color: #ffffff !important;
+    text-decoration: none !important;
+}
+
+/* Social icons */
+section#topheader .socila a,
+section#topheader .socila i,
+section#topheader .socila .fab {
+    color: rgba(255, 255, 255, 0.85) !important;
+}
+
+/* Hover states */
+section#topheader a:hover,
+section#topheader .socila a:hover,
+section#topheader .contact a:hover,
+section#topheader .user_login h4 a:hover {
+    color: #1B5E3A !important;
+    text-decoration: none !important;
+}
+
+/* Footer */
+footer, .footer-area {
     background-color: var(--primary-navy) !important;
     color: #fff !important;
 }
-header a, footer a, .top-header a, .footer-area a {
-    color: #fff !important;
-}
-header a:hover, footer a:hover, .top-header a:hover, .footer-area a:hover {
-    color: var(--primary-emerald) !important;
-}
+footer a, .footer-area a { color: #fff !important; }
+footer a:hover, .footer-area a:hover { color: var(--primary-emerald) !important; }
+
 
 /* -------------------------------------
    Modern Card & Box Design Improvements

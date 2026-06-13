@@ -70,9 +70,36 @@ window.onscroll = function () {
 };
 
 function topheaderscroll() {
+  var topHeader = document.getElementById("topheader");
+  var myHeader = document.getElementById("myHeader");
+
+  if (!topHeader || !myHeader) return;
+
+  var topHeaderHeight = topHeader.offsetHeight;
+
   if (document.body.scrollTop > 15 || document.documentElement.scrollTop > 15) {
-    document.getElementById("myHeader").style.position = "fixed";
+    // Stick BOTH headers to the top as a combined fixed bar
+    topHeader.style.position = "fixed";
+    topHeader.style.top = "0";
+    topHeader.style.left = "0";
+    topHeader.style.width = "100%";
+    topHeader.style.zIndex = "100001";
+
+    myHeader.style.position = "fixed";
+    myHeader.style.top = topHeaderHeight + "px"; // Sit below the topheader
+    myHeader.style.left = "0";
+    myHeader.style.width = "100%";
+    myHeader.style.zIndex = "100000";
   } else {
-    document.getElementById("myHeader").style.position = "relative";
+    // Release both back to normal flow
+    topHeader.style.position = "relative";
+    topHeader.style.top = "";
+    topHeader.style.width = "";
+    topHeader.style.zIndex = "";
+
+    myHeader.style.position = "relative";
+    myHeader.style.top = "";
+    myHeader.style.width = "";
+    myHeader.style.zIndex = "";
   }
 }
